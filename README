@@ -1,0 +1,28 @@
+Optimized version of HAGEZI BlockLists
+
+See original version here: https://github.com/hagezi/dns-blocklists
+
+Optimizations:
+
+- Unduplicate and make domains inclusive of subdomains (remove redundant sub-domains)
+- Make all domains lower-case
+- Split IP-Addresses off into their own file (domains.ips)
+- Filter out invalid (syntax) domains (domains.invalid)
+- Filter out domains with non-existing IANA TLD (domains.invalid)
+- Point out weird syntax domains (domains.weird)
+- Suggested excludes (domains.exclude)
+- Domains actually used according TOP-N lists (domains.top-n)
+- Remove empty files
+- All files ending in .routedns are in RouteDNS domains format
+- All files ending in .rpz are in Response Policy Zone (RPZ) format
+- All files ending in .adblock are in Adblock/AdGuard/uBlock format
+
+Where original files are modified they are backupped/retained and given the .original file-name extension.
+
+Sources used: https://github.com/cbuijs/hagezi/blob/main/lists/README
+
+Combos of Multiple lists: https://github.com/cbuijs/hagezi/blob/main/combo
+
+
+NOTE: I do NOT maintain these lists and/or their content, for questions/problems/etc, please contact the original maintainer here: hagezi@protonmail.com or go to https://github.com/hagezi/dns-blocklists/issues
+
