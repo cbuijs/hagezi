@@ -1,0 +1,46 @@
+; BIND RPZ blacklist
+$TTL 3600
+@ SOA dummy-1730507091-ns hostmaster 1730507091 12h 15m 3w 3h
+@ NS dummy-1730507091-ns
+dummy-1730507091-ns A 0.0.0.0
+dummy-1730507091-ns AAAA ::
+;
+; --- TLDS ---
+;
+; --- DOMAINS ---
+qt2-ngfts.lge.com CNAME .
+*.qt2-ngfts.lge.com CNAME .
+ad.lgsmartad.com CNAME .
+*.ad.lgsmartad.com CNAME .
+aic.cdpbeacon.lgtvcommon.com CNAME .
+*.aic.cdpbeacon.lgtvcommon.com CNAME .
+eic.cdpbeacon.lgtvcommon.com CNAME .
+*.eic.cdpbeacon.lgtvcommon.com CNAME .
+aic.homeprv.lgtvcommon.com CNAME .
+*.aic.homeprv.lgtvcommon.com CNAME .
+eic.homeprv.lgtvcommon.com CNAME .
+*.eic.homeprv.lgtvcommon.com CNAME .
+kic.homeprv.lgtvcommon.com CNAME .
+*.kic.homeprv.lgtvcommon.com CNAME .
+ruc.homeprv.lgtvcommon.com CNAME .
+*.ruc.homeprv.lgtvcommon.com CNAME .
+aic.nudge.lgtvcommon.com CNAME .
+*.aic.nudge.lgtvcommon.com CNAME .
+eic.nudge.lgtvcommon.com CNAME .
+*.eic.nudge.lgtvcommon.com CNAME .
+kic.nudge.lgtvcommon.com CNAME .
+*.kic.nudge.lgtvcommon.com CNAME .
+ruc.nudge.lgtvcommon.com CNAME .
+*.ruc.nudge.lgtvcommon.com CNAME .
+rdl.lgtvcommon.com CNAME .
+*.rdl.lgtvcommon.com CNAME .
+aic.wiseconfig.lgtvcommon.com CNAME .
+*.aic.wiseconfig.lgtvcommon.com CNAME .
+alphonso.tv CNAME .
+*.alphonso.tv CNAME .
+;
+; --- IPv4 ---
+;
+; --- IPv6 ---
+;
+; --- EOF ---
