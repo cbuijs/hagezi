@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1736125421 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1736180304 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -44,8 +44,6 @@ aax-eu.amazon.nl IN CNAME .
 *.aax-eu.amazon.nl IN CNAME .
 aax-eu.amazon.pl IN CNAME .
 *.aax-eu.amazon.pl IN CNAME .
-aax-eu.amazon.sa IN CNAME .
-*.aax-eu.amazon.sa IN CNAME .
 aax-fe-pdx-direct.amazon.com IN CNAME .
 *.aax-fe-pdx-direct.amazon.com IN CNAME .
 aax-fe-retail-rtb.amazon.com IN CNAME .
@@ -314,8 +312,6 @@ c2-au.piano.io IN CNAME .
 *.c2-au.piano.io IN CNAME .
 c2-eu.piano.io IN CNAME .
 *.c2-eu.piano.io IN CNAME .
-c2-sandbox.piano.io IN CNAME .
-*.c2-sandbox.piano.io IN CNAME .
 c2.piano.io IN CNAME .
 *.c2.piano.io IN CNAME .
 c2827.dotomi.com IN CNAME .
@@ -404,6 +400,8 @@ click.em.samsclub.com IN CNAME .
 *.click.em.samsclub.com IN CNAME .
 click.email.jcpenney.com IN CNAME .
 *.click.email.jcpenney.com IN CNAME .
+click.email.microsoftemail.com IN CNAME .
+*.click.email.microsoftemail.com IN CNAME .
 click.email.newegg.com IN CNAME .
 *.click.email.newegg.com IN CNAME .
 click.email.sonos.com IN CNAME .
@@ -554,8 +552,6 @@ email.docker.com IN CNAME .
 *.email.docker.com IN CNAME .
 email.microsoft.com IN CNAME .
 *.email.microsoft.com IN CNAME .
-email.microsoftemail.com IN CNAME .
-*.email.microsoftemail.com IN CNAME .
 email.microsoftonline.com IN CNAME .
 *.email.microsoftonline.com IN CNAME .
 email.namebase.io IN CNAME .
@@ -654,6 +650,8 @@ hubspotlinks.com IN CNAME .
 *.hubspotlinks.com IN CNAME .
 i.airtel.in IN CNAME .
 *.i.airtel.in IN CNAME .
+image.email.microsoftemail.com IN CNAME .
+*.image.email.microsoftemail.com IN CNAME .
 ink1001.com IN CNAME .
 *.ink1001.com IN CNAME .
 intercom-clicks.com IN CNAME .
@@ -834,16 +832,12 @@ r20.rs6.net IN CNAME .
 *.r20.rs6.net IN CNAME .
 r4gh8tuab.cc.rs6.net IN CNAME .
 *.r4gh8tuab.cc.rs6.net IN CNAME .
-r5siqu4ab.cc.rs6.net IN CNAME .
-*.r5siqu4ab.cc.rs6.net IN CNAME .
 r5waxhbbb.cc.rs6.net IN CNAME .
 *.r5waxhbbb.cc.rs6.net IN CNAME .
 r6lccqnab.cc.rs6.net IN CNAME .
 *.r6lccqnab.cc.rs6.net IN CNAME .
 r7avxrcab.cc.rs6.net IN CNAME .
 *.r7avxrcab.cc.rs6.net IN CNAME .
-r88lcbcab.cc.rs6.net IN CNAME .
-*.r88lcbcab.cc.rs6.net IN CNAME .
 rads.stackoverflow.com IN CNAME .
 *.rads.stackoverflow.com IN CNAME .
 readdle.cmail20.com IN CNAME .
@@ -874,8 +868,6 @@ rewardtk.com IN CNAME .
 *.rewardtk.com IN CNAME .
 rgkkzvdab.cc.rs6.net IN CNAME .
 *.rgkkzvdab.cc.rs6.net IN CNAME .
-ri-cdn.exponea.com IN CNAME .
-*.ri-cdn.exponea.com IN CNAME .
 rides.sng.link IN CNAME .
 *.rides.sng.link IN CNAME .
 rjpz4ucab.cc.rs6.net IN CNAME .
@@ -884,6 +876,8 @@ ro-go.kelkoogroup.net IN CNAME .
 *.ro-go.kelkoogroup.net IN CNAME .
 rq6agxabb.cc.rs6.net IN CNAME .
 *.rq6agxabb.cc.rs6.net IN CNAME .
+rt7utobab.cc.rs6.net IN CNAME .
+*.rt7utobab.cc.rs6.net IN CNAME .
 run.admost.com IN CNAME .
 *.run.admost.com IN CNAME .
 rxfc49ebb.cc.rs6.net IN CNAME .
@@ -902,6 +896,8 @@ s13.exacttarget.com IN CNAME .
 *.s13.exacttarget.com IN CNAME .
 s4.exacttarget.com IN CNAME .
 *.s4.exacttarget.com IN CNAME .
+s5.exacttarget.com IN CNAME .
+*.s5.exacttarget.com IN CNAME .
 s50.exacttarget.com IN CNAME .
 *.s50.exacttarget.com IN CNAME .
 s51.exacttarget.com IN CNAME .
@@ -972,24 +968,18 @@ suite22.emarsys.net IN CNAME .
 *.suite22.emarsys.net IN CNAME .
 suite24.emarsys.net IN CNAME .
 *.suite24.emarsys.net IN CNAME .
-suite27.emarsys.net IN CNAME .
-*.suite27.emarsys.net IN CNAME .
 suite29.emarsys.net IN CNAME .
 *.suite29.emarsys.net IN CNAME .
 suite32.emarsys.net IN CNAME .
 *.suite32.emarsys.net IN CNAME .
 suite33.emarsys.net IN CNAME .
 *.suite33.emarsys.net IN CNAME .
-suite34.emarsys.net IN CNAME .
-*.suite34.emarsys.net IN CNAME .
 suite36.emarsys.net IN CNAME .
 *.suite36.emarsys.net IN CNAME .
 suite38.emarsys.net IN CNAME .
 *.suite38.emarsys.net IN CNAME .
 suite40-cf.emarsys.net IN CNAME .
 *.suite40-cf.emarsys.net IN CNAME .
-suite40.emarsys.net IN CNAME .
-*.suite40.emarsys.net IN CNAME .
 suite45.emarsys.net IN CNAME .
 *.suite45.emarsys.net IN CNAME .
 suite54.emarsys.net IN CNAME .
@@ -1164,6 +1154,8 @@ us-go.kelkoogroup.net IN CNAME .
 *.us-go.kelkoogroup.net IN CNAME .
 vfo.voyage-prive.co.uk IN CNAME .
 *.vfo.voyage-prive.co.uk IN CNAME .
+view.email.microsoftemail.com IN CNAME .
+*.view.email.microsoftemail.com IN CNAME .
 view.email.nzz.ch IN CNAME .
 *.view.email.nzz.ch IN CNAME .
 webep1.com IN CNAME .
