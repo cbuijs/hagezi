@@ -1,9 +1,9 @@
 ; BIND RPZ blacklist
 $TTL 3600
-@ SOA dummy-1736122145-ns hostmaster 1736122145 12h 15m 3w 3h
-@ NS dummy-1736122145-ns
-dummy-1736122145-ns A 0.0.0.0
-dummy-1736122145-ns AAAA ::
+@ SOA dummy-1736176974-ns hostmaster 1736176974 12h 15m 3w 3h
+@ NS dummy-1736176974-ns
+dummy-1736176974-ns A 0.0.0.0
+dummy-1736176974-ns AAAA ::
 ;
 ; --- TLDS ---
 ;
@@ -40,6 +40,8 @@ dns1.digitale-gesellschaft.ch CNAME .
 *.dns1.digitale-gesellschaft.ch CNAME .
 dns2.digitale-gesellschaft.ch CNAME .
 *.dns2.digitale-gesellschaft.ch CNAME .
+doh.immerda.ch CNAME .
+*.doh.immerda.ch CNAME .
 eu1.dns.lavate.ch CNAME .
 *.eu1.dns.lavate.ch CNAME .
 us1.dns.lavate.ch CNAME .
@@ -782,6 +784,8 @@ dns.mullvad.net CNAME .
 *.dns.mullvad.net CNAME .
 doh.mullvad.net CNAME .
 *.doh.mullvad.net CNAME .
+doh-ca.naftalie.net CNAME .
+*.doh-ca.naftalie.net CNAME .
 kiri.nonexiste.net CNAME .
 *.kiri.nonexiste.net CNAME .
 dns.novg.net CNAME .

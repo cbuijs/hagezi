@@ -1,9 +1,9 @@
 ; BIND RPZ blacklist
 $TTL 3600
-@ SOA dummy-1736125413-ns hostmaster 1736125413 12h 15m 3w 3h
-@ NS dummy-1736125413-ns
-dummy-1736125413-ns A 0.0.0.0
-dummy-1736125413-ns AAAA ::
+@ SOA dummy-1736180296-ns hostmaster 1736180296 12h 15m 3w 3h
+@ NS dummy-1736180296-ns
+dummy-1736180296-ns A 0.0.0.0
+dummy-1736180296-ns AAAA ::
 ;
 ; --- TLDS ---
 ;
@@ -320,6 +320,8 @@ s13.exacttarget.com CNAME .
 *.s13.exacttarget.com CNAME .
 s4.exacttarget.com CNAME .
 *.s4.exacttarget.com CNAME .
+s5.exacttarget.com CNAME .
+*.s5.exacttarget.com CNAME .
 s50.exacttarget.com CNAME .
 *.s50.exacttarget.com CNAME .
 s51.exacttarget.com CNAME .
@@ -340,8 +342,6 @@ cdn.network.exponea.com CNAME .
 *.cdn.network.exponea.com CNAME .
 ozon-cdn.exponea.com CNAME .
 *.ozon-cdn.exponea.com CNAME .
-ri-cdn.exponea.com CNAME .
-*.ri-cdn.exponea.com CNAME .
 cdn.uk.exponea.com CNAME .
 *.cdn.uk.exponea.com CNAME .
 cdn.us1.exponea.com CNAME .
@@ -480,8 +480,12 @@ go.microsoft.com CNAME .
 *.go.microsoft.com CNAME .
 target.microsoft.com CNAME .
 *.target.microsoft.com CNAME .
-email.microsoftemail.com CNAME .
-*.email.microsoftemail.com CNAME .
+click.email.microsoftemail.com CNAME .
+*.click.email.microsoftemail.com CNAME .
+image.email.microsoftemail.com CNAME .
+*.image.email.microsoftemail.com CNAME .
+view.email.microsoftemail.com CNAME .
+*.view.email.microsoftemail.com CNAME .
 email.microsoftonline.com CNAME .
 *.email.microsoftonline.com CNAME .
 mkto-ab420081.com CNAME .
@@ -858,8 +862,6 @@ c2-au.piano.io CNAME .
 *.c2-au.piano.io CNAME .
 c2-eu.piano.io CNAME .
 *.c2-eu.piano.io CNAME .
-c2-sandbox.piano.io CNAME .
-*.c2-sandbox.piano.io CNAME .
 cdn.piano.io CNAME .
 *.cdn.piano.io CNAME .
 cdn-ap.piano.io CNAME .
@@ -982,22 +984,16 @@ suite22.emarsys.net CNAME .
 *.suite22.emarsys.net CNAME .
 suite24.emarsys.net CNAME .
 *.suite24.emarsys.net CNAME .
-suite27.emarsys.net CNAME .
-*.suite27.emarsys.net CNAME .
 suite29.emarsys.net CNAME .
 *.suite29.emarsys.net CNAME .
 suite32.emarsys.net CNAME .
 *.suite32.emarsys.net CNAME .
 suite33.emarsys.net CNAME .
 *.suite33.emarsys.net CNAME .
-suite34.emarsys.net CNAME .
-*.suite34.emarsys.net CNAME .
 suite36.emarsys.net CNAME .
 *.suite36.emarsys.net CNAME .
 suite38.emarsys.net CNAME .
 *.suite38.emarsys.net CNAME .
-suite40.emarsys.net CNAME .
-*.suite40.emarsys.net CNAME .
 suite40-cf.emarsys.net CNAME .
 *.suite40-cf.emarsys.net CNAME .
 suite45.emarsys.net CNAME .
@@ -1098,22 +1094,20 @@ adorama.rfvk.net CNAME .
 *.adorama.rfvk.net CNAME .
 r4gh8tuab.cc.rs6.net CNAME .
 *.r4gh8tuab.cc.rs6.net CNAME .
-r5siqu4ab.cc.rs6.net CNAME .
-*.r5siqu4ab.cc.rs6.net CNAME .
 r5waxhbbb.cc.rs6.net CNAME .
 *.r5waxhbbb.cc.rs6.net CNAME .
 r6lccqnab.cc.rs6.net CNAME .
 *.r6lccqnab.cc.rs6.net CNAME .
 r7avxrcab.cc.rs6.net CNAME .
 *.r7avxrcab.cc.rs6.net CNAME .
-r88lcbcab.cc.rs6.net CNAME .
-*.r88lcbcab.cc.rs6.net CNAME .
 rgkkzvdab.cc.rs6.net CNAME .
 *.rgkkzvdab.cc.rs6.net CNAME .
 rjpz4ucab.cc.rs6.net CNAME .
 *.rjpz4ucab.cc.rs6.net CNAME .
 rq6agxabb.cc.rs6.net CNAME .
 *.rq6agxabb.cc.rs6.net CNAME .
+rt7utobab.cc.rs6.net CNAME .
+*.rt7utobab.cc.rs6.net CNAME .
 rxfc49ebb.cc.rs6.net CNAME .
 *.rxfc49ebb.cc.rs6.net CNAME .
 rz6dkreab.cc.rs6.net CNAME .
@@ -1190,8 +1184,6 @@ redirect.appmetrica.yandex.ru CNAME .
 *.redirect.appmetrica.yandex.ru CNAME .
 clck.yandex.ru CNAME .
 *.clck.yandex.ru CNAME .
-aax-eu.amazon.sa CNAME .
-*.aax-eu.amazon.sa CNAME .
 converti.se CNAME .
 *.converti.se CNAME .
 adservice.google.se CNAME .

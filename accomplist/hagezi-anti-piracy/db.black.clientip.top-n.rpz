@@ -1,9 +1,9 @@
 ; BIND RPZ blacklist
 $TTL 3600
-@ SOA dummy-1736122110-ns hostmaster 1736122110 12h 15m 3w 3h
-@ NS dummy-1736122110-ns
-dummy-1736122110-ns A 0.0.0.0
-dummy-1736122110-ns AAAA ::
+@ SOA dummy-1736176945-ns hostmaster 1736176945 12h 15m 3w 3h
+@ NS dummy-1736176945-ns
+dummy-1736176945-ns A 0.0.0.0
+dummy-1736176945-ns AAAA ::
 ;
 ; --- TLDS ---
 ;
@@ -876,8 +876,6 @@ fh2.cmp-gaming.com CNAME .
 *.fh2.cmp-gaming.com CNAME .
 thepiratebay.co.com CNAME .
 *.thepiratebay.co.com CNAME .
-comandotorrents.com CNAME .
-*.comandotorrents.com CNAME .
 comcentral.com CNAME .
 *.comcentral.com CNAME .
 comixology.com CNAME .
@@ -1380,6 +1378,8 @@ ttk2.nbaonlineservice.com CNAME .
 *.ttk2.nbaonlineservice.com CNAME .
 nboku.com CNAME .
 *.nboku.com CNAME .
+neglectsquad.com CNAME .
+*.neglectsquad.com CNAME .
 netexpressbd.com CNAME .
 *.netexpressbd.com CNAME .
 openmovies.netlify.com CNAME .
@@ -2042,6 +2042,8 @@ tracker.zemoj.com CNAME .
 *.tracker.zemoj.com CNAME .
 zeropaid.com CNAME .
 *.zeropaid.com CNAME .
+zerotracker.com CNAME .
+*.zerotracker.com CNAME .
 ziperto.com CNAME .
 *.ziperto.com CNAME .
 zippyshare.com CNAME .
@@ -2512,8 +2514,6 @@ share.hkg-fansub.info CNAME .
 *.share.hkg-fansub.info CNAME .
 horriblesubs.info CNAME .
 *.horriblesubs.info CNAME .
-ilcorsaronero.info CNAME .
-*.ilcorsaronero.info CNAME .
 legittorrents.info CNAME .
 *.legittorrents.info CNAME .
 limetorrents.info CNAME .
@@ -2596,8 +2596,6 @@ cricfree.io CNAME .
 *.cricfree.io CNAME .
 open.dstud.io CNAME .
 *.open.dstud.io CNAME .
-emovies.io CNAME .
-*.emovies.io CNAME .
 filelist.io CNAME .
 *.filelist.io CNAME .
 abir0dev.github.io CNAME .
@@ -2714,6 +2712,8 @@ tracker3.520.jp CNAME .
 *.tracker3.520.jp CNAME .
 tracker.bjut.jp CNAME .
 *.tracker.bjut.jp CNAME .
+filmarchives.jp CNAME .
+*.filmarchives.jp CNAME .
 mathkangaroo.jp CNAME .
 *.mathkangaroo.jp CNAME .
 megatorrents.kg CNAME .
@@ -3454,8 +3454,6 @@ tvids.net CNAME .
 *.tvids.net CNAME .
 uakino-bay.net CNAME .
 *.uakino-bay.net CNAME .
-uatracker.net CNAME .
-*.uatracker.net CNAME .
 dowm-movies.ucoz.net CNAME .
 *.dowm-movies.ucoz.net CNAME .
 thepiratebay.uk.net CNAME .
@@ -3628,6 +3626,8 @@ anonymouse.org CNAME .
 *.anonymouse.org CNAME .
 antsmarching.org CNAME .
 *.antsmarching.org CNAME .
+apk-store.org CNAME .
+*.apk-store.org CNAME .
 mail.artixlinux.org CNAME .
 *.mail.artixlinux.org CNAME .
 torrents.artixlinux.org CNAME .
@@ -3664,6 +3664,8 @@ comicat.org CNAME .
 *.comicat.org CNAME .
 concen.org CNAME .
 *.concen.org CNAME .
+cracked-games.org CNAME .
+*.cracked-games.org CNAME .
 crackedpc.org CNAME .
 *.crackedpc.org CNAME .
 packages.crunchbangplusplus.org CNAME .
@@ -4188,8 +4190,6 @@ tor.rev.pm CNAME .
 *.tor.rev.pm CNAME .
 tracker.rev.pm CNAME .
 *.tracker.rev.pm CNAME .
-worldfree4u.pm CNAME .
-*.worldfree4u.pm CNAME .
 anidub.pro CNAME .
 *.anidub.pro CNAME .
 happymod.pro CNAME .
@@ -4636,8 +4636,6 @@ warez-fusion.6x.to CNAME .
 *.warez-fusion.6x.to CNAME .
 wzone.6x.to CNAME .
 *.wzone.6x.to CNAME .
-9anime.to CNAME .
-*.9anime.to CNAME .
 animixplay.to CNAME .
 *.animixplay.to CNAME .
 aniwave.to CNAME .

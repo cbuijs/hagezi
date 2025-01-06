@@ -1,9 +1,9 @@
 ; BIND RPZ blacklist
 $TTL 3600
-@ SOA dummy-1736122175-ns hostmaster 1736122175 12h 15m 3w 3h
-@ NS dummy-1736122175-ns
-dummy-1736122175-ns A 0.0.0.0
-dummy-1736122175-ns AAAA ::
+@ SOA dummy-1736177000-ns hostmaster 1736177000 12h 15m 3w 3h
+@ NS dummy-1736177000-ns
+dummy-1736177000-ns A 0.0.0.0
+dummy-1736177000-ns AAAA ::
 ;
 ; --- TLDS ---
 ;
@@ -700,8 +700,6 @@ dsl-app.s3.us-east-2.amazonaws.com CNAME .
 *.dsl-app.s3.us-east-2.amazonaws.com CNAME .
 ananoos.com CNAME .
 *.ananoos.com CNAME .
-androvpn.com CNAME .
-*.androvpn.com CNAME .
 aniscartujo.com CNAME .
 *.aniscartujo.com CNAME .
 anonine.com CNAME .
@@ -3182,8 +3180,6 @@ dns.dnshome.de CNAME .
 *.dns.dnshome.de CNAME .
 dukun.de CNAME .
 *.dukun.de CNAME .
-dns.dyn1.de CNAME .
-*.dns.dyn1.de CNAME .
 opennic1.eth-services.de CNAME .
 *.opennic1.eth-services.de CNAME .
 dns.farshidhakimy.de CNAME .
@@ -3756,8 +3752,6 @@ dns.engineer.web.id CNAME .
 *.dns.engineer.web.id CNAME .
 doh.this.web.id CNAME .
 *.doh.this.web.id CNAME .
-doh.zephyrus.id CNAME .
-*.doh.zephyrus.id CNAME .
 doh.iucc.ac.il CNAME .
 *.doh.iucc.ac.il CNAME .
 ag.hostme.co.il CNAME .
