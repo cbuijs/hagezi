@@ -1,9 +1,9 @@
 ; BIND RPZ blacklist
 $TTL 3600
-@ SOA dummy-1736176974-ns hostmaster 1736176974 12h 15m 3w 3h
-@ NS dummy-1736176974-ns
-dummy-1736176974-ns A 0.0.0.0
-dummy-1736176974-ns AAAA ::
+@ SOA dummy-1736208563-ns hostmaster 1736208563 12h 15m 3w 3h
+@ NS dummy-1736208563-ns
+dummy-1736208563-ns A 0.0.0.0
+dummy-1736208563-ns AAAA ::
 ;
 ; --- TLDS ---
 ;
@@ -894,6 +894,8 @@ dns.dnshome.de CNAME .
 *.dns.dnshome.de CNAME .
 dukun.de CNAME .
 *.dukun.de CNAME .
+dns.dyn1.de CNAME .
+*.dns.dyn1.de CNAME .
 opennic1.eth-services.de CNAME .
 *.opennic1.eth-services.de CNAME .
 dns.farshidhakimy.de CNAME .

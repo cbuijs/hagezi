@@ -1,9 +1,9 @@
 ; BIND RPZ blacklist
 $TTL 3600
-@ SOA dummy-1736180296-ns hostmaster 1736180296 12h 15m 3w 3h
-@ NS dummy-1736180296-ns
-dummy-1736180296-ns A 0.0.0.0
-dummy-1736180296-ns AAAA ::
+@ SOA dummy-1736212179-ns hostmaster 1736212179 12h 15m 3w 3h
+@ NS dummy-1736212179-ns
+dummy-1736212179-ns A 0.0.0.0
+dummy-1736212179-ns AAAA ::
 ;
 ; --- TLDS ---
 ;
@@ -34,6 +34,8 @@ adservice.google.ca CNAME .
 *.adservice.google.ca CNAME .
 view.email.nzz.ch CNAME .
 *.view.email.nzz.ch CNAME .
+adservice.google.com.cl CNAME .
+*.adservice.google.com.cl CNAME .
 app.adjust.cn CNAME .
 *.app.adjust.cn CNAME .
 alitems.co CNAME .
@@ -638,6 +640,8 @@ t.sidekickopen78.com CNAME .
 *.t.sidekickopen78.com CNAME .
 t.sidekickopen79.com CNAME .
 *.t.sidekickopen79.com CNAME .
+t.sidekickopen90.com CNAME .
+*.t.sidekickopen90.com CNAME .
 app.e.sigsauer.com CNAME .
 *.app.e.sigsauer.com CNAME .
 go.skimresources.com CNAME .
