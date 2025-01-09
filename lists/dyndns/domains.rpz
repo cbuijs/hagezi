@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1736294857 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1736381259 12h 15m 3w 3h
 0000000000000000000000.com IN CNAME .
 *.0000000000000000000000.com IN CNAME .
 0rg.us IN CNAME .
@@ -722,6 +722,8 @@ dyn-o-saur.com IN CNAME .
 *.dyn-o-saur.com IN CNAME .
 dyn-vpn.de IN CNAME .
 *.dyn-vpn.de IN CNAME .
+dyn.addr.tools IN CNAME .
+*.dyn.addr.tools IN CNAME .
 dyn.ch IN CNAME .
 *.dyn.ch IN CNAME .
 dyn.columbia.edu IN CNAME .
@@ -1906,6 +1908,12 @@ my03.com IN CNAME .
 *.my03.com IN CNAME .
 myactivedirectory.com IN CNAME .
 *.myactivedirectory.com IN CNAME .
+myaddr.dev IN CNAME .
+*.myaddr.dev IN CNAME .
+myaddr.io IN CNAME .
+*.myaddr.io IN CNAME .
+myaddr.tools IN CNAME .
+*.myaddr.tools IN CNAME .
 mydad.info IN CNAME .
 *.mydad.info IN CNAME .
 myddns.biz IN CNAME .
@@ -1920,8 +1928,6 @@ mydissent.net IN CNAME .
 *.mydissent.net IN CNAME .
 myeffect.net IN CNAME .
 *.myeffect.net IN CNAME .
-myfritz.link IN CNAME .
-*.myfritz.link IN CNAME .
 myftp.biz IN CNAME .
 *.myftp.biz IN CNAME .
 myftp.info IN CNAME .
@@ -2870,6 +2876,8 @@ www1.biz IN CNAME .
 *.www1.biz IN CNAME .
 wwwhost.biz IN CNAME .
 *.wwwhost.biz IN CNAME .
+wwwhost.us IN CNAME .
+*.wwwhost.us IN CNAME .
 x24hr.com IN CNAME .
 *.x24hr.com IN CNAME .
 x443.pw IN CNAME .
