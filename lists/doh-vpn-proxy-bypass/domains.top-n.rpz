@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1736294852 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1736381254 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 123-proxy.net IN CNAME .
@@ -266,6 +266,8 @@ btguard.com IN CNAME .
 *.btguard.com IN CNAME .
 bts01.dnscry.pt IN CNAME .
 *.bts01.dnscry.pt IN CNAME .
+bulletvpn.com IN CNAME .
+*.bulletvpn.com IN CNAME .
 bypassed.wtf IN CNAME .
 *.bypassed.wtf IN CNAME .
 c-dns.com IN CNAME .
@@ -568,6 +570,8 @@ dns.dnsoverhttps.net IN CNAME .
 *.dns.dnsoverhttps.net IN CNAME .
 dns.dnswarden.com IN CNAME .
 *.dns.dnswarden.com IN CNAME .
+dns.ellichua.com IN CNAME .
+*.dns.ellichua.com IN CNAME .
 dns.enzonix.com IN CNAME .
 *.dns.enzonix.com IN CNAME .
 dns.eu-frankfurt-1.oraclecloud.com IN CNAME .
@@ -1618,8 +1622,6 @@ onion.ly IN CNAME .
 *.onion.ly IN CNAME .
 onion.pet IN CNAME .
 *.onion.pet IN CNAME .
-onion.to IN CNAME .
-*.onion.to IN CNAME .
 onion.ws IN CNAME .
 *.onion.ws IN CNAME .
 onyx7.com IN CNAME .
