@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1736381254 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1736467658 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 123-proxy.net IN CNAME .
@@ -726,8 +726,6 @@ dns1.irumatech.com IN CNAME .
 *.dns1.irumatech.com IN CNAME .
 dns1.nextdns.io IN CNAME .
 *.dns1.nextdns.io IN CNAME .
-dns1.ryan-palmer.com IN CNAME .
-*.dns1.ryan-palmer.com IN CNAME .
 dns10.quad9.net IN CNAME .
 *.dns10.quad9.net IN CNAME .
 dns11.quad9.net IN CNAME .
@@ -1622,6 +1620,8 @@ onion.ly IN CNAME .
 *.onion.ly IN CNAME .
 onion.pet IN CNAME .
 *.onion.pet IN CNAME .
+onion.to IN CNAME .
+*.onion.to IN CNAME .
 onion.ws IN CNAME .
 *.onion.ws IN CNAME .
 onyx7.com IN CNAME .
@@ -1794,6 +1794,8 @@ proxy.org IN CNAME .
 *.proxy.org IN CNAME .
 proxy.wynd.network IN CNAME .
 *.proxy.wynd.network IN CNAME .
+proxyen.com IN CNAME .
+*.proxyen.com IN CNAME .
 proxyium.com IN CNAME .
 *.proxyium.com IN CNAME .
 proxylistpro.com IN CNAME .
