@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1736467658 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1736554054 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 123-proxy.net IN CNAME .
@@ -88,6 +88,8 @@ adguard-vpn.online IN CNAME .
 *.adguard-vpn.online IN CNAME .
 adguard.cloudmini.net IN CNAME .
 *.adguard.cloudmini.net IN CNAME .
+adguard.dekonix.ru IN CNAME .
+*.adguard.dekonix.ru IN CNAME .
 adguard.depieri.net IN CNAME .
 *.adguard.depieri.net IN CNAME .
 adguard.haneulo.com IN CNAME .
@@ -234,6 +236,8 @@ blitz-setup.ahadns.com IN CNAME .
 *.blitz-setup.ahadns.com IN CNAME .
 blitz.ahadns.com IN CNAME .
 *.blitz.ahadns.com IN CNAME .
+block.abstergo.it IN CNAME .
+*.block.abstergo.it IN CNAME .
 blocka.net IN CNAME .
 *.blocka.net IN CNAME .
 blockaway.net IN CNAME .
@@ -1170,8 +1174,6 @@ fwgw.orangepipc.mywire.org IN CNAME .
 *.fwgw.orangepipc.mywire.org IN CNAME .
 galileo.math.unipd.it IN CNAME .
 *.galileo.math.unipd.it IN CNAME .
-gateway.fomichev.cloud IN CNAME .
-*.gateway.fomichev.cloud IN CNAME .
 gecko.fun IN CNAME .
 *.gecko.fun IN CNAME .
 geg01.dnscry.pt IN CNAME .
@@ -1904,6 +1906,8 @@ riseup.net IN CNAME .
 *.riseup.net IN CNAME .
 rpz-public-resolver1.rrdns.pch.net IN CNAME .
 *.rpz-public-resolver1.rrdns.pch.net IN CNAME .
+rusvpn.com IN CNAME .
+*.rusvpn.com IN CNAME .
 s4m.xyz IN CNAME .
 *.s4m.xyz IN CNAME .
 safe.dot.dns.yandex.net IN CNAME .
