@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1736467653 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1736554049 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1and1-dns.de IN CNAME .
@@ -52,6 +52,8 @@ adguard-dns.com IN CNAME .
 *.adguard-dns.com IN CNAME .
 adguard.cloudmini.net IN CNAME .
 *.adguard.cloudmini.net IN CNAME .
+adguard.dekonix.ru IN CNAME .
+*.adguard.dekonix.ru IN CNAME .
 adguard.depieri.net IN CNAME .
 *.adguard.depieri.net IN CNAME .
 adguard.haneulo.com IN CNAME .
@@ -122,6 +124,8 @@ blitz-setup.ahadns.com IN CNAME .
 *.blitz-setup.ahadns.com IN CNAME .
 blitz.ahadns.com IN CNAME .
 *.blitz.ahadns.com IN CNAME .
+block.abstergo.it IN CNAME .
+*.block.abstergo.it IN CNAME .
 bne01.dnscry.pt IN CNAME .
 *.bne01.dnscry.pt IN CNAME .
 bog01.dnscry.pt IN CNAME .
@@ -774,8 +778,6 @@ fwgw.orangepipc.mywire.org IN CNAME .
 *.fwgw.orangepipc.mywire.org IN CNAME .
 galileo.math.unipd.it IN CNAME .
 *.galileo.math.unipd.it IN CNAME .
-gateway.fomichev.cloud IN CNAME .
-*.gateway.fomichev.cloud IN CNAME .
 geg01.dnscry.pt IN CNAME .
 *.geg01.dnscry.pt IN CNAME .
 getdnsapi.net IN CNAME .
