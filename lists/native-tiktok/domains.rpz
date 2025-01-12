@@ -1,7 +1,9 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1736554178 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1736640577 12h 15m 3w 3h
 ad-instantpage-ttp2.tiktokv.eu IN CNAME .
 *.ad-instantpage-ttp2.tiktokv.eu IN CNAME .
+ad-instantpage-ttp2.tiktokv.us IN CNAME .
+*.ad-instantpage-ttp2.tiktokv.us IN CNAME .
 ad-instantpage.tiktokv.us IN CNAME .
 *.ad-instantpage.tiktokv.us IN CNAME .
 ad.tiktok.tv IN CNAME .
@@ -32,6 +34,8 @@ location-v6-ttp2.tiktokv.us IN CNAME .
 *.location-v6-ttp2.tiktokv.us IN CNAME .
 location-v6.tiktokv.us IN CNAME .
 *.location-v6.tiktokv.us IN CNAME .
+location.tiktokw.us IN CNAME .
+*.location.tiktokw.us IN CNAME .
 log-snssdk.tiktokv-us.com IN CNAME .
 *.log-snssdk.tiktokv-us.com IN CNAME .
 log-tiktok.byteoversea.net IN CNAME .
