@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1736554054 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1736640455 12h 15m 3w 3h
 003153.xyz IN CNAME .
 *.003153.xyz IN CNAME .
 052419.xyz IN CNAME .
@@ -4090,6 +4090,8 @@ mask-api.fe2.apple-dns.net IN CNAME .
 *.mask-api.fe2.apple-dns.net IN CNAME .
 mask-api.icloud.com IN CNAME .
 *.mask-api.icloud.com IN CNAME .
+mask-boot.icloud.com IN CNAME .
+*.mask-boot.icloud.com IN CNAME .
 mask-canary.icloud.com IN CNAME .
 *.mask-canary.icloud.com IN CNAME .
 mask-h2.icloud.com IN CNAME .
@@ -6830,8 +6832,6 @@ vitaproxy.com IN CNAME .
 *.vitaproxy.com IN CNAME .
 vload.net IN CNAME .
 *.vload.net IN CNAME .
-vm.mytm.cc IN CNAME .
-*.vm.mytm.cc IN CNAME .
 vno01.dnscry.pt IN CNAME .
 *.vno01.dnscry.pt IN CNAME .
 vobas.com IN CNAME .

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1736554054 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1736640455 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 123-proxy.net IN CNAME .
@@ -628,8 +628,6 @@ dns.mnet-online.de IN CNAME .
 *.dns.mnet-online.de IN CNAME .
 dns.molinero.dev IN CNAME .
 *.dns.molinero.dev IN CNAME .
-dns.moonssif.com IN CNAME .
-*.dns.moonssif.com IN CNAME .
 dns.murgi.de IN CNAME .
 *.dns.murgi.de IN CNAME .
 dns.nextdns.io IN CNAME .
@@ -730,6 +728,8 @@ dns1.irumatech.com IN CNAME .
 *.dns1.irumatech.com IN CNAME .
 dns1.nextdns.io IN CNAME .
 *.dns1.nextdns.io IN CNAME .
+dns1.ryan-palmer.com IN CNAME .
+*.dns1.ryan-palmer.com IN CNAME .
 dns10.quad9.net IN CNAME .
 *.dns10.quad9.net IN CNAME .
 dns11.quad9.net IN CNAME .
@@ -900,6 +900,8 @@ doh.phdns5.lonet.org IN CNAME .
 *.doh.phdns5.lonet.org IN CNAME .
 doh.pi-dns.com IN CNAME .
 *.doh.pi-dns.com IN CNAME .
+doh.powerdns.org IN CNAME .
+*.doh.powerdns.org IN CNAME .
 doh.pub IN CNAME .
 *.doh.pub IN CNAME .
 doh.qis.io IN CNAME .
@@ -1436,6 +1438,8 @@ mask-api.fe2.apple-dns.net IN CNAME .
 *.mask-api.fe2.apple-dns.net IN CNAME .
 mask-api.icloud.com IN CNAME .
 *.mask-api.icloud.com IN CNAME .
+mask-boot.icloud.com IN CNAME .
+*.mask-boot.icloud.com IN CNAME .
 mask-canary.icloud.com IN CNAME .
 *.mask-canary.icloud.com IN CNAME .
 mask-h2.icloud.com IN CNAME .
@@ -1530,6 +1534,8 @@ ngrok.dev IN CNAME .
 *.ngrok.dev IN CNAME .
 ngrok.io IN CNAME .
 *.ngrok.io IN CNAME .
+ngrok.pro IN CNAME .
+*.ngrok.pro IN CNAME .
 nightlymoon.us.kg IN CNAME .
 *.nightlymoon.us.kg IN CNAME .
 nimbleway.com IN CNAME .
@@ -1578,8 +1584,6 @@ ns2.recursive.dnsbycomodo.com IN CNAME .
 *.ns2.recursive.dnsbycomodo.com IN CNAME .
 ns3.com IN CNAME .
 *.ns3.com IN CNAME .
-ns3.cx IN CNAME .
-*.ns3.cx IN CNAME .
 ns3.link IN CNAME .
 *.ns3.link IN CNAME .
 ns8469rfvth42.xyz IN CNAME .
@@ -1622,8 +1626,6 @@ onion.ly IN CNAME .
 *.onion.ly IN CNAME .
 onion.pet IN CNAME .
 *.onion.pet IN CNAME .
-onion.to IN CNAME .
-*.onion.to IN CNAME .
 onion.ws IN CNAME .
 *.onion.ws IN CNAME .
 onyx7.com IN CNAME .
@@ -1728,8 +1730,6 @@ portmapper.myonlineportal.net IN CNAME .
 *.portmapper.myonlineportal.net IN CNAME .
 potatovpn.io IN CNAME .
 *.potatovpn.io IN CNAME .
-ppira.com IN CNAME .
-*.ppira.com IN CNAME .
 pq7hdf.com IN CNAME .
 *.pq7hdf.com IN CNAME .
 premiumproxy.net IN CNAME .
@@ -2126,6 +2126,8 @@ trafflink.xyz IN CNAME .
 *.trafflink.xyz IN CNAME .
 traffmonetizer.com IN CNAME .
 *.traffmonetizer.com IN CNAME .
+travelvpn.info IN CNAME .
+*.travelvpn.info IN CNAME .
 trf01.dnscry.pt IN CNAME .
 *.trf01.dnscry.pt IN CNAME .
 tri-dns.net IN CNAME .
