@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1736554049 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1736640449 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1and1-dns.de IN CNAME .
@@ -340,8 +340,6 @@ dns.mnet-online.de IN CNAME .
 *.dns.mnet-online.de IN CNAME .
 dns.molinero.dev IN CNAME .
 *.dns.molinero.dev IN CNAME .
-dns.moonssif.com IN CNAME .
-*.dns.moonssif.com IN CNAME .
 dns.mullvad.net IN CNAME .
 *.dns.mullvad.net IN CNAME .
 dns.murgi.de IN CNAME .
@@ -448,6 +446,8 @@ dns1.nextdns.io IN CNAME .
 *.dns1.nextdns.io IN CNAME .
 dns1.nordvpn.com IN CNAME .
 *.dns1.nordvpn.com IN CNAME .
+dns1.ryan-palmer.com IN CNAME .
+*.dns1.ryan-palmer.com IN CNAME .
 dns10.quad9.net IN CNAME .
 *.dns10.quad9.net IN CNAME .
 dns11.quad9.net IN CNAME .
@@ -622,6 +622,8 @@ doh.phdns5.lonet.org IN CNAME .
 *.doh.phdns5.lonet.org IN CNAME .
 doh.pi-dns.com IN CNAME .
 *.doh.pi-dns.com IN CNAME .
+doh.powerdns.org IN CNAME .
+*.doh.powerdns.org IN CNAME .
 doh.pub IN CNAME .
 *.doh.pub IN CNAME .
 doh.qis.io IN CNAME .
@@ -910,6 +912,8 @@ mask-api.fe2.apple-dns.net IN CNAME .
 *.mask-api.fe2.apple-dns.net IN CNAME .
 mask-api.icloud.com IN CNAME .
 *.mask-api.icloud.com IN CNAME .
+mask-boot.icloud.com IN CNAME .
+*.mask-boot.icloud.com IN CNAME .
 mask-canary.icloud.com IN CNAME .
 *.mask-canary.icloud.com IN CNAME .
 mask-h2.icloud.com IN CNAME .
@@ -968,8 +972,6 @@ ns2.recursive.dnsbycomodo.com IN CNAME .
 *.ns2.recursive.dnsbycomodo.com IN CNAME .
 ns3.com IN CNAME .
 *.ns3.com IN CNAME .
-ns3.cx IN CNAME .
-*.ns3.cx IN CNAME .
 ns3.link IN CNAME .
 *.ns3.link IN CNAME .
 nue01.dnscry.pt IN CNAME .
