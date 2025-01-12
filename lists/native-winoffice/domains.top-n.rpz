@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1736554194 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1736640594 12h 15m 3w 3h
 a4.bing.com IN CNAME .
 *.a4.bing.com IN CNAME .
 activity.windows.com IN CNAME .
@@ -38,6 +38,8 @@ adserver.bing.com IN CNAME .
 *.adserver.bing.com IN CNAME .
 adstore.response.eastus.trafficmanager.net IN CNAME .
 *.adstore.response.eastus.trafficmanager.net IN CNAME .
+adstore.response.gcp.eastus.trafficmanager.net IN CNAME .
+*.adstore.response.gcp.eastus.trafficmanager.net IN CNAME .
 adsyndication.msn.com IN CNAME .
 *.adsyndication.msn.com IN CNAME .
 advertising.jp.msn.com IN CNAME .
@@ -314,8 +316,6 @@ h2.msn.com IN CNAME .
 *.h2.msn.com IN CNAME .
 h6.msn.com IN CNAME .
 *.h6.msn.com IN CNAME .
-help.ads-int.microsoft.com IN CNAME .
-*.help.ads-int.microsoft.com IN CNAME .
 hk-tracker.trafficmanager.net IN CNAME .
 *.hk-tracker.trafficmanager.net IN CNAME .
 hme-live-loganalytics-namespace.servicebus.windows.net IN CNAME .
