@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1736554400 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1736640796 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -40,6 +40,8 @@ aax-eu.amazon.nl IN CNAME .
 *.aax-eu.amazon.nl IN CNAME .
 aax-eu.amazon.sa IN CNAME .
 *.aax-eu.amazon.sa IN CNAME .
+aax-eu.amazon.se IN CNAME .
+*.aax-eu.amazon.se IN CNAME .
 aax-fe-pdx-direct.amazon.com IN CNAME .
 *.aax-fe-pdx-direct.amazon.com IN CNAME .
 aax-fe-retail-rtb.amazon.com IN CNAME .
@@ -64,6 +66,8 @@ aax-us-ott.amazon-adsystem.amazon.com IN CNAME .
 *.aax-us-ott.amazon-adsystem.amazon.com IN CNAME .
 aax-us.amazon-adsystem.amazon.com IN CNAME .
 *.aax-us.amazon-adsystem.amazon.com IN CNAME .
+aaxs-north-1-1-1-prod-prod.s.advertising.amazon.cn IN CNAME .
+*.aaxs-north-1-1-1-prod-prod.s.advertising.amazon.cn IN CNAME .
 ab1n.net IN CNAME .
 *.ab1n.net IN CNAME .
 ablink.email.etsy.com IN CNAME .
@@ -98,8 +102,6 @@ adscendmedia.com IN CNAME .
 *.adscendmedia.com IN CNAME .
 adservice.google.ca IN CNAME .
 *.adservice.google.ca IN CNAME .
-adservice.google.ch IN CNAME .
-*.adservice.google.ch IN CNAME .
 adservice.google.co.id IN CNAME .
 *.adservice.google.co.id IN CNAME .
 adservice.google.co.in IN CNAME .
@@ -126,8 +128,6 @@ adservice.google.com.br IN CNAME .
 *.adservice.google.com.br IN CNAME .
 adservice.google.com.co IN CNAME .
 *.adservice.google.com.co IN CNAME .
-adservice.google.com.ec IN CNAME .
-*.adservice.google.com.ec IN CNAME .
 adservice.google.com.eg IN CNAME .
 *.adservice.google.com.eg IN CNAME .
 adservice.google.com.gt IN CNAME .
@@ -200,6 +200,8 @@ alb.reddit.com IN CNAME .
 *.alb.reddit.com IN CNAME .
 alitems.co IN CNAME .
 *.alitems.co IN CNAME .
+amway-cdn.exponea.com IN CNAME .
+*.amway-cdn.exponea.com IN CNAME .
 analytics.twitter.com IN CNAME .
 *.analytics.twitter.com IN CNAME .
 anrdoezrs.net IN CNAME .
@@ -542,8 +544,6 @@ e.customeriomail.com IN CNAME .
 *.e.customeriomail.com IN CNAME .
 ea.galerieslafayette.com IN CNAME .
 *.ea.galerieslafayette.com IN CNAME .
-ek8.voyage-prive.com IN CNAME .
-*.ek8.voyage-prive.com IN CNAME .
 email-tracking.infobip.com IN CNAME .
 *.email-tracking.infobip.com IN CNAME .
 email.docker.com IN CNAME .
@@ -596,6 +596,8 @@ gate-ag.first-id.fr IN CNAME .
 *.gate-ag.first-id.fr IN CNAME .
 geo.itunes.apple.com IN CNAME .
 *.geo.itunes.apple.com IN CNAME .
+geo01.dns.presslabs.net IN CNAME .
+*.geo01.dns.presslabs.net IN CNAME .
 geo02.dns.presslabs.net IN CNAME .
 *.geo02.dns.presslabs.net IN CNAME .
 geo1.presslabs.net IN CNAME .
@@ -664,8 +666,6 @@ k.cocooncenter.com IN CNAME .
 *.k.cocooncenter.com IN CNAME .
 klclick.com IN CNAME .
 *.klclick.com IN CNAME .
-klclick.dollarshaveclub.com IN CNAME .
-*.klclick.dollarshaveclub.com IN CNAME .
 klclick1.com IN CNAME .
 *.klclick1.com IN CNAME .
 klclick2.com IN CNAME .
@@ -746,8 +746,6 @@ mkto-sj240021.com IN CNAME .
 *.mkto-sj240021.com IN CNAME .
 mkto-sj270080.com IN CNAME .
 *.mkto-sj270080.com IN CNAME .
-mkto-test.com IN CNAME .
-*.mkto-test.com IN CNAME .
 mktoweb.com IN CNAME .
 *.mktoweb.com IN CNAME .
 mmtro.com IN CNAME .
@@ -834,12 +832,8 @@ r20.rs6.net IN CNAME .
 *.r20.rs6.net IN CNAME .
 r4gh8tuab.cc.rs6.net IN CNAME .
 *.r4gh8tuab.cc.rs6.net IN CNAME .
-r4iqtwrab.cc.rs6.net IN CNAME .
-*.r4iqtwrab.cc.rs6.net IN CNAME .
 r5waxhbbb.cc.rs6.net IN CNAME .
 *.r5waxhbbb.cc.rs6.net IN CNAME .
-r6hquldab.cc.rs6.net IN CNAME .
-*.r6hquldab.cc.rs6.net IN CNAME .
 r6lccqnab.cc.rs6.net IN CNAME .
 *.r6lccqnab.cc.rs6.net IN CNAME .
 r7avxrcab.cc.rs6.net IN CNAME .
@@ -874,10 +868,6 @@ rewardtk.com IN CNAME .
 *.rewardtk.com IN CNAME .
 rgkkzvdab.cc.rs6.net IN CNAME .
 *.rgkkzvdab.cc.rs6.net IN CNAME .
-rgllca6ab.cc.rs6.net IN CNAME .
-*.rgllca6ab.cc.rs6.net IN CNAME .
-rh5uuo4ab.cc.rs6.net IN CNAME .
-*.rh5uuo4ab.cc.rs6.net IN CNAME .
 ri-cdn.exponea.com IN CNAME .
 *.ri-cdn.exponea.com IN CNAME .
 rides.sng.link IN CNAME .
@@ -888,8 +878,8 @@ ro-go.kelkoogroup.net IN CNAME .
 *.ro-go.kelkoogroup.net IN CNAME .
 rq6agxabb.cc.rs6.net IN CNAME .
 *.rq6agxabb.cc.rs6.net IN CNAME .
-rudw6zqab.cc.rs6.net IN CNAME .
-*.rudw6zqab.cc.rs6.net IN CNAME .
+rtaw7vebb.cc.rs6.net IN CNAME .
+*.rtaw7vebb.cc.rs6.net IN CNAME .
 run.admost.com IN CNAME .
 *.run.admost.com IN CNAME .
 rxfc49ebb.cc.rs6.net IN CNAME .
@@ -900,18 +890,16 @@ s1.exacttarget.com IN CNAME .
 *.s1.exacttarget.com IN CNAME .
 s10.exacttarget.com IN CNAME .
 *.s10.exacttarget.com IN CNAME .
-s10.login.exacttarget.com IN CNAME .
-*.s10.login.exacttarget.com IN CNAME .
 s11.exacttarget.com IN CNAME .
 *.s11.exacttarget.com IN CNAME .
 s12.exacttarget.com IN CNAME .
 *.s12.exacttarget.com IN CNAME .
-s12.login.exacttarget.com IN CNAME .
-*.s12.login.exacttarget.com IN CNAME .
 s13.exacttarget.com IN CNAME .
 *.s13.exacttarget.com IN CNAME .
 s4.exacttarget.com IN CNAME .
 *.s4.exacttarget.com IN CNAME .
+s5.exacttarget.com IN CNAME .
+*.s5.exacttarget.com IN CNAME .
 s50.exacttarget.com IN CNAME .
 *.s50.exacttarget.com IN CNAME .
 s51.exacttarget.com IN CNAME .
@@ -970,10 +958,14 @@ static.cleverpush.com IN CNAME .
 *.static.cleverpush.com IN CNAME .
 stvkr.com IN CNAME .
 *.stvkr.com IN CNAME .
+suite.emarsys.net IN CNAME .
+*.suite.emarsys.net IN CNAME .
 suite10.emarsys.net IN CNAME .
 *.suite10.emarsys.net IN CNAME .
 suite11.emarsys.net IN CNAME .
 *.suite11.emarsys.net IN CNAME .
+suite15.emarsys.net IN CNAME .
+*.suite15.emarsys.net IN CNAME .
 suite16.emarsys.net IN CNAME .
 *.suite16.emarsys.net IN CNAME .
 suite17.emarsys.net IN CNAME .
@@ -984,8 +976,6 @@ suite24.emarsys.net IN CNAME .
 *.suite24.emarsys.net IN CNAME .
 suite29.emarsys.net IN CNAME .
 *.suite29.emarsys.net IN CNAME .
-suite32.emarsys.net IN CNAME .
-*.suite32.emarsys.net IN CNAME .
 suite33.emarsys.net IN CNAME .
 *.suite33.emarsys.net IN CNAME .
 suite34.emarsys.net IN CNAME .
@@ -994,8 +984,12 @@ suite36.emarsys.net IN CNAME .
 *.suite36.emarsys.net IN CNAME .
 suite38.emarsys.net IN CNAME .
 *.suite38.emarsys.net IN CNAME .
+suite40-cf.emarsys.net IN CNAME .
+*.suite40-cf.emarsys.net IN CNAME .
 suite40.emarsys.net IN CNAME .
 *.suite40.emarsys.net IN CNAME .
+suite44.emarsys.net IN CNAME .
+*.suite44.emarsys.net IN CNAME .
 suite45.emarsys.net IN CNAME .
 *.suite45.emarsys.net IN CNAME .
 suite54.emarsys.net IN CNAME .
