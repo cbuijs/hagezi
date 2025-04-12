@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1744412845 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1744499244 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -237,6 +237,8 @@ dns.koala.us.to IN CNAME .
 *.dns.koala.us.to IN CNAME .
 dns.korzhyk.pp.ua IN CNAME .
 *.dns.korzhyk.pp.ua IN CNAME .
+dns.linkr.ninja IN CNAME .
+*.dns.linkr.ninja IN CNAME .
 dns.mayx.eu.org IN CNAME .
 *.dns.mayx.eu.org IN CNAME .
 dns.mnet-online.de IN CNAME .
