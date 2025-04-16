@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1744499790 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1744845391 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -15,8 +15,6 @@ aax-dtb-mobile-geo.amazon-adsystem.amazon.com IN CNAME .
 *.aax-dtb-mobile-geo.amazon-adsystem.amazon.com IN CNAME .
 aax-eu-retail-direct.amazon-adsystem.com IN CNAME .
 *.aax-eu-retail-direct.amazon-adsystem.com IN CNAME .
-aax-eu-retail-direct.dub.amazon.com IN CNAME .
-*.aax-eu-retail-direct.dub.amazon.com IN CNAME .
 aax-eu.amazon.ae IN CNAME .
 *.aax-eu.amazon.ae IN CNAME .
 aax-eu.amazon.co.uk IN CNAME .
@@ -37,8 +35,6 @@ aax-eu.amazon.it IN CNAME .
 *.aax-eu.amazon.it IN CNAME .
 aax-eu.amazon.nl IN CNAME .
 *.aax-eu.amazon.nl IN CNAME .
-aax-fe-pdx-direct.amazon.com IN CNAME .
-*.aax-fe-pdx-direct.amazon.com IN CNAME .
 aax-fe.amazon.co.jp IN CNAME .
 *.aax-fe.amazon.co.jp IN CNAME .
 aax-fe.amazon.com.au IN CNAME .
@@ -51,8 +47,6 @@ aax-ott.amazon-adsystem.amazon.com IN CNAME .
 *.aax-ott.amazon-adsystem.amazon.com IN CNAME .
 aax-us-east-retail-direct.amazon.com IN CNAME .
 *.aax-us-east-retail-direct.amazon.com IN CNAME .
-aax-us-east-retail-direct.iad.amazon.com IN CNAME .
-*.aax-us-east-retail-direct.iad.amazon.com IN CNAME .
 aax-us-iad.amazon.com IN CNAME .
 *.aax-us-iad.amazon.com IN CNAME .
 aax-us-ott.amazon-adsystem.amazon.com IN CNAME .
@@ -73,8 +67,6 @@ action.metaffiliation.com IN CNAME .
 *.action.metaffiliation.com IN CNAME .
 ad.admitad.com IN CNAME .
 *.ad.admitad.com IN CNAME .
-ad.atdmt.com IN CNAME .
-*.ad.atdmt.com IN CNAME .
 ad.doubleclick.net IN CNAME .
 *.ad.doubleclick.net IN CNAME .
 ad.dyntracker.de IN CNAME .
@@ -219,8 +211,6 @@ api.pushwoosh.com IN CNAME .
 *.api.pushwoosh.com IN CNAME .
 api.webengage.com IN CNAME .
 *.api.webengage.com IN CNAME .
-apiservices.krxd.net IN CNAME .
-*.apiservices.krxd.net IN CNAME .
 app.adjust.cn IN CNAME .
 *.app.adjust.cn IN CNAME .
 app.adjust.com IN CNAME .
@@ -277,8 +267,6 @@ bizrate.com IN CNAME .
 *.bizrate.com IN CNAME .
 bnc.lt IN CNAME .
 *.bnc.lt IN CNAME .
-bs.serving-sys.com IN CNAME .
-*.bs.serving-sys.com IN CNAME .
 buff.ly IN CNAME .
 *.buff.ly IN CNAME .
 c.apple.com IN CNAME .
@@ -385,8 +373,6 @@ click.em.samsclub.com IN CNAME .
 *.click.em.samsclub.com IN CNAME .
 click.email.jcpenney.com IN CNAME .
 *.click.email.jcpenney.com IN CNAME .
-click.email.newegg.com IN CNAME .
-*.click.email.newegg.com IN CNAME .
 click.email.sonos.com IN CNAME .
 *.click.email.sonos.com IN CNAME .
 click.emcom.bankofamerica.com IN CNAME .
@@ -493,8 +479,6 @@ creators.gumroad.com IN CNAME .
 *.creators.gumroad.com IN CNAME .
 csd.dotomi.com IN CNAME .
 *.csd.dotomi.com IN CNAME .
-ct.impactradius.com IN CNAME .
-*.ct.impactradius.com IN CNAME .
 ct.sendgrid.net IN CNAME .
 *.ct.sendgrid.net IN CNAME .
 ctagm.tchibo.de IN CNAME .
@@ -523,12 +507,8 @@ dpbolvw.net IN CNAME .
 *.dpbolvw.net IN CNAME .
 e.customeriomail.com IN CNAME .
 *.e.customeriomail.com IN CNAME .
-ea.galerieslafayette.com IN CNAME .
-*.ea.galerieslafayette.com IN CNAME .
 email-tracking.infobip.com IN CNAME .
 *.email-tracking.infobip.com IN CNAME .
-email.docker.com IN CNAME .
-*.email.docker.com IN CNAME .
 email.microsoft.com IN CNAME .
 *.email.microsoft.com IN CNAME .
 email.microsoftemail.com IN CNAME .
@@ -605,8 +585,6 @@ go2jump.org IN CNAME .
 *.go2jump.org IN CNAME .
 gopjn.com IN CNAME .
 *.gopjn.com IN CNAME .
-goto.algolia.com IN CNAME .
-*.goto.algolia.com IN CNAME .
 goto.jet.com IN CNAME .
 *.goto.jet.com IN CNAME .
 goto.target.com IN CNAME .
@@ -615,8 +593,6 @@ gotrackier.com IN CNAME .
 *.gotrackier.com IN CNAME .
 gr-go.kelkoogroup.net IN CNAME .
 *.gr-go.kelkoogroup.net IN CNAME .
-guce.advertising.com IN CNAME .
-*.guce.advertising.com IN CNAME .
 href.li IN CNAME .
 *.href.li IN CNAME .
 hs.eloqua.com IN CNAME .
@@ -657,20 +633,18 @@ l.klarna.com IN CNAME .
 *.l.klarna.com IN CNAME .
 l.lefigaro.fr IN CNAME .
 *.l.lefigaro.fr IN CNAME .
+lddy.no IN CNAME .
+*.lddy.no IN CNAME .
 link.betclic.com IN CNAME .
 *.link.betclic.com IN CNAME .
 link.dana.id IN CNAME .
 *.link.dana.id IN CNAME .
-link.epicgames.com IN CNAME .
-*.link.epicgames.com IN CNAME .
 link.springer.com IN CNAME .
 *.link.springer.com IN CNAME .
 link.sylikes.com IN CNAME .
 *.link.sylikes.com IN CNAME .
 link.us.paramountplus.com IN CNAME .
 *.link.us.paramountplus.com IN CNAME .
-link.wizzair.com IN CNAME .
-*.link.wizzair.com IN CNAME .
 links-na.afterpay.com IN CNAME .
 *.links-na.afterpay.com IN CNAME .
 links.email.crunchbase.com IN CNAME .
@@ -735,8 +709,6 @@ open.spotify.com IN CNAME .
 *.open.spotify.com IN CNAME .
 openinapp.link IN CNAME .
 *.openinapp.link IN CNAME .
-ozon-cdn.exponea.com IN CNAME .
-*.ozon-cdn.exponea.com IN CNAME .
 p.placed.com IN CNAME .
 *.p.placed.com IN CNAME .
 pepperjamnetwork.com IN CNAME .
@@ -883,8 +855,6 @@ secure.everyaction.com IN CNAME .
 *.secure.everyaction.com IN CNAME .
 sendgrid-secure.bluecore.com IN CNAME .
 *.sendgrid-secure.bluecore.com IN CNAME .
-servedby.o2.co.uk IN CNAME .
-*.servedby.o2.co.uk IN CNAME .
 seu.cleverreach.com IN CNAME .
 *.seu.cleverreach.com IN CNAME .
 seu1.cleverreach.com IN CNAME .
@@ -991,8 +961,6 @@ t.lt02.net IN CNAME .
 *.t.lt02.net IN CNAME .
 t.mmtrkr.com IN CNAME .
 *.t.mmtrkr.com IN CNAME .
-t.myvisualiq.net IN CNAME .
-*.t.myvisualiq.net IN CNAME .
 t.yesware.com IN CNAME .
 *.t.yesware.com IN CNAME .
 t13.intelliad.de IN CNAME .
