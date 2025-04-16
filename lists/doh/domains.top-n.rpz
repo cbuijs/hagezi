@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1744499244 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1744844844 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -37,6 +37,8 @@ adblock-dot.dnswarden.com IN CNAME .
 *.adblock-dot.dnswarden.com IN CNAME .
 adguard-dns.com IN CNAME .
 *.adguard-dns.com IN CNAME .
+adguard.lege.despagne.net IN CNAME .
+*.adguard.lege.despagne.net IN CNAME .
 adguard1.leadmon.net IN CNAME .
 *.adguard1.leadmon.net IN CNAME .
 adult-filter-dot.dnswarden.com IN CNAME .
@@ -225,6 +227,8 @@ dns.hinet.net IN CNAME .
 *.dns.hinet.net IN CNAME .
 dns.hostux.net IN CNAME .
 *.dns.hostux.net IN CNAME .
+dns.ikataruto.com IN CNAME .
+*.dns.ikataruto.com IN CNAME .
 dns.islandnet.com IN CNAME .
 *.dns.islandnet.com IN CNAME .
 dns.kamilszczepanski.com IN CNAME .
@@ -457,8 +461,6 @@ doh.umbrella.com IN CNAME .
 *.doh.umbrella.com IN CNAME .
 doh.us.dnswarden.com IN CNAME .
 *.doh.us.dnswarden.com IN CNAME .
-doh.viatech.com.tw IN CNAME .
-*.doh.viatech.com.tw IN CNAME .
 doh.westeu.pi-dns.com IN CNAME .
 *.doh.westeu.pi-dns.com IN CNAME .
 doh.westus.pi-dns.com IN CNAME .
@@ -739,6 +741,8 @@ ordns.he.net IN CNAME .
 *.ordns.he.net IN CNAME .
 ore-dns.bitdefender.net IN CNAME .
 *.ore-dns.bitdefender.net IN CNAME .
+osefcorp.duckdns.org IN CNAME .
+*.osefcorp.duckdns.org IN CNAME .
 par01.dnscry.pt IN CNAME .
 *.par01.dnscry.pt IN CNAME .
 pates.services.sfr.fr.casepp.sfr.fr IN CNAME .
