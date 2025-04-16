@@ -1,12 +1,14 @@
 ; RPZ "NATIVE-HUAWEI-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1744499386 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1744844987 12h 15m 3w 3h
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn IN CNAME .
 *.0001-metrics1-data-hicloud-com.geac.dbankedge.cn IN CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn IN CNAME .
 *.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn IN CNAME .
 0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn IN CNAME .
 *.0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn IN CNAME .
+ads-drcn.platform.hihonorcloud.com IN CNAME .
+*.ads-drcn.platform.hihonorcloud.com IN CNAME .
 ads-drru.cloud.huawei.ru IN CNAME .
 *.ads-drru.cloud.huawei.ru IN CNAME .
 ads.cloud.huawei.com IN CNAME .
@@ -57,6 +59,8 @@ dt.dbankcloud.ru IN CNAME .
 *.dt.dbankcloud.ru IN CNAME .
 dt.hicloud.com IN CNAME .
 *.dt.hicloud.com IN CNAME .
+dt.hihonorcloud.com IN CNAME .
+*.dt.hihonorcloud.com IN CNAME .
 events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn IN CNAME .
 *.events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn IN CNAME .
 events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn IN CNAME .
@@ -119,6 +123,8 @@ grs-dbankcloud-com-dre.edge.dbankedge.cn IN CNAME .
 *.grs-dbankcloud-com-dre.edge.dbankedge.cn IN CNAME .
 grs-dbankcloud-com-dre.region.dbankedge.cn IN CNAME .
 *.grs-dbankcloud-com-dre.region.dbankedge.cn IN CNAME .
+grs-test.platform.hihonorcloud.com IN CNAME .
+*.grs-test.platform.hihonorcloud.com IN CNAME .
 grs.dbankcloud.asia IN CNAME .
 *.grs.dbankcloud.asia IN CNAME .
 grs.dbankcloud.cn IN CNAME .
@@ -129,10 +135,38 @@ grs.dbankcloud.eu IN CNAME .
 *.grs.dbankcloud.eu IN CNAME .
 grs.hicloud.com IN CNAME .
 *.grs.hicloud.com IN CNAME .
+grs.hihonorcloud.com IN CNAME .
+*.grs.hihonorcloud.com IN CNAME .
 grs.platform.dbankcloud.ru IN CNAME .
 *.grs.platform.dbankcloud.ru IN CNAME .
+hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn IN CNAME .
+*.hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn IN CNAME .
+hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn IN CNAME .
+*.hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn IN CNAME .
+hisearch-dra-dt-dbankcloud-com-dra.edge.dbankedge.cn IN CNAME .
+*.hisearch-dra-dt-dbankcloud-com-dra.edge.dbankedge.cn IN CNAME .
 hisearch-dra.dt.dbankcloud.com IN CNAME .
 *.hisearch-dra.dt.dbankcloud.com IN CNAME .
+hisearch-drcn.dt.dbankcloud.com IN CNAME .
+*.hisearch-drcn.dt.dbankcloud.com IN CNAME .
+hisearch-dre.dt.dbankcloud.com IN CNAME .
+*.hisearch-dre.dt.dbankcloud.com IN CNAME .
+hisearch-drru.dt.dbankcloud.com IN CNAME .
+*.hisearch-drru.dt.dbankcloud.com IN CNAME .
+honorsearch-dra.hiboard.hihonorcloud.com IN CNAME .
+*.honorsearch-dra.hiboard.hihonorcloud.com IN CNAME .
+honorsearch-drcn.hiboard.hihonorcloud.com IN CNAME .
+*.honorsearch-drcn.hiboard.hihonorcloud.com IN CNAME .
+honorsearch-dre.hiboard.hihonorcloud.com IN CNAME .
+*.honorsearch-dre.hiboard.hihonorcloud.com IN CNAME .
+log-dra.platform.hihonorcloud.com IN CNAME .
+*.log-dra.platform.hihonorcloud.com IN CNAME .
+log-drcn.platform.hihonorcloud.com IN CNAME .
+*.log-drcn.platform.hihonorcloud.com IN CNAME .
+log-dre.platform.hihonorcloud.com IN CNAME .
+*.log-dre.platform.hihonorcloud.com IN CNAME .
+log-drru.platform.hihonorcloud.com IN CNAME .
+*.log-drru.platform.hihonorcloud.com IN CNAME .
 logbak.hicloud.com IN CNAME .
 *.logbak.hicloud.com IN CNAME .
 logserver.nzxcloud.cn IN CNAME .
