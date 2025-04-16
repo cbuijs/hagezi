@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1744499255 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1744844855 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -171,6 +171,8 @@ dnsalias.org IN CNAME .
 *.dnsalias.org IN CNAME .
 dnsdojo.com IN CNAME .
 *.dnsdojo.com IN CNAME .
+dnsdojo.org IN CNAME .
+*.dnsdojo.org IN CNAME .
 dnset.com IN CNAME .
 *.dnset.com IN CNAME .
 dnsexit.com IN CNAME .
@@ -263,6 +265,8 @@ dyndns-server.com IN CNAME .
 *.dyndns-server.com IN CNAME .
 dyndns-web.com IN CNAME .
 *.dyndns-web.com IN CNAME .
+dyndns-wiki.com IN CNAME .
+*.dyndns-wiki.com IN CNAME .
 dyndns-work.com IN CNAME .
 *.dyndns-work.com IN CNAME .
 dyndns.biz IN CNAME .
@@ -337,8 +341,6 @@ freeddns.com IN CNAME .
 *.freeddns.com IN CNAME .
 freeddns.org IN CNAME .
 *.freeddns.org IN CNAME .
-freedynamicdns.org IN CNAME .
-*.freedynamicdns.org IN CNAME .
 freemyip.com IN CNAME .
 *.freemyip.com IN CNAME .
 freetcp.com IN CNAME .
@@ -401,12 +403,16 @@ gotdns.com IN CNAME .
 *.gotdns.com IN CNAME .
 gotdns.org IN CNAME .
 *.gotdns.org IN CNAME .
+govt.hu IN CNAME .
+*.govt.hu IN CNAME .
 guild-site.com IN CNAME .
 *.guild-site.com IN CNAME .
 ham-radio-op.net IN CNAME .
 *.ham-radio-op.net IN CNAME .
 hbmc.net IN CNAME .
 *.hbmc.net IN CNAME .
+heroinewarrior.com IN CNAME .
+*.heroinewarrior.com IN CNAME .
 hldns.ru IN CNAME .
 *.hldns.ru IN CNAME .
 hobby-site.com IN CNAME .
@@ -435,6 +441,8 @@ homesecuritypc.com IN CNAME .
 *.homesecuritypc.com IN CNAME .
 homeunix.net IN CNAME .
 *.homeunix.net IN CNAME .
+homeunix.org IN CNAME .
+*.homeunix.org IN CNAME .
 homingbeacon.net IN CNAME .
 *.homingbeacon.net IN CNAME .
 hopto.me IN CNAME .
@@ -567,6 +575,8 @@ myddns.com IN CNAME .
 *.myddns.com IN CNAME .
 myddns.me IN CNAME .
 *.myddns.me IN CNAME .
+myddns.rocks IN CNAME .
+*.myddns.rocks IN CNAME .
 myeffect.net IN CNAME .
 *.myeffect.net IN CNAME .
 myftp.biz IN CNAME .
@@ -675,8 +685,6 @@ onmypc.info IN CNAME .
 *.onmypc.info IN CNAME .
 onmypc.net IN CNAME .
 *.onmypc.net IN CNAME .
-onmypc.org IN CNAME .
-*.onmypc.org IN CNAME .
 onthewifi.com IN CNAME .
 *.onthewifi.com IN CNAME .
 ooguy.com IN CNAME .
@@ -769,8 +777,6 @@ servepics.com IN CNAME .
 *.servepics.com IN CNAME .
 servequake.com IN CNAME .
 *.servequake.com IN CNAME .
-servesarcasm.com IN CNAME .
-*.servesarcasm.com IN CNAME .
 serveuser.com IN CNAME .
 *.serveuser.com IN CNAME .
 serveusers.com IN CNAME .
@@ -845,8 +851,6 @@ viewdns.net IN CNAME .
 *.viewdns.net IN CNAME .
 webhop.biz IN CNAME .
 *.webhop.biz IN CNAME .
-webhop.info IN CNAME .
-*.webhop.info IN CNAME .
 webhop.me IN CNAME .
 *.webhop.me IN CNAME .
 webhop.net IN CNAME .
