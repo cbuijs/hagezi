@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1744844844 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1744931246 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -775,6 +775,8 @@ punono.duckdns.org IN CNAME .
 *.punono.duckdns.org IN CNAME .
 qlf-doh.inria.fr IN CNAME .
 *.qlf-doh.inria.fr IN CNAME .
+r1bnc.com IN CNAME .
+*.r1bnc.com IN CNAME .
 rdd01.dnscry.pt IN CNAME .
 *.rdd01.dnscry.pt IN CNAME .
 rdns.faelix.net IN CNAME .
@@ -803,6 +805,8 @@ resolver2-fs.opendns.com IN CNAME .
 *.resolver2-fs.opendns.com IN CNAME .
 resolver2.absolight.net IN CNAME .
 *.resolver2.absolight.net IN CNAME .
+resolver2.dyndnsinternetguide.com IN CNAME .
+*.resolver2.dyndnsinternetguide.com IN CNAME .
 resolver2.ipv6-sandbox.opendns.com IN CNAME .
 *.resolver2.ipv6-sandbox.opendns.com IN CNAME .
 resolver2.opendns.com IN CNAME .
