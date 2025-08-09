@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-WINOFFICE"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754644166 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754730586 12h 15m 3w 3h
 a-ring-fallback.msedge.net IN CNAME .
 *.a-ring-fallback.msedge.net IN CNAME .
 a-ring-ipv6only.msedge.net IN CNAME .
@@ -13,12 +13,18 @@ ac2.msn.com IN CNAME .
 *.ac2.msn.com IN CNAME .
 ac3.msn.com IN CNAME .
 *.ac3.msn.com IN CNAME .
+acs-events.trafficmanager.net IN CNAME .
+*.acs-events.trafficmanager.net IN CNAME .
 activity.windows.com IN CNAME .
 *.activity.windows.com IN CNAME .
 ad.msn.com IN CNAME .
 *.ad.msn.com IN CNAME .
 adevents.msn.com IN CNAME .
 *.adevents.msn.com IN CNAME .
+ads-act-test.trafficmanager.net IN CNAME .
+*.ads-act-test.trafficmanager.net IN CNAME .
+ads-act.trafficmanager.net IN CNAME .
+*.ads-act.trafficmanager.net IN CNAME .
 ads-msn-com-profile.trafficmanager.net IN CNAME .
 *.ads-msn-com-profile.trafficmanager.net IN CNAME .
 ads.bing.com IN CNAME .
@@ -31,10 +37,16 @@ ads.microsoft.com IN CNAME .
 *.ads.microsoft.com IN CNAME .
 ads.msn.com IN CNAME .
 *.ads.msn.com IN CNAME .
+ads.trafficmanager.net IN CNAME .
+*.ads.trafficmanager.net IN CNAME .
 ads1.msn.com IN CNAME .
 *.ads1.msn.com IN CNAME .
 ads2.msn.com IN CNAME .
 *.ads2.msn.com IN CNAME .
+adsdemandcatalog.trafficmanager.net IN CNAME .
+*.adsdemandcatalog.trafficmanager.net IN CNAME .
+adsdemandcatalogapi.trafficmanager.net IN CNAME .
+*.adsdemandcatalogapi.trafficmanager.net IN CNAME .
 adsdisplay.glbdns2.microsoft.com IN CNAME .
 *.adsdisplay.glbdns2.microsoft.com IN CNAME .
 adsdk.microsoft.com IN CNAME .
@@ -53,6 +65,8 @@ adsdktelemetry-prod.servicebus.windows.net IN CNAME .
 *.adsdktelemetry-prod.servicebus.windows.net IN CNAME .
 adserver.bing.com IN CNAME .
 *.adserver.bing.com IN CNAME .
+adsl.trafficmanager.net IN CNAME .
+*.adsl.trafficmanager.net IN CNAME .
 adsstatic-int.microsoft.com IN CNAME .
 *.adsstatic-int.microsoft.com IN CNAME .
 adsstatic.microsoft.com IN CNAME .
@@ -113,6 +127,12 @@ atm-settingsfe-prod-geo2.trafficmanager.net IN CNAME .
 *.atm-settingsfe-prod-geo2.trafficmanager.net IN CNAME .
 auc-visio-telemetry.officeapps.live.com IN CNAME .
 *.auc-visio-telemetry.officeapps.live.com IN CNAME .
+avdab-p-corniche-events-relay.trafficmanager.net IN CNAME .
+*.avdab-p-corniche-events-relay.trafficmanager.net IN CNAME .
+avdab-s-corniche-events-relay.trafficmanager.net IN CNAME .
+*.avdab-s-corniche-events-relay.trafficmanager.net IN CNAME .
+avdab-t-corniche-events-relay.trafficmanager.net IN CNAME .
+*.avdab-t-corniche-events-relay.trafficmanager.net IN CNAME .
 az667904.vo.msecnd.net IN CNAME .
 *.az667904.vo.msecnd.net IN CNAME .
 azsc-bingads-centralus.centralus.cloudapp.azure.com IN CNAME .
@@ -331,6 +351,8 @@ euc-word-telemetry.officeapps.live.com IN CNAME .
 *.euc-word-telemetry.officeapps.live.com IN CNAME .
 euc-word-telemetry.wac.trafficmanager.net IN CNAME .
 *.euc-word-telemetry.wac.trafficmanager.net IN CNAME .
+eudfmeventsapiprod.trafficmanager.net IN CNAME .
+*.eudfmeventsapiprod.trafficmanager.net IN CNAME .
 eurffc-word-telemetry.officeapps.live.com IN CNAME .
 *.eurffc-word-telemetry.officeapps.live.com IN CNAME .
 eurppc-excel-telemetry.officeapps.live.com IN CNAME .
@@ -367,6 +389,8 @@ flex.msn.com IN CNAME .
 *.flex.msn.com IN CNAME .
 fp.msedge.net IN CNAME .
 *.fp.msedge.net IN CNAME .
+fraudeventsvc-ppe.trafficmanager.net IN CNAME .
+*.fraudeventsvc-ppe.trafficmanager.net IN CNAME .
 frc-visio-telemetry.officeapps.live.com IN CNAME .
 *.frc-visio-telemetry.officeapps.live.com IN CNAME .
 fsad.trafficmanager.net IN CNAME .
@@ -507,6 +531,8 @@ oms-analytics.trafficmanager.net IN CNAME .
 *.oms-analytics.trafficmanager.net IN CNAME .
 outlookads.live.com IN CNAME .
 *.outlookads.live.com IN CNAME .
+partnerfraudevents.trafficmanager.net IN CNAME .
+*.partnerfraudevents.trafficmanager.net IN CNAME .
 pgtbr1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 *.pgtbr1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 pgtbr1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
@@ -767,6 +793,8 @@ track.notif.careersppe.microsoft.com IN CNAME .
 *.track.notif.careersppe.microsoft.com IN CNAME .
 tracker.flightview.com.trafficmanager.net IN CNAME .
 *.tracker.flightview.com.trafficmanager.net IN CNAME .
+traf-fraudevents-int.trafficmanager.net IN CNAME .
+*.traf-fraudevents-int.trafficmanager.net IN CNAME .
 udc.msn.com IN CNAME .
 *.udc.msn.com IN CNAME .
 ui.ads-int.microsoft.com IN CNAME .
