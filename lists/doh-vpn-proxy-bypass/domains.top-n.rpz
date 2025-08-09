@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1754644053 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1754730457 12h 15m 3w 3h
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 *.0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 012e4d818491706869cfd3ebffb2c8aac4ac56f8-m.proxy1.startpage.com IN CNAME .
@@ -97,8 +97,6 @@ $TTL 3600
 *.12226b7cf5f8972a2a9878c3f11c3d3a31b0d22a-m.proxy1.startpage.com IN CNAME .
 123proxy.app IN CNAME .
 *.123proxy.app IN CNAME .
-130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com IN CNAME .
-*.130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com IN CNAME .
 139e6e2d2abe458025c30fa138137ce0c31bdfd0-m.proxy1.startpage.com IN CNAME .
 *.139e6e2d2abe458025c30fa138137ce0c31bdfd0-m.proxy1.startpage.com IN CNAME .
 13c858f9bc5cf5f2310d5fe1899c70ce12b5cf3c-m.proxy2.startpage.com IN CNAME .
@@ -151,6 +149,8 @@ $TTL 3600
 *.2.dnscrypt-cert.shield-2.dnsbycomodo.com IN CNAME .
 20374040a718112b4aaffa7c8b5c9a7b34101f5b-m.proxy1.startpage.com IN CNAME .
 *.20374040a718112b4aaffa7c8b5c9a7b34101f5b-m.proxy1.startpage.com IN CNAME .
+20715f4a4fb0ae1e41fb82a3aa35b9d8acf60d5c-m.proxy1.startpage.com IN CNAME .
+*.20715f4a4fb0ae1e41fb82a3aa35b9d8acf60d5c-m.proxy1.startpage.com IN CNAME .
 218c507e876c1e11a842bf9708336d98f8497ade-m.proxy1.startpage.com IN CNAME .
 *.218c507e876c1e11a842bf9708336d98f8497ade-m.proxy1.startpage.com IN CNAME .
 21d625988c079175e3a1b75199102bb3b915a8e3-m.proxy1.startpage.com IN CNAME .
@@ -161,6 +161,8 @@ $TTL 3600
 *.23e6c761ae426d89b9a677a667411fe386c1833e-m.proxy1.startpage.com IN CNAME .
 23f5dfd4df2e8006159a97ad7034bff6f45f6599-m.proxy1.startpage.com IN CNAME .
 *.23f5dfd4df2e8006159a97ad7034bff6f45f6599-m.proxy1.startpage.com IN CNAME .
+247eb30de9394268c62c6d52e1f5b401b75ea5ab-m.proxy1.startpage.com IN CNAME .
+*.247eb30de9394268c62c6d52e1f5b401b75ea5ab-m.proxy1.startpage.com IN CNAME .
 2509474d8871e70589306f5337f0618d1e6b8510-m.proxy2.startpage.com IN CNAME .
 *.2509474d8871e70589306f5337f0618d1e6b8510-m.proxy2.startpage.com IN CNAME .
 258ea3dee44247d799aa00227a4ccb97be7bc42a-m.proxy2.startpage.com IN CNAME .
@@ -271,6 +273,8 @@ $TTL 3600
 *.3d5012d580d29efcf056d347832a4f75754e7040-m.proxy1.startpage.com IN CNAME .
 3ecc406873fb0b3b127ff0c34eb4cd5765b724d2-m.proxy1.startpage.com IN CNAME .
 *.3ecc406873fb0b3b127ff0c34eb4cd5765b724d2-m.proxy1.startpage.com IN CNAME .
+3f0c44bbaa89e8730fdb097b6dd5f5cd75d5b4c4-m.proxy1.startpage.com IN CNAME .
+*.3f0c44bbaa89e8730fdb097b6dd5f5cd75d5b4c4-m.proxy1.startpage.com IN CNAME .
 401-0506.b-cdn.net IN CNAME .
 *.401-0506.b-cdn.net IN CNAME .
 401-0507.b-cdn.net IN CNAME .
@@ -309,6 +313,8 @@ $TTL 3600
 *.4b7788b0174b0bf7085f4099be709d9b751e83b2-m.proxy2.startpage.com IN CNAME .
 4bf6911033a4cc5af588409123ed7736d7af996f-m.proxy1.startpage.com IN CNAME .
 *.4bf6911033a4cc5af588409123ed7736d7af996f-m.proxy1.startpage.com IN CNAME .
+4c7e6b3b3013b003b7316affe9915d569b529b17-m.proxy1.startpage.com IN CNAME .
+*.4c7e6b3b3013b003b7316affe9915d569b529b17-m.proxy1.startpage.com IN CNAME .
 4d14c03e7364e7c16a85de6096be1e5580d00d8a-m.proxy1.startpage.com IN CNAME .
 *.4d14c03e7364e7c16a85de6096be1e5580d00d8a-m.proxy1.startpage.com IN CNAME .
 4d6e448015bf0ca52f3f733baeab4ffdf54280d6-m.proxy1.startpage.com IN CNAME .
@@ -497,6 +503,8 @@ $TTL 3600
 *.7f844183a40e02d8e2abe6347721b7d284b778d2-m.proxy2.startpage.com IN CNAME .
 80fe8714f4516099c1dfbce2ab55ae8babc61ac1-m.proxy2.startpage.com IN CNAME .
 *.80fe8714f4516099c1dfbce2ab55ae8babc61ac1-m.proxy2.startpage.com IN CNAME .
+815b35988a57204bbcf9c803943dea8f7fa20157-m.proxy1.startpage.com IN CNAME .
+*.815b35988a57204bbcf9c803943dea8f7fa20157-m.proxy1.startpage.com IN CNAME .
 81cdc8ef9278b0be8015cc23b247ab8af48464b3-m.proxy1.startpage.com IN CNAME .
 *.81cdc8ef9278b0be8015cc23b247ab8af48464b3-m.proxy1.startpage.com IN CNAME .
 823b0b8f253fd6cf3fa804b512168a7f61dee931-m.proxy2.startpage.com IN CNAME .
@@ -535,6 +543,8 @@ $TTL 3600
 *.8adc38c41dca7ea7c6c120d62a3690a4a96660ce-m.proxy2.startpage.com IN CNAME .
 8bcbad262933ffb2d67c3e48a5152a16a9af2d30-m.proxy1.startpage.com IN CNAME .
 *.8bcbad262933ffb2d67c3e48a5152a16a9af2d30-m.proxy1.startpage.com IN CNAME .
+8bec6428b06b86506079433b8b111aa0ae465b3b-m.proxy1.startpage.com IN CNAME .
+*.8bec6428b06b86506079433b8b111aa0ae465b3b-m.proxy1.startpage.com IN CNAME .
 8d1b400cfe4bc1747443064b08f34f6f02828dc7-m.proxy2.startpage.com IN CNAME .
 *.8d1b400cfe4bc1747443064b08f34f6f02828dc7-m.proxy2.startpage.com IN CNAME .
 8e82dcb1175dbee969d7a834baad5a7554de5663-m.proxy2.startpage.com IN CNAME .
@@ -637,6 +647,8 @@ a18d4eaa05b6ac19a0b109839c5b0ca2542c85ca-m.proxy2.startpage.com IN CNAME .
 *.a18d4eaa05b6ac19a0b109839c5b0ca2542c85ca-m.proxy2.startpage.com IN CNAME .
 a1free-optimal.prcdn.net IN CNAME .
 *.a1free-optimal.prcdn.net IN CNAME .
+a325b175c5935ed7068eeb9d9c0953b1787b706f-m.proxy1.startpage.com IN CNAME .
+*.a325b175c5935ed7068eeb9d9c0953b1787b706f-m.proxy1.startpage.com IN CNAME .
 a328437251b0bf0ca8e1c7393c86e4b10c0e4b07-m.proxy2.startpage.com IN CNAME .
 *.a328437251b0bf0ca8e1c7393c86e4b10c0e4b07-m.proxy2.startpage.com IN CNAME .
 a4ebbe7e594bfa3b088291bd2d546cc05324b99d-m.proxy1.startpage.com IN CNAME .
@@ -667,6 +679,8 @@ aa0306afdb78e7bd45ae0c0ac008ed4e7827095c-m.proxy2.startpage.com IN CNAME .
 *.aa0306afdb78e7bd45ae0c0ac008ed4e7827095c-m.proxy2.startpage.com IN CNAME .
 aab2ddc0725b0e6110627d2706f4c5094948a377-m.proxy1.startpage.com IN CNAME .
 *.aab2ddc0725b0e6110627d2706f4c5094948a377-m.proxy1.startpage.com IN CNAME .
+aac7bd51110ae494ca80c55a62bff6b1e9c76e0e-m.proxy1.startpage.com IN CNAME .
+*.aac7bd51110ae494ca80c55a62bff6b1e9c76e0e-m.proxy1.startpage.com IN CNAME .
 aaf2f0b688f7c24e453fd7a17d6ef3509449ee2a-m.proxy2.startpage.com IN CNAME .
 *.aaf2f0b688f7c24e453fd7a17d6ef3509449ee2a-m.proxy2.startpage.com IN CNAME .
 aahfgdd.mooo.com IN CNAME .
@@ -711,12 +725,6 @@ adguard1.leadmon.net IN CNAME .
 *.adguard1.leadmon.net IN CNAME .
 adult-filter-dot.dnswarden.com IN CNAME .
 *.adult-filter-dot.dnswarden.com IN CNAME .
-ae-fuj-w-p-1.nashkan.net IN CNAME .
-*.ae-fuj-w-p-1.nashkan.net IN CNAME .
-ae-fuj-w-p-2.nashkan.net IN CNAME .
-*.ae-fuj-w-p-2.nashkan.net IN CNAME .
-ae-fuj-w-p-3.nashkan.net IN CNAME .
-*.ae-fuj-w-p-3.nashkan.net IN CNAME .
 ae285000ab20a9d96fb8984fb60456c8d26a0b3f-m.proxy1.startpage.com IN CNAME .
 *.ae285000ab20a9d96fb8984fb60456c8d26a0b3f-m.proxy1.startpage.com IN CNAME .
 ae339a6786700921bee356fd93ded7e6e973bebb-m.proxy2.startpage.com IN CNAME .
@@ -755,8 +763,6 @@ amandahugnkiss.org IN CNAME .
 *.amandahugnkiss.org IN CNAME .
 amnezia.org IN CNAME .
 *.amnezia.org IN CNAME .
-amp.nov.su IN CNAME .
-*.amp.nov.su IN CNAME .
 ams01.dnscry.pt IN CNAME .
 *.ams01.dnscry.pt IN CNAME .
 ams02.dnscry.pt IN CNAME .
@@ -765,8 +771,6 @@ ams1.startpage.com IN CNAME .
 *.ams1.startpage.com IN CNAME .
 ams2.startpage.com IN CNAME .
 *.ams2.startpage.com IN CNAME .
-anchorfree.net IN CNAME .
-*.anchorfree.net IN CNAME .
 anonymize.com IN CNAME .
 *.anonymize.com IN CNAME .
 anonymizer.com IN CNAME .
@@ -809,8 +813,6 @@ assets-prod-a230.s3.serverwild.com IN CNAME .
 *.assets-prod-a230.s3.serverwild.com IN CNAME .
 astrill.com IN CNAME .
 *.astrill.com IN CNAME .
-at-wie-w-p-1.nashkan.net IN CNAME .
-*.at-wie-w-p-1.nashkan.net IN CNAME .
 ath01.dnscry.pt IN CNAME .
 *.ath01.dnscry.pt IN CNAME .
 atl01.dnscry.pt IN CNAME .
@@ -819,8 +821,6 @@ atlasvpn.com IN CNAME .
 *.atlasvpn.com IN CNAME .
 atomic-silverfish-hegrigg-01e75fa6.koyeb.app IN CNAME .
 *.atomic-silverfish-hegrigg-01e75fa6.koyeb.app IN CNAME .
-au-syd-w-f-1.nashkan.net IN CNAME .
-*.au-syd-w-f-1.nashkan.net IN CNAME .
 avira-vpn.com IN CNAME .
 *.avira-vpn.com IN CNAME .
 avira-vpn.net IN CNAME .
@@ -1005,8 +1005,6 @@ cactusvpn.com IN CNAME .
 *.cactusvpn.com IN CNAME .
 canadianshield.cira.ca IN CNAME .
 *.canadianshield.cira.ca IN CNAME .
-canva.login.1337.cx IN CNAME .
-*.canva.login.1337.cx IN CNAME .
 carebuzz.io IN CNAME .
 *.carebuzz.io IN CNAME .
 cbd855fe64108c251da311b0c94438636a668b4f-m.proxy2.startpage.com IN CNAME .
@@ -1307,12 +1305,10 @@ dd57be2f4c7501735b7f8ad2c0e96f989d3c8afd-m.proxy1.startpage.com IN CNAME .
 *.dd57be2f4c7501735b7f8ad2c0e96f989d3c8afd-m.proxy1.startpage.com IN CNAME .
 ddbbd8bbab889fff7b720781ba2e7e834ae6a7a9-m.proxy1.startpage.com IN CNAME .
 *.ddbbd8bbab889fff7b720781ba2e7e834ae6a7a9-m.proxy1.startpage.com IN CNAME .
-de-fra-w-p-1.nashkan.net IN CNAME .
-*.de-fra-w-p-1.nashkan.net IN CNAME .
-de-fsn-w-p-1.nashkan.net IN CNAME .
-*.de-fsn-w-p-1.nashkan.net IN CNAME .
 de.dns.privex.io IN CNAME .
 *.de.dns.privex.io IN CNAME .
+de5f463136866a172f73d4d817b8eb491744038b-m.proxy1.startpage.com IN CNAME .
+*.de5f463136866a172f73d4d817b8eb491744038b-m.proxy1.startpage.com IN CNAME .
 dee9c1381f071fd280115d033d2c231f97aaa001-m.proxy1.startpage.com IN CNAME .
 *.dee9c1381f071fd280115d033d2c231f97aaa001-m.proxy1.startpage.com IN CNAME .
 deep-sea.dns.navy IN CNAME .
@@ -1349,6 +1345,8 @@ dns-nosec.quad9.net IN CNAME .
 *.dns-nosec.quad9.net IN CNAME .
 dns-ovh.panszelescik.pl IN CNAME .
 *.dns-ovh.panszelescik.pl IN CNAME .
+dns-tunnel-check.googlezip.net IN CNAME .
+*.dns-tunnel-check.googlezip.net IN CNAME .
 dns-unfiltered.adguard.com IN CNAME .
 *.dns-unfiltered.adguard.com IN CNAME .
 dns.233py.com.cdn.cloudflare.net IN CNAME .
@@ -1763,6 +1761,8 @@ e81bbb9ddebc9e571cd1d4694269e01c1f10f4c6-m.proxy1.startpage.com IN CNAME .
 *.e81bbb9ddebc9e571cd1d4694269e01c1f10f4c6-m.proxy1.startpage.com IN CNAME .
 e883fd0d1da78d44addaf50967facf6e1c073179-m.proxy1.startpage.com IN CNAME .
 *.e883fd0d1da78d44addaf50967facf6e1c073179-m.proxy1.startpage.com IN CNAME .
+e8972b66ea87ae88c00efa105e32591b59be49b3-m.proxy1.startpage.com IN CNAME .
+*.e8972b66ea87ae88c00efa105e32591b59be49b3-m.proxy1.startpage.com IN CNAME .
 e8c1db884f20be6c237cf8162a278d04720816c0-m.proxy1.startpage.com IN CNAME .
 *.e8c1db884f20be6c237cf8162a278d04720816c0-m.proxy1.startpage.com IN CNAME .
 e97bd913010bb004d923785d106809c16495c7f8-m.proxy1.startpage.com IN CNAME .
@@ -1949,8 +1949,8 @@ febe5370b59886c31e893e3d5cb00d8ceec56c69-m.proxy2.startpage.com IN CNAME .
 *.febe5370b59886c31e893e3d5cb00d8ceec56c69-m.proxy2.startpage.com IN CNAME .
 fet01.dnscry.pt IN CNAME .
 *.fet01.dnscry.pt IN CNAME .
-fi-hel-w-f-2.nashkan.net IN CNAME .
-*.fi-hel-w-f-2.nashkan.net IN CNAME .
+files-slickvpn.netdna-ssl.com IN CNAME .
+*.files-slickvpn.netdna-ssl.com IN CNAME .
 filter-admins-come-and-get-me.easterndns.com IN CNAME .
 *.filter-admins-come-and-get-me.easterndns.com IN CNAME .
 finchvpn.com IN CNAME .
@@ -1971,8 +1971,6 @@ for-da-boiz.vercel.app IN CNAME .
 *.for-da-boiz.vercel.app IN CNAME .
 fpn.firefox.com IN CNAME .
 *.fpn.firefox.com IN CNAME .
-fr-gra-w-p-1.nashkan.net IN CNAME .
-*.fr-gra-w-p-1.nashkan.net IN CNAME .
 fr1.dnswarden.com IN CNAME .
 *.fr1.dnswarden.com IN CNAME .
 fra-dns.bitdefender.net IN CNAME .
@@ -2015,14 +2013,6 @@ fwgw.orangepipc.mywire.org IN CNAME .
 *.fwgw.orangepipc.mywire.org IN CNAME .
 galileo.math.unipd.it IN CNAME .
 *.galileo.math.unipd.it IN CNAME .
-gb-cov-w-p-1.nashkan.net IN CNAME .
-*.gb-cov-w-p-1.nashkan.net IN CNAME .
-gb-lon-w-f-1.nashkan.net IN CNAME .
-*.gb-lon-w-f-1.nashkan.net IN CNAME .
-gb-lon-w-p-1.nashkan.net IN CNAME .
-*.gb-lon-w-p-1.nashkan.net IN CNAME .
-gb-lon-w-p-2.nashkan.net IN CNAME .
-*.gb-lon-w-p-2.nashkan.net IN CNAME .
 geg01.dnscry.pt IN CNAME .
 *.geg01.dnscry.pt IN CNAME .
 geosurf.io IN CNAME .
@@ -2051,8 +2041,6 @@ getoutline.org IN CNAME .
 *.getoutline.org IN CNAME .
 getproton.me IN CNAME .
 *.getproton.me IN CNAME .
-goal.music.1337.cx IN CNAME .
-*.goal.music.1337.cx IN CNAME .
 goguardian-is-not-my-guardian.easterndns.com IN CNAME .
 *.goguardian-is-not-my-guardian.easterndns.com IN CNAME .
 goldenfrog.com IN CNAME .
@@ -2163,10 +2151,6 @@ ilovemrmorris-ggnewo.vercel.app IN CNAME .
 *.ilovemrmorris-ggnewo.vercel.app IN CNAME .
 imagoofygooberrock.vercel.app IN CNAME .
 *.imagoofygooberrock.vercel.app IN CNAME .
-inboxdayo.laviewddns.com IN CNAME .
-*.inboxdayo.laviewddns.com IN CNAME .
-inboxproxy.laviewddns.com IN CNAME .
-*.inboxproxy.laviewddns.com IN CNAME .
 incognito-static-version.pages.dev IN CNAME .
 *.incognito-static-version.pages.dev IN CNAME .
 indo-ssh.com IN CNAME .
@@ -2179,8 +2163,6 @@ interesting-molli-qj-9c49db8e.koyeb.app IN CNAME .
 *.interesting-molli-qj-9c49db8e.koyeb.app IN CNAME .
 interstellar-git-main-surges-projects-3eb46597.vercel.app IN CNAME .
 *.interstellar-git-main-surges-projects-3eb46597.vercel.app IN CNAME .
-interstellar.laviewddns.com IN CNAME .
-*.interstellar.laviewddns.com IN CNAME .
 interstellarbynirbytes2.vercel.app IN CNAME .
 *.interstellarbynirbytes2.vercel.app IN CNAME .
 iow-dns.bitdefender.net IN CNAME .
@@ -2229,8 +2211,6 @@ jnb01.dnscry.pt IN CNAME .
 *.jnb01.dnscry.pt IN CNAME .
 jordanmadethis.chickenkiller.com IN CNAME .
 *.jordanmadethis.chickenkiller.com IN CNAME .
-jp-tyo-w-p-1.nashkan.net IN CNAME .
-*.jp-tyo-w-p-1.nashkan.net IN CNAME .
 jp.tiar.app IN CNAME .
 *.jp.tiar.app IN CNAME .
 jp.tiarap.org IN CNAME .
@@ -2251,8 +2231,6 @@ konata-ice.soon.it IN CNAME .
 *.konata-ice.soon.it IN CNAME .
 konnnitiha----saiko.easterndns.com IN CNAME .
 *.konnnitiha----saiko.easterndns.com IN CNAME .
-korededouda.laviewddns.com IN CNAME .
-*.korededouda.laviewddns.com IN CNAME .
 kozownoprxy.kozow.com IN CNAME .
 *.kozownoprxy.kozow.com IN CNAME .
 kproxy.com IN CNAME .
@@ -2261,8 +2239,6 @@ kronos.plan9-dns.com IN CNAME .
 *.kronos.plan9-dns.com IN CNAME .
 krtekvpn.duckdns.org IN CNAME .
 *.krtekvpn.duckdns.org IN CNAME .
-kz-pav-w-p-1.nashkan.net IN CNAME .
-*.kz-pav-w-p-1.nashkan.net IN CNAME .
 lantern.io IN CNAME .
 *.lantern.io IN CNAME .
 las01.dnscry.pt IN CNAME .
@@ -2289,8 +2265,6 @@ lion.dns.qwer.pw IN CNAME .
 *.lion.dns.qwer.pw IN CNAME .
 lis01.dnscry.pt IN CNAME .
 *.lis01.dnscry.pt IN CNAME .
-liverpoolontop.1337.cx IN CNAME .
-*.liverpoolontop.1337.cx IN CNAME .
 llk01.dnscry.pt IN CNAME .
 *.llk01.dnscry.pt IN CNAME .
 localto.net IN CNAME .
@@ -2303,6 +2277,8 @@ lon01.dnscry.pt IN CNAME .
 *.lon01.dnscry.pt IN CNAME .
 ltlxvxjjmvhn.me IN CNAME .
 *.ltlxvxjjmvhn.me IN CNAME .
+luminati-holanetworksltd.netdna-ssl.com IN CNAME .
+*.luminati-holanetworksltd.netdna-ssl.com IN CNAME .
 luminati.io IN CNAME .
 *.luminati.io IN CNAME .
 luminatinet.com IN CNAME .
@@ -2413,6 +2389,8 @@ nirbproxt.vercel.app IN CNAME .
 *.nirbproxt.vercel.app IN CNAME .
 nirbytes2025shuttle.vercel.app IN CNAME .
 *.nirbytes2025shuttle.vercel.app IN CNAME .
+nirbytesboltxero.chickenkiller.com IN CNAME .
+*.nirbytesboltxero.chickenkiller.com IN CNAME .
 nirbytesxretpro.vercel.app IN CNAME .
 *.nirbytesxretpro.vercel.app IN CNAME .
 nirbytexershutle.vercel.app IN CNAME .
@@ -2421,10 +2399,6 @@ njal.la IN CNAME .
 *.njal.la IN CNAME .
 njtzzrvg0lwj3bsn.info IN CNAME .
 *.njtzzrvg0lwj3bsn.info IN CNAME .
-nl-dro-w-f-1.nashkan.net IN CNAME .
-*.nl-dro-w-f-1.nashkan.net IN CNAME .
-nl-dro-w-p-1.nashkan.net IN CNAME .
-*.nl-dro-w-p-1.nashkan.net IN CNAME .
 nl.dns.privex.io IN CNAME .
 *.nl.dns.privex.io IN CNAME .
 noads.joindns4.eu IN CNAME .
@@ -2503,8 +2477,6 @@ openvpn-ssh.com IN CNAME .
 *.openvpn-ssh.com IN CNAME .
 openvpn.com IN CNAME .
 *.openvpn.com IN CNAME .
-openvpn.net IN CNAME .
-*.openvpn.net IN CNAME .
 oraclevpn.com IN CNAME .
 *.oraclevpn.com IN CNAME .
 ord01.dnscry.pt IN CNAME .
@@ -2545,8 +2517,6 @@ pdns.faelix.net IN CNAME .
 *.pdns.faelix.net IN CNAME .
 pdx01.dnscry.pt IN CNAME .
 *.pdx01.dnscry.pt IN CNAME .
-peoplewhosay67arecornballs.laviewddns.com IN CNAME .
-*.peoplewhosay67arecornballs.laviewddns.com IN CNAME .
 perfect-privacy.com IN CNAME .
 *.perfect-privacy.com IN CNAME .
 phl01.dnscry.pt IN CNAME .
@@ -2631,6 +2601,8 @@ proxy.kakeru.f5.si IN CNAME .
 *.proxy.kakeru.f5.si IN CNAME .
 proxy.wynd.network IN CNAME .
 *.proxy.wynd.network IN CNAME .
+proxy3.startpage.com IN CNAME .
+*.proxy3.startpage.com IN CNAME .
 proxyadult.org IN CNAME .
 *.proxyadult.org IN CNAME .
 proxybrowser.github.io IN CNAME .
@@ -2737,10 +2709,6 @@ rethinkdns.com IN CNAME .
 *.rethinkdns.com IN CNAME .
 riseup.net IN CNAME .
 *.riseup.net IN CNAME .
-ro-buc-w-f-1.nashkan.net IN CNAME .
-*.ro-buc-w-f-1.nashkan.net IN CNAME .
-ro-buc-w-p-1.nashkan.net IN CNAME .
-*.ro-buc-w-p-1.nashkan.net IN CNAME .
 rpz-public-resolver1.rrdns.pch.net IN CNAME .
 *.rpz-public-resolver1.rrdns.pch.net IN CNAME .
 rylandmadethisjustkidding.twilightparadox.com IN CNAME .
@@ -2791,10 +2759,6 @@ setupvpn.com IN CNAME .
 *.setupvpn.com IN CNAME .
 sf-helper.com IN CNAME .
 *.sf-helper.com IN CNAME .
-sg-w-f-1.nashkan.net IN CNAME .
-*.sg-w-f-1.nashkan.net IN CNAME .
-sg-w-p-1.nashkan.net IN CNAME .
-*.sg-w-p-1.nashkan.net IN CNAME .
 sg1.dnswarden.com IN CNAME .
 *.sg1.dnswarden.com IN CNAME .
 sgn01.dnscry.pt IN CNAME .
@@ -2899,8 +2863,6 @@ syd02.dnscry.pt IN CNAME .
 *.syd02.dnscry.pt IN CNAME .
 t9rke-5zq1m.dynv6.net IN CNAME .
 *.t9rke-5zq1m.dynv6.net IN CNAME .
-taihenomatasesimasita.laviewddns.com IN CNAME .
-*.taihenomatasesimasita.laviewddns.com IN CNAME .
 tailscale.com IN CNAME .
 *.tailscale.com IN CNAME .
 talk2m.com IN CNAME .
@@ -3031,30 +2993,6 @@ ups.jumpingcrab.com IN CNAME .
 *.ups.jumpingcrab.com IN CNAME .
 urban-vpn.com IN CNAME .
 *.urban-vpn.com IN CNAME .
-us-chi-w-f-1.nashkan.net IN CNAME .
-*.us-chi-w-f-1.nashkan.net IN CNAME .
-us-chi-w-p-1.nashkan.net IN CNAME .
-*.us-chi-w-p-1.nashkan.net IN CNAME .
-us-hil-w-f-1.nashkan.net IN CNAME .
-*.us-hil-w-f-1.nashkan.net IN CNAME .
-us-hil-w-p-1.nashkan.net IN CNAME .
-*.us-hil-w-p-1.nashkan.net IN CNAME .
-us-jac-w-f-1.nashkan.net IN CNAME .
-*.us-jac-w-f-1.nashkan.net IN CNAME .
-us-jac-w-p-1.nashkan.net IN CNAME .
-*.us-jac-w-p-1.nashkan.net IN CNAME .
-us-kan-w-f-1.nashkan.net IN CNAME .
-*.us-kan-w-f-1.nashkan.net IN CNAME .
-us-kan-w-p-1.nashkan.net IN CNAME .
-*.us-kan-w-p-1.nashkan.net IN CNAME .
-us-nyc-w-f-1.nashkan.net IN CNAME .
-*.us-nyc-w-f-1.nashkan.net IN CNAME .
-us-nyc-w-p-1.nashkan.net IN CNAME .
-*.us-nyc-w-p-1.nashkan.net IN CNAME .
-us-saj-w-f-1.nashkan.net IN CNAME .
-*.us-saj-w-f-1.nashkan.net IN CNAME .
-us-saj-w-p-1.nashkan.net IN CNAME .
-*.us-saj-w-p-1.nashkan.net IN CNAME .
 us.doh.cloudveil.org IN CNAME .
 *.us.doh.cloudveil.org IN CNAME .
 us1-browse.startpage.com IN CNAME .
@@ -3063,8 +3001,6 @@ us1.dns.lavate.ch IN CNAME .
 *.us1.dns.lavate.ch IN CNAME .
 us2-browse.startpage.com IN CNAME .
 *.us2-browse.startpage.com IN CNAME .
-useinterstellar.laviewddns.com IN CNAME .
-*.useinterstellar.laviewddns.com IN CNAME .
 uvpn.me IN CNAME .
 *.uvpn.me IN CNAME .
 uw-dns.rubyfish.cn IN CNAME .
@@ -3133,6 +3069,8 @@ vpnproxymaster.com IN CNAME .
 *.vpnproxymaster.com IN CNAME .
 vpnranks.com IN CNAME .
 *.vpnranks.com IN CNAME .
+vpnsuper.com IN CNAME .
+*.vpnsuper.com IN CNAME .
 vpnunlimited.com IN CNAME .
 *.vpnunlimited.com IN CNAME .
 vpnunlimitedapp.com IN CNAME .
@@ -3179,8 +3117,6 @@ wikimedia-dns.org IN CNAME .
 *.wikimedia-dns.org IN CNAME .
 windscribe.com IN CNAME .
 *.windscribe.com IN CNAME .
-wireguard.com IN CNAME .
-*.wireguard.com IN CNAME .
 wirevpn.app IN CNAME .
 *.wirevpn.app IN CNAME .
 wiseghostapp.com IN CNAME .
