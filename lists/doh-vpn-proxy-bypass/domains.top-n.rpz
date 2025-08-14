@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1755076052 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1755162458 12h 15m 3w 3h
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 *.0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 012e4d818491706869cfd3ebffb2c8aac4ac56f8-m.proxy1.startpage.com IN CNAME .
@@ -113,6 +113,8 @@ $TTL 3600
 *.123proxy.app IN CNAME .
 12e0ae7f956cfd86cd5adc96ba037c65416e5f45-m.proxy1.startpage.com IN CNAME .
 *.12e0ae7f956cfd86cd5adc96ba037c65416e5f45-m.proxy1.startpage.com IN CNAME .
+130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com IN CNAME .
+*.130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com IN CNAME .
 139e6e2d2abe458025c30fa138137ce0c31bdfd0-m.proxy1.startpage.com IN CNAME .
 *.139e6e2d2abe458025c30fa138137ce0c31bdfd0-m.proxy1.startpage.com IN CNAME .
 13c858f9bc5cf5f2310d5fe1899c70ce12b5cf3c-m.proxy2.startpage.com IN CNAME .
@@ -1581,8 +1583,6 @@ dns-family.adguard.com IN CNAME .
 *.dns-family.adguard.com IN CNAME .
 dns-nosec.quad9.net IN CNAME .
 *.dns-nosec.quad9.net IN CNAME .
-dns-ovh.panszelescik.pl IN CNAME .
-*.dns-ovh.panszelescik.pl IN CNAME .
 dns-tunnel-check.googlezip.net IN CNAME .
 *.dns-tunnel-check.googlezip.net IN CNAME .
 dns-unfiltered.adguard.com IN CNAME .
@@ -1679,8 +1679,6 @@ dns.novg.net IN CNAME .
 *.dns.novg.net IN CNAME .
 dns.opendns.com IN CNAME .
 *.dns.opendns.com IN CNAME .
-dns.panszelescik.pl IN CNAME .
-*.dns.panszelescik.pl IN CNAME .
 dns.pub IN CNAME .
 *.dns.pub IN CNAME .
 dns.quad9.net IN CNAME .
@@ -1871,6 +1869,8 @@ doh.seby.io IN CNAME .
 *.doh.seby.io IN CNAME .
 doh.sidnlabs.nl IN CNAME .
 *.doh.sidnlabs.nl IN CNAME .
+doh.sunoaki.net IN CNAME .
+*.doh.sunoaki.net IN CNAME .
 doh.tiar.app IN CNAME .
 *.doh.tiar.app IN CNAME .
 doh.tiarap.org IN CNAME .
@@ -1953,6 +1953,8 @@ dtw01.dnscry.pt IN CNAME .
 *.dtw01.dnscry.pt IN CNAME .
 du8aqpqj1sfsd.cloudfront.net IN CNAME .
 *.du8aqpqj1sfsd.cloudfront.net IN CNAME .
+dualpower.duia.eu IN CNAME .
+*.dualpower.duia.eu IN CNAME .
 duapps.com IN CNAME .
 *.duapps.com IN CNAME .
 dub01.dnscry.pt IN CNAME .
@@ -2321,6 +2323,8 @@ gru01.dnscry.pt IN CNAME .
 *.gru01.dnscry.pt IN CNAME .
 guardianapp.com IN CNAME .
 *.guardianapp.com IN CNAME .
+gustamadh.dynv6.net IN CNAME .
+*.gustamadh.dynv6.net IN CNAME .
 gva01.dnscry.pt IN CNAME .
 *.gva01.dnscry.pt IN CNAME .
 h-vpn.org IN CNAME .
@@ -2693,8 +2697,6 @@ notebooks.kozow.com IN CNAME .
 *.notebooks.kozow.com IN CNAME .
 notes.sage.california-red.com IN CNAME .
 *.notes.sage.california-red.com IN CNAME .
-notvpn.io IN CNAME .
-*.notvpn.io IN CNAME .
 ns0.fdn.fr IN CNAME .
 *.ns0.fdn.fr IN CNAME .
 ns1.fdn.fr IN CNAME .
@@ -2871,8 +2873,6 @@ proxy.kakeru.f5.si IN CNAME .
 *.proxy.kakeru.f5.si IN CNAME .
 proxy.wynd.network IN CNAME .
 *.proxy.wynd.network IN CNAME .
-proxy3.startpage.com IN CNAME .
-*.proxy3.startpage.com IN CNAME .
 proxy5.startpage.com IN CNAME .
 *.proxy5.startpage.com IN CNAME .
 proxyadult.org IN CNAME .
