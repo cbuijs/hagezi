@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1755162458 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1755248852 12h 15m 3w 3h
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 *.0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 012e4d818491706869cfd3ebffb2c8aac4ac56f8-m.proxy1.startpage.com IN CNAME .
@@ -1583,6 +1583,8 @@ dns-family.adguard.com IN CNAME .
 *.dns-family.adguard.com IN CNAME .
 dns-nosec.quad9.net IN CNAME .
 *.dns-nosec.quad9.net IN CNAME .
+dns-ovh.panszelescik.pl IN CNAME .
+*.dns-ovh.panszelescik.pl IN CNAME .
 dns-tunnel-check.googlezip.net IN CNAME .
 *.dns-tunnel-check.googlezip.net IN CNAME .
 dns-unfiltered.adguard.com IN CNAME .
@@ -1679,6 +1681,8 @@ dns.novg.net IN CNAME .
 *.dns.novg.net IN CNAME .
 dns.opendns.com IN CNAME .
 *.dns.opendns.com IN CNAME .
+dns.panszelescik.pl IN CNAME .
+*.dns.panszelescik.pl IN CNAME .
 dns.pub IN CNAME .
 *.dns.pub IN CNAME .
 dns.quad9.net IN CNAME .
@@ -1869,8 +1873,6 @@ doh.seby.io IN CNAME .
 *.doh.seby.io IN CNAME .
 doh.sidnlabs.nl IN CNAME .
 *.doh.sidnlabs.nl IN CNAME .
-doh.sunoaki.net IN CNAME .
-*.doh.sunoaki.net IN CNAME .
 doh.tiar.app IN CNAME .
 *.doh.tiar.app IN CNAME .
 doh.tiarap.org IN CNAME .
@@ -1953,8 +1955,6 @@ dtw01.dnscry.pt IN CNAME .
 *.dtw01.dnscry.pt IN CNAME .
 du8aqpqj1sfsd.cloudfront.net IN CNAME .
 *.du8aqpqj1sfsd.cloudfront.net IN CNAME .
-dualpower.duia.eu IN CNAME .
-*.dualpower.duia.eu IN CNAME .
 duapps.com IN CNAME .
 *.duapps.com IN CNAME .
 dub01.dnscry.pt IN CNAME .
@@ -2323,8 +2323,6 @@ gru01.dnscry.pt IN CNAME .
 *.gru01.dnscry.pt IN CNAME .
 guardianapp.com IN CNAME .
 *.guardianapp.com IN CNAME .
-gustamadh.dynv6.net IN CNAME .
-*.gustamadh.dynv6.net IN CNAME .
 gva01.dnscry.pt IN CNAME .
 *.gva01.dnscry.pt IN CNAME .
 h-vpn.org IN CNAME .
@@ -3073,8 +3071,6 @@ sof01.dnscry.pt IN CNAME .
 *.sof01.dnscry.pt IN CNAME .
 soleilvpn-app.com IN CNAME .
 *.soleilvpn-app.com IN CNAME .
-solve.proof.california-red.com IN CNAME .
-*.solve.proof.california-red.com IN CNAME .
 spacetechnology.twilightparadox.com IN CNAME .
 *.spacetechnology.twilightparadox.com IN CNAME .
 sparklabs.com IN CNAME .
@@ -3271,6 +3267,8 @@ universityequality.vercel.app IN CNAME .
 *.universityequality.vercel.app IN CNAME .
 unlimitedvpnapp.com IN CNAME .
 *.unlimitedvpnapp.com IN CNAME .
+uproxy2.org IN CNAME .
+*.uproxy2.org IN CNAME .
 ups.jumpingcrab.com IN CNAME .
 *.ups.jumpingcrab.com IN CNAME .
 urban-vpn.com IN CNAME .
