@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1755162449 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1755248845 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -145,6 +145,8 @@ dns-family.adguard.com IN CNAME .
 *.dns-family.adguard.com IN CNAME .
 dns-nosec.quad9.net IN CNAME .
 *.dns-nosec.quad9.net IN CNAME .
+dns-ovh.panszelescik.pl IN CNAME .
+*.dns-ovh.panszelescik.pl IN CNAME .
 dns-unfiltered.adguard.com IN CNAME .
 *.dns-unfiltered.adguard.com IN CNAME .
 dns.233py.com.cdn.cloudflare.net IN CNAME .
@@ -245,6 +247,8 @@ dns.novg.net IN CNAME .
 *.dns.novg.net IN CNAME .
 dns.opendns.com IN CNAME .
 *.dns.opendns.com IN CNAME .
+dns.panszelescik.pl IN CNAME .
+*.dns.panszelescik.pl IN CNAME .
 dns.pub IN CNAME .
 *.dns.pub IN CNAME .
 dns.quad9.net IN CNAME .
@@ -433,8 +437,6 @@ doh.seby.io IN CNAME .
 *.doh.seby.io IN CNAME .
 doh.sidnlabs.nl IN CNAME .
 *.doh.sidnlabs.nl IN CNAME .
-doh.sunoaki.net IN CNAME .
-*.doh.sunoaki.net IN CNAME .
 doh.tiar.app IN CNAME .
 *.doh.tiar.app IN CNAME .
 doh.tiarap.org IN CNAME .
@@ -569,8 +571,6 @@ google-public-dns-b.google.com IN CNAME .
 *.google-public-dns-b.google.com IN CNAME .
 gru01.dnscry.pt IN CNAME .
 *.gru01.dnscry.pt IN CNAME .
-gustamadh.dynv6.net IN CNAME .
-*.gustamadh.dynv6.net IN CNAME .
 gva01.dnscry.pt IN CNAME .
 *.gva01.dnscry.pt IN CNAME .
 h4g3z1-doh.web.app IN CNAME .
