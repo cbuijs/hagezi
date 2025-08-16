@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1755248845 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1755335248 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -41,6 +41,12 @@ adguard1.leadmon.net IN CNAME .
 *.adguard1.leadmon.net IN CNAME .
 adult-filter-dot.dnswarden.com IN CNAME .
 *.adult-filter-dot.dnswarden.com IN CNAME .
+ae-fuj-w-p-1.nashkan.net IN CNAME .
+*.ae-fuj-w-p-1.nashkan.net IN CNAME .
+ae-fuj-w-p-2.nashkan.net IN CNAME .
+*.ae-fuj-w-p-2.nashkan.net IN CNAME .
+ae-fuj-w-p-3.nashkan.net IN CNAME .
+*.ae-fuj-w-p-3.nashkan.net IN CNAME .
 africa.avastdns.com IN CNAME .
 *.africa.avastdns.com IN CNAME .
 africadns1.liquidtelecom.net IN CNAME .
@@ -69,10 +75,14 @@ area51.mywire.org IN CNAME .
 *.area51.mywire.org IN CNAME .
 armorrush.eu.org IN CNAME .
 *.armorrush.eu.org IN CNAME .
+at-wie-w-p-1.nashkan.net IN CNAME .
+*.at-wie-w-p-1.nashkan.net IN CNAME .
 ath01.dnscry.pt IN CNAME .
 *.ath01.dnscry.pt IN CNAME .
 atl01.dnscry.pt IN CNAME .
 *.atl01.dnscry.pt IN CNAME .
+au-syd-w-f-1.nashkan.net IN CNAME .
+*.au-syd-w-f-1.nashkan.net IN CNAME .
 b.family.ns.dnslify.com IN CNAME .
 *.b.family.ns.dnslify.com IN CNAME .
 b.ns.dnslify.com IN CNAME .
@@ -135,6 +145,10 @@ cvt01.dnscry.pt IN CNAME .
 *.cvt01.dnscry.pt IN CNAME .
 dandelionsprout.asuscomm.com IN CNAME .
 *.dandelionsprout.asuscomm.com IN CNAME .
+de-fra-w-p-1.nashkan.net IN CNAME .
+*.de-fra-w-p-1.nashkan.net IN CNAME .
+de-fsn-w-p-1.nashkan.net IN CNAME .
+*.de-fsn-w-p-1.nashkan.net IN CNAME .
 de.dns.privex.io IN CNAME .
 *.de.dns.privex.io IN CNAME .
 den01.dnscry.pt IN CNAME .
@@ -221,6 +235,8 @@ dns.hinet.net IN CNAME .
 *.dns.hinet.net IN CNAME .
 dns.hostux.net IN CNAME .
 *.dns.hostux.net IN CNAME .
+dns.ikataruto.com IN CNAME .
+*.dns.ikataruto.com IN CNAME .
 dns.islandnet.com IN CNAME .
 *.dns.islandnet.com IN CNAME .
 dns.kamilszczepanski.com IN CNAME .
@@ -407,6 +423,8 @@ doh.eu.dnswarden.com IN CNAME .
 *.doh.eu.dnswarden.com IN CNAME .
 doh.ffmuc.net IN CNAME .
 *.doh.ffmuc.net IN CNAME .
+doh.flashstart.com IN CNAME .
+*.doh.flashstart.com IN CNAME .
 doh.ibr.cs.tu-bs.de IN CNAME .
 *.doh.ibr.cs.tu-bs.de IN CNAME .
 doh.iucc.ac.il IN CNAME .
@@ -517,8 +535,6 @@ ecs-doh.dnswarden.com IN CNAME .
 *.ecs-doh.dnswarden.com IN CNAME .
 edge.nextdns.io IN CNAME .
 *.edge.nextdns.io IN CNAME .
-edgy-dns.com IN CNAME .
-*.edgy-dns.com IN CNAME .
 esel.stusta.mhn.de IN CNAME .
 *.esel.stusta.mhn.de IN CNAME .
 eth.link IN CNAME .
@@ -539,10 +555,14 @@ fdns2.dismail.de IN CNAME .
 *.fdns2.dismail.de IN CNAME .
 fet01.dnscry.pt IN CNAME .
 *.fet01.dnscry.pt IN CNAME .
+fi-hel-w-f-2.nashkan.net IN CNAME .
+*.fi-hel-w-f-2.nashkan.net IN CNAME .
 fjr01.dnscry.pt IN CNAME .
 *.fjr01.dnscry.pt IN CNAME .
 fnt01.dnscry.pt IN CNAME .
 *.fnt01.dnscry.pt IN CNAME .
+fr-gra-w-p-1.nashkan.net IN CNAME .
+*.fr-gra-w-p-1.nashkan.net IN CNAME .
 fr1.dnswarden.com IN CNAME .
 *.fr1.dnswarden.com IN CNAME .
 fra-dns.bitdefender.net IN CNAME .
@@ -561,6 +581,14 @@ fwgw.orangepipc.mywire.org IN CNAME .
 *.fwgw.orangepipc.mywire.org IN CNAME .
 galileo.math.unipd.it IN CNAME .
 *.galileo.math.unipd.it IN CNAME .
+gb-cov-w-p-1.nashkan.net IN CNAME .
+*.gb-cov-w-p-1.nashkan.net IN CNAME .
+gb-lon-w-f-1.nashkan.net IN CNAME .
+*.gb-lon-w-f-1.nashkan.net IN CNAME .
+gb-lon-w-p-1.nashkan.net IN CNAME .
+*.gb-lon-w-p-1.nashkan.net IN CNAME .
+gb-lon-w-p-2.nashkan.net IN CNAME .
+*.gb-lon-w-p-2.nashkan.net IN CNAME .
 geg01.dnscry.pt IN CNAME .
 *.geg01.dnscry.pt IN CNAME .
 getdnsapi.net IN CNAME .
@@ -571,6 +599,8 @@ google-public-dns-b.google.com IN CNAME .
 *.google-public-dns-b.google.com IN CNAME .
 gru01.dnscry.pt IN CNAME .
 *.gru01.dnscry.pt IN CNAME .
+gustamadh.dynv6.net IN CNAME .
+*.gustamadh.dynv6.net IN CNAME .
 gva01.dnscry.pt IN CNAME .
 *.gva01.dnscry.pt IN CNAME .
 h4g3z1-doh.web.app IN CNAME .
@@ -625,6 +655,8 @@ jkt01.dnscry.pt IN CNAME .
 *.jkt01.dnscry.pt IN CNAME .
 jnb01.dnscry.pt IN CNAME .
 *.jnb01.dnscry.pt IN CNAME .
+jp-tyo-w-p-1.nashkan.net IN CNAME .
+*.jp-tyo-w-p-1.nashkan.net IN CNAME .
 jp.tiar.app IN CNAME .
 *.jp.tiar.app IN CNAME .
 jp.tiarap.org IN CNAME .
@@ -641,6 +673,8 @@ kronos.plan9-dns.com IN CNAME .
 *.kronos.plan9-dns.com IN CNAME .
 krtekvpn.duckdns.org IN CNAME .
 *.krtekvpn.duckdns.org IN CNAME .
+kz-pav-w-p-1.nashkan.net IN CNAME .
+*.kz-pav-w-p-1.nashkan.net IN CNAME .
 las01.dnscry.pt IN CNAME .
 *.las01.dnscry.pt IN CNAME .
 lax01.dnscry.pt IN CNAME .
@@ -685,6 +719,10 @@ nat64.tuxis.nl IN CNAME .
 *.nat64.tuxis.nl IN CNAME .
 naw01.dnscry.pt IN CNAME .
 *.naw01.dnscry.pt IN CNAME .
+nl-dro-w-f-1.nashkan.net IN CNAME .
+*.nl-dro-w-f-1.nashkan.net IN CNAME .
+nl-dro-w-p-1.nashkan.net IN CNAME .
+*.nl-dro-w-p-1.nashkan.net IN CNAME .
 nl.dns.privex.io IN CNAME .
 *.nl.dns.privex.io IN CNAME .
 noads.joindns4.eu IN CNAME .
@@ -783,6 +821,10 @@ resolver3.absolight.net IN CNAME .
 *.resolver3.absolight.net IN CNAME .
 rethinkdns.com IN CNAME .
 *.rethinkdns.com IN CNAME .
+ro-buc-w-f-1.nashkan.net IN CNAME .
+*.ro-buc-w-f-1.nashkan.net IN CNAME .
+ro-buc-w-p-1.nashkan.net IN CNAME .
+*.ro-buc-w-p-1.nashkan.net IN CNAME .
 rpz-public-resolver1.rrdns.pch.net IN CNAME .
 *.rpz-public-resolver1.rrdns.pch.net IN CNAME .
 safe.dot.dns.yandex.net IN CNAME .
@@ -795,6 +837,10 @@ secure-dns.dns-ga.de IN CNAME .
 *.secure-dns.dns-ga.de IN CNAME .
 secure.avastdns.com IN CNAME .
 *.secure.avastdns.com IN CNAME .
+sg-w-f-1.nashkan.net IN CNAME .
+*.sg-w-f-1.nashkan.net IN CNAME .
+sg-w-p-1.nashkan.net IN CNAME .
+*.sg-w-p-1.nashkan.net IN CNAME .
 sg1.dnswarden.com IN CNAME .
 *.sg1.dnswarden.com IN CNAME .
 sgn01.dnscry.pt IN CNAME .
@@ -853,6 +899,30 @@ uncensored-dot.dnswarden.com IN CNAME .
 *.uncensored-dot.dnswarden.com IN CNAME .
 unfiltered.joindns4.eu IN CNAME .
 *.unfiltered.joindns4.eu IN CNAME .
+us-chi-w-f-1.nashkan.net IN CNAME .
+*.us-chi-w-f-1.nashkan.net IN CNAME .
+us-chi-w-p-1.nashkan.net IN CNAME .
+*.us-chi-w-p-1.nashkan.net IN CNAME .
+us-hil-w-f-1.nashkan.net IN CNAME .
+*.us-hil-w-f-1.nashkan.net IN CNAME .
+us-hil-w-p-1.nashkan.net IN CNAME .
+*.us-hil-w-p-1.nashkan.net IN CNAME .
+us-jac-w-f-1.nashkan.net IN CNAME .
+*.us-jac-w-f-1.nashkan.net IN CNAME .
+us-jac-w-p-1.nashkan.net IN CNAME .
+*.us-jac-w-p-1.nashkan.net IN CNAME .
+us-kan-w-f-1.nashkan.net IN CNAME .
+*.us-kan-w-f-1.nashkan.net IN CNAME .
+us-kan-w-p-1.nashkan.net IN CNAME .
+*.us-kan-w-p-1.nashkan.net IN CNAME .
+us-nyc-w-f-1.nashkan.net IN CNAME .
+*.us-nyc-w-f-1.nashkan.net IN CNAME .
+us-nyc-w-p-1.nashkan.net IN CNAME .
+*.us-nyc-w-p-1.nashkan.net IN CNAME .
+us-saj-w-f-1.nashkan.net IN CNAME .
+*.us-saj-w-f-1.nashkan.net IN CNAME .
+us-saj-w-p-1.nashkan.net IN CNAME .
+*.us-saj-w-p-1.nashkan.net IN CNAME .
 us.doh.cloudveil.org IN CNAME .
 *.us.doh.cloudveil.org IN CNAME .
 us1.dns.lavate.ch IN CNAME .
