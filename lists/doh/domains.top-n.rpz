@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1755508045 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1755594445 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -427,8 +427,6 @@ doh.eu.dnswarden.com IN CNAME .
 *.doh.eu.dnswarden.com IN CNAME .
 doh.ffmuc.net IN CNAME .
 *.doh.ffmuc.net IN CNAME .
-doh.flashstart.com IN CNAME .
-*.doh.flashstart.com IN CNAME .
 doh.ibr.cs.tu-bs.de IN CNAME .
 *.doh.ibr.cs.tu-bs.de IN CNAME .
 doh.iucc.ac.il IN CNAME .
@@ -467,6 +465,8 @@ doh.umbrella.com IN CNAME .
 *.doh.umbrella.com IN CNAME .
 doh.us.dnswarden.com IN CNAME .
 *.doh.us.dnswarden.com IN CNAME .
+doh.viatech.com.tw IN CNAME .
+*.doh.viatech.com.tw IN CNAME .
 doh.westeu.pi-dns.com IN CNAME .
 *.doh.westeu.pi-dns.com IN CNAME .
 doh.westus.pi-dns.com IN CNAME .
