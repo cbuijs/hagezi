@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1755853648 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1755940046 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -457,6 +457,8 @@ doh.seby.io IN CNAME .
 *.doh.seby.io IN CNAME .
 doh.sidnlabs.nl IN CNAME .
 *.doh.sidnlabs.nl IN CNAME .
+doh.sz-dns.com IN CNAME .
+*.doh.sz-dns.com IN CNAME .
 doh.tiar.app IN CNAME .
 *.doh.tiar.app IN CNAME .
 doh.tiarap.org IN CNAME .
@@ -785,8 +787,6 @@ protective.joindns4.eu IN CNAME .
 *.protective.joindns4.eu IN CNAME .
 ps1.modr.club IN CNAME .
 *.ps1.modr.club IN CNAME .
-punono.duckdns.org IN CNAME .
-*.punono.duckdns.org IN CNAME .
 qlf-doh.inria.fr IN CNAME .
 *.qlf-doh.inria.fr IN CNAME .
 rdd01.dnscry.pt IN CNAME .
@@ -963,5 +963,3 @@ zal01.dnscry.pt IN CNAME .
 *.zal01.dnscry.pt IN CNAME .
 zrh1-ns01.monzoon.net IN CNAME .
 *.zrh1-ns01.monzoon.net IN CNAME .
-zxcvb.pp.ua IN CNAME .
-*.zxcvb.pp.ua IN CNAME .
