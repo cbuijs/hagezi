@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1755853661 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1755940054 12h 15m 3w 3h
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 *.0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
 012e4d818491706869cfd3ebffb2c8aac4ac56f8-m.proxy1.startpage.com IN CNAME .
@@ -1905,6 +1905,8 @@ doh.seby.io IN CNAME .
 *.doh.seby.io IN CNAME .
 doh.sidnlabs.nl IN CNAME .
 *.doh.sidnlabs.nl IN CNAME .
+doh.sz-dns.com IN CNAME .
+*.doh.sz-dns.com IN CNAME .
 doh.tiar.app IN CNAME .
 *.doh.tiar.app IN CNAME .
 doh.tiarap.org IN CNAME .
@@ -2279,8 +2281,6 @@ fra01.dnscry.pt IN CNAME .
 *.fra01.dnscry.pt IN CNAME .
 fra02.dnscry.pt IN CNAME .
 *.fra02.dnscry.pt IN CNAME .
-free-proxy-list.net IN CNAME .
-*.free-proxy-list.net IN CNAME .
 free-proxy.com.de IN CNAME .
 *.free-proxy.com.de IN CNAME .
 free-proxy.cz IN CNAME .
@@ -2955,8 +2955,6 @@ ptoserver.com IN CNAME .
 *.ptoserver.com IN CNAME .
 public-is-wonderful.publicvm.com IN CNAME .
 *.public-is-wonderful.publicvm.com IN CNAME .
-punono.duckdns.org IN CNAME .
-*.punono.duckdns.org IN CNAME .
 purevpn-tools.com IN CNAME .
 *.purevpn-tools.com IN CNAME .
 purevpn.com IN CNAME .
@@ -3553,7 +3551,5 @@ zscalertwo.net IN CNAME .
 *.zscalertwo.net IN CNAME .
 zwyr157wwiu6eior.com IN CNAME .
 *.zwyr157wwiu6eior.com IN CNAME .
-zxcvb.pp.ua IN CNAME .
-*.zxcvb.pp.ua IN CNAME .
 zyronirbinter.vercel.app IN CNAME .
 *.zyronirbinter.vercel.app IN CNAME .
