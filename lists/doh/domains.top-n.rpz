@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1756112844 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1756199250 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -237,6 +237,8 @@ dns.ha-dvin.pp.ua IN CNAME .
 *.dns.ha-dvin.pp.ua IN CNAME .
 dns.hinet.net IN CNAME .
 *.dns.hinet.net IN CNAME .
+dns.hoody.com IN CNAME .
+*.dns.hoody.com IN CNAME .
 dns.hostux.net IN CNAME .
 *.dns.hostux.net IN CNAME .
 dns.ikataruto.com IN CNAME .
@@ -459,6 +461,8 @@ doh.seby.io IN CNAME .
 *.doh.seby.io IN CNAME .
 doh.sidnlabs.nl IN CNAME .
 *.doh.sidnlabs.nl IN CNAME .
+doh.sunoaki.net IN CNAME .
+*.doh.sunoaki.net IN CNAME .
 doh.sz-dns.com IN CNAME .
 *.doh.sz-dns.com IN CNAME .
 doh.tiar.app IN CNAME .
@@ -607,8 +611,6 @@ google-public-dns-b.google.com IN CNAME .
 *.google-public-dns-b.google.com IN CNAME .
 gru01.dnscry.pt IN CNAME .
 *.gru01.dnscry.pt IN CNAME .
-gustamadh.dynv6.net IN CNAME .
-*.gustamadh.dynv6.net IN CNAME .
 gva01.dnscry.pt IN CNAME .
 *.gva01.dnscry.pt IN CNAME .
 h4g3z1-doh.web.app IN CNAME .
@@ -807,6 +809,12 @@ res-acst3.absolight.net IN CNAME .
 *.res-acst3.absolight.net IN CNAME .
 resolv.flokinet.net IN CNAME .
 *.resolv.flokinet.net IN CNAME .
+resolv1.trash.net IN CNAME .
+*.resolv1.trash.net IN CNAME .
+resolv2.trash.net IN CNAME .
+*.resolv2.trash.net IN CNAME .
+resolv3.trash.net IN CNAME .
+*.resolv3.trash.net IN CNAME .
 resolver.r0cket.net IN CNAME .
 *.resolver.r0cket.net IN CNAME .
 resolver.sunet.se IN CNAME .
