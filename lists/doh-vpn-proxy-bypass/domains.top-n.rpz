@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1756112850 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1756199257 12h 15m 3w 3h
 0093880e7b454611b3a9e70226b9b0446cca848a-m.proxy2.startpage.com IN CNAME .
 *.0093880e7b454611b3a9e70226b9b0446cca848a-m.proxy2.startpage.com IN CNAME .
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
@@ -2329,6 +2329,8 @@ dns.ha-dvin.pp.ua IN CNAME .
 *.dns.ha-dvin.pp.ua IN CNAME .
 dns.hinet.net IN CNAME .
 *.dns.hinet.net IN CNAME .
+dns.hoody.com IN CNAME .
+*.dns.hoody.com IN CNAME .
 dns.hostux.net IN CNAME .
 *.dns.hostux.net IN CNAME .
 dns.ikataruto.com IN CNAME .
@@ -2549,6 +2551,8 @@ doh.seby.io IN CNAME .
 *.doh.seby.io IN CNAME .
 doh.sidnlabs.nl IN CNAME .
 *.doh.sidnlabs.nl IN CNAME .
+doh.sunoaki.net IN CNAME .
+*.doh.sunoaki.net IN CNAME .
 doh.sz-dns.com IN CNAME .
 *.doh.sz-dns.com IN CNAME .
 doh.tiar.app IN CNAME .
@@ -3097,8 +3101,6 @@ gru01.dnscry.pt IN CNAME .
 *.gru01.dnscry.pt IN CNAME .
 guardianapp.com IN CNAME .
 *.guardianapp.com IN CNAME .
-gustamadh.dynv6.net IN CNAME .
-*.gustamadh.dynv6.net IN CNAME .
 gva01.dnscry.pt IN CNAME .
 *.gva01.dnscry.pt IN CNAME .
 h-vpn.org IN CNAME .
@@ -3741,6 +3743,12 @@ research.africa.com IN CNAME .
 *.research.africa.com IN CNAME .
 resolv.flokinet.net IN CNAME .
 *.resolv.flokinet.net IN CNAME .
+resolv1.trash.net IN CNAME .
+*.resolv1.trash.net IN CNAME .
+resolv2.trash.net IN CNAME .
+*.resolv2.trash.net IN CNAME .
+resolv3.trash.net IN CNAME .
+*.resolv3.trash.net IN CNAME .
 resolver.r0cket.net IN CNAME .
 *.resolver.r0cket.net IN CNAME .
 resolver.sunet.se IN CNAME .
@@ -4249,8 +4257,6 @@ wlvpn.com IN CNAME .
 *.wlvpn.com IN CNAME .
 wolf-zone.dns.army IN CNAME .
 *.wolf-zone.dns.army IN CNAME .
-workingvpn.com IN CNAME .
-*.workingvpn.com IN CNAME .
 worldbookonline.ignorelist.com IN CNAME .
 *.worldbookonline.ignorelist.com IN CNAME .
 x9fnzrtl4x8pynsf.com IN CNAME .
