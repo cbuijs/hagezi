@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1756113365 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1756199807 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -745,6 +745,8 @@ data.digital.costco.ca IN CNAME .
 *.data.digital.costco.ca IN CNAME .
 data.digital.costco.com IN CNAME .
 *.data.digital.costco.com IN CNAME .
+dct.klaviyodns.com IN CNAME .
+*.dct.klaviyodns.com IN CNAME .
 de-go.kelkoogroup.net IN CNAME .
 *.de-go.kelkoogroup.net IN CNAME .
 disneyplus.bn5x.net IN CNAME .
@@ -813,8 +815,6 @@ geo1.presslabs.net IN CNAME .
 *.geo1.presslabs.net IN CNAME .
 geo2ipv6.dns.presslabs.net IN CNAME .
 *.geo2ipv6.dns.presslabs.net IN CNAME .
-glnk.io IN CNAME .
-*.glnk.io IN CNAME .
 go.admost.com IN CNAME .
 *.go.admost.com IN CNAME .
 go.blokada.org IN CNAME .
@@ -1811,6 +1811,8 @@ trk.affattr.com IN CNAME .
 *.trk.affattr.com IN CNAME .
 trk.ecomm.lenovo.com IN CNAME .
 *.trk.ecomm.lenovo.com IN CNAME .
+trk.esn.com IN CNAME .
+*.trk.esn.com IN CNAME .
 trk.genieshopping.com IN CNAME .
 *.trk.genieshopping.com IN CNAME .
 trk.mg.aadvantageeshopping.com IN CNAME .
