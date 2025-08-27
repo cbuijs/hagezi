@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1756199250 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1756285645 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 2.dnscrypt-cert.blahdns.com IN CNAME .
@@ -125,6 +125,8 @@ cloudflare-gateway.com IN CNAME .
 *.cloudflare-gateway.com IN CNAME .
 cloudflareresolve.com IN CNAME .
 *.cloudflareresolve.com IN CNAME .
+cloudflares.ddns.net IN CNAME .
+*.cloudflares.ddns.net IN CNAME .
 cluster-0.gac.edu IN CNAME .
 *.cluster-0.gac.edu IN CNAME .
 cluster-1.gac.edu IN CNAME .
@@ -281,6 +283,8 @@ dns.rubyfish.cn IN CNAME .
 *.dns.rubyfish.cn IN CNAME .
 dns.sb IN CNAME .
 *.dns.sb IN CNAME .
+dns.seia.io IN CNAME .
+*.dns.seia.io IN CNAME .
 dns.shecan.ir IN CNAME .
 *.dns.shecan.ir IN CNAME .
 dns.sindominio.net IN CNAME .
@@ -429,8 +433,6 @@ doh.eu.dnswarden.com IN CNAME .
 *.doh.eu.dnswarden.com IN CNAME .
 doh.ffmuc.net IN CNAME .
 *.doh.ffmuc.net IN CNAME .
-doh.flashstart.com IN CNAME .
-*.doh.flashstart.com IN CNAME .
 doh.ibr.cs.tu-bs.de IN CNAME .
 *.doh.ibr.cs.tu-bs.de IN CNAME .
 doh.iucc.ac.il IN CNAME .
@@ -627,8 +629,6 @@ hkg01.dnscry.pt IN CNAME .
 *.hkg01.dnscry.pt IN CNAME .
 hkg02.dnscry.pt IN CNAME .
 *.hkg02.dnscry.pt IN CNAME .
-home27.duckdns.org IN CNAME .
-*.home27.duckdns.org IN CNAME .
 hshh.org IN CNAME .
 *.hshh.org IN CNAME .
 http-dns.imoim.net IN CNAME .
