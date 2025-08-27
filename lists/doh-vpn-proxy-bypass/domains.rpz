@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1756199257 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1756285653 12h 15m 3w 3h
 0093880e7b454611b3a9e70226b9b0446cca848a-m.proxy2.startpage.com IN CNAME .
 *.0093880e7b454611b3a9e70226b9b0446cca848a-m.proxy2.startpage.com IN CNAME .
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
@@ -1869,6 +1869,8 @@ cloudflare-gateway.com IN CNAME .
 *.cloudflare-gateway.com IN CNAME .
 cloudflareresolve.com IN CNAME .
 *.cloudflareresolve.com IN CNAME .
+cloudflares.ddns.net IN CNAME .
+*.cloudflares.ddns.net IN CNAME .
 cluster-0.gac.edu IN CNAME .
 *.cluster-0.gac.edu IN CNAME .
 cluster-1.gac.edu IN CNAME .
@@ -2369,6 +2371,8 @@ dns.rubyfish.cn IN CNAME .
 *.dns.rubyfish.cn IN CNAME .
 dns.sb IN CNAME .
 *.dns.sb IN CNAME .
+dns.seia.io IN CNAME .
+*.dns.seia.io IN CNAME .
 dns.shecan.ir IN CNAME .
 *.dns.shecan.ir IN CNAME .
 dns.sindominio.net IN CNAME .
@@ -2521,8 +2525,6 @@ doh.eu.dnswarden.com IN CNAME .
 *.doh.eu.dnswarden.com IN CNAME .
 doh.ffmuc.net IN CNAME .
 *.doh.ffmuc.net IN CNAME .
-doh.flashstart.com IN CNAME .
-*.doh.flashstart.com IN CNAME .
 doh.ibr.cs.tu-bs.de IN CNAME .
 *.doh.ibr.cs.tu-bs.de IN CNAME .
 doh.iucc.ac.il IN CNAME .
@@ -3141,8 +3143,6 @@ home.sso.toythieves.com IN CNAME .
 *.home.sso.toythieves.com IN CNAME .
 home.x-narod.ru IN CNAME .
 *.home.x-narod.ru IN CNAME .
-home27.duckdns.org IN CNAME .
-*.home27.duckdns.org IN CNAME .
 honeygain.me IN CNAME .
 *.honeygain.me IN CNAME .
 horrible-mala-mapmath-8d242314.koyeb.app IN CNAME .
@@ -3715,8 +3715,6 @@ rammerhead-10.swanndvr.net IN CNAME .
 *.rammerhead-10.swanndvr.net IN CNAME .
 rammerhead.eu.org IN CNAME .
 *.rammerhead.eu.org IN CNAME .
-rammerhead.oops.wtf IN CNAME .
-*.rammerhead.oops.wtf IN CNAME .
 ranabytese.vercel.app IN CNAME .
 *.ranabytese.vercel.app IN CNAME .
 rayobyte.com IN CNAME .
@@ -4041,8 +4039,6 @@ uhhhhhh.ignorelist.com IN CNAME .
 *.uhhhhhh.ignorelist.com IN CNAME .
 uhm-idk-what-to-put-here.twilightparadox.com IN CNAME .
 *.uhm-idk-what-to-put-here.twilightparadox.com IN CNAME .
-uhm.sorry.oops.wtf IN CNAME .
-*.uhm.sorry.oops.wtf IN CNAME .
 ukvpns.blogspot.ru IN CNAME .
 *.ukvpns.blogspot.ru IN CNAME .
 ultravpn.com IN CNAME .
