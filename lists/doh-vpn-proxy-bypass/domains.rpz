@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1756285653 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1756372068 12h 15m 3w 3h
 0093880e7b454611b3a9e70226b9b0446cca848a-m.proxy2.startpage.com IN CNAME .
 *.0093880e7b454611b3a9e70226b9b0446cca848a-m.proxy2.startpage.com IN CNAME .
 0094258f513aa7efac3c71d4e83a9e207ed130f5-m.proxy2.startpage.com IN CNAME .
@@ -1439,6 +1439,8 @@ ams1.startpage.com IN CNAME .
 *.ams1.startpage.com IN CNAME .
 ams2.startpage.com IN CNAME .
 *.ams2.startpage.com IN CNAME .
+anchorfree.net IN CNAME .
+*.anchorfree.net IN CNAME .
 anonymize.com IN CNAME .
 *.anonymize.com IN CNAME .
 anonymizer.com IN CNAME .
@@ -2525,6 +2527,8 @@ doh.eu.dnswarden.com IN CNAME .
 *.doh.eu.dnswarden.com IN CNAME .
 doh.ffmuc.net IN CNAME .
 *.doh.ffmuc.net IN CNAME .
+doh.flashstart.com IN CNAME .
+*.doh.flashstart.com IN CNAME .
 doh.ibr.cs.tu-bs.de IN CNAME .
 *.doh.ibr.cs.tu-bs.de IN CNAME .
 doh.iucc.ac.il IN CNAME .
@@ -3103,6 +3107,8 @@ gru01.dnscry.pt IN CNAME .
 *.gru01.dnscry.pt IN CNAME .
 guardianapp.com IN CNAME .
 *.guardianapp.com IN CNAME .
+gustamadh.dynv6.net IN CNAME .
+*.gustamadh.dynv6.net IN CNAME .
 gva01.dnscry.pt IN CNAME .
 *.gva01.dnscry.pt IN CNAME .
 h-vpn.org IN CNAME .
