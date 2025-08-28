@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1756285657 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1756372083 12h 15m 3w 3h
 1cooldns.com IN CNAME .
 *.1cooldns.com IN CNAME .
 25u.com IN CNAME .
@@ -211,6 +211,8 @@ dsmtp.com IN CNAME .
 *.dsmtp.com IN CNAME .
 dtdns.com IN CNAME .
 *.dtdns.com IN CNAME .
+dubya.info IN CNAME .
+*.dubya.info IN CNAME .
 dubya.net IN CNAME .
 *.dubya.net IN CNAME .
 duckdns.org IN CNAME .
@@ -801,6 +803,8 @@ srv64.de IN CNAME .
 *.srv64.de IN CNAME .
 sslip.io IN CNAME .
 *.sslip.io IN CNAME .
+ssmailer.com IN CNAME .
+*.ssmailer.com IN CNAME .
 strangled.net IN CNAME .
 *.strangled.net IN CNAME .
 swtest.ru IN CNAME .
