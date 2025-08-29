@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1756372083 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1756458461 12h 15m 3w 3h
 1cooldns.com IN CNAME .
 *.1cooldns.com IN CNAME .
 25u.com IN CNAME .
@@ -27,6 +27,8 @@ acmetoy.com IN CNAME .
 *.acmetoy.com IN CNAME .
 afraid.org IN CNAME .
 *.afraid.org IN CNAME .
+albertn.ru IN CNAME .
+*.albertn.ru IN CNAME .
 almostmy.com IN CNAME .
 *.almostmy.com IN CNAME .
 americanunfinished.com IN CNAME .
@@ -531,6 +533,8 @@ jungleheart.com IN CNAME .
 *.jungleheart.com IN CNAME .
 justdied.com IN CNAME .
 *.justdied.com IN CNAME .
+k.vu IN CNAME .
+*.k.vu IN CNAME .
 kicks-ass.net IN CNAME .
 *.kicks-ass.net IN CNAME .
 kicks-ass.org IN CNAME .
@@ -675,8 +679,6 @@ nsupdate.info IN CNAME .
 *.nsupdate.info IN CNAME .
 ocry.com IN CNAME .
 *.ocry.com IN CNAME .
-ods.org IN CNAME .
-*.ods.org IN CNAME .
 office-on-the.net IN CNAME .
 *.office-on-the.net IN CNAME .
 on-the-web.tv IN CNAME .
