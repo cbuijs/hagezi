@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-SAMSUNG"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1756458564 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1756544957 12h 15m 3w 3h
 acr-au-prd.samsungcloud.tv IN CNAME .
 *.acr-au-prd.samsungcloud.tv IN CNAME .
 acr-br-prd.samsungcloud.tv IN CNAME .
@@ -61,8 +61,12 @@ conn-v2.samsung.japps.cn IN CNAME .
 *.conn-v2.samsung.japps.cn IN CNAME .
 cpu.samsungelectronics.com IN CNAME .
 *.cpu.samsungelectronics.com IN CNAME .
+dc.di.atlas.samsung.com IN CNAME .
+*.dc.di.atlas.samsung.com IN CNAME .
 dc.dqa.samsung.com IN CNAME .
 *.dc.dqa.samsung.com IN CNAME .
+dev-apigw.samsungdmroute.com IN CNAME .
+*.dev-apigw.samsungdmroute.com IN CNAME .
 devicelog.samsungcloudsolution.net IN CNAME .
 *.devicelog.samsungcloudsolution.net IN CNAME .
 diagmon-policy.samsungdm.com IN CNAME .
@@ -71,10 +75,16 @@ diagmon-serviceapi.samsungdm.com IN CNAME .
 *.diagmon-serviceapi.samsungdm.com IN CNAME .
 dls-account.di.atlas.samsung.com IN CNAME .
 *.dls-account.di.atlas.samsung.com IN CNAME .
+dls-ddc.dqa.samsung.com IN CNAME .
+*.dls-ddc.dqa.samsung.com IN CNAME .
+dls-udc.dqa.samsung.com IN CNAME .
+*.dls-udc.dqa.samsung.com IN CNAME .
 download-samsung.dtignite.com IN CNAME .
 *.download-samsung.dtignite.com IN CNAME .
 dpu.samsungelectronics.com IN CNAME .
 *.dpu.samsungelectronics.com IN CNAME .
+dqa-auth.di.atlas.samsung.com IN CNAME .
+*.dqa-auth.di.atlas.samsung.com IN CNAME .
 ehg-samsungusa.hitbox.com IN CNAME .
 *.ehg-samsungusa.hitbox.com IN CNAME .
 eu.business.samsung.com IN CNAME .
@@ -115,6 +125,8 @@ lp.smartbusiness.samsung.com IN CNAME .
 *.lp.smartbusiness.samsung.com IN CNAME .
 metric.account-samsung.com IN CNAME .
 *.metric.account-samsung.com IN CNAME .
+moai-dev-samsung.com IN CNAME .
+*.moai-dev-samsung.com IN CNAME .
 nmetrics.samsung.com IN CNAME .
 *.nmetrics.samsung.com IN CNAME .
 nmetrics.samsungmobile.com IN CNAME .
@@ -131,6 +143,10 @@ prderrordumpssm.samsungcloudsolution.net IN CNAME .
 *.prderrordumpssm.samsungcloudsolution.net IN CNAME .
 push.samsungosp.com.cn IN CNAME .
 *.push.samsungosp.com.cn IN CNAME .
+qmds-dev-samsung.com IN CNAME .
+*.qmds-dev-samsung.com IN CNAME .
+regi.di.atlas.samsung.com IN CNAME .
+*.regi.di.atlas.samsung.com IN CNAME .
 report-v2.samsung.japps.cn IN CNAME .
 *.report-v2.samsung.japps.cn IN CNAME .
 report.gras.samsungdm.com IN CNAME .
@@ -345,6 +361,8 @@ sspapi-prd.samsungrs.com IN CNAME .
 *.sspapi-prd.samsungrs.com IN CNAME .
 stats.samsungpass.com IN CNAME .
 *.stats.samsungpass.com IN CNAME .
+stg-apigw.samsungdmroute.com IN CNAME .
+*.stg-apigw.samsungdmroute.com IN CNAME .
 target-us.samsung.com IN CNAME .
 *.target-us.samsung.com IN CNAME .
 test.samsungrm.net IN CNAME .
