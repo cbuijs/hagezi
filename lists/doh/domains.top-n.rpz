@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1759223233 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1759309633 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1and1-dns.de IN CNAME .
@@ -67,6 +67,8 @@ adguard-home.myddns.me IN CNAME .
 *.adguard-home.myddns.me IN CNAME .
 adguard-server.pp.ua IN CNAME .
 *.adguard-server.pp.ua IN CNAME .
+adguard.depieri.net IN CNAME .
+*.adguard.depieri.net IN CNAME .
 adguard.ekhozie.dynu.net IN CNAME .
 *.adguard.ekhozie.dynu.net IN CNAME .
 adguard.eoghan-net.com IN CNAME .
@@ -75,6 +77,10 @@ adguard.eyadmojahed.ddnsgeek.com IN CNAME .
 *.adguard.eyadmojahed.ddnsgeek.com IN CNAME .
 adguard.infrapod.nl IN CNAME .
 *.adguard.infrapod.nl IN CNAME .
+adguard.lege.despagne.net IN CNAME .
+*.adguard.lege.despagne.net IN CNAME .
+adguard.rennes.despagne.net IN CNAME .
+*.adguard.rennes.despagne.net IN CNAME .
 adguard.som-it.net IN CNAME .
 *.adguard.som-it.net IN CNAME .
 adguard.veanswart.cloudns.be IN CNAME .
@@ -875,6 +881,8 @@ fi-hel-w-f-2.nashkan.net IN CNAME .
 *.fi-hel-w-f-2.nashkan.net IN CNAME .
 fi-hel-w-p-1.nashkan.net IN CNAME .
 *.fi-hel-w-p-1.nashkan.net IN CNAME .
+filter.myaddr.io IN CNAME .
+*.filter.myaddr.io IN CNAME .
 fjr01.dnscry.pt IN CNAME .
 *.fjr01.dnscry.pt IN CNAME .
 flyloadguard.dynu.net IN CNAME .
