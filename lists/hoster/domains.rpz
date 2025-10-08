@@ -1,6 +1,6 @@
 ; RPZ "HOSTER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1759828103 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1759914501 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -25,6 +25,8 @@ $TTL 3600
 *.1fr1.net IN CNAME .
 20m.com IN CNAME .
 *.20m.com IN CNAME .
+22web.org IN CNAME .
+*.22web.org IN CNAME .
 2nt.com IN CNAME .
 *.2nt.com IN CNAME .
 3dn.ru IN CNAME .
@@ -1301,6 +1303,8 @@ smblogsites.com IN CNAME .
 *.smblogsites.com IN CNAME .
 snack-blog.com IN CNAME .
 *.snack-blog.com IN CNAME .
+soloist.ai IN CNAME .
+*.soloist.ai IN CNAME .
 somee.com IN CNAME .
 *.somee.com IN CNAME .
 soup.io IN CNAME .

@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1759828038 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1759914439 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 123-proxy.net IN CNAME .
@@ -683,12 +683,18 @@ dns-cache2.switch.ch IN CNAME .
 *.dns-cache2.switch.ch IN CNAME .
 dns-family.adguard.com IN CNAME .
 *.dns-family.adguard.com IN CNAME .
+dns-fra.imo.im IN CNAME .
+*.dns-fra.imo.im IN CNAME .
 dns-lb.unpak.ac.id IN CNAME .
 *.dns-lb.unpak.ac.id IN CNAME .
 dns-nosec.quad9.net IN CNAME .
 *.dns-nosec.quad9.net IN CNAME .
 dns-ovh.panszelescik.pl IN CNAME .
 *.dns-ovh.panszelescik.pl IN CNAME .
+dns-sgp.imo.im IN CNAME .
+*.dns-sgp.imo.im IN CNAME .
+dns-sjc.imo.im IN CNAME .
+*.dns-sjc.imo.im IN CNAME .
 dns-unfiltered.adguard.com IN CNAME .
 *.dns-unfiltered.adguard.com IN CNAME .
 dns.233py.com.cdn.cloudflare.net IN CNAME .
@@ -1465,8 +1471,6 @@ hide-my-ip.com IN CNAME .
 *.hide-my-ip.com IN CNAME .
 hide.me IN CNAME .
 *.hide.me IN CNAME .
-hidemium.io IN CNAME .
-*.hidemium.io IN CNAME .
 hidemy.name IN CNAME .
 *.hidemy.name IN CNAME .
 hidemyass.com IN CNAME .
@@ -1511,6 +1515,8 @@ hsselite.com IN CNAME .
 *.hsselite.com IN CNAME .
 http-dns.imoim.net IN CNAME .
 *.http-dns.imoim.net IN CNAME .
+http-dns.imostatic.com IN CNAME .
+*.http-dns.imostatic.com IN CNAME .
 httpdns-api.aliyuncs.com IN CNAME .
 *.httpdns-api.aliyuncs.com IN CNAME .
 httpdns-browser.platform.dbankcloud.cn IN CNAME .
@@ -2127,6 +2133,8 @@ privateinternetaccess.com IN CNAME .
 *.privateinternetaccess.com IN CNAME .
 privateproxy.me IN CNAME .
 *.privateproxy.me IN CNAME .
+privatetunnel.com IN CNAME .
+*.privatetunnel.com IN CNAME .
 privatevpn.com IN CNAME .
 *.privatevpn.com IN CNAME .
 privatewifi.com IN CNAME .
@@ -2451,6 +2459,8 @@ staticnetcontent.com IN CNAME .
 *.staticnetcontent.com IN CNAME .
 steering.nextdns.io IN CNAME .
 *.steering.nextdns.io IN CNAME .
+steganos.com IN CNAME .
+*.steganos.com IN CNAME .
 sto01.dnscry.pt IN CNAME .
 *.sto01.dnscry.pt IN CNAME .
 sto02.dnscry.pt IN CNAME .
