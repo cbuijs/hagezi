@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760000833 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760087234 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1and1-dns.de IN CNAME .
@@ -21,8 +21,6 @@ $TTL 3600
 *.2.dnscrypt-cert.opendns.com IN CNAME .
 2.dnscrypt-cert.quad9.net IN CNAME .
 *.2.dnscrypt-cert.quad9.net IN CNAME .
-2.dnscrypt-cert.shield-2.dnsbycomodo.com IN CNAME .
-*.2.dnscrypt-cert.shield-2.dnsbycomodo.com IN CNAME .
 23.106.141.137.16clouds.com IN CNAME .
 *.23.106.141.137.16clouds.com IN CNAME .
 2wired.hopto.org IN CNAME .
@@ -551,8 +549,6 @@ dns.vaguthu.mv IN CNAME .
 *.dns.vaguthu.mv IN CNAME .
 dns.vectorsigma.ru IN CNAME .
 *.dns.vectorsigma.ru IN CNAME .
-dns.w3ctag.org IN CNAME .
-*.dns.w3ctag.org IN CNAME .
 dns.wantfreedom.eu.org IN CNAME .
 *.dns.wantfreedom.eu.org IN CNAME .
 dns.watch IN CNAME .
@@ -1357,10 +1353,6 @@ ns1.fdn.fr IN CNAME .
 *.ns1.fdn.fr IN CNAME .
 ns1.i-evolve.net IN CNAME .
 *.ns1.i-evolve.net IN CNAME .
-ns1.recursive.dnsbycomodo.com IN CNAME .
-*.ns1.recursive.dnsbycomodo.com IN CNAME .
-ns2.recursive.dnsbycomodo.com IN CNAME .
-*.ns2.recursive.dnsbycomodo.com IN CNAME .
 nsnacho.sytes.net IN CNAME .
 *.nsnacho.sytes.net IN CNAME .
 nue01.dnscry.pt IN CNAME .

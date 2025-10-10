@@ -1,6 +1,8 @@
 ; RPZ "NATIVE-VIVO"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760000969 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760087370 12h 15m 3w 3h
+adxlog-adnet.vivo.com.cn IN CNAME .
+*.adxlog-adnet.vivo.com.cn IN CNAME .
 asia-abeacdataonrt-stsdk.vivoglobal.com IN CNAME .
 *.asia-abeacdataonrt-stsdk.vivoglobal.com IN CNAME .
 asia-abeacdataort-stsdk.vivoglobal.com IN CNAME .
@@ -141,6 +143,8 @@ de-prt-stsdk.vivoglobal.com IN CNAME .
 *.de-prt-stsdk.vivoglobal.com IN CNAME .
 de-vcode-od.vivoglobal.com IN CNAME .
 *.de-vcode-od.vivoglobal.com IN CNAME .
+dsplog-adnet.vivo.com.cn IN CNAME .
+*.dsplog-adnet.vivo.com.cn IN CNAME .
 err-up.vivoglobal.com IN CNAME .
 *.err-up.vivoglobal.com IN CNAME .
 err.up.vivoglobal.com IN CNAME .
@@ -445,6 +449,8 @@ tr-vcode-or.vivoglobal.com IN CNAME .
 *.tr-vcode-or.vivoglobal.com IN CNAME .
 tr-weather.vivoglobal.com IN CNAME .
 *.tr-weather.vivoglobal.com IN CNAME .
+tracking-adnet.vivo.com.cn IN CNAME .
+*.tracking-adnet.vivo.com.cn IN CNAME .
 vhs.wwstat.com IN CNAME .
 *.vhs.wwstat.com IN CNAME .
 vhs.wwstat.com.ctdns.cn IN CNAME .

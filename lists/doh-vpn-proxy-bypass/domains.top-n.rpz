@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760000839 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760087239 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 123-proxy.net IN CNAME .
@@ -31,8 +31,6 @@ $TTL 3600
 *.2.dnscrypt-cert.opendns.com IN CNAME .
 2.dnscrypt-cert.quad9.net IN CNAME .
 *.2.dnscrypt-cert.quad9.net IN CNAME .
-2.dnscrypt-cert.shield-2.dnsbycomodo.com IN CNAME .
-*.2.dnscrypt-cert.shield-2.dnsbycomodo.com IN CNAME .
 23.106.141.137.16clouds.com IN CNAME .
 *.23.106.141.137.16clouds.com IN CNAME .
 2wired.hopto.org IN CNAME .
@@ -893,8 +891,6 @@ dns.vaguthu.mv IN CNAME .
 *.dns.vaguthu.mv IN CNAME .
 dns.vectorsigma.ru IN CNAME .
 *.dns.vectorsigma.ru IN CNAME .
-dns.w3ctag.org IN CNAME .
-*.dns.w3ctag.org IN CNAME .
 dns.wantfreedom.eu.org IN CNAME .
 *.dns.wantfreedom.eu.org IN CNAME .
 dns.watch IN CNAME .
@@ -2027,10 +2023,6 @@ ns1.fdn.fr IN CNAME .
 *.ns1.fdn.fr IN CNAME .
 ns1.i-evolve.net IN CNAME .
 *.ns1.i-evolve.net IN CNAME .
-ns1.recursive.dnsbycomodo.com IN CNAME .
-*.ns1.recursive.dnsbycomodo.com IN CNAME .
-ns2.recursive.dnsbycomodo.com IN CNAME .
-*.ns2.recursive.dnsbycomodo.com IN CNAME .
 ns8469rfvth42.xyz IN CNAME .
 *.ns8469rfvth42.xyz IN CNAME .
 nslookup.io IN CNAME .
@@ -2567,6 +2559,8 @@ test.zkwg.duckdns.org IN CNAME .
 *.test.zkwg.duckdns.org IN CNAME .
 testpilot.firefox.com IN CNAME .
 *.testpilot.firefox.com IN CNAME .
+theproxyer.com IN CNAME .
+*.theproxyer.com IN CNAME .
 thevpncompany.net IN CNAME .
 *.thevpncompany.net IN CNAME .
 tia01.dnscry.pt IN CNAME .
@@ -2655,6 +2649,8 @@ tuu01.dnscry.pt IN CNAME .
 *.tuu01.dnscry.pt IN CNAME .
 twingate.com IN CNAME .
 *.twingate.com IN CNAME .
+twoproxy.net IN CNAME .
+*.twoproxy.net IN CNAME .
 tyo01.dnscry.pt IN CNAME .
 *.tyo01.dnscry.pt IN CNAME .
 tyo02.dnscry.pt IN CNAME .
