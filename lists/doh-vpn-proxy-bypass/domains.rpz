@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760087239 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760173645 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 123-proxy.net IN CNAME .
@@ -2501,6 +2501,8 @@ staticnetcontent.com IN CNAME .
 *.staticnetcontent.com IN CNAME .
 steering.nextdns.io IN CNAME .
 *.steering.nextdns.io IN CNAME .
+steganos.com IN CNAME .
+*.steganos.com IN CNAME .
 sto01.dnscry.pt IN CNAME .
 *.sto01.dnscry.pt IN CNAME .
 sto02.dnscry.pt IN CNAME .
@@ -2843,6 +2845,8 @@ vps-1f675aa1.vps.ovh.us IN CNAME .
 *.vps-1f675aa1.vps.ovh.us IN CNAME .
 vps-33e5a7f3.vps.ovh.us IN CNAME .
 *.vps-33e5a7f3.vps.ovh.us IN CNAME .
+vps.avc.cx IN CNAME .
+*.vps.avc.cx IN CNAME .
 vps.poly-tank.jp IN CNAME .
 *.vps.poly-tank.jp IN CNAME .
 vyprvpn.com IN CNAME .

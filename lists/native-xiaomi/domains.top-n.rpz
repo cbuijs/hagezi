@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-XIAOMI-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760087376 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760173784 12h 15m 3w 3h
 11-c3.bigdata.ctc.neo.xiaomi.com IN CNAME .
 *.11-c3.bigdata.ctc.neo.xiaomi.com IN CNAME .
 5-c3.bigdata.ctc.neo.xiaomi.com IN CNAME .
@@ -85,6 +85,8 @@ api.jr.mi.com IN CNAME .
 *.api.jr.mi.com IN CNAME .
 api.launcher.intl.miui.com IN CNAME .
 *.api.launcher.intl.miui.com IN CNAME .
+api.micloud.xiaomi.net IN CNAME .
+*.api.micloud.xiaomi.net IN CNAME .
 api.mintbrs.intl.miui.com IN CNAME .
 *.api.mintbrs.intl.miui.com IN CNAME .
 api.miui.security.xiaomi.com IN CNAME .
@@ -243,8 +245,6 @@ feedback.miui.com IN CNAME .
 *.feedback.miui.com IN CNAME .
 file.cdn.mvideo.xiaomi.com IN CNAME .
 *.file.cdn.mvideo.xiaomi.com IN CNAME .
-find.api.micloud.xiaomi.net IN CNAME .
-*.find.api.micloud.xiaomi.net IN CNAME .
 findapi.micloud.xiaomi.net IN CNAME .
 *.findapi.micloud.xiaomi.net IN CNAME .
 flash.sec.intl.miui.com IN CNAME .
@@ -687,8 +687,6 @@ update.avlyun.sec.miui.com IN CNAME .
 *.update.avlyun.sec.miui.com IN CNAME .
 upgrade.pandora.xiaomi.com IN CNAME .
 *.upgrade.pandora.xiaomi.com IN CNAME .
-us.api.micloud.xiaomi.net IN CNAME .
-*.us.api.micloud.xiaomi.net IN CNAME .
 userid.xiaomi.com IN CNAME .
 *.userid.xiaomi.com IN CNAME .
 video.kts.g.mi.com IN CNAME .
