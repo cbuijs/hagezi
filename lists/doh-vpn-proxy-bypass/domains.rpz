@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760173645 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760260044 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 123-proxy.net IN CNAME .
@@ -2497,8 +2497,6 @@ stackfront.xyz IN CNAME .
 *.stackfront.xyz IN CNAME .
 stage-ngrok.com IN CNAME .
 *.stage-ngrok.com IN CNAME .
-staticnetcontent.com IN CNAME .
-*.staticnetcontent.com IN CNAME .
 steering.nextdns.io IN CNAME .
 *.steering.nextdns.io IN CNAME .
 steganos.com IN CNAME .
