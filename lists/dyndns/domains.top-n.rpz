@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760286375 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760346441 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 25u.com IN CNAME .
@@ -89,6 +89,8 @@ cloudns.org IN CNAME .
 *.cloudns.org IN CNAME .
 cloudns.pro IN CNAME .
 *.cloudns.pro IN CNAME .
+codns.com IN CNAME .
+*.codns.com IN CNAME .
 con-ip.com IN CNAME .
 *.con-ip.com IN CNAME .
 corbina.ru IN CNAME .
@@ -245,8 +247,6 @@ dynamic-dns.net IN CNAME .
 *.dynamic-dns.net IN CNAME .
 dynamic-m.com IN CNAME .
 *.dynamic-m.com IN CNAME .
-dynamic.domains IN CNAME .
-*.dynamic.domains IN CNAME .
 dynathome.net IN CNAME .
 *.dynathome.net IN CNAME .
 dyndns-at-home.com IN CNAME .
@@ -857,8 +857,6 @@ wwwhost.biz IN CNAME .
 *.wwwhost.biz IN CNAME .
 x24hr.com IN CNAME .
 *.x24hr.com IN CNAME .
-x443.pw IN CNAME .
-*.x443.pw IN CNAME .
 xxuz.com IN CNAME .
 *.xxuz.com IN CNAME .
 xxxy.biz IN CNAME .

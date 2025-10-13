@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760286371 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760346437 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 123-proxy.net IN CNAME .
@@ -57,6 +57,8 @@ $TTL 3600
 *.9132706292.cloudns.be IN CNAME .
 922proxy.com IN CNAME .
 *.922proxy.com IN CNAME .
+a-bld.sys-adm.in IN CNAME .
+*.a-bld.sys-adm.in IN CNAME .
 a-regist.anondns.net IN CNAME .
 *.a-regist.anondns.net IN CNAME .
 a.family.ns.dnslify.com IN CNAME .
@@ -341,6 +343,8 @@ blackdragon6699.diskstation.me IN CNAME .
 *.blackdragon6699.diskstation.me IN CNAME .
 blamb.duckdns.org IN CNAME .
 *.blamb.duckdns.org IN CNAME .
+bld.sys-adm.in IN CNAME .
+*.bld.sys-adm.in IN CNAME .
 blitz-setup.ahadns.com IN CNAME .
 *.blitz-setup.ahadns.com IN CNAME .
 blitz.ahadns.com IN CNAME .
@@ -1363,8 +1367,6 @@ freedome-vpn.net IN CNAME .
 *.freedome-vpn.net IN CNAME .
 freenetproject.org IN CNAME .
 *.freenetproject.org IN CNAME .
-freevpn.win IN CNAME .
-*.freevpn.win IN CNAME .
 freevpnme.b-cdn.net IN CNAME .
 *.freevpnme.b-cdn.net IN CNAME .
 freevpnplanet.com IN CNAME .
@@ -1409,8 +1411,6 @@ german-proxy.com.de IN CNAME .
 *.german-proxy.com.de IN CNAME .
 germany-proxy.com.de IN CNAME .
 *.germany-proxy.com.de IN CNAME .
-get-express-vpn.com IN CNAME .
-*.get-express-vpn.com IN CNAME .
 get-xmore-link3s.com IN CNAME .
 *.get-xmore-link3s.com IN CNAME .
 get-xmore-links8.com IN CNAME .
@@ -2889,8 +2889,6 @@ whydidiask.chickenkiller.com IN CNAME .
 *.whydidiask.chickenkiller.com IN CNAME .
 wifrousl.spdns.de IN CNAME .
 *.wifrousl.spdns.de IN CNAME .
-wikimedia-dns.org IN CNAME .
-*.wikimedia-dns.org IN CNAME .
 windscribe.com IN CNAME .
 *.windscribe.com IN CNAME .
 wirevpn.app IN CNAME .
@@ -2931,6 +2929,8 @@ yhz01.dnscry.pt IN CNAME .
 *.yhz01.dnscry.pt IN CNAME .
 ymq01.dnscry.pt IN CNAME .
 *.ymq01.dnscry.pt IN CNAME .
+younblocked.com IN CNAME .
+*.younblocked.com IN CNAME .
 yul01.dnscry.pt IN CNAME .
 *.yul01.dnscry.pt IN CNAME .
 yunyun.is.my.waifu.cz IN CNAME .

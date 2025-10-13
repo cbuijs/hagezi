@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760286366 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760346432 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1and1-dns.de IN CNAME .
@@ -33,6 +33,8 @@ $TTL 3600
 *.8888.google IN CNAME .
 9132706292.cloudns.be IN CNAME .
 *.9132706292.cloudns.be IN CNAME .
+a-bld.sys-adm.in IN CNAME .
+*.a-bld.sys-adm.in IN CNAME .
 a.family.ns.dnslify.com IN CNAME .
 *.a.family.ns.dnslify.com IN CNAME .
 a.ns.dnslify.com IN CNAME .
@@ -229,6 +231,8 @@ blackdragon6699.diskstation.me IN CNAME .
 *.blackdragon6699.diskstation.me IN CNAME .
 blamb.duckdns.org IN CNAME .
 *.blamb.duckdns.org IN CNAME .
+bld.sys-adm.in IN CNAME .
+*.bld.sys-adm.in IN CNAME .
 blitz-setup.ahadns.com IN CNAME .
 *.blitz-setup.ahadns.com IN CNAME .
 blitz.ahadns.com IN CNAME .
@@ -1749,8 +1753,6 @@ wg-aghome.freemyip.com IN CNAME .
 *.wg-aghome.freemyip.com IN CNAME .
 wifrousl.spdns.de IN CNAME .
 *.wifrousl.spdns.de IN CNAME .
-wikimedia-dns.org IN CNAME .
-*.wikimedia-dns.org IN CNAME .
 wisehomeguard.duckdns.org IN CNAME .
 *.wisehomeguard.duckdns.org IN CNAME .
 woalongit.synology.me IN CNAME .

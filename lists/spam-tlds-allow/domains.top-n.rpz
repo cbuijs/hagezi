@@ -1,6 +1,6 @@
 ; RPZ "SPAM-TLDS-ALLOW-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760286626 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760346723 12h 15m 3w 3h
 10gen.cc IN CNAME .
 *.10gen.cc IN CNAME .
 18comic.vip IN CNAME .
@@ -269,8 +269,6 @@ lurl.cc IN CNAME .
 *.lurl.cc IN CNAME .
 malware.expert IN CNAME .
 *.malware.expert IN CNAME .
-manson.wiki IN CNAME .
-*.manson.wiki IN CNAME .
 mastodon.world IN CNAME .
 *.mastodon.world IN CNAME .
 mempool.space IN CNAME .
@@ -461,6 +459,8 @@ unidays.world IN CNAME .
 *.unidays.world IN CNAME .
 upbitit.cool IN CNAME .
 *.upbitit.cool IN CNAME .
+upfiles.download IN CNAME .
+*.upfiles.download IN CNAME .
 usermanual.wiki IN CNAME .
 *.usermanual.wiki IN CNAME .
 userstyles.world IN CNAME .
