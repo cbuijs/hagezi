@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760351944 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760432842 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 123-proxy.net IN CNAME .
@@ -2643,6 +2643,8 @@ tunnelbear.com IN CNAME .
 *.tunnelbear.com IN CNAME .
 tunnelbear.s3.amazonaws.com IN CNAME .
 *.tunnelbear.s3.amazonaws.com IN CNAME .
+turbovpn.co IN CNAME .
+*.turbovpn.co IN CNAME .
 turbovpn.com IN CNAME .
 *.turbovpn.com IN CNAME .
 tuu01.dnscry.pt IN CNAME .
@@ -2891,6 +2893,8 @@ wifrousl.spdns.de IN CNAME .
 *.wifrousl.spdns.de IN CNAME .
 windscribe.com IN CNAME .
 *.windscribe.com IN CNAME .
+wired-guardian.duckdns.org IN CNAME .
+*.wired-guardian.duckdns.org IN CNAME .
 wirevpn.app IN CNAME .
 *.wirevpn.app IN CNAME .
 wirevpn.cc IN CNAME .
