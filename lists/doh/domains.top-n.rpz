@@ -1,8 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760432836 12h 15m 3w 3h
-0ms.dev IN CNAME .
-*.0ms.dev IN CNAME .
+@ SOA dummy-ns hostmaster 1760519234 12h 15m 3w 3h
 1and1-dns.de IN CNAME .
 *.1and1-dns.de IN CNAME .
 2.alpo.pp.ua IN CNAME .
@@ -487,8 +485,6 @@ dns.molinero.dev IN CNAME .
 *.dns.molinero.dev IN CNAME .
 dns.mullvad.net IN CNAME .
 *.dns.mullvad.net IN CNAME .
-dns.mzjtechnology.com IN CNAME .
-*.dns.mzjtechnology.com IN CNAME .
 dns.nextdns.io IN CNAME .
 *.dns.nextdns.io IN CNAME .
 dns.njal.la IN CNAME .

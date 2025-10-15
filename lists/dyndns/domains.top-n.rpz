@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760432847 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760519244 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 25u.com IN CNAME .
@@ -323,6 +323,8 @@ eatuo.com IN CNAME .
 *.eatuo.com IN CNAME .
 edns.biz IN CNAME .
 *.edns.biz IN CNAME .
+endofinternet.net IN CNAME .
+*.endofinternet.net IN CNAME .
 entrydns.net IN CNAME .
 *.entrydns.net IN CNAME .
 epac.to IN CNAME .
