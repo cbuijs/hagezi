@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760605641 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760692042 12h 15m 3w 3h
 123-proxy.net IN CNAME .
 *.123-proxy.net IN CNAME .
 123proxy.app IN CNAME .
@@ -173,8 +173,6 @@ africadns1.liquidtelecom.net IN CNAME .
 *.africadns1.liquidtelecom.net IN CNAME .
 africadns2.liquidtelecom.net IN CNAME .
 *.africadns2.liquidtelecom.net IN CNAME .
-agh.realwap.net IN CNAME .
-*.agh.realwap.net IN CNAME .
 ahadns.net IN CNAME .
 *.ahadns.net IN CNAME .
 airdns.org IN CNAME .
@@ -1269,6 +1267,8 @@ expressapisv2.net IN CNAME .
 *.expressapisv2.net IN CNAME .
 expressvpn.com IN CNAME .
 *.expressvpn.com IN CNAME .
+expressvpn.net IN CNAME .
+*.expressvpn.net IN CNAME .
 expressvpn.works IN CNAME .
 *.expressvpn.works IN CNAME .
 eyg01.dnscry.pt IN CNAME .
