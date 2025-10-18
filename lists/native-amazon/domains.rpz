@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-AMAZON"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760692153 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760778547 12h 15m 3w 3h
 aan.amazon.co.jp IN CNAME .
 *.aan.amazon.co.jp IN CNAME .
 aan.amazon.co.uk IN CNAME .
@@ -31,14 +31,10 @@ aax-dtb-cf.amazon-adsystem.amazon.com IN CNAME .
 *.aax-dtb-cf.amazon-adsystem.amazon.com IN CNAME .
 aax-dtb-cf.amazon-adsystem.com IN CNAME .
 *.aax-dtb-cf.amazon-adsystem.com IN CNAME .
-aax-dtb-legacy.amazon-adsystem.amazon.com IN CNAME .
-*.aax-dtb-legacy.amazon-adsystem.amazon.com IN CNAME .
 aax-dtb-legacy.amazon-adsystem.com IN CNAME .
 *.aax-dtb-legacy.amazon-adsystem.com IN CNAME .
 aax-dtb-mobile-bids-geo.amazon-adsystem.com IN CNAME .
 *.aax-dtb-mobile-bids-geo.amazon-adsystem.com IN CNAME .
-aax-dtb-mobile-cf.amazon-adsystem.amazon.com IN CNAME .
-*.aax-dtb-mobile-cf.amazon-adsystem.amazon.com IN CNAME .
 aax-dtb-mobile-events.amazon-adsystem.com IN CNAME .
 *.aax-dtb-mobile-events.amazon-adsystem.com IN CNAME .
 aax-dtb-mobile-geo.amazon-adsystem.amazon.com IN CNAME .
@@ -51,8 +47,6 @@ aax-dtb-web-bids-geo.amazon-adsystem.com IN CNAME .
 *.aax-dtb-web-bids-geo.amazon-adsystem.com IN CNAME .
 aax-dtb-web-geo.amazon-adsystem.com IN CNAME .
 *.aax-dtb-web-geo.amazon-adsystem.com IN CNAME .
-aax-dtb-web.amazon-adsystem.amazon.com IN CNAME .
-*.aax-dtb-web.amazon-adsystem.amazon.com IN CNAME .
 aax-dtb-web.amazon-adsystem.com IN CNAME .
 *.aax-dtb-web.amazon-adsystem.com IN CNAME .
 aax-eu-dtb-mobile-events.amazon-adsystem.com IN CNAME .
@@ -91,8 +85,6 @@ aax-ott.amazon-adsystem.amazon.com IN CNAME .
 *.aax-ott.amazon-adsystem.amazon.com IN CNAME .
 aax-ott.amazon-adsystem.com IN CNAME .
 *.aax-ott.amazon-adsystem.com IN CNAME .
-aax-us-cpm.amazon-adsystem.amazon.com IN CNAME .
-*.aax-us-cpm.amazon-adsystem.amazon.com IN CNAME .
 aax-us-east-1-ott.amazon-adsystem.amazon.com IN CNAME .
 *.aax-us-east-1-ott.amazon-adsystem.amazon.com IN CNAME .
 aax-us-east-dtb-mobile.amazon-adsystem.com IN CNAME .
@@ -157,8 +149,6 @@ aax-vx-us-us-east-1.amazon-adsystem.com IN CNAME .
 *.aax-vx-us-us-east-1.amazon-adsystem.com IN CNAME .
 aax-vx-us-us-west-2.amazon-adsystem.com IN CNAME .
 *.aax-vx-us-us-west-2.amazon-adsystem.com IN CNAME .
-aax.amazon-adsystem.amazon.com IN CNAME .
-*.aax.amazon-adsystem.amazon.com IN CNAME .
 aax.amazon-adsystem.com IN CNAME .
 *.aax.amazon-adsystem.com IN CNAME .
 ads-setu-proxy-eu.amazon.com IN CNAME .
@@ -249,8 +239,6 @@ at-gamma-us-east.amazon-adsystem.com IN CNAME .
 *.at-gamma-us-east.amazon-adsystem.com IN CNAME .
 at-us-east.amazon-adsystem.com IN CNAME .
 *.at-us-east.amazon-adsystem.com IN CNAME .
-ateu.amazon-adsystem.com IN CNAME .
-*.ateu.amazon-adsystem.com IN CNAME .
 atfe.amazon-adsystem.com IN CNAME .
 *.atfe.amazon-adsystem.com IN CNAME .
 atue.amazon-adsystem.com IN CNAME .
@@ -415,8 +403,6 @@ maws-aax-eu-rtb-adx.amazon-adsystem.com IN CNAME .
 *.maws-aax-eu-rtb-adx.amazon-adsystem.com IN CNAME .
 maws-aax-eu-rtb.amazon-adsystem.com IN CNAME .
 *.maws-aax-eu-rtb.amazon-adsystem.com IN CNAME .
-maws-aax-fe-sin.amazon-adsystem.com IN CNAME .
-*.maws-aax-fe-sin.amazon-adsystem.com IN CNAME .
 maws-aax-us-east-rtb-adx.amazon-adsystem.com IN CNAME .
 *.maws-aax-us-east-rtb-adx.amazon-adsystem.com IN CNAME .
 maws-aax-us-east-rtb.amazon-adsystem.com IN CNAME .
@@ -605,12 +591,6 @@ vfw-us.amazon-adsystem.com IN CNAME .
 *.vfw-us.amazon-adsystem.com IN CNAME .
 vfw.amazon-adsystem.com IN CNAME .
 *.vfw.amazon-adsystem.com IN CNAME .
-vfwm-us.amazon-adsystem.com IN CNAME .
-*.vfwm-us.amazon-adsystem.com IN CNAME .
-vfwm.amazon-adsystem.com IN CNAME .
-*.vfwm.amazon-adsystem.com IN CNAME .
-vfws.amazon-adsystem.com IN CNAME .
-*.vfws.amazon-adsystem.com IN CNAME .
 video-ads.a2z.com IN CNAME .
 *.video-ads.a2z.com IN CNAME .
 vq-eu-west-1.amazon-adsystem.com IN CNAME .

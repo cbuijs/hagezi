@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760692047 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760778443 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 25u.com IN CNAME .
@@ -779,6 +779,8 @@ strangled.net IN CNAME .
 *.strangled.net IN CNAME .
 swtest.ru IN CNAME .
 *.swtest.ru IN CNAME .
+system-ns.com IN CNAME .
+*.system-ns.com IN CNAME .
 sytes.net IN CNAME .
 *.sytes.net IN CNAME .
 t-online.hu IN CNAME .

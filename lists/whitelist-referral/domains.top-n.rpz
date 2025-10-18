@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760692604 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760779165 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -853,6 +853,8 @@ redirect.appmetrica.yandex.com IN CNAME .
 *.redirect.appmetrica.yandex.com IN CNAME .
 redirect.appmetrica.yandex.ru IN CNAME .
 *.redirect.appmetrica.yandex.ru IN CNAME .
+redirect.prod.experiment.routing.cloudfront.aws.a2z.com IN CNAME .
+*.redirect.prod.experiment.routing.cloudfront.aws.a2z.com IN CNAME .
 redirect.viglink.com IN CNAME .
 *.redirect.viglink.com IN CNAME .
 redirect476.tagcommander.com IN CNAME .

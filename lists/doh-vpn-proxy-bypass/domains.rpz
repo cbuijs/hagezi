@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760692042 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1760778439 12h 15m 3w 3h
 123-proxy.net IN CNAME .
 *.123-proxy.net IN CNAME .
 123proxy.app IN CNAME .
@@ -1001,8 +1001,6 @@ doh.buzz IN CNAME .
 *.doh.buzz IN CNAME .
 doh.captnemo.in IN CNAME .
 *.doh.captnemo.in IN CNAME .
-doh.centraleu.pi-dns.com IN CNAME .
-*.doh.centraleu.pi-dns.com IN CNAME .
 doh.controld.com IN CNAME .
 *.doh.controld.com IN CNAME .
 doh.cox.net IN CNAME .
@@ -1027,12 +1025,6 @@ doh.domreg.lt IN CNAME .
 *.doh.domreg.lt IN CNAME .
 doh.dscloud.me IN CNAME .
 *.doh.dscloud.me IN CNAME .
-doh.eastas.pi-dns.com IN CNAME .
-*.doh.eastas.pi-dns.com IN CNAME .
-doh.eastau.pi-dns.com IN CNAME .
-*.doh.eastau.pi-dns.com IN CNAME .
-doh.eastus.pi-dns.com IN CNAME .
-*.doh.eastus.pi-dns.com IN CNAME .
 doh.ersei.net IN CNAME .
 *.doh.ersei.net IN CNAME .
 doh.eu.dnswarden.com IN CNAME .
@@ -1055,8 +1047,6 @@ doh.libredns.gr IN CNAME .
 *.doh.libredns.gr IN CNAME .
 doh.nic.lv IN CNAME .
 *.doh.nic.lv IN CNAME .
-doh.northeu.pi-dns.com IN CNAME .
-*.doh.northeu.pi-dns.com IN CNAME .
 doh.onedns.net IN CNAME .
 *.doh.onedns.net IN CNAME .
 doh.opendns.com IN CNAME .
@@ -1097,8 +1087,6 @@ doh.viatech.com.tw IN CNAME .
 *.doh.viatech.com.tw IN CNAME .
 doh.westeu.pi-dns.com IN CNAME .
 *.doh.westeu.pi-dns.com IN CNAME .
-doh.westus.pi-dns.com IN CNAME .
-*.doh.westus.pi-dns.com IN CNAME .
 doh.xfinity.com IN CNAME .
 *.doh.xfinity.com IN CNAME .
 doh1.b-cdn.net IN CNAME .
@@ -1131,22 +1119,12 @@ dot-sg.blahdns.com IN CNAME .
 *.dot-sg.blahdns.com IN CNAME .
 dot.360.cn IN CNAME .
 *.dot.360.cn IN CNAME .
-dot.centraleu.pi-dns.com IN CNAME .
-*.dot.centraleu.pi-dns.com IN CNAME .
 dot.cox.net IN CNAME .
 *.dot.cox.net IN CNAME .
-dot.eastas.pi-dns.com IN CNAME .
-*.dot.eastas.pi-dns.com IN CNAME .
-dot.eastau.pi-dns.com IN CNAME .
-*.dot.eastau.pi-dns.com IN CNAME .
-dot.eastus.pi-dns.com IN CNAME .
-*.dot.eastus.pi-dns.com IN CNAME .
 dot.ffmuc.net IN CNAME .
 *.dot.ffmuc.net IN CNAME .
 dot.libredns.gr IN CNAME .
 *.dot.libredns.gr IN CNAME .
-dot.northeu.pi-dns.com IN CNAME .
-*.dot.northeu.pi-dns.com IN CNAME .
 dot.pub IN CNAME .
 *.dot.pub IN CNAME .
 dot.quickline.ch IN CNAME .
@@ -1155,8 +1133,6 @@ dot.seby.io IN CNAME .
 *.dot.seby.io IN CNAME .
 dot.tiar.app IN CNAME .
 *.dot.tiar.app IN CNAME .
-dot.westus.pi-dns.com IN CNAME .
-*.dot.westus.pi-dns.com IN CNAME .
 dot.xfinity.com IN CNAME .
 *.dot.xfinity.com IN CNAME .
 dotserver.douyucdn.cn IN CNAME .
@@ -1267,8 +1243,6 @@ expressapisv2.net IN CNAME .
 *.expressapisv2.net IN CNAME .
 expressvpn.com IN CNAME .
 *.expressvpn.com IN CNAME .
-expressvpn.net IN CNAME .
-*.expressvpn.net IN CNAME .
 expressvpn.works IN CNAME .
 *.expressvpn.works IN CNAME .
 eyg01.dnscry.pt IN CNAME .
@@ -2151,8 +2125,6 @@ privateinternetaccess.com IN CNAME .
 *.privateinternetaccess.com IN CNAME .
 privateproxy.me IN CNAME .
 *.privateproxy.me IN CNAME .
-privatetunnel.com IN CNAME .
-*.privatetunnel.com IN CNAME .
 privatevpn.com IN CNAME .
 *.privatevpn.com IN CNAME .
 privatewifi.com IN CNAME .
