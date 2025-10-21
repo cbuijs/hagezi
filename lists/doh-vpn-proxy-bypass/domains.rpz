@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1760864841 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1761037639 12h 15m 3w 3h
 123-proxy.net IN CNAME .
 *.123-proxy.net IN CNAME .
 123proxy.app IN CNAME .
@@ -461,6 +461,8 @@ cpt01.dnscry.pt IN CNAME .
 *.cpt01.dnscry.pt IN CNAME .
 cpt02.dnscry.pt IN CNAME .
 *.cpt02.dnscry.pt IN CNAME .
+craftmaine.mine.bz IN CNAME .
+*.craftmaine.mine.bz IN CNAME .
 crawlbase.com IN CNAME .
 *.crawlbase.com IN CNAME .
 crd.circl.lu IN CNAME .
@@ -1043,6 +1045,8 @@ doh.iqiyi.com IN CNAME .
 *.doh.iqiyi.com IN CNAME .
 doh.iucc.ac.il IN CNAME .
 *.doh.iucc.ac.il IN CNAME .
+doh.kekew.info IN CNAME .
+*.doh.kekew.info IN CNAME .
 doh.libredns.gr IN CNAME .
 *.doh.libredns.gr IN CNAME .
 doh.nic.lv IN CNAME .
@@ -1099,6 +1103,8 @@ doh2.blahdns.com IN CNAME .
 *.doh2.blahdns.com IN CNAME .
 doh2.gslb2.xfinity.com IN CNAME .
 *.doh2.gslb2.xfinity.com IN CNAME .
+doh3.kekew.info IN CNAME .
+*.doh3.kekew.info IN CNAME .
 dohdot.coxlab.net IN CNAME .
 *.dohdot.coxlab.net IN CNAME .
 dohsg.blahdns.com IN CNAME .
@@ -1243,6 +1249,8 @@ expressapisv2.net IN CNAME .
 *.expressapisv2.net IN CNAME .
 expressvpn.com IN CNAME .
 *.expressvpn.com IN CNAME .
+expressvpn.net IN CNAME .
+*.expressvpn.net IN CNAME .
 expressvpn.works IN CNAME .
 *.expressvpn.works IN CNAME .
 eyg01.dnscry.pt IN CNAME .
@@ -1655,6 +1663,8 @@ ivacy.com IN CNAME .
 *.ivacy.com IN CNAME .
 ivpn.net IN CNAME .
 *.ivpn.net IN CNAME .
+jaiguneeds.root.sx IN CNAME .
+*.jaiguneeds.root.sx IN CNAME .
 jalexx.freeboxos.fr IN CNAME .
 *.jalexx.freeboxos.fr IN CNAME .
 jarvis5.ddns.net IN CNAME .
@@ -2131,8 +2141,6 @@ privatewifi.com IN CNAME .
 *.privatewifi.com IN CNAME .
 privatnas.servebeer.com IN CNAME .
 *.privatnas.servebeer.com IN CNAME .
-privoxy.org IN CNAME .
-*.privoxy.org IN CNAME .
 pro.shecan.ir IN CNAME .
 *.pro.shecan.ir IN CNAME .
 pro0oxy.blogspot.com IN CNAME .
@@ -2495,8 +2503,6 @@ syd02.dnscry.pt IN CNAME .
 *.syd02.dnscry.pt IN CNAME .
 syre.pp.ua IN CNAME .
 *.syre.pp.ua IN CNAME .
-tabproxy.com IN CNAME .
-*.tabproxy.com IN CNAME .
 tailscale.com IN CNAME .
 *.tailscale.com IN CNAME .
 talk2m.com IN CNAME .
