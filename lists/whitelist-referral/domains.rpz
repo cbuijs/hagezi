@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1761128388 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1761211484 12h 15m 3w 3h
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 7eer.net IN CNAME .
@@ -905,10 +905,14 @@ s10.exacttarget.com IN CNAME .
 *.s10.exacttarget.com IN CNAME .
 s11.exacttarget.com IN CNAME .
 *.s11.exacttarget.com IN CNAME .
+s11.login.exacttarget.com IN CNAME .
+*.s11.login.exacttarget.com IN CNAME .
 s12.exacttarget.com IN CNAME .
 *.s12.exacttarget.com IN CNAME .
 s13.exacttarget.com IN CNAME .
 *.s13.exacttarget.com IN CNAME .
+s13.login.exacttarget.com IN CNAME .
+*.s13.login.exacttarget.com IN CNAME .
 s4.exacttarget.com IN CNAME .
 *.s4.exacttarget.com IN CNAME .
 s50.exacttarget.com IN CNAME .
@@ -1001,6 +1005,8 @@ suite32.emarsys.net IN CNAME .
 *.suite32.emarsys.net IN CNAME .
 suite33.emarsys.net IN CNAME .
 *.suite33.emarsys.net IN CNAME .
+suite36.emarsys.net IN CNAME .
+*.suite36.emarsys.net IN CNAME .
 suite38.emarsys.net IN CNAME .
 *.suite38.emarsys.net IN CNAME .
 suite40-cf.emarsys.net IN CNAME .
