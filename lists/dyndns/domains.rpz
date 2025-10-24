@@ -1,8 +1,10 @@
 ; RPZ "DYNDNS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1761210447 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1761296853 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
+1cooldns.com IN CNAME .
+*.1cooldns.com IN CNAME .
 25u.com IN CNAME .
 *.25u.com IN CNAME .
 2waky.com IN CNAME .
@@ -243,8 +245,6 @@ dynamic-dns.net IN CNAME .
 *.dynamic-dns.net IN CNAME .
 dynamic-m.com IN CNAME .
 *.dynamic-m.com IN CNAME .
-dynathome.net IN CNAME .
-*.dynathome.net IN CNAME .
 dyndns-at-home.com IN CNAME .
 *.dyndns-at-home.com IN CNAME .
 dyndns-blog.com IN CNAME .

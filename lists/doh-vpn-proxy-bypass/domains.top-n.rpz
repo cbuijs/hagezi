@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1761210441 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1761296849 12h 15m 3w 3h
 123-proxy.net IN CNAME .
 *.123-proxy.net IN CNAME .
 123proxy.app IN CNAME .
@@ -471,6 +471,8 @@ crd.circl.lu IN CNAME .
 *.crd.circl.lu IN CNAME .
 croxyproxy.com IN CNAME .
 *.croxyproxy.com IN CNAME .
+croxyproxy.net IN CNAME .
+*.croxyproxy.net IN CNAME .
 croxyproxy.rocks IN CNAME .
 *.croxyproxy.rocks IN CNAME .
 crypto.sx IN CNAME .
@@ -1347,6 +1349,8 @@ galileo.math.unipd.it IN CNAME .
 *.galileo.math.unipd.it IN CNAME .
 gauss.pp.ua IN CNAME .
 *.gauss.pp.ua IN CNAME .
+gb-cov-w-f-1.nashkan.net IN CNAME .
+*.gb-cov-w-f-1.nashkan.net IN CNAME .
 gb-cov-w-f-2.nashkan.net IN CNAME .
 *.gb-cov-w-f-2.nashkan.net IN CNAME .
 gb-cov-w-p-1.nashkan.net IN CNAME .
@@ -2457,8 +2461,6 @@ ssl-proxy.my-addr.com IN CNAME .
 *.ssl-proxy.my-addr.com IN CNAME .
 stable-vpn.com IN CNAME .
 *.stable-vpn.com IN CNAME .
-stackfront.xyz IN CNAME .
-*.stackfront.xyz IN CNAME .
 stage-ngrok.com IN CNAME .
 *.stage-ngrok.com IN CNAME .
 steering.nextdns.io IN CNAME .
@@ -2649,8 +2651,6 @@ unlimitedvpnapp.com IN CNAME .
 *.unlimitedvpnapp.com IN CNAME .
 unraid.dedyn.io IN CNAME .
 *.unraid.dedyn.io IN CNAME .
-uproxy2.biz IN CNAME .
-*.uproxy2.biz IN CNAME .
 uproxy2.org IN CNAME .
 *.uproxy2.org IN CNAME .
 urban-vpn.com IN CNAME .
@@ -2893,8 +2893,6 @@ yhz01.dnscry.pt IN CNAME .
 *.yhz01.dnscry.pt IN CNAME .
 ymq01.dnscry.pt IN CNAME .
 *.ymq01.dnscry.pt IN CNAME .
-younblocked.com IN CNAME .
-*.younblocked.com IN CNAME .
 yul01.dnscry.pt IN CNAME .
 *.yul01.dnscry.pt IN CNAME .
 yunyun.is.my.waifu.cz IN CNAME .
