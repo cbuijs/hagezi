@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1764645015 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1764731416 12h 15m 3w 3h
 1and1-dns.de IN CNAME .
 *.1and1-dns.de IN CNAME .
 2.alpo.pp.ua IN CNAME .
@@ -53,6 +53,8 @@ adblock-dot.dnswarden.com IN CNAME .
 *.adblock-dot.dnswarden.com IN CNAME .
 adblock.freeddns.org IN CNAME .
 *.adblock.freeddns.org IN CNAME .
+addns1.m-it.ro IN CNAME .
+*.addns1.m-it.ro IN CNAME .
 adg.niub.eu.org IN CNAME .
 *.adg.niub.eu.org IN CNAME .
 adgrm.duckdns.org IN CNAME .
@@ -973,8 +975,6 @@ home.dlinkddns.com IN CNAME .
 *.home.dlinkddns.com IN CNAME .
 home27.duckdns.org IN CNAME .
 *.home27.duckdns.org IN CNAME .
-homec92.dns.army IN CNAME .
-*.homec92.dns.army IN CNAME .
 homejerem.duckdns.org IN CNAME .
 *.homejerem.duckdns.org IN CNAME .
 homelab.terabit.net.id IN CNAME .
