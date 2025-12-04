@@ -1,6 +1,6 @@
 ; RPZ "SPAM-TLDS-ALLOW-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1764731888 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1764818327 12h 15m 3w 3h
 10gen.cc IN CNAME .
 *.10gen.cc IN CNAME .
 18comic.vip IN CNAME .
@@ -209,6 +209,8 @@ haal.fashion IN CNAME .
 *.haal.fashion IN CNAME .
 hacks.guide IN CNAME .
 *.hacks.guide IN CNAME .
+hacktricks.wiki IN CNAME .
+*.hacktricks.wiki IN CNAME .
 hal.science IN CNAME .
 *.hal.science IN CNAME .
 henssler.shop IN CNAME .
@@ -519,8 +521,6 @@ wbs.legal IN CNAME .
 *.wbs.legal IN CNAME .
 webcal.guru IN CNAME .
 *.webcal.guru IN CNAME .
-welocal.world IN CNAME .
-*.welocal.world IN CNAME .
 wetdry.world IN CNAME .
 *.wetdry.world IN CNAME .
 wetv.vip IN CNAME .
