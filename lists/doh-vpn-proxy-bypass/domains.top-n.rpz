@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1764817822 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1764904222 12h 15m 3w 3h
 104-36-85-232.cprapid.com IN CNAME .
 *.104-36-85-232.cprapid.com IN CNAME .
 104-36-85-232.nip.io IN CNAME .
@@ -51,6 +51,8 @@ $TTL 3600
 *.2wired.hopto.org IN CNAME .
 37er19htfd.execute-api.us-east-1.amazonaws.com IN CNAME .
 *.37er19htfd.execute-api.us-east-1.amazonaws.com IN CNAME .
+3dns.eu IN CNAME .
+*.3dns.eu IN CNAME .
 401-0506.b-cdn.net IN CNAME .
 *.401-0506.b-cdn.net IN CNAME .
 401-0507.b-cdn.net IN CNAME .
@@ -1689,8 +1691,6 @@ itopvpn.com IN CNAME .
 *.itopvpn.com IN CNAME .
 ivpn.net IN CNAME .
 *.ivpn.net IN CNAME .
-jaiguneeds.root.sx IN CNAME .
-*.jaiguneeds.root.sx IN CNAME .
 jalexx.freeboxos.fr IN CNAME .
 *.jalexx.freeboxos.fr IN CNAME .
 jarvis5.ddns.net IN CNAME .
@@ -2401,8 +2401,6 @@ sarawut.ddns.net IN CNAME .
 *.sarawut.ddns.net IN CNAME .
 school-ilove.vercel.app IN CNAME .
 *.school-ilove.vercel.app IN CNAME .
-schoology2.twilightparadox.com IN CNAME .
-*.schoology2.twilightparadox.com IN CNAME .
 schoolwebsite.zapto.org IN CNAME .
 *.schoolwebsite.zapto.org IN CNAME .
 science-making.swanndvr.net IN CNAME .

@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1764817817 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1764904216 12h 15m 3w 3h
 1and1-dns.de IN CNAME .
 *.1and1-dns.de IN CNAME .
 2.alpo.pp.ua IN CNAME .
@@ -25,6 +25,8 @@ $TTL 3600
 *.23.106.141.137.16clouds.com IN CNAME .
 2wired.hopto.org IN CNAME .
 *.2wired.hopto.org IN CNAME .
+3dns.eu IN CNAME .
+*.3dns.eu IN CNAME .
 45.32.17.58.vultrusercontent.com IN CNAME .
 *.45.32.17.58.vultrusercontent.com IN CNAME .
 7164.ddns.net IN CNAME .
