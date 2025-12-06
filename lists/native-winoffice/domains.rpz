@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-WINOFFICE"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1764904380 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1764990785 12h 15m 3w 3h
 a-ring-fallback.msedge.net IN CNAME .
 *.a-ring-fallback.msedge.net IN CNAME .
 a-ring-ipv6only.msedge.net IN CNAME .
@@ -57,6 +57,8 @@ advertising.jp.msn.com IN CNAME .
 *.advertising.jp.msn.com IN CNAME .
 advertising.microsoft.com IN CNAME .
 *.advertising.microsoft.com IN CNAME .
+aec-visio-telemetry.officeapps.live.com IN CNAME .
+*.aec-visio-telemetry.officeapps.live.com IN CNAME .
 agps-location-livenet.trafficmanager.net IN CNAME .
 *.agps-location-livenet.trafficmanager.net IN CNAME .
 analytics-dev-lleap-events.servicebus.windows.net IN CNAME .
@@ -655,6 +657,10 @@ t-ring-fallback.msedge.net IN CNAME .
 *.t-ring-fallback.msedge.net IN CNAME .
 t-ring-fallbacks1.msedge.net IN CNAME .
 *.t-ring-fallbacks1.msedge.net IN CNAME .
+t-ring-fallbacks2.msedge.net IN CNAME .
+*.t-ring-fallbacks2.msedge.net IN CNAME .
+t-ring-fdv2.msedge.net IN CNAME .
+*.t-ring-fdv2.msedge.net IN CNAME .
 t-ring-s.msedge.net IN CNAME .
 *.t-ring-s.msedge.net IN CNAME .
 t-ring-s2.msedge.net IN CNAME .
