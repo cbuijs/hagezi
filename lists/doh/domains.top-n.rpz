@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1765249815 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1765336215 12h 15m 3w 3h
 1and1-dns.de IN CNAME .
 *.1and1-dns.de IN CNAME .
 2.alpo.pp.ua IN CNAME .
@@ -21,6 +21,8 @@ $TTL 3600
 *.2.dnscrypt-cert.opendns.com IN CNAME .
 2.dnscrypt-cert.quad9.net IN CNAME .
 *.2.dnscrypt-cert.quad9.net IN CNAME .
+2.dnscrypt-cert.shield-2.dnsbycomodo.com IN CNAME .
+*.2.dnscrypt-cert.shield-2.dnsbycomodo.com IN CNAME .
 23.106.141.137.16clouds.com IN CNAME .
 *.23.106.141.137.16clouds.com IN CNAME .
 2wired.hopto.org IN CNAME .
@@ -1333,6 +1335,10 @@ ns1.fdn.fr IN CNAME .
 *.ns1.fdn.fr IN CNAME .
 ns1.i-evolve.net IN CNAME .
 *.ns1.i-evolve.net IN CNAME .
+ns1.recursive.dnsbycomodo.com IN CNAME .
+*.ns1.recursive.dnsbycomodo.com IN CNAME .
+ns2.recursive.dnsbycomodo.com IN CNAME .
+*.ns2.recursive.dnsbycomodo.com IN CNAME .
 nsnacho.sytes.net IN CNAME .
 *.nsnacho.sytes.net IN CNAME .
 nue01.dnscry.pt IN CNAME .
@@ -1411,6 +1417,8 @@ pqh.ddns.net IN CNAME .
 *.pqh.ddns.net IN CNAME .
 prg01.dnscry.pt IN CNAME .
 *.prg01.dnscry.pt IN CNAME .
+privacy.plumedns.com IN CNAME .
+*.privacy.plumedns.com IN CNAME .
 privatnas.servebeer.com IN CNAME .
 *.privatnas.servebeer.com IN CNAME .
 pro.shecan.ir IN CNAME .

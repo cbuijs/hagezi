@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1765249820 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1765336221 12h 15m 3w 3h
 104-36-85-232.cprapid.com IN CNAME .
 *.104-36-85-232.cprapid.com IN CNAME .
 104-36-85-232.nip.io IN CNAME .
@@ -45,6 +45,8 @@ $TTL 3600
 *.2.dnscrypt-cert.opendns.com IN CNAME .
 2.dnscrypt-cert.quad9.net IN CNAME .
 *.2.dnscrypt-cert.quad9.net IN CNAME .
+2.dnscrypt-cert.shield-2.dnsbycomodo.com IN CNAME .
+*.2.dnscrypt-cert.shield-2.dnsbycomodo.com IN CNAME .
 23.106.141.137.16clouds.com IN CNAME .
 *.23.106.141.137.16clouds.com IN CNAME .
 2wired.hopto.org IN CNAME .
@@ -2051,6 +2053,10 @@ ns1.fdn.fr IN CNAME .
 *.ns1.fdn.fr IN CNAME .
 ns1.i-evolve.net IN CNAME .
 *.ns1.i-evolve.net IN CNAME .
+ns1.recursive.dnsbycomodo.com IN CNAME .
+*.ns1.recursive.dnsbycomodo.com IN CNAME .
+ns2.recursive.dnsbycomodo.com IN CNAME .
+*.ns2.recursive.dnsbycomodo.com IN CNAME .
 ns8469rfvth42.xyz IN CNAME .
 *.ns8469rfvth42.xyz IN CNAME .
 nslookup.io IN CNAME .
@@ -2201,6 +2207,8 @@ pqh.ddns.net IN CNAME .
 *.pqh.ddns.net IN CNAME .
 prg01.dnscry.pt IN CNAME .
 *.prg01.dnscry.pt IN CNAME .
+privacy.plumedns.com IN CNAME .
+*.privacy.plumedns.com IN CNAME .
 privado.io IN CNAME .
 *.privado.io IN CNAME .
 privadovpn.com IN CNAME .
@@ -2247,8 +2255,6 @@ proxy-service.com.de IN CNAME .
 *.proxy-service.com.de IN CNAME .
 proxy-site.com.de IN CNAME .
 *.proxy-site.com.de IN CNAME .
-proxy-tools.com IN CNAME .
-*.proxy-tools.com IN CNAME .
 proxy-works.com IN CNAME .
 *.proxy-works.com IN CNAME .
 proxy-youtube.com IN CNAME .
