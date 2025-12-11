@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1765336221 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1765422621 12h 15m 3w 3h
 104-36-85-232.cprapid.com IN CNAME .
 *.104-36-85-232.cprapid.com IN CNAME .
 104-36-85-232.nip.io IN CNAME .
@@ -1237,8 +1237,6 @@ ec2-34-194-122-51.compute-1.amazonaws.com IN CNAME .
 *.ec2-34-194-122-51.compute-1.amazonaws.com IN CNAME .
 echolink.org IN CNAME .
 *.echolink.org IN CNAME .
-ecoweb-network.com IN CNAME .
-*.ecoweb-network.com IN CNAME .
 ecs-doh.dnswarden.com IN CNAME .
 *.ecs-doh.dnswarden.com IN CNAME .
 edge.nextdns.io IN CNAME .
@@ -2273,6 +2271,8 @@ proxy2.startpage.com IN CNAME .
 *.proxy2.startpage.com IN CNAME .
 proxy3.startpage.com IN CNAME .
 *.proxy3.startpage.com IN CNAME .
+proxy5.startpage.com IN CNAME .
+*.proxy5.startpage.com IN CNAME .
 proxybrowser.github.io IN CNAME .
 *.proxybrowser.github.io IN CNAME .
 proxyium.com IN CNAME .

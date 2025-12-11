@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1765336862 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1765423392 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -1531,6 +1531,8 @@ unilever3.demdex.net IN CNAME .
 *.unilever3.demdex.net IN CNAME .
 uns.apsis.one IN CNAME .
 *.uns.apsis.one IN CNAME .
+unsubscribe.prod.leanplum.com IN CNAME .
+*.unsubscribe.prod.leanplum.com IN CNAME .
 us-serve.nrich.ai IN CNAME .
 *.us-serve.nrich.ai IN CNAME .
 v.short.gy IN CNAME .
