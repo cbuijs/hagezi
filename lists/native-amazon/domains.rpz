@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-AMAZON"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1765509151 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1765595552 12h 15m 3w 3h
 aan.amazon.co.jp IN CNAME .
 *.aan.amazon.co.jp IN CNAME .
 aan.amazon.co.uk IN CNAME .
@@ -583,6 +583,8 @@ vfw-eu.amazon-adsystem.com IN CNAME .
 *.vfw-eu.amazon-adsystem.com IN CNAME .
 vfw-gamma.amazon-adsystem.com IN CNAME .
 *.vfw-gamma.amazon-adsystem.com IN CNAME .
+vfw-us-gamma.amazon-adsystem.com IN CNAME .
+*.vfw-us-gamma.amazon-adsystem.com IN CNAME .
 vfw-us-west-gamma.amazon-adsystem.com IN CNAME .
 *.vfw-us-west-gamma.amazon-adsystem.com IN CNAME .
 vfw-us-west.amazon-adsystem.com IN CNAME .

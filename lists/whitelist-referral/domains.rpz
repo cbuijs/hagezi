@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1765509760 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1765596172 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -853,6 +853,8 @@ m-gzmk5.custobar.com IN CNAME .
 *.m-gzmk5.custobar.com IN CNAME .
 m-s6iau.custobar.com IN CNAME .
 *.m-s6iau.custobar.com IN CNAME .
+m-tfe.custobar.com IN CNAME .
+*.m-tfe.custobar.com IN CNAME .
 m.exactag.com IN CNAME .
 *.m.exactag.com IN CNAME .
 mail.onedrive.com IN CNAME .
@@ -1257,6 +1259,8 @@ suite27.emarsys.net IN CNAME .
 *.suite27.emarsys.net IN CNAME .
 suite29.emarsys.net IN CNAME .
 *.suite29.emarsys.net IN CNAME .
+suite30-cf.emarsys.net IN CNAME .
+*.suite30-cf.emarsys.net IN CNAME .
 suite30.emarsys.net IN CNAME .
 *.suite30.emarsys.net IN CNAME .
 suite32.emarsys.net IN CNAME .
@@ -1305,6 +1309,8 @@ suite63.emarsys.net IN CNAME .
 *.suite63.emarsys.net IN CNAME .
 suite67-cf.emarsys.net IN CNAME .
 *.suite67-cf.emarsys.net IN CNAME .
+suite7-cf.emarsys.net IN CNAME .
+*.suite7-cf.emarsys.net IN CNAME .
 suite7.emarsys.net IN CNAME .
 *.suite7.emarsys.net IN CNAME .
 suite8.emarsys.net IN CNAME .
@@ -1427,8 +1433,6 @@ track.mdrctr.com IN CNAME .
 *.track.mdrctr.com IN CNAME .
 track.omguk.com IN CNAME .
 *.track.omguk.com IN CNAME .
-track.payzilch.com IN CNAME .
-*.track.payzilch.com IN CNAME .
 track.production.webgains.team IN CNAME .
 *.track.production.webgains.team IN CNAME .
 track.productsup.com IN CNAME .
