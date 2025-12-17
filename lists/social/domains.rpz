@@ -1,6 +1,6 @@
 ; RPZ "SOCIAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1765855048 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1765941477 12h 15m 3w 3h
 2ch.org IN CNAME .
 *.2ch.org IN CNAME .
 4cdn.org IN CNAME .
@@ -371,6 +371,8 @@ mastodon.sdf.org IN CNAME .
 *.mastodon.sdf.org IN CNAME .
 mastodon.social IN CNAME .
 *.mastodon.social IN CNAME .
+mastodon.top IN CNAME .
+*.mastodon.top IN CNAME .
 mastodon.uno IN CNAME .
 *.mastodon.uno IN CNAME .
 mastodon.world IN CNAME .
