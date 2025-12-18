@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1765941020 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1766027421 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 104-36-85-232.cprapid.com IN CNAME .
@@ -111,6 +111,8 @@ adblock-dot.dnswarden.com IN CNAME .
 *.adblock-dot.dnswarden.com IN CNAME .
 adblock.freeddns.org IN CNAME .
 *.adblock.freeddns.org IN CNAME .
+adblock.mydns.network IN CNAME .
+*.adblock.mydns.network IN CNAME .
 adbox-v8.srv64.de IN CNAME .
 *.adbox-v8.srv64.de IN CNAME .
 addns1.m-it.ro IN CNAME .
@@ -765,8 +767,6 @@ dns.adguard.com IN CNAME .
 *.dns.adguard.com IN CNAME .
 dns.aliyun.com IN CNAME .
 *.dns.aliyun.com IN CNAME .
-dns.alvosec.com IN CNAME .
-*.dns.alvosec.com IN CNAME .
 dns.amigo-mgn.ru IN CNAME .
 *.dns.amigo-mgn.ru IN CNAME .
 dns.api.gandi.net IN CNAME .
@@ -991,6 +991,8 @@ dns9.quad9.net IN CNAME .
 *.dns9.quad9.net IN CNAME .
 dnscache.e-utp.net IN CNAME .
 *.dnscache.e-utp.net IN CNAME .
+dnsenc.com IN CNAME .
+*.dnsenc.com IN CNAME .
 dnsforfamily.com IN CNAME .
 *.dnsforfamily.com IN CNAME .
 dnsforge.de IN CNAME .
@@ -1301,6 +1303,8 @@ eyg01.dnscry.pt IN CNAME .
 *.eyg01.dnscry.pt IN CNAME .
 family.dot.dns.yandex.net IN CNAME .
 *.family.dot.dns.yandex.net IN CNAME .
+family.mydns.network IN CNAME .
+*.family.mydns.network IN CNAME .
 familyshield.opendns.com IN CNAME .
 *.familyshield.opendns.com IN CNAME .
 fargos2.dns.army IN CNAME .
@@ -1375,6 +1379,8 @@ freeconnect.link IN CNAME .
 *.freeconnect.link IN CNAME .
 freedns.controld.com IN CNAME .
 *.freedns.controld.com IN CNAME .
+freedom.mydns.network IN CNAME .
+*.freedom.mydns.network IN CNAME .
 freedome-vpn.net IN CNAME .
 *.freedome-vpn.net IN CNAME .
 freelearn.myclarevision.com IN CNAME .
@@ -2163,6 +2169,8 @@ pango-paas.co IN CNAME .
 *.pango-paas.co IN CNAME .
 par01.dnscry.pt IN CNAME .
 *.par01.dnscry.pt IN CNAME .
+paranoia.mydns.network IN CNAME .
+*.paranoia.mydns.network IN CNAME .
 pates.services.sfr.fr.casepp.sfr.fr IN CNAME .
 *.pates.services.sfr.fr.casepp.sfr.fr IN CNAME .
 pawxy.com IN CNAME .
@@ -2261,8 +2269,6 @@ proxy-123.com IN CNAME .
 *.proxy-123.com IN CNAME .
 proxy-best.com IN CNAME .
 *.proxy-best.com IN CNAME .
-proxy-search.com IN CNAME .
-*.proxy-search.com IN CNAME .
 proxy-seller.com IN CNAME .
 *.proxy-seller.com IN CNAME .
 proxy-service.com.de IN CNAME .
