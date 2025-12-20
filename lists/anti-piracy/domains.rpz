@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1766113811 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1766200212 12h 15m 3w 3h
 0123456789nonexistent.com IN CNAME .
 *.0123456789nonexistent.com IN CNAME .
 0123movie.net IN CNAME .
@@ -21,8 +21,6 @@ $TTL 3600
 *.107.189.10.20.sslip.io IN CNAME .
 123movies-to.org IN CNAME .
 *.123movies-to.org IN CNAME .
-123movies.domains IN CNAME .
-*.123movies.domains IN CNAME .
 123moviesfree.net IN CNAME .
 *.123moviesfree.net IN CNAME .
 123moviestv.net IN CNAME .
@@ -753,6 +751,8 @@ deluge-torrent.org IN CNAME .
 *.deluge-torrent.org IN CNAME .
 demonii.com IN CNAME .
 *.demonii.com IN CNAME .
+demonoid.com IN CNAME .
+*.demonoid.com IN CNAME .
 demonoid.is IN CNAME .
 *.demonoid.is IN CNAME .
 demonoid.ph IN CNAME .
@@ -1307,8 +1307,6 @@ harri.com IN CNAME .
 *.harri.com IN CNAME .
 hawklord.myftp.org IN CNAME .
 *.hawklord.myftp.org IN CNAME .
-hd-rezka.pro IN CNAME .
-*.hd-rezka.pro IN CNAME .
 hd-space.org IN CNAME .
 *.hd-space.org IN CNAME .
 hd-torrents.org IN CNAME .
@@ -2297,8 +2295,6 @@ pure-mac.com IN CNAME .
 *.pure-mac.com IN CNAME .
 pussytorrents.org IN CNAME .
 *.pussytorrents.org IN CNAME .
-putlocker.digital IN CNAME .
-*.putlocker.digital IN CNAME .
 putlocker.pe IN CNAME .
 *.putlocker.pe IN CNAME .
 pybittrack.retiolus.net IN CNAME .
@@ -2689,8 +2685,6 @@ sportplus.live IN CNAME .
 *.sportplus.live IN CNAME .
 sportsurge.net IN CNAME .
 *.sportsurge.net IN CNAME .
-sportsurge.uno IN CNAME .
-*.sportsurge.uno IN CNAME .
 squid.wtf IN CNAME .
 *.squid.wtf IN CNAME .
 srstop.link IN CNAME .
@@ -3337,6 +3331,8 @@ tracker.morethantv.me IN CNAME .
 *.tracker.morethantv.me IN CNAME .
 tracker.moxing.party IN CNAME .
 *.tracker.moxing.party IN CNAME .
+tracker.msm8916.com IN CNAME .
+*.tracker.msm8916.com IN CNAME .
 tracker.mywaifu.best IN CNAME .
 *.tracker.mywaifu.best IN CNAME .
 tracker.ncore.pro IN CNAME .

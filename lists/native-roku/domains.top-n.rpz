@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-ROKU-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1766113966 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1766200368 12h 15m 3w 3h
 acr.roku.com IN CNAME .
 *.acr.roku.com IN CNAME .
 ad-bl.geoproximity.staging.rpay.roku.com IN CNAME .
@@ -113,8 +113,6 @@ logs.roku.com IN CNAME .
 *.logs.roku.com IN CNAME .
 logs.sr.roku.com IN CNAME .
 *.logs.sr.roku.com IN CNAME .
-methodofpay-ads.web.roku.com IN CNAME .
-*.methodofpay-ads.web.roku.com IN CNAME .
 pixel.staging.web.roku.com IN CNAME .
 *.pixel.staging.web.roku.com IN CNAME .
 pixel.web.roku.com IN CNAME .

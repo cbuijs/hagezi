@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-WINOFFICE"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1766113982 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1766200386 12h 15m 3w 3h
 a-ring-fallback.msedge.net IN CNAME .
 *.a-ring-fallback.msedge.net IN CNAME .
 a-ring-ipv6only.msedge.net IN CNAME .
@@ -51,8 +51,6 @@ adserver.bing.com IN CNAME .
 *.adserver.bing.com IN CNAME .
 adstore.response.gcp.eastus.trafficmanager.net IN CNAME .
 *.adstore.response.gcp.eastus.trafficmanager.net IN CNAME .
-adsyndication.msn.com IN CNAME .
-*.adsyndication.msn.com IN CNAME .
 advertising.jp.msn.com IN CNAME .
 *.advertising.jp.msn.com IN CNAME .
 advertising.microsoft.com IN CNAME .
@@ -757,5 +755,7 @@ word-telemetry.officeapps.live.com IN CNAME .
 *.word-telemetry.officeapps.live.com IN CNAME .
 word-telemetry.wac.trafficmanager.net IN CNAME .
 *.word-telemetry.wac.trafficmanager.net IN CNAME .
+wttwebsiteprodapi-liveevents.trafficmanager.net IN CNAME .
+*.wttwebsiteprodapi-liveevents.trafficmanager.net IN CNAME .
 zmetrics.msn.com IN CNAME .
 *.zmetrics.msn.com IN CNAME .
