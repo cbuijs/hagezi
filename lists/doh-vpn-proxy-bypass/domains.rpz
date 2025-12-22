@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1766286624 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1766373018 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 104-36-85-232.cprapid.com IN CNAME .
@@ -1109,6 +1109,8 @@ doh.ptqy.gitv.tv IN CNAME .
 *.doh.ptqy.gitv.tv IN CNAME .
 doh.pub IN CNAME .
 *.doh.pub IN CNAME .
+doh.qis.io IN CNAME .
+*.doh.qis.io IN CNAME .
 doh.quickline.ch IN CNAME .
 *.doh.quickline.ch IN CNAME .
 doh.safesurfer.io IN CNAME .
@@ -2201,6 +2203,8 @@ perfect-privacy.com IN CNAME .
 *.perfect-privacy.com IN CNAME .
 phl01.dnscry.pt IN CNAME .
 *.phl01.dnscry.pt IN CNAME .
+phosphor-pa.googleapis.com IN CNAME .
+*.phosphor-pa.googleapis.com IN CNAME .
 phx01.dnscry.pt IN CNAME .
 *.phx01.dnscry.pt IN CNAME .
 piaproxy.com IN CNAME .
@@ -2775,6 +2779,8 @@ urban-vpn.com IN CNAME .
 *.urban-vpn.com IN CNAME .
 us-ash-w-f-1.nashkan.net IN CNAME .
 *.us-ash-w-f-1.nashkan.net IN CNAME .
+us-browse.startpage.com IN CNAME .
+*.us-browse.startpage.com IN CNAME .
 us-chi-w-f-1.nashkan.net IN CNAME .
 *.us-chi-w-f-1.nashkan.net IN CNAME .
 us-chi-w-p-1.nashkan.net IN CNAME .
@@ -2803,8 +2809,6 @@ us-saj-w-p-1.nashkan.net IN CNAME .
 *.us-saj-w-p-1.nashkan.net IN CNAME .
 us.doh.cloudveil.org IN CNAME .
 *.us.doh.cloudveil.org IN CNAME .
-us1-browse.startpage.com IN CNAME .
-*.us1-browse.startpage.com IN CNAME .
 us2-browse.startpage.com IN CNAME .
 *.us2-browse.startpage.com IN CNAME .
 ut0pia-web.easterndns.com IN CNAME .
