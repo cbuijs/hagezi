@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1766459424 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1766545825 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -21,6 +21,8 @@ $TTL 3600
 *.4dq.com IN CNAME .
 4pu.com IN CNAME .
 *.4pu.com IN CNAME .
+8866.org IN CNAME .
+*.8866.org IN CNAME .
 access.ly IN CNAME .
 *.access.ly IN CNAME .
 accesscam.org IN CNAME .
@@ -151,6 +153,8 @@ dns-stuff.com IN CNAME .
 *.dns-stuff.com IN CNAME .
 dns.army IN CNAME .
 *.dns.army IN CNAME .
+dns.navy IN CNAME .
+*.dns.navy IN CNAME .
 dns04.com IN CNAME .
 *.dns04.com IN CNAME .
 dns05.com IN CNAME .
