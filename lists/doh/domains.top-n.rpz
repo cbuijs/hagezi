@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1766545815 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1766632216 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1and1-dns.de IN CNAME .
@@ -833,8 +833,6 @@ ecs-doh.dnswarden.com IN CNAME .
 *.ecs-doh.dnswarden.com IN CNAME .
 edge.nextdns.io IN CNAME .
 *.edge.nextdns.io IN CNAME .
-edgy-dns.com IN CNAME .
-*.edgy-dns.com IN CNAME .
 egshe.myqnapcloud.com IN CNAME .
 *.egshe.myqnapcloud.com IN CNAME .
 eime.goip.de IN CNAME .
