@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1766632226 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1766718628 12h 15m 3w 3h
 1337.cx IN CNAME .
 *.1337.cx IN CNAME .
 1cooldns.com IN CNAME .
@@ -683,6 +683,8 @@ ourhobby.com IN CNAME .
 *.ourhobby.com IN CNAME .
 podzone.net IN CNAME .
 *.podzone.net IN CNAME .
+pointto.us IN CNAME .
+*.pointto.us IN CNAME .
 portmap.host IN CNAME .
 *.portmap.host IN CNAME .
 privatedns.com IN CNAME .
@@ -777,6 +779,8 @@ srv64.de IN CNAME .
 *.srv64.de IN CNAME .
 sslip.io IN CNAME .
 *.sslip.io IN CNAME .
+ssmailer.com IN CNAME .
+*.ssmailer.com IN CNAME .
 strangled.net IN CNAME .
 *.strangled.net IN CNAME .
 swtest.ru IN CNAME .
@@ -821,8 +825,6 @@ us.to IN CNAME .
 *.us.to IN CNAME .
 v6.rocks IN CNAME .
 *.v6.rocks IN CNAME .
-venez.fr IN CNAME .
-*.venez.fr IN CNAME .
 viewdns.net IN CNAME .
 *.viewdns.net IN CNAME .
 vpn64.de IN CNAME .
