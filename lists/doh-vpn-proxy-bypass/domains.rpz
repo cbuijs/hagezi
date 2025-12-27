@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1766718623 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1766805023 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 104-36-85-232.cprapid.com IN CNAME .
@@ -17,8 +17,6 @@ $TTL 3600
 *.104.36.85.232.sslip.io IN CNAME .
 104.36.85.232.traefik.me IN CNAME .
 *.104.36.85.232.traefik.me IN CNAME .
-123-proxy.net IN CNAME .
-*.123-proxy.net IN CNAME .
 1and1-dns.de IN CNAME .
 *.1and1-dns.de IN CNAME .
 1clickvpn.com IN CNAME .
@@ -481,8 +479,6 @@ consumervpn.trendmicro.com IN CNAME .
 *.consumervpn.trendmicro.com IN CNAME .
 contentabc.com IN CNAME .
 *.contentabc.com IN CNAME .
-cool-proxy.net IN CNAME .
-*.cool-proxy.net IN CNAME .
 coolkidd.chickenkiller.com IN CNAME .
 *.coolkidd.chickenkiller.com IN CNAME .
 corancy.ddnsfree.com IN CNAME .
@@ -1841,6 +1837,8 @@ leoadguard.duckdns.org IN CNAME .
 *.leoadguard.duckdns.org IN CNAME .
 leochen-dns.ddns.net IN CNAME .
 *.leochen-dns.ddns.net IN CNAME .
+letsvpn.world IN CNAME .
+*.letsvpn.world IN CNAME .
 lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr IN CNAME .
 *.lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr IN CNAME .
 lilibox.freeboxos.fr IN CNAME .
@@ -2299,6 +2297,8 @@ proxy2.startpage.com IN CNAME .
 *.proxy2.startpage.com IN CNAME .
 proxy3.startpage.com IN CNAME .
 *.proxy3.startpage.com IN CNAME .
+proxy5.startpage.com IN CNAME .
+*.proxy5.startpage.com IN CNAME .
 proxybrowser.github.io IN CNAME .
 *.proxybrowser.github.io IN CNAME .
 proxyium.com IN CNAME .
@@ -2549,8 +2549,6 @@ soax.com IN CNAME .
 *.soax.com IN CNAME .
 socchanpxy.f5.si IN CNAME .
 *.socchanpxy.f5.si IN CNAME .
-socks-proxy.net IN CNAME .
-*.socks-proxy.net IN CNAME .
 socolov.home.ro IN CNAME .
 *.socolov.home.ro IN CNAME .
 sof01.dnscry.pt IN CNAME .
@@ -3031,6 +3029,8 @@ zenmate.com IN CNAME .
 *.zenmate.com IN CNAME .
 zenrows.com IN CNAME .
 *.zenrows.com IN CNAME .
+zenvpn.net IN CNAME .
+*.zenvpn.net IN CNAME .
 zerotier.com IN CNAME .
 *.zerotier.com IN CNAME .
 zerovpn-app.com IN CNAME .
