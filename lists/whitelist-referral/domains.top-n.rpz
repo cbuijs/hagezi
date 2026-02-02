@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1769916428 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1770002505 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -1319,8 +1319,6 @@ sites.hscoscdn-eu1.net IN CNAME .
 *.sites.hscoscdn-eu1.net IN CNAME .
 sites.hscoscdn-na2.net IN CNAME .
 *.sites.hscoscdn-na2.net IN CNAME .
-sites.hscoscdn-na3.net IN CNAME .
-*.sites.hscoscdn-na3.net IN CNAME .
 sites.hscoscdn00.net IN CNAME .
 *.sites.hscoscdn00.net IN CNAME .
 sites.hscoscdn10.net IN CNAME .
@@ -1365,6 +1363,8 @@ suite.emarsys.net IN CNAME .
 *.suite.emarsys.net IN CNAME .
 suite1.emarsys.net IN CNAME .
 *.suite1.emarsys.net IN CNAME .
+suite10-cf.emarsys.net IN CNAME .
+*.suite10-cf.emarsys.net IN CNAME .
 suite10.emarsys.net IN CNAME .
 *.suite10.emarsys.net IN CNAME .
 suite11.emarsys.net IN CNAME .
