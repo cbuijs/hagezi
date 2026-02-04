@@ -1,6 +1,6 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1770088279 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1770174692 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -49,6 +49,8 @@ $TTL 3600
 *.8b.io IN CNAME .
 8m.net IN CNAME .
 *.8m.net IN CNAME .
+aeza.network IN CNAME .
+*.aeza.network IN CNAME .
 alboompro.com IN CNAME .
 *.alboompro.com IN CNAME .
 altervista.org IN CNAME .
