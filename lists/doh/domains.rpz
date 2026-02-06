@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1770261015 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1770347416 12h 15m 3w 3h
 0ms.dev IN CNAME .
 *.0ms.dev IN CNAME .
 1and1-dns.de IN CNAME .
@@ -25,8 +25,6 @@ $TTL 3600
 *.2.dnscrypt-cert.quad9.net IN CNAME .
 23.106.141.137.16clouds.com IN CNAME .
 *.23.106.141.137.16clouds.com IN CNAME .
-233py.com IN CNAME .
-*.233py.com IN CNAME .
 2wired.hopto.org IN CNAME .
 *.2wired.hopto.org IN CNAME .
 3dns.eu IN CNAME .
@@ -83,8 +81,6 @@ adguard.infrapod.nl IN CNAME .
 *.adguard.infrapod.nl IN CNAME .
 adguard.kazantsev97.msk.ru IN CNAME .
 *.adguard.kazantsev97.msk.ru IN CNAME .
-adguard.tver-tech.ru IN CNAME .
-*.adguard.tver-tech.ru IN CNAME .
 adguard.veanswart.cloudns.be IN CNAME .
 *.adguard.veanswart.cloudns.be IN CNAME .
 adguard01.dns.infrapod.nl IN CNAME .
@@ -441,6 +437,8 @@ dns.dnswarden.com IN CNAME .
 *.dns.dnswarden.com IN CNAME .
 dns.engineer-lib.ru IN CNAME .
 *.dns.engineer-lib.ru IN CNAME .
+dns.envs.net IN CNAME .
+*.dns.envs.net IN CNAME .
 dns.eu-frankfurt-1.oraclecloud.com IN CNAME .
 *.dns.eu-frankfurt-1.oraclecloud.com IN CNAME .
 dns.flatuslifir.is IN CNAME .
@@ -1811,8 +1809,6 @@ vno01.dnscry.pt IN CNAME .
 *.vno01.dnscry.pt IN CNAME .
 voyagerz.hopto.org IN CNAME .
 *.voyagerz.hopto.org IN CNAME .
-vpn.self-tech.ru IN CNAME .
-*.vpn.self-tech.ru IN CNAME .
 vps-1f675aa1.vps.ovh.us IN CNAME .
 *.vps-1f675aa1.vps.ovh.us IN CNAME .
 vps.avc.cx IN CNAME .
