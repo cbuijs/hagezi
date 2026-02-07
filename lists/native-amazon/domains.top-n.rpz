@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-AMAZON-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1770347548 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1770433971 12h 15m 3w 3h
 aan.amazon.co.jp IN CNAME .
 *.aan.amazon.co.jp IN CNAME .
 aan.amazon.co.uk IN CNAME .
@@ -255,8 +255,6 @@ bugs.firebat.prime-video.amazon.dev IN CNAME .
 *.bugs.firebat.prime-video.amazon.dev IN CNAME .
 bugsnag-event.monitor.core.app.alexa.a2z.com IN CNAME .
 *.bugsnag-event.monitor.core.app.alexa.a2z.com IN CNAME .
-bugsnag-session.monitor.core.app.alexa.a2z.com IN CNAME .
-*.bugsnag-session.monitor.core.app.alexa.a2z.com IN CNAME .
 bugsnag.appstore.a2z.com IN CNAME .
 *.bugsnag.appstore.a2z.com IN CNAME .
 bugsnag.shopbop.amazon.dev IN CNAME .
@@ -405,6 +403,8 @@ maws-aax-eu-rtb.amazon-adsystem.com IN CNAME .
 *.maws-aax-eu-rtb.amazon-adsystem.com IN CNAME .
 maws-aax-fe-sin.amazon-adsystem.com IN CNAME .
 *.maws-aax-fe-sin.amazon-adsystem.com IN CNAME .
+maws-aax-fe.amazon-adsystem.com IN CNAME .
+*.maws-aax-fe.amazon-adsystem.com IN CNAME .
 maws-aax-us-east-rtb-adx.amazon-adsystem.com IN CNAME .
 *.maws-aax-us-east-rtb-adx.amazon-adsystem.com IN CNAME .
 maws-aax-us-east-rtb.amazon-adsystem.com IN CNAME .
@@ -591,6 +591,8 @@ vfw-us.amazon-adsystem.com IN CNAME .
 *.vfw-us.amazon-adsystem.com IN CNAME .
 vfw.amazon-adsystem.com IN CNAME .
 *.vfw.amazon-adsystem.com IN CNAME .
+vfwm-us-west.amazon-adsystem.com IN CNAME .
+*.vfwm-us-west.amazon-adsystem.com IN CNAME .
 vfwm-us.amazon-adsystem.com IN CNAME .
 *.vfwm-us.amazon-adsystem.com IN CNAME .
 vfwm.amazon-adsystem.com IN CNAME .
