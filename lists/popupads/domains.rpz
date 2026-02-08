@@ -1,6 +1,6 @@
 ; RPZ "POPUPADS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1770434420 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1770520825 12h 15m 3w 3h
 0-architecture.com IN CNAME .
 *.0-architecture.com IN CNAME .
 0-btc.com IN CNAME .
@@ -87,6 +87,8 @@ $TTL 3600
 *.11x11.com IN CNAME .
 123-stream.org IN CNAME .
 *.123-stream.org IN CNAME .
+123movies-t.com IN CNAME .
+*.123movies-t.com IN CNAME .
 13grand-casino.com IN CNAME .
 *.13grand-casino.com IN CNAME .
 1828-dictionary.com IN CNAME .
@@ -573,8 +575,6 @@ adscdn.net IN CNAME .
 *.adscdn.net IN CNAME .
 adschill.com IN CNAME .
 *.adschill.com IN CNAME .
-adscienceltd.com IN CNAME .
-*.adscienceltd.com IN CNAME .
 adsco.re IN CNAME .
 *.adsco.re IN CNAME .
 adsensecustomsearchads.com IN CNAME .
@@ -1357,8 +1357,6 @@ brigadedelegatesandbox.com IN CNAME .
 *.brigadedelegatesandbox.com IN CNAME .
 brightadnetwork.com IN CNAME .
 *.brightadnetwork.com IN CNAME .
-brightonclick.com IN CNAME .
-*.brightonclick.com IN CNAME .
 brittlesturdyunlovable.com IN CNAME .
 *.brittlesturdyunlovable.com IN CNAME .
 broadacres-ch.com IN CNAME .
@@ -1375,8 +1373,6 @@ bronzecedarleaf.com IN CNAME .
 *.bronzecedarleaf.com IN CNAME .
 broworker6s.com IN CNAME .
 *.broworker6s.com IN CNAME .
-browse-boost.com IN CNAME .
-*.browse-boost.com IN CNAME .
 browsecoherentunrefined.com IN CNAME .
 *.browsecoherentunrefined.com IN CNAME .
 browser9182.web.fc2.com IN CNAME .
@@ -2601,8 +2597,6 @@ galaxypush.com IN CNAME .
 *.galaxypush.com IN CNAME .
 galixwallet.co.com IN CNAME .
 *.galixwallet.co.com IN CNAME .
-gambar123.com IN CNAME .
-*.gambar123.com IN CNAME .
 game02-com.ru IN CNAME .
 *.game02-com.ru IN CNAME .
 gamefabrique.com IN CNAME .
@@ -2909,8 +2903,6 @@ highperformanceformat.com IN CNAME .
 *.highperformanceformat.com IN CNAME .
 highrevenuegate.com IN CNAME .
 *.highrevenuegate.com IN CNAME .
-hilltopads.com IN CNAME .
-*.hilltopads.com IN CNAME .
 himegoto-time.com IN CNAME .
 *.himegoto-time.com IN CNAME .
 hip-97166b.com IN CNAME .
@@ -3403,8 +3395,6 @@ linkexchange.com IN CNAME .
 *.linkexchange.com IN CNAME .
 linkhaitao.com IN CNAME .
 *.linkhaitao.com IN CNAME .
-liqwid.net IN CNAME .
-*.liqwid.net IN CNAME .
 live.trudigo.com IN CNAME .
 *.live.trudigo.com IN CNAME .
 liveadexchanger.com IN CNAME .
@@ -3445,8 +3435,6 @@ loginaccount6.wixsite.com IN CNAME .
 *.loginaccount6.wixsite.com IN CNAME .
 loijtoottuleringv.info IN CNAME .
 *.loijtoottuleringv.info IN CNAME .
-look.flowln.com IN CNAME .
-*.look.flowln.com IN CNAME .
 lookblock.pages.dev IN CNAME .
 *.lookblock.pages.dev IN CNAME .
 looksmart.com IN CNAME .
@@ -3631,8 +3619,6 @@ meetwebclub.com IN CNAME .
 *.meetwebclub.com IN CNAME .
 membrana.media IN CNAME .
 *.membrana.media IN CNAME .
-messyadvance.com IN CNAME .
-*.messyadvance.com IN CNAME .
 metamsklogix.godaddysites.com IN CNAME .
 *.metamsklogix.godaddysites.com IN CNAME .
 metatrckpixel.com IN CNAME .
@@ -4067,8 +4053,6 @@ offbeat-power.com IN CNAME .
 *.offbeat-power.com IN CNAME .
 offerstrack.net IN CNAME .
 *.offerstrack.net IN CNAME .
-official-permit.com IN CNAME .
-*.official-permit.com IN CNAME .
 oficialinesp.wixsite.com IN CNAME .
 *.oficialinesp.wixsite.com IN CNAME .
 ogmrzv.datingwithgirls.com IN CNAME .
@@ -4255,8 +4239,6 @@ passfixx.com IN CNAME .
 *.passfixx.com IN CNAME .
 passion.com IN CNAME .
 *.passion.com IN CNAME .
-passivepolo.com IN CNAME .
-*.passivepolo.com IN CNAME .
 pastelism02.jpn.com IN CNAME .
 *.pastelism02.jpn.com IN CNAME .
 pasttable.com IN CNAME .
@@ -4569,8 +4551,6 @@ purring-wood-magnolia.glitch.me IN CNAME .
 *.purring-wood-magnolia.glitch.me IN CNAME .
 push-sdk.com IN CNAME .
 *.push-sdk.com IN CNAME .
-push-sdk.net IN CNAME .
-*.push-sdk.net IN CNAME .
 push-sense.com IN CNAME .
 *.push-sense.com IN CNAME .
 push.house IN CNAME .
@@ -4707,8 +4687,6 @@ realsrvcdn.com IN CNAME .
 *.realsrvcdn.com IN CNAME .
 realtime-bid.com IN CNAME .
 *.realtime-bid.com IN CNAME .
-realvu.net IN CNAME .
-*.realvu.net IN CNAME .
 reasonable-source.com IN CNAME .
 *.reasonable-source.com IN CNAME .
 receptivity.io IN CNAME .
@@ -4731,6 +4709,8 @@ rediads.com IN CNAME .
 *.rediads.com IN CNAME .
 redintelligence.net IN CNAME .
 *.redintelligence.net IN CNAME .
+redubboodh.shop IN CNAME .
+*.redubboodh.shop IN CNAME .
 reebr.com IN CNAME .
 *.reebr.com IN CNAME .
 reedunpack.com IN CNAME .
@@ -5187,8 +5167,6 @@ sm-bt.net IN CNAME .
 *.sm-bt.net IN CNAME .
 smaato.net IN CNAME .
 *.smaato.net IN CNAME .
-smac-ad.com IN CNAME .
-*.smac-ad.com IN CNAME .
 smadex.com IN CNAME .
 *.smadex.com IN CNAME .
 smart-wp.com IN CNAME .
@@ -5485,8 +5463,6 @@ tbyh5.com IN CNAME .
 *.tbyh5.com IN CNAME .
 td-online-carta.codeanyapp.com IN CNAME .
 *.td-online-carta.codeanyapp.com IN CNAME .
-te.actinpitier.top IN CNAME .
-*.te.actinpitier.top IN CNAME .
 teads.tv IN CNAME .
 *.teads.tv IN CNAME .
 teamproject.substack.com IN CNAME .
@@ -5617,8 +5593,6 @@ tpro-airdrop.pages.dev IN CNAME .
 *.tpro-airdrop.pages.dev IN CNAME .
 tqlkg.com IN CNAME .
 *.tqlkg.com IN CNAME .
-tr-boost.com IN CNAME .
-*.tr-boost.com IN CNAME .
 track-victoriadates.com IN CNAME .
 *.track-victoriadates.com IN CNAME .
 track.totalav.com IN CNAME .
@@ -5727,8 +5701,6 @@ trk-consulatu.com IN CNAME .
 *.trk-consulatu.com IN CNAME .
 trk-web.com IN CNAME .
 *.trk-web.com IN CNAME .
-trk.roller.ad IN CNAME .
-*.trk.roller.ad IN CNAME .
 trmff.wpengine.com IN CNAME .
 *.trmff.wpengine.com IN CNAME .
 trmit.com IN CNAME .
@@ -5909,8 +5881,6 @@ v2i8b.com IN CNAME .
 *.v2i8b.com IN CNAME .
 v6.astralune.net IN CNAME .
 *.v6.astralune.net IN CNAME .
-v6.bonuscaf.com IN CNAME .
-*.v6.bonuscaf.com IN CNAME .
 v6.novacresta.net IN CNAME .
 *.v6.novacresta.net IN CNAME .
 v6.novarion.net IN CNAME .
@@ -5933,8 +5903,6 @@ vasolutions-usa.com IN CNAME .
 *.vasolutions-usa.com IN CNAME .
 vasstycom.com IN CNAME .
 *.vasstycom.com IN CNAME .
-vax-boost.com IN CNAME .
-*.vax-boost.com IN CNAME .
 vax-now.com IN CNAME .
 *.vax-now.com IN CNAME .
 vcommission.com IN CNAME .
@@ -6073,8 +6041,6 @@ vulkanvegas-de.com IN CNAME .
 *.vulkanvegas-de.com IN CNAME .
 vvetransfer-lo-web-online.glitch.me IN CNAME .
 *.vvetransfer-lo-web-online.glitch.me IN CNAME .
-vww-facebook.com.vn IN CNAME .
-*.vww-facebook.com.vn IN CNAME .
 vz.7vid.net IN CNAME .
 *.vz.7vid.net IN CNAME .
 w0we.com IN CNAME .
@@ -6085,8 +6051,6 @@ wa-groupbebe.pages.dev IN CNAME .
 *.wa-groupbebe.pages.dev IN CNAME .
 want-s0me-psh.com IN CNAME .
 *.want-s0me-psh.com IN CNAME .
-want-some-psh.net IN CNAME .
-*.want-some-psh.net IN CNAME .
 waqool.com IN CNAME .
 *.waqool.com IN CNAME .
 warlikecouple.com IN CNAME .

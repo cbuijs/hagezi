@@ -1,8 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1770433817 12h 15m 3w 3h
-0ms.dev IN CNAME .
-*.0ms.dev IN CNAME .
+@ SOA dummy-ns hostmaster 1770520219 12h 15m 3w 3h
 1and1-dns.de IN CNAME .
 *.1and1-dns.de IN CNAME .
 2.alpo.pp.ua IN CNAME .
@@ -891,8 +889,6 @@ fi-hel-w-f-2.nashkan.net IN CNAME .
 *.fi-hel-w-f-2.nashkan.net IN CNAME .
 fi-hel-w-p-1.nashkan.net IN CNAME .
 *.fi-hel-w-p-1.nashkan.net IN CNAME .
-filter.myaddr.io IN CNAME .
-*.filter.myaddr.io IN CNAME .
 fjr01.dnscry.pt IN CNAME .
 *.fjr01.dnscry.pt IN CNAME .
 flyloadguard.dynu.net IN CNAME .
@@ -1831,8 +1827,6 @@ wg-aghome.freemyip.com IN CNAME .
 *.wg-aghome.freemyip.com IN CNAME .
 wifrousl.spdns.de IN CNAME .
 *.wifrousl.spdns.de IN CNAME .
-wikimedia-dns.org IN CNAME .
-*.wikimedia-dns.org IN CNAME .
 wired-guardian.duckdns.org IN CNAME .
 *.wired-guardian.duckdns.org IN CNAME .
 woalongit.synology.me IN CNAME .
