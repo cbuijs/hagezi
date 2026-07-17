@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1784169696 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1784256564 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -355,8 +355,6 @@ api-03.moengage.com IN CNAME .
 *.api-03.moengage.com IN CNAME .
 api-04.moengage.com IN CNAME .
 *.api-04.moengage.com IN CNAME .
-api-101.moengage.com IN CNAME .
-*.api-101.moengage.com IN CNAME .
 api-ap1.hubapi.com IN CNAME .
 *.api-ap1.hubapi.com IN CNAME .
 api-eu.cleverpush.com IN CNAME .
@@ -765,6 +763,8 @@ dominos.sng.link IN CNAME .
 *.dominos.sng.link IN CNAME .
 dpbolvw.net IN CNAME .
 *.dpbolvw.net IN CNAME .
+dvr-cdn.exponea.com IN CNAME .
+*.dvr-cdn.exponea.com IN CNAME .
 e-eu.customeriomail.com IN CNAME .
 *.e-eu.customeriomail.com IN CNAME .
 e-trk-eu.customeriomail.com IN CNAME .
@@ -1077,8 +1077,6 @@ mg.mail.notion.so IN CNAME .
 *.mg.mail.notion.so IN CNAME .
 micpn.com IN CNAME .
 *.micpn.com IN CNAME .
-mkto-dev.certinia.com IN CNAME .
-*.mkto-dev.certinia.com IN CNAME .
 mkto-trk.cisco.com IN CNAME .
 *.mkto-trk.cisco.com IN CNAME .
 mktoweb.com IN CNAME .
@@ -1357,8 +1355,6 @@ shop-links.co IN CNAME .
 *.shop-links.co IN CNAME .
 short.io IN CNAME .
 *.short.io IN CNAME .
-sites.hscoscdn-ap1.net IN CNAME .
-*.sites.hscoscdn-ap1.net IN CNAME .
 sites.hscoscdn-eu1.net IN CNAME .
 *.sites.hscoscdn-eu1.net IN CNAME .
 sites.hscoscdn-na2.net IN CNAME .
@@ -1663,8 +1659,6 @@ track.superdry.com IN CNAME .
 *.track.superdry.com IN CNAME .
 track.tenjin.io IN CNAME .
 *.track.tenjin.io IN CNAME .
-track.tnm.de IN CNAME .
-*.track.tnm.de IN CNAME .
 track.trafficguard.ai IN CNAME .
 *.track.trafficguard.ai IN CNAME .
 track.webgains.com IN CNAME .

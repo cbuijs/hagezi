@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1784168160 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1784254571 12h 15m 3w 3h
 1and1-dns.de IN CNAME .
 *.1and1-dns.de IN CNAME .
 2.alpo.pp.ua IN CNAME .
@@ -695,6 +695,8 @@ doh.us.dnswarden.com IN CNAME .
 *.doh.us.dnswarden.com IN CNAME .
 doh.westeu.pi-dns.com IN CNAME .
 *.doh.westeu.pi-dns.com IN CNAME .
+doh.westus.pi-dns.com IN CNAME .
+*.doh.westus.pi-dns.com IN CNAME .
 doh.xfinity.com IN CNAME .
 *.doh.xfinity.com IN CNAME .
 doh1.b-cdn.net IN CNAME .
@@ -739,6 +741,8 @@ dot.eastas.pi-dns.com IN CNAME .
 *.dot.eastas.pi-dns.com IN CNAME .
 dot.eastau.pi-dns.com IN CNAME .
 *.dot.eastau.pi-dns.com IN CNAME .
+dot.eastus.pi-dns.com IN CNAME .
+*.dot.eastus.pi-dns.com IN CNAME .
 dot.ffmuc.net IN CNAME .
 *.dot.ffmuc.net IN CNAME .
 dot.libredns.gr IN CNAME .
@@ -755,6 +759,8 @@ dot.tiar.app IN CNAME .
 *.dot.tiar.app IN CNAME .
 dot.ublockdns.com IN CNAME .
 *.dot.ublockdns.com IN CNAME .
+dot.westus.pi-dns.com IN CNAME .
+*.dot.westus.pi-dns.com IN CNAME .
 dot.xfinity.com IN CNAME .
 *.dot.xfinity.com IN CNAME .
 dotserver.douyucdn.cn IN CNAME .
