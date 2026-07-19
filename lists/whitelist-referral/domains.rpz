@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1784343009 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1784429393 12h 15m 3w 3h
 1-aclk.net IN CNAME .
 *.1-aclk.net IN CNAME .
 1aurl.io IN CNAME .
@@ -425,8 +425,6 @@ api-101.moengage.com IN CNAME .
 *.api-101.moengage.com IN CNAME .
 api-ap1.hubapi.com IN CNAME .
 *.api-ap1.hubapi.com IN CNAME .
-api-auto.hubapi.com IN CNAME .
-*.api-auto.hubapi.com IN CNAME .
 api-eu.cleverpush.com IN CNAME .
 *.api-eu.cleverpush.com IN CNAME .
 api-eu1.hubapi.com IN CNAME .
@@ -1511,8 +1509,6 @@ mkto-ab250068.com IN CNAME .
 *.mkto-ab250068.com IN CNAME .
 mkto-ab250105.com IN CNAME .
 *.mkto-ab250105.com IN CNAME .
-mkto-ab250167.com IN CNAME .
-*.mkto-ab250167.com IN CNAME .
 mkto-ab260164.com IN CNAME .
 *.mkto-ab260164.com IN CNAME .
 mkto-ab270090.com IN CNAME .
@@ -1605,6 +1601,8 @@ mkto-ab480015.com IN CNAME .
 *.mkto-ab480015.com IN CNAME .
 mkto-ab480166.com IN CNAME .
 *.mkto-ab480166.com IN CNAME .
+mkto-ab530057.com IN CNAME .
+*.mkto-ab530057.com IN CNAME .
 mkto-ab530192.com IN CNAME .
 *.mkto-ab530192.com IN CNAME .
 mkto-ab540059.com IN CNAME .
@@ -1965,6 +1963,8 @@ n.rich IN CNAME .
 *.n.rich IN CNAME .
 ndirect.ppro.de IN CNAME .
 *.ndirect.ppro.de IN CNAME .
+neoengage-va-cdn.exponea.com IN CNAME .
+*.neoengage-va-cdn.exponea.com IN CNAME .
 netbet.gr IN CNAME .
 *.netbet.gr IN CNAME .
 netbet.livepartners.com IN CNAME .
@@ -2267,8 +2267,6 @@ s6.exacttarget.com IN CNAME .
 *.s6.exacttarget.com IN CNAME .
 s7.exacttarget.com IN CNAME .
 *.s7.exacttarget.com IN CNAME .
-s8.exacttarget.com IN CNAME .
-*.s8.exacttarget.com IN CNAME .
 safeads.com.br IN CNAME .
 *.safeads.com.br IN CNAME .
 sailthru.com IN CNAME .
@@ -2433,8 +2431,6 @@ suite30-cf.emarsys.net IN CNAME .
 *.suite30-cf.emarsys.net IN CNAME .
 suite30.emarsys.net IN CNAME .
 *.suite30.emarsys.net IN CNAME .
-suite32.emarsys.net IN CNAME .
-*.suite32.emarsys.net IN CNAME .
 suite33-cf.emarsys.net IN CNAME .
 *.suite33-cf.emarsys.net IN CNAME .
 suite33.emarsys.net IN CNAME .
@@ -2521,6 +2517,10 @@ suite9-cf.emarsys.net IN CNAME .
 *.suite9-cf.emarsys.net IN CNAME .
 suite9.emarsys.net IN CNAME .
 *.suite9.emarsys.net IN CNAME .
+suitepmta01.emarsys.net IN CNAME .
+*.suitepmta01.emarsys.net IN CNAME .
+suitepmta02.emarsys.net IN CNAME .
+*.suitepmta02.emarsys.net IN CNAME .
 superpages.com IN CNAME .
 *.superpages.com IN CNAME .
 sv.brand-display.com IN CNAME .
