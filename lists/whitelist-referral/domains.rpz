@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1784515340 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1784601538 12h 15m 3w 3h
 1-aclk.net IN CNAME .
 *.1-aclk.net IN CNAME .
 1aurl.io IN CNAME .
@@ -2321,6 +2321,8 @@ short.cm IN CNAME .
 *.short.cm IN CNAME .
 short.io IN CNAME .
 *.short.io IN CNAME .
+sites.hscoscdn-ap1.net IN CNAME .
+*.sites.hscoscdn-ap1.net IN CNAME .
 sites.hscoscdn-eu1.net IN CNAME .
 *.sites.hscoscdn-eu1.net IN CNAME .
 sites.hscoscdn-na2.net IN CNAME .
@@ -2397,12 +2399,16 @@ suite15.emarsys.net IN CNAME .
 *.suite15.emarsys.net IN CNAME .
 suite16.emarsys.net IN CNAME .
 *.suite16.emarsys.net IN CNAME .
+suite17-cf.emarsys.net IN CNAME .
+*.suite17-cf.emarsys.net IN CNAME .
 suite17.emarsys.net IN CNAME .
 *.suite17.emarsys.net IN CNAME .
 suite19.emarsys.net IN CNAME .
 *.suite19.emarsys.net IN CNAME .
 suite2-cf.emarsys.net IN CNAME .
 *.suite2-cf.emarsys.net IN CNAME .
+suite2.emarsys.net IN CNAME .
+*.suite2.emarsys.net IN CNAME .
 suite20.emarsys.net IN CNAME .
 *.suite20.emarsys.net IN CNAME .
 suite22-cf.emarsys.net IN CNAME .
@@ -2439,6 +2445,8 @@ suite35-cf.emarsys.net IN CNAME .
 *.suite35-cf.emarsys.net IN CNAME .
 suite36-cdnnet.emarsys.net IN CNAME .
 *.suite36-cdnnet.emarsys.net IN CNAME .
+suite36-cf.emarsys.net IN CNAME .
+*.suite36-cf.emarsys.net IN CNAME .
 suite36.emarsys.net IN CNAME .
 *.suite36.emarsys.net IN CNAME .
 suite37.emarsys.net IN CNAME .
