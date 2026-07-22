@@ -1,12 +1,14 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1784601540 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1784688623 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
 *.1l.my.games IN CNAME .
 2performant.com IN CNAME .
 *.2performant.com IN CNAME .
+341676991.group0.sites.hscoscdn-na3.net IN CNAME .
+*.341676991.group0.sites.hscoscdn-na3.net IN CNAME .
 4patientcare-cdn.exponea.com IN CNAME .
 *.4patientcare-cdn.exponea.com IN CNAME .
 7eer.net IN CNAME .
@@ -355,6 +357,8 @@ api-03.moengage.com IN CNAME .
 *.api-03.moengage.com IN CNAME .
 api-04.moengage.com IN CNAME .
 *.api-04.moengage.com IN CNAME .
+api-101.moengage.com IN CNAME .
+*.api-101.moengage.com IN CNAME .
 api-ap1.hubapi.com IN CNAME .
 *.api-ap1.hubapi.com IN CNAME .
 api-eu.cleverpush.com IN CNAME .
@@ -909,6 +913,8 @@ iljmp.com IN CNAME .
 *.iljmp.com IN CNAME .
 ink1001.com IN CNAME .
 *.ink1001.com IN CNAME .
+intercom-clicks.com IN CNAME .
+*.intercom-clicks.com IN CNAME .
 io.clickguard.com IN CNAME .
 *.io.clickguard.com IN CNAME .
 jdoqocy.com IN CNAME .
@@ -947,6 +953,8 @@ link.dana.id IN CNAME .
 *.link.dana.id IN CNAME .
 link.springer.com IN CNAME .
 *.link.springer.com IN CNAME .
+link.sylikes.com IN CNAME .
+*.link.sylikes.com IN CNAME .
 link.us.paramountplus.com IN CNAME .
 *.link.us.paramountplus.com IN CNAME .
 link.wizzair.com IN CNAME .
@@ -1357,8 +1365,6 @@ shop-links.co IN CNAME .
 *.shop-links.co IN CNAME .
 short.io IN CNAME .
 *.short.io IN CNAME .
-sites.hscoscdn-ap1.net IN CNAME .
-*.sites.hscoscdn-ap1.net IN CNAME .
 sites.hscoscdn-eu1.net IN CNAME .
 *.sites.hscoscdn-eu1.net IN CNAME .
 sites.hscoscdn-na2.net IN CNAME .
@@ -1441,6 +1447,8 @@ suite25.emarsys.net IN CNAME .
 *.suite25.emarsys.net IN CNAME .
 suite26.emarsys.net IN CNAME .
 *.suite26.emarsys.net IN CNAME .
+suite27-cf.emarsys.net IN CNAME .
+*.suite27-cf.emarsys.net IN CNAME .
 suite27.emarsys.net IN CNAME .
 *.suite27.emarsys.net IN CNAME .
 suite29.emarsys.net IN CNAME .
@@ -1471,6 +1479,8 @@ suite36.emarsys.net IN CNAME .
 *.suite36.emarsys.net IN CNAME .
 suite37.emarsys.net IN CNAME .
 *.suite37.emarsys.net IN CNAME .
+suite38-cf.emarsys.net IN CNAME .
+*.suite38-cf.emarsys.net IN CNAME .
 suite38.emarsys.net IN CNAME .
 *.suite38.emarsys.net IN CNAME .
 suite4-cf.emarsys.net IN CNAME .
@@ -1659,6 +1669,8 @@ track.omguk.com IN CNAME .
 *.track.omguk.com IN CNAME .
 track.productsup.com IN CNAME .
 *.track.productsup.com IN CNAME .
+track.productsup.io IN CNAME .
+*.track.productsup.io IN CNAME .
 track.pstmrk.it IN CNAME .
 *.track.pstmrk.it IN CNAME .
 track.seadform.net IN CNAME .
