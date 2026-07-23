@@ -1,6 +1,6 @@
 ; RPZ "NOSAFESEARCH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1784686777 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1784773275 12h 15m 3w 3h
 andisearch.com IN CNAME .
 *.andisearch.com IN CNAME .
 baidu.com IN CNAME .
@@ -53,6 +53,8 @@ search.darkness.services IN CNAME .
 *.search.darkness.services IN CNAME .
 search.disroot.org IN CNAME .
 *.search.disroot.org IN CNAME .
+search.funami.tech IN CNAME .
+*.search.funami.tech IN CNAME .
 search.garudalinux.org IN CNAME .
 *.search.garudalinux.org IN CNAME .
 search.in.projectsegfau.lt IN CNAME .
@@ -89,8 +91,6 @@ wg.vern.cc IN CNAME .
 *.wg.vern.cc IN CNAME .
 wgl.frail.duckdns.org IN CNAME .
 *.wgl.frail.duckdns.org IN CNAME .
-whoogle.lunar.icu IN CNAME .
-*.whoogle.lunar.icu IN CNAME .
 wiby.me IN CNAME .
 *.wiby.me IN CNAME .
 yep.com IN CNAME .

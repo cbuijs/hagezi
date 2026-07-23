@@ -1,6 +1,6 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1784686561 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1784773041 12h 15m 3w 3h
 01100010011011000110111101100011011010110110110101100101.zone.id IN CNAME .
 *.01100010011011000110111101100011011010110110110101100101.zone.id IN CNAME .
 09vpn.com IN CNAME .
@@ -2851,8 +2851,6 @@ dns.yandex.net IN CNAME .
 *.dns.yandex.net IN CNAME .
 dns.yandex.ru IN CNAME .
 *.dns.yandex.ru IN CNAME .
-dns0.eu IN CNAME .
-*.dns0.eu IN CNAME .
 dns0.tardishost.ru IN CNAME .
 *.dns0.tardishost.ru IN CNAME .
 dns1.in-berlin.de IN CNAME .
@@ -4589,6 +4587,8 @@ login.vincenzodimaro.it.cdn.cloudflare.net IN CNAME .
 *.login.vincenzodimaro.it.cdn.cloudflare.net IN CNAME .
 logos.karrozzin.cloud-ip.cc IN CNAME .
 *.logos.karrozzin.cloud-ip.cc IN CNAME .
+lokiproxy.com IN CNAME .
+*.lokiproxy.com IN CNAME .
 loli.xianyu1.workers.dev IN CNAME .
 *.loli.xianyu1.workers.dev IN CNAME .
 lomoff.spb.ru IN CNAME .
@@ -5699,8 +5699,6 @@ rpz-public-resolver1.rrdns.pch.net IN CNAME .
 *.rpz-public-resolver1.rrdns.pch.net IN CNAME .
 rt.http3.lol IN CNAME .
 *.rt.http3.lol IN CNAME .
-rtbi5tam.com IN CNAME .
-*.rtbi5tam.com IN CNAME .
 rubyarcade.pages.dev IN CNAME .
 *.rubyarcade.pages.dev IN CNAME .
 rubyfish.cn IN CNAME .
@@ -6775,8 +6773,6 @@ vpngn.com IN CNAME .
 *.vpngn.com IN CNAME .
 vpnguide.co.cc IN CNAME .
 *.vpnguide.co.cc IN CNAME .
-vpnhouse.net IN CNAME .
-*.vpnhouse.net IN CNAME .
 vpnifyapp.com IN CNAME .
 *.vpnifyapp.com IN CNAME .
 vpnjantit.com IN CNAME .
