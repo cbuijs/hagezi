@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1785552697 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1785639565 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -357,8 +357,6 @@ api-03.moengage.com IN CNAME .
 *.api-03.moengage.com IN CNAME .
 api-04.moengage.com IN CNAME .
 *.api-04.moengage.com IN CNAME .
-api-101.moengage.com IN CNAME .
-*.api-101.moengage.com IN CNAME .
 api-ap1.hubapi.com IN CNAME .
 *.api-ap1.hubapi.com IN CNAME .
 api-eu.cleverpush.com IN CNAME .
@@ -497,6 +495,8 @@ c2.piano.io IN CNAME .
 *.c2.piano.io IN CNAME .
 cadent-match.dotomi.com IN CNAME .
 *.cadent-match.dotomi.com IN CNAME .
+callback.api.qgraph.io IN CNAME .
+*.callback.api.qgraph.io IN CNAME .
 campaign.adobe.com IN CNAME .
 *.campaign.adobe.com IN CNAME .
 campaign.aliexpress.com IN CNAME .
@@ -933,8 +933,6 @@ iljmp.com IN CNAME .
 *.iljmp.com IN CNAME .
 ink1001.com IN CNAME .
 *.ink1001.com IN CNAME .
-intercom-clicks.com IN CNAME .
-*.intercom-clicks.com IN CNAME .
 internshala.bapi-03.moengage.com IN CNAME .
 *.internshala.bapi-03.moengage.com IN CNAME .
 io.clickguard.com IN CNAME .
@@ -1351,8 +1349,6 @@ s6.exacttarget.com IN CNAME .
 *.s6.exacttarget.com IN CNAME .
 s7.exacttarget.com IN CNAME .
 *.s7.exacttarget.com IN CNAME .
-s8.exacttarget.com IN CNAME .
-*.s8.exacttarget.com IN CNAME .
 sailthru.com IN CNAME .
 *.sailthru.com IN CNAME .
 sctrack.sendcloud.net IN CNAME .

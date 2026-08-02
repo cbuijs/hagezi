@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-WINOFFICE-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1785550903 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1785637400 12h 15m 3w 3h
 a-ring-fallback.msedge.net IN CNAME .
 *.a-ring-fallback.msedge.net IN CNAME .
 a-ring.msedge.net IN CNAME .
@@ -317,6 +317,8 @@ excel-telemetry.officeapps.live.com IN CNAME .
 *.excel-telemetry.officeapps.live.com IN CNAME .
 excel-telemetry.wac.trafficmanager.net IN CNAME .
 *.excel-telemetry.wac.trafficmanager.net IN CNAME .
+excelonline.nel.measure.office.net.cardano.com IN CNAME .
+*.excelonline.nel.measure.office.net.cardano.com IN CNAME .
 exo.nel.measure.office.net.cardano.com IN CNAME .
 *.exo.nel.measure.office.net.cardano.com IN CNAME .
 ffc-excel-telemetry.officeapps.live.com IN CNAME .
@@ -675,6 +677,8 @@ t-ring.msedge.net IN CNAME .
 *.t-ring.msedge.net IN CNAME .
 t-s1-ring.msedge.net IN CNAME .
 *.t-s1-ring.msedge.net IN CNAME .
+t-s2-ring.msedge.net IN CNAME .
+*.t-s2-ring.msedge.net IN CNAME .
 tar.microsoft.com IN CNAME .
 *.tar.microsoft.com IN CNAME .
 teams-events-data.trafficmanager.net IN CNAME .

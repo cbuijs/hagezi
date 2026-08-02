@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1785552694 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1785639562 12h 15m 3w 3h
 1-aclk.net IN CNAME .
 *.1-aclk.net IN CNAME .
 1aurl.io IN CNAME .
@@ -425,8 +425,6 @@ api-03.moengage.com IN CNAME .
 *.api-03.moengage.com IN CNAME .
 api-04.moengage.com IN CNAME .
 *.api-04.moengage.com IN CNAME .
-api-101.moengage.com IN CNAME .
-*.api-101.moengage.com IN CNAME .
 api-ap1.hubapi.com IN CNAME .
 *.api-ap1.hubapi.com IN CNAME .
 api-eu.cleverpush.com IN CNAME .
@@ -625,6 +623,8 @@ c2.piano.io IN CNAME .
 *.c2.piano.io IN CNAME .
 cadent-match.dotomi.com IN CNAME .
 *.cadent-match.dotomi.com IN CNAME .
+callback.api.qgraph.io IN CNAME .
+*.callback.api.qgraph.io IN CNAME .
 campaign.adobe.com IN CNAME .
 *.campaign.adobe.com IN CNAME .
 campaign.aliexpress.com IN CNAME .
@@ -1549,6 +1549,8 @@ mkto-ab280067.com IN CNAME .
 *.mkto-ab280067.com IN CNAME .
 mkto-ab280126.com IN CNAME .
 *.mkto-ab280126.com IN CNAME .
+mkto-ab290066.com IN CNAME .
+*.mkto-ab290066.com IN CNAME .
 mkto-ab290102.com IN CNAME .
 *.mkto-ab290102.com IN CNAME .
 mkto-ab290138.com IN CNAME .
@@ -1913,6 +1915,8 @@ mkto-sj210057.com IN CNAME .
 *.mkto-sj210057.com IN CNAME .
 mkto-sj210107.com IN CNAME .
 *.mkto-sj210107.com IN CNAME .
+mkto-sj210111.com IN CNAME .
+*.mkto-sj210111.com IN CNAME .
 mkto-sj210170.com IN CNAME .
 *.mkto-sj210170.com IN CNAME .
 mkto-sj220006.com IN CNAME .
@@ -2311,8 +2315,6 @@ s6.exacttarget.com IN CNAME .
 *.s6.exacttarget.com IN CNAME .
 s7.exacttarget.com IN CNAME .
 *.s7.exacttarget.com IN CNAME .
-s8.exacttarget.com IN CNAME .
-*.s8.exacttarget.com IN CNAME .
 safeads.com.br IN CNAME .
 *.safeads.com.br IN CNAME .
 sailthru.com IN CNAME .
