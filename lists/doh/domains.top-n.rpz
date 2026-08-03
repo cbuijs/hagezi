@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1785637125 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1785723326 12h 15m 3w 3h
 1and1-dns.de IN CNAME .
 *.1and1-dns.de IN CNAME .
 2.alpo.pp.ua IN CNAME .
@@ -637,6 +637,8 @@ doh.eastau.pi-dns.com IN CNAME .
 *.doh.eastau.pi-dns.com IN CNAME .
 doh.eastus.pi-dns.com IN CNAME .
 *.doh.eastus.pi-dns.com IN CNAME .
+doh.ersei.net IN CNAME .
+*.doh.ersei.net IN CNAME .
 doh.eu.dnswarden.com IN CNAME .
 *.doh.eu.dnswarden.com IN CNAME .
 doh.excdn.eu.org IN CNAME .

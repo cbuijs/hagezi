@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1785636617 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1785723012 12h 15m 3w 3h
 004430.xyz IN CNAME .
 *.004430.xyz IN CNAME .
 0123456789nonexistent.com IN CNAME .
@@ -31,6 +31,8 @@ $TTL 3600
 *.123movies-t.com IN CNAME .
 123movies-to.org IN CNAME .
 *.123movies-to.org IN CNAME .
+123movies-x.com IN CNAME .
+*.123movies-x.com IN CNAME .
 123movies.online IN CNAME .
 *.123movies.online IN CNAME .
 123moviesfree.net IN CNAME .
@@ -51,6 +53,8 @@ $TTL 3600
 *.141jav.com IN CNAME .
 18kara.50webs.com IN CNAME .
 *.18kara.50webs.com IN CNAME .
+1bollyflix.com IN CNAME .
+*.1bollyflix.com IN CNAME .
 1c.premierzal.ru IN CNAME .
 *.1c.premierzal.ru IN CNAME .
 1cc.kr.eu.org IN CNAME .
@@ -2523,8 +2527,6 @@ rivestream.netlify.app IN CNAME .
 *.rivestream.netlify.app IN CNAME .
 rivestream.ru IN CNAME .
 *.rivestream.ru IN CNAME .
-rlsbb.in IN CNAME .
-*.rlsbb.in IN CNAME .
 rlsbb.ru IN CNAME .
 *.rlsbb.ru IN CNAME .
 rmz.cr IN CNAME .
