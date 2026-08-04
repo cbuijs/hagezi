@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1785723012 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1785809412 12h 15m 3w 3h
 004430.xyz IN CNAME .
 *.004430.xyz IN CNAME .
 0123456789nonexistent.com IN CNAME .
@@ -35,6 +35,8 @@ $TTL 3600
 *.123movies-x.com IN CNAME .
 123movies.online IN CNAME .
 *.123movies.online IN CNAME .
+123moviesfree-is.com IN CNAME .
+*.123moviesfree-is.com IN CNAME .
 123moviesfree.net IN CNAME .
 *.123moviesfree.net IN CNAME .
 1337x.pages.dev IN CNAME .
@@ -105,10 +107,6 @@ $TTL 3600
 *.504e163a.host.njalla.net IN CNAME .
 54new.com IN CNAME .
 *.54new.com IN CNAME .
-55movierulz.com IN CNAME .
-*.55movierulz.com IN CNAME .
-5mmovies.com IN CNAME .
-*.5mmovies.com IN CNAME .
 5mod.ru IN CNAME .
 *.5mod.ru IN CNAME .
 5movierulz.camera IN CNAME .
@@ -121,8 +119,6 @@ $TTL 3600
 *.5movierulz.soccer IN CNAME .
 5movierulzs.xyz IN CNAME .
 *.5movierulzs.xyz IN CNAME .
-5movies.biz IN CNAME .
-*.5movies.biz IN CNAME .
 5moviestv.top IN CNAME .
 *.5moviestv.top IN CNAME .
 5play.app IN CNAME .
@@ -451,8 +447,6 @@ best4stremio.space IN CNAME .
 *.best4stremio.space IN CNAME .
 bestimes.fr.nf IN CNAME .
 *.bestimes.fr.nf IN CNAME .
-bestmp4movies.com IN CNAME .
-*.bestmp4movies.com IN CNAME .
 bestoflinks.synology.me IN CNAME .
 *.bestoflinks.synology.me IN CNAME .
 bestsoft.moy.su IN CNAME .
@@ -523,8 +517,6 @@ box.sk IN CNAME .
 *.box.sk IN CNAME .
 bqg111.cc IN CNAME .
 *.bqg111.cc IN CNAME .
-bqg119.cc IN CNAME .
-*.bqg119.cc IN CNAME .
 broadcasthe.net IN CNAME .
 *.broadcasthe.net IN CNAME .
 brokensilenze.net IN CNAME .
@@ -767,8 +759,6 @@ diva.sfsu.edu IN CNAME .
 *.diva.sfsu.edu IN CNAME .
 dizipal-tek.com IN CNAME .
 *.dizipal-tek.com IN CNAME .
-dizipal1553.com IN CNAME .
-*.dizipal1553.com IN CNAME .
 dizipal1554.com IN CNAME .
 *.dizipal1554.com IN CNAME .
 dizipal1555.com IN CNAME .
@@ -779,8 +769,6 @@ dizipal1557.com IN CNAME .
 *.dizipal1557.com IN CNAME .
 dizipal1558.com IN CNAME .
 *.dizipal1558.com IN CNAME .
-dizipal2.com.tr IN CNAME .
-*.dizipal2.com.tr IN CNAME .
 dizipal2076.com IN CNAME .
 *.dizipal2076.com IN CNAME .
 dizipal2080.com IN CNAME .
@@ -803,8 +791,6 @@ dler.org IN CNAME .
 *.dler.org IN CNAME .
 dlpsgame.com IN CNAME .
 *.dlpsgame.com IN CNAME .
-docer.pl IN CNAME .
-*.docer.pl IN CNAME .
 docker-tracker-production.up.railway.app IN CNAME .
 *.docker-tracker-production.up.railway.app IN CNAME .
 dodear.com IN CNAME .
@@ -1027,8 +1013,6 @@ filman.cc IN CNAME .
 *.filman.cc IN CNAME .
 filmehd.to IN CNAME .
 *.filmehd.to IN CNAME .
-filmekseni.cc IN CNAME .
-*.filmekseni.cc IN CNAME .
 filmoflix-site.com IN CNAME .
 *.filmoflix-site.com IN CNAME .
 filmpalast.to IN CNAME .
@@ -1063,16 +1047,12 @@ flameiptv.netlify.app IN CNAME .
 *.flameiptv.netlify.app IN CNAME .
 flemmix.cafe IN CNAME .
 *.flemmix.cafe IN CNAME .
-flemmix.casa IN CNAME .
-*.flemmix.casa IN CNAME .
 flemmix.city IN CNAME .
 *.flemmix.city IN CNAME .
 flemmix.fast IN CNAME .
 *.flemmix.fast IN CNAME .
 flemmix.team IN CNAME .
 *.flemmix.team IN CNAME .
-flemmix.win IN CNAME .
-*.flemmix.win IN CNAME .
 flickeraddon.pages.dev IN CNAME .
 *.flickeraddon.pages.dev IN CNAME .
 flickermini.netlify.app IN CNAME .
@@ -1305,14 +1285,10 @@ hdhub4u.insure IN CNAME .
 *.hdhub4u.insure IN CNAME .
 hdmovie2a.net IN CNAME .
 *.hdmovie2a.net IN CNAME .
-hdmoviee.com IN CNAME .
-*.hdmoviee.com IN CNAME .
 hdmoviehub.irish IN CNAME .
 *.hdmoviehub.irish IN CNAME .
 hdmoviehub.tours IN CNAME .
 *.hdmoviehub.tours IN CNAME .
-hdmoviehut.com IN CNAME .
-*.hdmoviehut.com IN CNAME .
 hdmoviesflix.pages.dev IN CNAME .
 *.hdmoviesflix.pages.dev IN CNAME .
 hdmoviespk.com IN CNAME .
@@ -1369,8 +1345,6 @@ ht.therarbg.to IN CNAME .
 *.ht.therarbg.to IN CNAME .
 htz3.noho.st IN CNAME .
 *.htz3.noho.st IN CNAME .
-huaren.live IN CNAME .
-*.huaren.live IN CNAME .
 hummer74.free.fr IN CNAME .
 *.hummer74.free.fr IN CNAME .
 hydracker.com IN CNAME .
@@ -1379,8 +1353,6 @@ hydrahd.com IN CNAME .
 *.hydrahd.com IN CNAME .
 i5movies.com IN CNAME .
 *.i5movies.com IN CNAME .
-ibommedia.com IN CNAME .
-*.ibommedia.com IN CNAME .
 ica1616.redirectme.net IN CNAME .
 *.ica1616.redirectme.net IN CNAME .
 icefilms-info.com IN CNAME .
@@ -1529,6 +1501,8 @@ kinox.to IN CNAME .
 *.kinox.to IN CNAME .
 kissanime.com.ru IN CNAME .
 *.kissanime.com.ru IN CNAME .
+kissimge1.site IN CNAME .
+*.kissimge1.site IN CNAME .
 kiwi-ip.tv IN CNAME .
 *.kiwi-ip.tv IN CNAME .
 kkant.weebly.com IN CNAME .
@@ -1585,26 +1559,6 @@ laroza.surf IN CNAME .
 *.laroza.surf IN CNAME .
 laroza.yachts IN CNAME .
 *.laroza.yachts IN CNAME .
-larozaa.asia IN CNAME .
-*.larozaa.asia IN CNAME .
-larozaa.baby IN CNAME .
-*.larozaa.baby IN CNAME .
-larozaa.boats IN CNAME .
-*.larozaa.boats IN CNAME .
-larozaa.forum IN CNAME .
-*.larozaa.forum IN CNAME .
-larozaa.homes IN CNAME .
-*.larozaa.homes IN CNAME .
-larozaa.lat IN CNAME .
-*.larozaa.lat IN CNAME .
-larozaa.living IN CNAME .
-*.larozaa.living IN CNAME .
-larozaa.monster IN CNAME .
-*.larozaa.monster IN CNAME .
-larozaa.surf IN CNAME .
-*.larozaa.surf IN CNAME .
-larozaa.yachts IN CNAME .
-*.larozaa.yachts IN CNAME .
 larozza.living IN CNAME .
 *.larozza.living IN CNAME .
 le.precheur.free.fr IN CNAME .
@@ -1901,24 +1855,12 @@ moonburrow.club IN CNAME .
 *.moonburrow.club IN CNAME .
 motchill-tv.com IN CNAME .
 *.motchill-tv.com IN CNAME .
-motchillic.org IN CNAME .
-*.motchillic.org IN CNAME .
-motchilltv.foo IN CNAME .
-*.motchilltv.foo IN CNAME .
-motchilltv.xin IN CNAME .
-*.motchilltv.xin IN CNAME .
-motchillzc.xyz IN CNAME .
-*.motchillzc.xyz IN CNAME .
 movie-web-me.vercel.app IN CNAME .
 *.movie-web-me.vercel.app IN CNAME .
 movie-web.app IN CNAME .
 *.movie-web.app IN CNAME .
-moviedokan.baby IN CNAME .
-*.moviedokan.baby IN CNAME .
 movielair.cc IN CNAME .
 *.movielair.cc IN CNAME .
-movieruleshd.com IN CNAME .
-*.movieruleshd.com IN CNAME .
 movierulz-ms.com IN CNAME .
 *.movierulz-ms.com IN CNAME .
 movierulz-tv.com IN CNAME .
@@ -1939,8 +1881,6 @@ movieshd-online.com IN CNAME .
 *.movieshd-online.com IN CNAME .
 moviesleech.bar IN CNAME .
 *.moviesleech.bar IN CNAME .
-moviesleech.link IN CNAME .
-*.moviesleech.link IN CNAME .
 moviesleech.rodeo IN CNAME .
 *.moviesleech.rodeo IN CNAME .
 moviesmod.army IN CNAME .
@@ -1963,12 +1903,6 @@ msearch.vercel.app IN CNAME .
 *.msearch.vercel.app IN CNAME .
 muds.fandom.com IN CNAME .
 *.muds.fandom.com IN CNAME .
-multicanaishd.bio IN CNAME .
-*.multicanaishd.bio IN CNAME .
-multicanaishd.cards IN CNAME .
-*.multicanaishd.cards IN CNAME .
-multicanaishd.today IN CNAME .
-*.multicanaishd.today IN CNAME .
 multiki.arjlover.net IN CNAME .
 *.multiki.arjlover.net IN CNAME .
 multimovies.homes IN CNAME .
@@ -2011,8 +1945,6 @@ mycima.gives IN CNAME .
 *.mycima.gives IN CNAME .
 mycima.news IN CNAME .
 *.mycima.news IN CNAME .
-mycima.rentals IN CNAME .
-*.mycima.rentals IN CNAME .
 myflixer-tv.com IN CNAME .
 *.myflixer-tv.com IN CNAME .
 myflixer.art IN CNAME .
@@ -2069,12 +2001,8 @@ new-rutor.org IN CNAME .
 *.new-rutor.org IN CNAME .
 newalbumreleases.net IN CNAME .
 *.newalbumreleases.net IN CNAME .
-newhdmovie2.art IN CNAME .
-*.newhdmovie2.art IN CNAME .
 newhdmovie2.blog IN CNAME .
 *.newhdmovie2.blog IN CNAME .
-newhdmovie2.pro IN CNAME .
-*.newhdmovie2.pro IN CNAME .
 newsbin.com IN CNAME .
 *.newsbin.com IN CNAME .
 newsdemon.com IN CNAME .
@@ -2273,18 +2201,10 @@ peerfect.org IN CNAME .
 *.peerfect.org IN CNAME .
 peersteers.org IN CNAME .
 *.peersteers.org IN CNAME .
-pelisflix1.autos IN CNAME .
-*.pelisflix1.autos IN CNAME .
 pelisflix1.quest IN CNAME .
 *.pelisflix1.quest IN CNAME .
-pelisflix1.rest IN CNAME .
-*.pelisflix1.rest IN CNAME .
 pelisflix1.surf IN CNAME .
 *.pelisflix1.surf IN CNAME .
-pelisflix200.hair IN CNAME .
-*.pelisflix200.hair IN CNAME .
-pelisflix200.xyz IN CNAME .
-*.pelisflix200.xyz IN CNAME .
 penis-stresser.000webhostapp.com IN CNAME .
 *.penis-stresser.000webhostapp.com IN CNAME .
 pesktop.com IN CNAME .
@@ -2395,8 +2315,6 @@ pybittrack.retiolus.net IN CNAME .
 *.pybittrack.retiolus.net IN CNAME .
 qbittorrent.org IN CNAME .
 *.qbittorrent.org IN CNAME .
-qeseh3sk.com IN CNAME .
-*.qeseh3sk.com IN CNAME .
 qg.lorzl.gq IN CNAME .
 *.qg.lorzl.gq IN CNAME .
 qot.abiir.top IN CNAME .
@@ -2449,8 +2367,6 @@ readcomicsonline.ru IN CNAME .
 *.readcomicsonline.ru IN CNAME .
 real-debrid.com IN CNAME .
 *.real-debrid.com IN CNAME .
-realmodelist.com IN CNAME .
-*.realmodelist.com IN CNAME .
 reanime.to IN CNAME .
 *.reanime.to IN CNAME .
 redacted.sh IN CNAME .
@@ -2505,6 +2421,8 @@ revanced-apks.pages.dev IN CNAME .
 *.revanced-apks.pages.dev IN CNAME .
 rexdl.com IN CNAME .
 *.rexdl.com IN CNAME .
+rezka-ag.net IN CNAME .
+*.rezka-ag.net IN CNAME .
 rezka.ag IN CNAME .
 *.rezka.ag IN CNAME .
 rfc5746.mywaifu.best IN CNAME .
@@ -2803,8 +2721,6 @@ ssyoutube.com IN CNAME .
 *.ssyoutube.com IN CNAME .
 st0l3n.blogspot.com IN CNAME .
 *.st0l3n.blogspot.com IN CNAME .
-starckfilmes-v15.com IN CNAME .
-*.starckfilmes-v15.com IN CNAME .
 starwarsepisodeviitheforceawak-1.tumblr.com IN CNAME .
 *.starwarsepisodeviitheforceawak-1.tumblr.com IN CNAME .
 static.202.35.76.144.clients.your-server.de IN CNAME .
@@ -3053,6 +2969,8 @@ tornado-torrent.gitlab.io IN CNAME .
 *.tornado-torrent.gitlab.io IN CNAME .
 torrage.info IN CNAME .
 *.torrage.info IN CNAME .
+torrent-client.com IN CNAME .
+*.torrent-client.com IN CNAME .
 torrent-download-rj.com IN CNAME .
 *.torrent-download-rj.com IN CNAME .
 torrent-downloads.to IN CNAME .
@@ -3739,8 +3657,6 @@ vegamovies.channel IN CNAME .
 *.vegamovies.channel IN CNAME .
 vegamovies.diamonds IN CNAME .
 *.vegamovies.diamonds IN CNAME .
-vegamovies.haus IN CNAME .
-*.vegamovies.haus IN CNAME .
 vegamovies.hot IN CNAME .
 *.vegamovies.hot IN CNAME .
 vegamovies.navy IN CNAME .
@@ -3869,8 +3785,6 @@ watchmovierulz.army IN CNAME .
 *.watchmovierulz.army IN CNAME .
 watchmovierulz.cafe IN CNAME .
 *.watchmovierulz.cafe IN CNAME .
-watchmovierulz.haus IN CNAME .
-*.watchmovierulz.haus IN CNAME .
 watchmovierulz.kim IN CNAME .
 *.watchmovierulz.kim IN CNAME .
 watchmovierulz.mba IN CNAME .
@@ -4085,8 +3999,6 @@ zone-telechargement.team IN CNAME .
 *.zone-telechargement.team IN CNAME .
 zone-telechargement.tours IN CNAME .
 *.zone-telechargement.tours IN CNAME .
-zone-telechargement.win IN CNAME .
-*.zone-telechargement.win IN CNAME .
 zophar.net IN CNAME .
 *.zophar.net IN CNAME .
 zxcstream.xyz IN CNAME .
