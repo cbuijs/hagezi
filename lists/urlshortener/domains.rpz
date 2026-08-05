@@ -1,6 +1,6 @@
 ; RPZ "URLSHORTENER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1785811695 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1785898293 12h 15m 3w 3h
 0.gp IN CNAME .
 *.0.gp IN CNAME .
 00m.in IN CNAME .
@@ -2325,8 +2325,6 @@ bitly.is IN CNAME .
 *.bitly.is IN CNAME .
 bitly.kr IN CNAME .
 *.bitly.kr IN CNAME .
-bitly.lc IN CNAME .
-*.bitly.lc IN CNAME .
 bitly.mobi IN CNAME .
 *.bitly.mobi IN CNAME .
 bitly.net IN CNAME .
