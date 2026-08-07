@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-AMAZON-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1785982803 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1786069226 12h 15m 3w 3h
 3px.axp.amazon-adsystem.com IN CNAME .
 *.3px.axp.amazon-adsystem.com IN CNAME .
 aan.amazon.co.jp IN CNAME .
@@ -425,8 +425,6 @@ maws-aax-eu-rtb.amazon-adsystem.com IN CNAME .
 *.maws-aax-eu-rtb.amazon-adsystem.com IN CNAME .
 maws-aax-eu.amazon-adsystem.com IN CNAME .
 *.maws-aax-eu.amazon-adsystem.com IN CNAME .
-maws-aax-fe-sin.amazon-adsystem.com IN CNAME .
-*.maws-aax-fe-sin.amazon-adsystem.com IN CNAME .
 maws-aax-fe.amazon-adsystem.com IN CNAME .
 *.maws-aax-fe.amazon-adsystem.com IN CNAME .
 maws-aax-us-east-rtb-adx.amazon-adsystem.com IN CNAME .
@@ -541,6 +539,8 @@ sponsored-ads-fe.amazon-adsystem.com IN CNAME .
 *.sponsored-ads-fe.amazon-adsystem.com IN CNAME .
 sponsored-ads-na.amazon-adsystem.com IN CNAME .
 *.sponsored-ads-na.amazon-adsystem.com IN CNAME .
+sponsored-ads.amazon.ae IN CNAME .
+*.sponsored-ads.amazon.ae IN CNAME .
 sponsored-ads.amazon.ca IN CNAME .
 *.sponsored-ads.amazon.ca IN CNAME .
 sponsored-ads.amazon.co.jp IN CNAME .
@@ -555,6 +555,8 @@ sponsored-ads.amazon.com.br IN CNAME .
 *.sponsored-ads.amazon.com.br IN CNAME .
 sponsored-ads.amazon.com.mx IN CNAME .
 *.sponsored-ads.amazon.com.mx IN CNAME .
+sponsored-ads.amazon.eg IN CNAME .
+*.sponsored-ads.amazon.eg IN CNAME .
 sponsored-ads.amazon.es IN CNAME .
 *.sponsored-ads.amazon.es IN CNAME .
 sponsored-ads.amazon.fr IN CNAME .
