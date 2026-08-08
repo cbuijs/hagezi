@@ -1,6 +1,6 @@
 ; RPZ "MULTI-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1786069186 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1786155646 12h 15m 3w 3h
 0-02.net IN CNAME .
 *.0-02.net IN CNAME .
 0-architecture.com IN CNAME .
@@ -213,6 +213,8 @@ $TTL 3600
 *.0hbof8-conversions.appsflyersdk.com IN CNAME .
 0hbof8-launches.appsflyersdk.com IN CNAME .
 *.0hbof8-launches.appsflyersdk.com IN CNAME .
+0hbof8-register.appsflyersdk.com IN CNAME .
+*.0hbof8-register.appsflyersdk.com IN CNAME .
 0hcxwv-cdn-settings.appsflyersdk.com IN CNAME .
 *.0hcxwv-cdn-settings.appsflyersdk.com IN CNAME .
 0hcxwv-conversions.appsflyersdk.com IN CNAME .
@@ -233,6 +235,10 @@ $TTL 3600
 *.0i4zle-cdn-settings.appsflyersdk.com IN CNAME .
 0i4zle-launches.appsflyersdk.com IN CNAME .
 *.0i4zle-launches.appsflyersdk.com IN CNAME .
+0ix1pv-cdn-settings.appsflyersdk.com IN CNAME .
+*.0ix1pv-cdn-settings.appsflyersdk.com IN CNAME .
+0ix1pv-launches.appsflyersdk.com IN CNAME .
+*.0ix1pv-launches.appsflyersdk.com IN CNAME .
 0lcc8v-cdn-settings.appsflyersdk.com IN CNAME .
 *.0lcc8v-cdn-settings.appsflyersdk.com IN CNAME .
 0lcc8v-conversions.appsflyersdk.com IN CNAME .
@@ -549,8 +555,6 @@ $TTL 3600
 *.1hpccu-register.appsflyersdk.com IN CNAME .
 1hplbmxlgsw-sdk.rum.aliyuncs.com IN CNAME .
 *.1hplbmxlgsw-sdk.rum.aliyuncs.com IN CNAME .
-1hqput7vfyl-sdk.rum.aliyuncs.com IN CNAME .
-*.1hqput7vfyl-sdk.rum.aliyuncs.com IN CNAME .
 1hybxj-cdn-settings.appsflyersdk.com IN CNAME .
 *.1hybxj-cdn-settings.appsflyersdk.com IN CNAME .
 1icvjh-cdn-settings.appsflyersdk.com IN CNAME .
@@ -753,8 +757,6 @@ $TTL 3600
 *.1xa9jb-launches.appsflyersdk.com IN CNAME .
 1xbet-rate.com IN CNAME .
 *.1xbet-rate.com IN CNAME .
-1xbit-ua.com IN CNAME .
-*.1xbit-ua.com IN CNAME .
 1yqhi9-cdn-settings.appsflyersdk.com IN CNAME .
 *.1yqhi9-cdn-settings.appsflyersdk.com IN CNAME .
 1z8ohb-cdn-settings.appsflyersdk.com IN CNAME .
@@ -2253,6 +2255,8 @@ $TTL 3600
 *.75719v-cdn-settings.appsflyersdk.com IN CNAME .
 75a1no-cdn-settings.appsflyersdk.com IN CNAME .
 *.75a1no-cdn-settings.appsflyersdk.com IN CNAME .
+75a1no-launches.appsflyersdk.com IN CNAME .
+*.75a1no-launches.appsflyersdk.com IN CNAME .
 76236osm1.ru IN CNAME .
 *.76236osm1.ru IN CNAME .
 769396664005295.wt-eu02.net IN CNAME .
@@ -2427,6 +2431,8 @@ $TTL 3600
 *.7julnv-conversions.appsflyersdk.com IN CNAME .
 7julnv-launches.appsflyersdk.com IN CNAME .
 *.7julnv-launches.appsflyersdk.com IN CNAME .
+7khvrt-cdn-settings.appsflyersdk.com IN CNAME .
+*.7khvrt-cdn-settings.appsflyersdk.com IN CNAME .
 7khvrt-conversions.appsflyersdk.com IN CNAME .
 *.7khvrt-conversions.appsflyersdk.com IN CNAME .
 7kmktl-cdn-settings.appsflyersdk.com IN CNAME .
@@ -2437,6 +2443,8 @@ $TTL 3600
 *.7kmktl-inapps.appsflyersdk.com IN CNAME .
 7kmktl-launches.appsflyersdk.com IN CNAME .
 *.7kmktl-launches.appsflyersdk.com IN CNAME .
+7kmktl-register.appsflyersdk.com IN CNAME .
+*.7kmktl-register.appsflyersdk.com IN CNAME .
 7kprtners.com IN CNAME .
 *.7kprtners.com IN CNAME .
 7lbd4.armandthiery.fr IN CNAME .
@@ -2591,6 +2599,8 @@ $TTL 3600
 *.823de.v.fwmrm.net IN CNAME .
 823e2.v.fwmrm.net IN CNAME .
 *.823e2.v.fwmrm.net IN CNAME .
+823e3.v.fwmrm.net IN CNAME .
+*.823e3.v.fwmrm.net IN CNAME .
 823eb.v.fwmrm.net IN CNAME .
 *.823eb.v.fwmrm.net IN CNAME .
 827c1.v.fwmrm.net IN CNAME .
@@ -2923,6 +2933,8 @@ $TTL 3600
 *.8vjssx-cdn-settings.appsflyersdk.com IN CNAME .
 8vjssx-launches.appsflyersdk.com IN CNAME .
 *.8vjssx-launches.appsflyersdk.com IN CNAME .
+8vst67-cdn-settings.appsflyersdk.com IN CNAME .
+*.8vst67-cdn-settings.appsflyersdk.com IN CNAME .
 8vst67-inapps.appsflyersdk.com IN CNAME .
 *.8vst67-inapps.appsflyersdk.com IN CNAME .
 8vst67-launches.appsflyersdk.com IN CNAME .
@@ -3341,8 +3353,6 @@ a.line.me IN CNAME .
 *.a.line.me IN CNAME .
 a.localmonero.co IN CNAME .
 *.a.localmonero.co IN CNAME .
-a.lz13.cn IN CNAME .
-*.a.lz13.cn IN CNAME .
 a.market.xiaomi.com IN CNAME .
 *.a.market.xiaomi.com IN CNAME .
 a.medialaancdn.be IN CNAME .
@@ -3403,6 +3413,8 @@ a.shemale99.com IN CNAME .
 *.a.shemale99.com IN CNAME .
 a.ssl.msdk.qq.com IN CNAME .
 *.a.ssl.msdk.qq.com IN CNAME .
+a.stackhero.io IN CNAME .
+*.a.stackhero.io IN CNAME .
 a.streamed.pk IN CNAME .
 *.a.streamed.pk IN CNAME .
 a.tampermonkey.net IN CNAME .
@@ -3649,6 +3661,12 @@ aag.yahooapis.jp IN CNAME .
 *.aag.yahooapis.jp IN CNAME .
 aajmmd.aireuropa.com IN CNAME .
 *.aajmmd.aireuropa.com IN CNAME .
+aam3gh-cdn-settings.appsflyersdk.com IN CNAME .
+*.aam3gh-cdn-settings.appsflyersdk.com IN CNAME .
+aam3gh-conversions.appsflyersdk.com IN CNAME .
+*.aam3gh-conversions.appsflyersdk.com IN CNAME .
+aam3gh-register.appsflyersdk.com IN CNAME .
+*.aam3gh-register.appsflyersdk.com IN CNAME .
 aamt.msnbc.com IN CNAME .
 *.aamt.msnbc.com IN CNAME .
 aamt.nbcnews.com IN CNAME .
@@ -4147,8 +4165,6 @@ ad-interactions-prod-lb-1426714899.eu-west-2.elb.amazonaws.com IN CNAME .
 *.ad-interactions-prod-lb-1426714899.eu-west-2.elb.amazonaws.com IN CNAME .
 ad-interactions-prod-lb-1606894468.us-east-1.elb.amazonaws.com IN CNAME .
 *.ad-interactions-prod-lb-1606894468.us-east-1.elb.amazonaws.com IN CNAME .
-ad-interactions-prod-lb-484900216.ap-northeast-1.elb.amazonaws.com IN CNAME .
-*.ad-interactions-prod-lb-484900216.ap-northeast-1.elb.amazonaws.com IN CNAME .
 ad-interactions-prod-lb-773417274.us-east-2.elb.amazonaws.com IN CNAME .
 *.ad-interactions-prod-lb-773417274.us-east-2.elb.amazonaws.com IN CNAME .
 ad-interactions-prod-lb-799516835.ap-southeast-2.elb.amazonaws.com IN CNAME .
@@ -4167,6 +4183,8 @@ ad-m.asia IN CNAME .
 *.ad-m.asia IN CNAME .
 ad-mapps.com IN CNAME .
 *.ad-mapps.com IN CNAME .
+ad-material.ys7.com IN CNAME .
+*.ad-material.ys7.com IN CNAME .
 ad-maven.com IN CNAME .
 *.ad-maven.com IN CNAME .
 ad-mediation.tuanguwen.com IN CNAME .
@@ -4315,8 +4333,6 @@ ad.camoryapps.com IN CNAME .
 *.ad.camoryapps.com IN CNAME .
 ad.casinogranmadridonline.es IN CNAME .
 *.ad.casinogranmadridonline.es IN CNAME .
-ad.cbonds.info IN CNAME .
-*.ad.cbonds.info IN CNAME .
 ad.ccement.com IN CNAME .
 *.ad.ccement.com IN CNAME .
 ad.ccmbg.com IN CNAME .
@@ -4399,8 +4415,6 @@ ad.dnoticias.pt IN CNAME .
 *.ad.dnoticias.pt IN CNAME .
 ad.donanimhaber.com IN CNAME .
 *.ad.donanimhaber.com IN CNAME .
-ad.dslr-forum.de IN CNAME .
-*.ad.dslr-forum.de IN CNAME .
 ad.dt.co.kr IN CNAME .
 *.ad.dt.co.kr IN CNAME .
 ad.duga.jp IN CNAME .
@@ -4473,8 +4487,6 @@ ad.huajiao.com IN CNAME .
 *.ad.huajiao.com IN CNAME .
 ad.hunyuan.tencent.com IN CNAME .
 *.ad.hunyuan.tencent.com IN CNAME .
-ad.hzyoka.com IN CNAME .
-*.ad.hzyoka.com IN CNAME .
 ad.ica.dog IN CNAME .
 *.ad.ica.dog IN CNAME .
 ad.iherb.com IN CNAME .
@@ -4949,6 +4961,8 @@ ad4997835618.w.hcaptcha.com IN CNAME .
 *.ad4997835618.w.hcaptcha.com IN CNAME .
 ad4m.at IN CNAME .
 *.ad4m.at IN CNAME .
+ad5.arixo.shop IN CNAME .
+*.ad5.arixo.shop IN CNAME .
 ad5.koreadaily.com IN CNAME .
 *.ad5.koreadaily.com IN CNAME .
 ad5.on.cc IN CNAME .
@@ -5317,8 +5331,6 @@ adeeply.ru IN CNAME .
 *.adeeply.ru IN CNAME .
 adelement.com IN CNAME .
 *.adelement.com IN CNAME .
-adelixir.com IN CNAME .
-*.adelixir.com IN CNAME .
 adelphic.net IN CNAME .
 *.adelphic.net IN CNAME .
 ademon.net IN CNAME .
@@ -6631,8 +6643,6 @@ ads.huan.tv IN CNAME .
 *.ads.huan.tv IN CNAME .
 ads.i-bidder.com IN CNAME .
 *.ads.i-bidder.com IN CNAME .
-ads.ibest.com.br IN CNAME .
-*.ads.ibest.com.br IN CNAME .
 ads.icloseli.com IN CNAME .
 *.ads.icloseli.com IN CNAME .
 ads.icook.tw IN CNAME .
@@ -7059,6 +7069,8 @@ ads.stadtradeln.de IN CNAME .
 *.ads.stadtradeln.de IN CNAME .
 ads.stalker2.com IN CNAME .
 *.ads.stalker2.com IN CNAME .
+ads.static.btv.bg IN CNAME .
+*.ads.static.btv.bg IN CNAME .
 ads.static.delfi.ee IN CNAME .
 *.ads.static.delfi.ee IN CNAME .
 ads.studentenwerk-dresden.de IN CNAME .
@@ -7263,12 +7275,12 @@ ads.youtube.com IN CNAME .
 *.ads.youtube.com IN CNAME .
 ads.yuepenghk.com.w.kunlungr.com IN CNAME .
 *.ads.yuepenghk.com.w.kunlungr.com IN CNAME .
+ads.yuppbox.yuppcdn.net IN CNAME .
+*.ads.yuppbox.yuppcdn.net IN CNAME .
 ads.zachod.pl IN CNAME .
 *.ads.zachod.pl IN CNAME .
 ads.zaloapp.com IN CNAME .
 *.ads.zaloapp.com IN CNAME .
-ads.zascdn.me IN CNAME .
-*.ads.zascdn.me IN CNAME .
 ads.zdn.vn IN CNAME .
 *.ads.zdn.vn IN CNAME .
 ads.zynga.com IN CNAME .
@@ -7325,8 +7337,6 @@ ads2.livesportmedia.eu IN CNAME .
 *.ads2.livesportmedia.eu IN CNAME .
 ads2.mynet.com IN CNAME .
 *.ads2.mynet.com IN CNAME .
-ads2.naszdziennik.pl IN CNAME .
-*.ads2.naszdziennik.pl IN CNAME .
 ads2.panorama.com.al IN CNAME .
 *.ads2.panorama.com.al IN CNAME .
 ads2.star.com.tr IN CNAME .
@@ -7511,8 +7521,6 @@ adserver-pub1-272401888.us-east-1.elb.amazonaws.com IN CNAME .
 *.adserver-pub1-272401888.us-east-1.elb.amazonaws.com IN CNAME .
 adserver.4x4community.co.za IN CNAME .
 *.adserver.4x4community.co.za IN CNAME .
-adserver.adtechus.com IN CNAME .
-*.adserver.adtechus.com IN CNAME .
 adserver.adultfriendfinder.com IN CNAME .
 *.adserver.adultfriendfinder.com IN CNAME .
 adserver.asiantb.com IN CNAME .
@@ -7797,8 +7805,6 @@ adsqtungsten.a9.amazon.dev IN CNAME .
 *.adsqtungsten.a9.amazon.dev IN CNAME .
 adsquirrel.ai IN CNAME .
 *.adsquirrel.ai IN CNAME .
-adsquiz.io IN CNAME .
-*.adsquiz.io IN CNAME .
 adsrich.qq.com IN CNAME .
 *.adsrich.qq.com IN CNAME .
 adsrv.deviantart.com IN CNAME .
@@ -8289,8 +8295,6 @@ advil.waze.com IN CNAME .
 *.advil.waze.com IN CNAME .
 advip.alice.it IN CNAME .
 *.advip.alice.it IN CNAME .
-advisible.com IN CNAME .
-*.advisible.com IN CNAME .
 advividnetwork.com IN CNAME .
 *.advividnetwork.com IN CNAME .
 advlion.com IN CNAME .
@@ -8631,8 +8635,6 @@ affiliate.resellerclub.com IN CNAME .
 *.affiliate.resellerclub.com IN CNAME .
 affiliate.tantanapp.com IN CNAME .
 *.affiliate.tantanapp.com IN CNAME .
-affiliate.treated.com IN CNAME .
-*.affiliate.treated.com IN CNAME .
 affiliatepluginintegration.cj.com IN CNAME .
 *.affiliatepluginintegration.cj.com IN CNAME .
 affiliates.allposters.com IN CNAME .
@@ -8897,8 +8899,6 @@ air-track-mat25667.bloggin-ads.com IN CNAME .
 *.air-track-mat25667.bloggin-ads.com IN CNAME .
 air.inkeep.com IN CNAME .
 *.air.inkeep.com IN CNAME .
-air2s.com IN CNAME .
-*.air2s.com IN CNAME .
 air360tracker.net IN CNAME .
 *.air360tracker.net IN CNAME .
 airbnb-1869ae.webflow.io IN CNAME .
@@ -9401,8 +9401,6 @@ ampltd.top.gg IN CNAME .
 *.ampltd.top.gg IN CNAME .
 ampltd2.medal.tv IN CNAME .
 *.ampltd2.medal.tv IN CNAME .
-ampscamp.net IN CNAME .
-*.ampscamp.net IN CNAME .
 amptrack-dailymail-co-uk.cdn.ampproject.org IN CNAME .
 *.amptrack-dailymail-co-uk.cdn.ampproject.org IN CNAME .
 amptrack.bild.de IN CNAME .
@@ -9565,6 +9563,8 @@ analytic-client.chickgoddess.com IN CNAME .
 *.analytic-client.chickgoddess.com IN CNAME .
 analytic-client.panowars.com IN CNAME .
 *.analytic-client.panowars.com IN CNAME .
+analytic-client.playful-fairies.com IN CNAME .
+*.analytic-client.playful-fairies.com IN CNAME .
 analytic-rc.brokenarrowgame.tech IN CNAME .
 *.analytic-rc.brokenarrowgame.tech IN CNAME .
 analytic-signal.gallery.vsassets.io IN CNAME .
@@ -9661,6 +9661,8 @@ analytics-api.cloudinary.com IN CNAME .
 *.analytics-api.cloudinary.com IN CNAME .
 analytics-api.dfs.co.uk IN CNAME .
 *.analytics-api.dfs.co.uk IN CNAME .
+analytics-api.gear4music.de IN CNAME .
+*.analytics-api.gear4music.de IN CNAME .
 analytics-api.gemcommerce.com IN CNAME .
 *.analytics-api.gemcommerce.com IN CNAME .
 analytics-api.gettr.com IN CNAME .
@@ -9921,6 +9923,8 @@ analytics-gateway.fallguys.oncatapult.com IN CNAME .
 *.analytics-gateway.fallguys.oncatapult.com IN CNAME .
 analytics-gdp.timetoact-group.com IN CNAME .
 *.analytics-gdp.timetoact-group.com IN CNAME .
+analytics-gilt-beta.vercel.app IN CNAME .
+*.analytics-gilt-beta.vercel.app IN CNAME .
 analytics-gtm.redbubble.com IN CNAME .
 *.analytics-gtm.redbubble.com IN CNAME .
 analytics-gw.games.wanmei.com IN CNAME .
@@ -10205,8 +10209,6 @@ analytics.ableton.com IN CNAME .
 *.analytics.ableton.com IN CNAME .
 analytics.academy.com IN CNAME .
 *.analytics.academy.com IN CNAME .
-analytics.accelevents.com IN CNAME .
-*.analytics.accelevents.com IN CNAME .
 analytics.accuristech.com IN CNAME .
 *.analytics.accuristech.com IN CNAME .
 analytics.acelauncher.com IN CNAME .
@@ -10753,6 +10755,8 @@ analytics.carfax.com IN CNAME .
 *.analytics.carfax.com IN CNAME .
 analytics.carnivalcruiselineemail.com IN CNAME .
 *.analytics.carnivalcruiselineemail.com IN CNAME .
+analytics.carolinaherrera.com IN CNAME .
+*.analytics.carolinaherrera.com IN CNAME .
 analytics.caros-creation.com IN CNAME .
 *.analytics.caros-creation.com IN CNAME .
 analytics.carrefouruae.com IN CNAME .
@@ -10799,6 +10803,8 @@ analytics.chase.com IN CNAME .
 *.analytics.chase.com IN CNAME .
 analytics.chase.com.akadns.net IN CNAME .
 *.analytics.chase.com.akadns.net IN CNAME .
+analytics.checkmategaming.com IN CNAME .
+*.analytics.checkmategaming.com IN CNAME .
 analytics.checkmk.com IN CNAME .
 *.analytics.checkmk.com IN CNAME .
 analytics.chegg.com IN CNAME .
@@ -10899,8 +10905,6 @@ analytics.cointiply.com IN CNAME .
 *.analytics.cointiply.com IN CNAME .
 analytics.collateralunderwriter.fanniemae.com IN CNAME .
 *.analytics.collateralunderwriter.fanniemae.com IN CNAME .
-analytics.collx.app IN CNAME .
-*.analytics.collx.app IN CNAME .
 analytics.comicaso.pro IN CNAME .
 *.analytics.comicaso.pro IN CNAME .
 analytics.community.intersystems.com IN CNAME .
@@ -11079,8 +11083,8 @@ analytics.devontechnologies.com IN CNAME .
 *.analytics.devontechnologies.com IN CNAME .
 analytics.dextcg.com IN CNAME .
 *.analytics.dextcg.com IN CNAME .
-analytics.dhakamail.com IN CNAME .
-*.analytics.dhakamail.com IN CNAME .
+analytics.dgnum.eu IN CNAME .
+*.analytics.dgnum.eu IN CNAME .
 analytics.diagram-info.com IN CNAME .
 *.analytics.diagram-info.com IN CNAME .
 analytics.dialog.cm IN CNAME .
@@ -11129,6 +11133,8 @@ analytics.dns-shop.kz IN CNAME .
 *.analytics.dns-shop.kz IN CNAME .
 analytics.dns-shop.ru IN CNAME .
 *.analytics.dns-shop.ru IN CNAME .
+analytics.do.cloudwalker.tv IN CNAME .
+*.analytics.do.cloudwalker.tv IN CNAME .
 analytics.doc.ro IN CNAME .
 *.analytics.doc.ro IN CNAME .
 analytics.docebo.com IN CNAME .
@@ -11197,12 +11203,16 @@ analytics.e.daveandbusters.com IN CNAME .
 *.analytics.e.daveandbusters.com IN CNAME .
 analytics.e1.ru IN CNAME .
 *.analytics.e1.ru IN CNAME .
+analytics.e15.cz IN CNAME .
+*.analytics.e15.cz IN CNAME .
 analytics.easistent.com IN CNAME .
 *.analytics.easistent.com IN CNAME .
 analytics.easy-discovery.com IN CNAME .
 *.analytics.easy-discovery.com IN CNAME .
 analytics.easy-media.net IN CNAME .
 *.analytics.easy-media.net IN CNAME .
+analytics.easyagile.zone IN CNAME .
+*.analytics.easyagile.zone IN CNAME .
 analytics.eba.europa.eu IN CNAME .
 *.analytics.eba.europa.eu IN CNAME .
 analytics.ecdc.europa.eu IN CNAME .
@@ -11487,8 +11497,6 @@ analytics.foodbeast.com IN CNAME .
 *.analytics.foodbeast.com IN CNAME .
 analytics.footba11.net IN CNAME .
 *.analytics.footba11.net IN CNAME .
-analytics.football360.ir IN CNAME .
-*.analytics.football360.ir IN CNAME .
 analytics.footballdb.com IN CNAME .
 *.analytics.footballdb.com IN CNAME .
 analytics.footshop.cz IN CNAME .
@@ -11515,16 +11523,12 @@ analytics.franconnect.net IN CNAME .
 *.analytics.franconnect.net IN CNAME .
 analytics.frappe.cloud IN CNAME .
 *.analytics.frappe.cloud IN CNAME .
-analytics.free-work.com IN CNAME .
-*.analytics.free-work.com IN CNAME .
 analytics.freedom.press IN CNAME .
 *.analytics.freedom.press IN CNAME .
 analytics.freefy.app IN CNAME .
 *.analytics.freefy.app IN CNAME .
 analytics.freemake.com IN CNAME .
 *.analytics.freemake.com IN CNAME .
-analytics.freenews.fr IN CNAME .
-*.analytics.freenews.fr IN CNAME .
 analytics.freeola.com IN CNAME .
 *.analytics.freeola.com IN CNAME .
 analytics.freesound.org IN CNAME .
@@ -11585,8 +11589,6 @@ analytics.gdeltproject.org IN CNAME .
 *.analytics.gdeltproject.org IN CNAME .
 analytics.geeklab.app IN CNAME .
 *.analytics.geeklab.app IN CNAME .
-analytics.gem.com IN CNAME .
-*.analytics.gem.com IN CNAME .
 analytics.gem.wiki IN CNAME .
 *.analytics.gem.wiki IN CNAME .
 analytics.gema.de IN CNAME .
@@ -11707,8 +11709,6 @@ analytics.growdeck.io IN CNAME .
 *.analytics.growdeck.io IN CNAME .
 analytics.gtflixtv.com IN CNAME .
 *.analytics.gtflixtv.com IN CNAME .
-analytics.guardicore.com IN CNAME .
-*.analytics.guardicore.com IN CNAME .
 analytics.guest.net IN CNAME .
 *.analytics.guest.net IN CNAME .
 analytics.gwg-online.de IN CNAME .
@@ -11825,6 +11825,8 @@ analytics.iab.de IN CNAME .
 *.analytics.iab.de IN CNAME .
 analytics.iapure.com IN CNAME .
 *.analytics.iapure.com IN CNAME .
+analytics.ibeb-berlin.de IN CNAME .
+*.analytics.ibeb-berlin.de IN CNAME .
 analytics.ibj.com IN CNAME .
 *.analytics.ibj.com IN CNAME .
 analytics.ic.uva.nl IN CNAME .
@@ -11871,8 +11873,6 @@ analytics.incredibox.com IN CNAME .
 *.analytics.incredibox.com IN CNAME .
 analytics.indaplay.hu IN CNAME .
 *.analytics.indaplay.hu IN CNAME .
-analytics.indiecampers.com IN CNAME .
-*.analytics.indiecampers.com IN CNAME .
 analytics.info.yorku.ca IN CNAME .
 *.analytics.info.yorku.ca IN CNAME .
 analytics.infomaniak.com IN CNAME .
@@ -11965,6 +11965,8 @@ analytics.jane.app IN CNAME .
 *.analytics.jane.app IN CNAME .
 analytics.jazel.net IN CNAME .
 *.analytics.jazel.net IN CNAME .
+analytics.jdsports.co.uk IN CNAME .
+*.analytics.jdsports.co.uk IN CNAME .
 analytics.jeanpaulgaultier.com IN CNAME .
 *.analytics.jeanpaulgaultier.com IN CNAME .
 analytics.jemako.com IN CNAME .
@@ -12295,8 +12297,6 @@ analytics.med.wanfangdata.com.cn IN CNAME .
 *.analytics.med.wanfangdata.com.cn IN CNAME .
 analytics.mediadash.ru IN CNAME .
 *.analytics.mediadash.ru IN CNAME .
-analytics.medius.com IN CNAME .
-*.analytics.medius.com IN CNAME .
 analytics.mehilainen.fi IN CNAME .
 *.analytics.mehilainen.fi IN CNAME .
 analytics.meituan.net IN CNAME .
@@ -12449,8 +12449,6 @@ analytics.naga.com IN CNAME .
 *.analytics.naga.com IN CNAME .
 analytics.naitreetgrandir.com IN CNAME .
 *.analytics.naitreetgrandir.com IN CNAME .
-analytics.nannybag.com IN CNAME .
-*.analytics.nannybag.com IN CNAME .
 analytics.nano-wetter.de IN CNAME .
 *.analytics.nano-wetter.de IN CNAME .
 analytics.narrativetarot.com IN CNAME .
@@ -12467,8 +12465,6 @@ analytics.navyfederal.org IN CNAME .
 *.analytics.navyfederal.org IN CNAME .
 analytics.nbsp.de IN CNAME .
 *.analytics.nbsp.de IN CNAME .
-analytics.nccommerce.com IN CNAME .
-*.analytics.nccommerce.com IN CNAME .
 analytics.ncsu.edu IN CNAME .
 *.analytics.ncsu.edu IN CNAME .
 analytics.necenzurirano.si IN CNAME .
@@ -12741,8 +12737,6 @@ analytics.partioaitta.fi IN CNAME .
 *.analytics.partioaitta.fi IN CNAME .
 analytics.partnerboost.com IN CNAME .
 *.analytics.partnerboost.com IN CNAME .
-analytics.partners.paysafecard.com IN CNAME .
-*.analytics.partners.paysafecard.com IN CNAME .
 analytics.passes.com IN CNAME .
 *.analytics.passes.com IN CNAME .
 analytics.patsnap.com IN CNAME .
@@ -12877,8 +12871,6 @@ analytics.printful.com IN CNAME .
 *.analytics.printful.com IN CNAME .
 analytics.prm.com IN CNAME .
 *.analytics.prm.com IN CNAME .
-analytics.procempa.com.br IN CNAME .
-*.analytics.procempa.com.br IN CNAME .
 analytics.prod.glera.cloud IN CNAME .
 *.analytics.prod.glera.cloud IN CNAME .
 analytics.prod.mdl.swisscom.ch IN CNAME .
@@ -13001,8 +12993,6 @@ analytics.recastsoftware.com IN CNAME .
 *.analytics.recastsoftware.com IN CNAME .
 analytics.recept.se IN CNAME .
 *.analytics.recept.se IN CNAME .
-analytics.recordere.dk IN CNAME .
-*.analytics.recordere.dk IN CNAME .
 analytics.recruitics.com IN CNAME .
 *.analytics.recruitics.com IN CNAME .
 analytics.redbubble.com IN CNAME .
@@ -13353,8 +13343,6 @@ analytics.sport24.dk IN CNAME .
 *.analytics.sport24.dk IN CNAME .
 analytics.sportisimo.cz IN CNAME .
 *.analytics.sportisimo.cz IN CNAME .
-analytics.sportisimo.de IN CNAME .
-*.analytics.sportisimo.de IN CNAME .
 analytics.sportisimo.hu IN CNAME .
 *.analytics.sportisimo.hu IN CNAME .
 analytics.sportisimo.ro IN CNAME .
@@ -13379,8 +13367,6 @@ analytics.sprinklr.com IN CNAME .
 *.analytics.sprinklr.com IN CNAME .
 analytics.spun.com.br IN CNAME .
 *.analytics.spun.com.br IN CNAME .
-analytics.sre.gob.mx IN CNAME .
-*.analytics.sre.gob.mx IN CNAME .
 analytics.srvnw.com IN CNAME .
 *.analytics.srvnw.com IN CNAME .
 analytics.ssense.com IN CNAME .
@@ -13439,14 +13425,12 @@ analytics.streamer.bot IN CNAME .
 *.analytics.streamer.bot IN CNAME .
 analytics.stronghold-nation.com IN CNAME .
 *.analytics.stronghold-nation.com IN CNAME .
-analytics.studentenwerke.de IN CNAME .
-*.analytics.studentenwerke.de IN CNAME .
 analytics.studiodesignapp.com IN CNAME .
 *.analytics.studiodesignapp.com IN CNAME .
+analytics.studyisland.com IN CNAME .
+*.analytics.studyisland.com IN CNAME .
 analytics.studyrama.com IN CNAME .
 *.analytics.studyrama.com IN CNAME .
-analytics.subzero-wolf.com IN CNAME .
-*.analytics.subzero-wolf.com IN CNAME .
 analytics.superchat.de IN CNAME .
 *.analytics.superchat.de IN CNAME .
 analytics.superdeporte.es IN CNAME .
@@ -13627,6 +13611,8 @@ analytics.thunderbike.de IN CNAME .
 *.analytics.thunderbike.de IN CNAME .
 analytics.ticimax.cloud IN CNAME .
 *.analytics.ticimax.cloud IN CNAME .
+analytics.ticketmaster.ae IN CNAME .
+*.analytics.ticketmaster.ae IN CNAME .
 analytics.ticketmaster.be IN CNAME .
 *.analytics.ticketmaster.be IN CNAME .
 analytics.ticketmaster.ca IN CNAME .
@@ -13997,6 +13983,8 @@ analytics.vz.lt IN CNAME .
 *.analytics.vz.lt IN CNAME .
 analytics.wachanga.app IN CNAME .
 *.analytics.wachanga.app IN CNAME .
+analytics.wandb.ai IN CNAME .
+*.analytics.wandb.ai IN CNAME .
 analytics.wander.com IN CNAME .
 *.analytics.wander.com IN CNAME .
 analytics.wanmei.com IN CNAME .
@@ -14133,8 +14121,6 @@ analytics.xonotic.org IN CNAME .
 *.analytics.xonotic.org IN CNAME .
 analytics.xranks.com IN CNAME .
 *.analytics.xranks.com IN CNAME .
-analytics.xscreenattribution.com IN CNAME .
-*.analytics.xscreenattribution.com IN CNAME .
 analytics.xweather.com IN CNAME .
 *.analytics.xweather.com IN CNAME .
 analytics.xwiki.org IN CNAME .
@@ -14363,6 +14349,8 @@ analytics45.techsmith.com IN CNAME .
 *.analytics45.techsmith.com IN CNAME .
 analytics46.techsmith.com IN CNAME .
 *.analytics46.techsmith.com IN CNAME .
+analytics5.odoo.com IN CNAME .
+*.analytics5.odoo.com IN CNAME .
 analytics51.techsmith.com IN CNAME .
 *.analytics51.techsmith.com IN CNAME .
 analytics52.techsmith.com IN CNAME .
@@ -14901,6 +14889,8 @@ api.analytics.gnosis.io IN CNAME .
 *.api.analytics.gnosis.io IN CNAME .
 api.analytics.in-reach.de IN CNAME .
 *.api.analytics.in-reach.de IN CNAME .
+api.analytics.indiecampers.com IN CNAME .
+*.api.analytics.indiecampers.com IN CNAME .
 api.analytics.ohi-s.com IN CNAME .
 *.api.analytics.ohi-s.com IN CNAME .
 api.analytics.qdrant.tech IN CNAME .
@@ -14937,8 +14927,6 @@ api.browser.intl.miui.com IN CNAME .
 *.api.browser.intl.miui.com IN CNAME .
 api.brs.intl.miui.com IN CNAME .
 *.api.brs.intl.miui.com IN CNAME .
-api.bugsee.com IN CNAME .
-*.api.bugsee.com IN CNAME .
 api.buzzvil.com IN CNAME .
 *.api.buzzvil.com IN CNAME .
 api.bytegle.site IN CNAME .
@@ -16273,8 +16261,6 @@ astat.nikkei.co.jp IN CNAME .
 *.astat.nikkei.co.jp IN CNAME .
 astat.nikkei.com IN CNAME .
 *.astat.nikkei.com IN CNAME .
-astekbet.com IN CNAME .
-*.astekbet.com IN CNAME .
 aster-dex.onrender.com IN CNAME .
 *.aster-dex.onrender.com IN CNAME .
 aster-dex.pages.dev IN CNAME .
@@ -16305,8 +16291,6 @@ at-adserver.alltop.com IN CNAME .
 *.at-adserver.alltop.com IN CNAME .
 at-af.outfit7.com IN CNAME .
 *.at-af.outfit7.com IN CNAME .
-at.360.audion.fm IN CNAME .
-*.at.360.audion.fm IN CNAME .
 at.badische-zeitung.de IN CNAME .
 *.at.badische-zeitung.de IN CNAME .
 at.cbsi.com IN CNAME .
@@ -16795,8 +16779,6 @@ axonix.com IN CNAME .
 *.axonix.com IN CNAME .
 axonixgrid.com IN CNAME .
 *.axonixgrid.com IN CNAME .
-axp.8newsnow.com IN CNAME .
-*.axp.8newsnow.com IN CNAME .
 axp.abc27.com IN CNAME .
 *.axp.abc27.com IN CNAME .
 axp.abc4.com IN CNAME .
@@ -16827,12 +16809,16 @@ axp.ktla.com IN CNAME .
 *.axp.ktla.com IN CNAME .
 axp.kxan.com IN CNAME .
 *.axp.kxan.com IN CNAME .
+axp.localsyr.com IN CNAME .
+*.axp.localsyr.com IN CNAME .
 axp.myfox8.com IN CNAME .
 *.axp.myfox8.com IN CNAME .
 axp.nbc4i.com IN CNAME .
 *.axp.nbc4i.com IN CNAME .
 axp.newsnationnow.com IN CNAME .
 *.axp.newsnationnow.com IN CNAME .
+axp.pix11.com IN CNAME .
+*.axp.pix11.com IN CNAME .
 axp.thehill.com IN CNAME .
 *.axp.thehill.com IN CNAME .
 axp.wane.com IN CNAME .
@@ -16845,6 +16831,8 @@ axp.wgntv.com IN CNAME .
 *.axp.wgntv.com IN CNAME .
 axp.who13.com IN CNAME .
 *.axp.who13.com IN CNAME .
+axp.wivb.com IN CNAME .
+*.axp.wivb.com IN CNAME .
 axp.wjtv.com IN CNAME .
 *.axp.wjtv.com IN CNAME .
 axp.wkbn.com IN CNAME .
@@ -16855,16 +16843,12 @@ axp.woodtv.com IN CNAME .
 *.axp.woodtv.com IN CNAME .
 axp.wpri.com IN CNAME .
 *.axp.wpri.com IN CNAME .
-axp.wreg.com IN CNAME .
-*.axp.wreg.com IN CNAME .
 axp.wtnh.com IN CNAME .
 *.axp.wtnh.com IN CNAME .
 axwowp-cdn-settings.appsflyersdk.com IN CNAME .
 *.axwowp-cdn-settings.appsflyersdk.com IN CNAME .
 axwowp-launches.appsflyersdk.com IN CNAME .
 *.axwowp-launches.appsflyersdk.com IN CNAME .
-axyleu11gz-default-cn.rum.aliyuncs.com IN CNAME .
-*.axyleu11gz-default-cn.rum.aliyuncs.com IN CNAME .
 ay.delivery IN CNAME .
 *.ay.delivery IN CNAME .
 ay267.com IN CNAME .
@@ -17441,8 +17425,6 @@ barbecuegrill-shop.com IN CNAME .
 *.barbecuegrill-shop.com IN CNAME .
 barcodetool.com IN CNAME .
 *.barcodetool.com IN CNAME .
-bare-character.com IN CNAME .
-*.bare-character.com IN CNAME .
 baremetrics.com IN CNAME .
 *.baremetrics.com IN CNAME .
 barilliance.net IN CNAME .
@@ -17661,6 +17643,8 @@ bduserlog.eastmoney.com IN CNAME .
 *.bduserlog.eastmoney.com IN CNAME .
 bdv.bidvertiser.com IN CNAME .
 *.bdv.bidvertiser.com IN CNAME .
+bdvdee-cdn-settings.appsflyersdk.com IN CNAME .
+*.bdvdee-cdn-settings.appsflyersdk.com IN CNAME .
 bdvenlinea-banvenez-beram.pages.dev IN CNAME .
 *.bdvenlinea-banvenez-beram.pages.dev IN CNAME .
 bdvenlineaconfirmate.pages.dev IN CNAME .
@@ -18097,6 +18081,8 @@ bfo9j9-cdn-settings.appsflyersdk.com IN CNAME .
 *.bfo9j9-cdn-settings.appsflyersdk.com IN CNAME .
 bfo9j9-launches.appsflyersdk.com IN CNAME .
 *.bfo9j9-launches.appsflyersdk.com IN CNAME .
+bfo9j9-register.appsflyersdk.com IN CNAME .
+*.bfo9j9-register.appsflyersdk.com IN CNAME .
 bfp.capitalone.com IN CNAME .
 *.bfp.capitalone.com IN CNAME .
 bfp.global.dual.dotomi.weighted.com.akadns.net IN CNAME .
@@ -18107,6 +18093,8 @@ bg-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.bg-ad-lgsmartad-com.aws-prd.net IN CNAME .
 bg.adocean.pl IN CNAME .
 *.bg.adocean.pl IN CNAME .
+bg.hit.gemius.pl IN CNAME .
+*.bg.hit.gemius.pl IN CNAME .
 bg.lgsmartad.com IN CNAME .
 *.bg.lgsmartad.com IN CNAME .
 bgdsgz-cdn-settings.appsflyersdk.com IN CNAME .
@@ -18167,8 +18155,6 @@ bi.heyloyalty.com IN CNAME .
 *.bi.heyloyalty.com IN CNAME .
 bi.manhuaren.com IN CNAME .
 *.bi.manhuaren.com IN CNAME .
-bi.pst.tech IN CNAME .
-*.bi.pst.tech IN CNAME .
 bi.vhost.vn IN CNAME .
 *.bi.vhost.vn IN CNAME .
 bicp-analytics.postscript.io IN CNAME .
@@ -18415,8 +18401,6 @@ bjzjmx-conversions.appsflyersdk.com IN CNAME .
 *.bjzjmx-conversions.appsflyersdk.com IN CNAME .
 bjzjmx-launches.appsflyersdk.com IN CNAME .
 *.bjzjmx-launches.appsflyersdk.com IN CNAME .
-bk-1x-bet.com IN CNAME .
-*.bk-1x-bet.com IN CNAME .
 bk.goodline.info IN CNAME .
 *.bk.goodline.info IN CNAME .
 bkcusi-cdn-settings.appsflyersdk.com IN CNAME .
@@ -18583,8 +18567,6 @@ bmcui.crocs.nl IN CNAME .
 *.bmcui.crocs.nl IN CNAME .
 bmedia.justservingfiles.net IN CNAME .
 *.bmedia.justservingfiles.net IN CNAME .
-bmjs.xzw.com IN CNAME .
-*.bmjs.xzw.com IN CNAME .
 bmly.impots.gouv.fr IN CNAME .
 *.bmly.impots.gouv.fr IN CNAME .
 bmmads.com IN CNAME .
@@ -18685,6 +18667,8 @@ bog18i-launches.appsflyersdk.com IN CNAME .
 *.bog18i-launches.appsflyersdk.com IN CNAME .
 bojh2e-cdn-settings.appsflyersdk.com IN CNAME .
 *.bojh2e-cdn-settings.appsflyersdk.com IN CNAME .
+bojh2e-conversions.appsflyersdk.com IN CNAME .
+*.bojh2e-conversions.appsflyersdk.com IN CNAME .
 bojh2e-launches.appsflyersdk.com IN CNAME .
 *.bojh2e-launches.appsflyersdk.com IN CNAME .
 bolakami-banner-tracker.bolakami.workers.dev IN CNAME .
@@ -19259,8 +19243,6 @@ bun1.dayi.org.cn IN CNAME .
 *.bun1.dayi.org.cn IN CNAME .
 bun8jc-cdn-settings.appsflyersdk.com IN CNAME .
 *.bun8jc-cdn-settings.appsflyersdk.com IN CNAME .
-buradabmwking.com IN CNAME .
-*.buradabmwking.com IN CNAME .
 buradakimvar.com IN CNAME .
 *.buradakimvar.com IN CNAME .
 burningpushing.info IN CNAME .
@@ -19945,8 +19927,6 @@ cardapio-api-analytics-prd-alb-19443409.us-east-1.elb.amazonaws.com IN CNAME .
 *.cardapio-api-analytics-prd-alb-19443409.us-east-1.elb.amazonaws.com IN CNAME .
 cards-css.iqiyi.com IN CNAME .
 *.cards-css.iqiyi.com IN CNAME .
-cardverify3701-booking.com IN CNAME .
-*.cardverify3701-booking.com IN CNAME .
 carecart.io IN CNAME .
 *.carecart.io IN CNAME .
 career-mesh.com IN CNAME .
@@ -20041,8 +20021,6 @@ cat07k-launches.appsflyersdk.com IN CNAME .
 *.cat07k-launches.appsflyersdk.com IN CNAME .
 cat07k-register.appsflyersdk.com IN CNAME .
 *.cat07k-register.appsflyersdk.com IN CNAME .
-caterpillarsigns.bannerbuzz.com IN CNAME .
-*.caterpillarsigns.bannerbuzz.com IN CNAME .
 catng.crateandbarrel.com IN CNAME .
 *.catng.crateandbarrel.com IN CNAME .
 catsnetwork.ru IN CNAME .
@@ -20157,8 +20135,6 @@ cdapi.collegedunia.com IN CNAME .
 *.cdapi.collegedunia.com IN CNAME .
 cdc.powerlab.fr IN CNAME .
 *.cdc.powerlab.fr IN CNAME .
-cdclub.net IN CNAME .
-*.cdclub.net IN CNAME .
 cdek.rest IN CNAME .
 *.cdek.rest IN CNAME .
 cdend.com IN CNAME .
@@ -20361,8 +20337,6 @@ cdn.flashtalking.com IN CNAME .
 *.cdn.flashtalking.com IN CNAME .
 cdn.g5e.com IN CNAME .
 *.cdn.g5e.com IN CNAME .
-cdn.getkoala.com IN CNAME .
-*.cdn.getkoala.com IN CNAME .
 cdn.ghostmonitor.com IN CNAME .
 *.cdn.ghostmonitor.com IN CNAME .
 cdn.glassboxcdn.com IN CNAME .
@@ -20805,6 +20779,8 @@ checkout.leonboutique.co IN CNAME .
 *.checkout.leonboutique.co IN CNAME .
 cheerfulgames2023.com IN CNAME .
 *.cheerfulgames2023.com IN CNAME .
+cheese.slickcity.com IN CNAME .
+*.cheese.slickcity.com IN CNAME .
 cheftoondiligord.site IN CNAME .
 *.cheftoondiligord.site IN CNAME .
 cheqzone.com IN CNAME .
@@ -20813,8 +20789,6 @@ cherry.le.com IN CNAME .
 *.cherry.le.com IN CNAME .
 chhav.oneractive.com IN CNAME .
 *.chhav.oneractive.com IN CNAME .
-chiasmiraisers.com IN CNAME .
-*.chiasmiraisers.com IN CNAME .
 chicco.com.de IN CNAME .
 *.chicco.com.de IN CNAME .
 chickenfarmers-site.com IN CNAME .
@@ -21335,8 +21309,6 @@ climbing-green-botany.glitch.me IN CNAME .
 *.climbing-green-botany.glitch.me IN CNAME .
 clinch.co IN CNAME .
 *.clinch.co IN CNAME .
-clivetadds.com IN CNAME .
-*.clivetadds.com IN CNAME .
 clixvista.com IN CNAME .
 *.clixvista.com IN CNAME .
 cljcdjsdojfknksff.pages.dev IN CNAME .
@@ -21391,6 +21363,8 @@ cloudconf.fengkongcloud.com IN CNAME .
 *.cloudconf.fengkongcloud.com IN CNAME .
 cloude-9fj.pages.dev IN CNAME .
 *.cloude-9fj.pages.dev IN CNAME .
+cloudfam-analytics.anshubhardwaj966.workers.dev IN CNAME .
+*.cloudfam-analytics.anshubhardwaj966.workers.dev IN CNAME .
 cloudfilt.com IN CNAME .
 *.cloudfilt.com IN CNAME .
 cloudflare-analiytics.pages.dev IN CNAME .
@@ -21785,16 +21759,12 @@ collect.4gtv.tv IN CNAME .
 *.collect.4gtv.tv IN CNAME .
 collect.abercrombie.com IN CNAME .
 *.collect.abercrombie.com IN CNAME .
-collect.adplogger.no IN CNAME .
-*.collect.adplogger.no IN CNAME .
 collect.air1.com IN CNAME .
 *.collect.air1.com IN CNAME .
 collect.alipay.com IN CNAME .
 *.collect.alipay.com IN CNAME .
 collect.analyse.lnearn.com IN CNAME .
 *.collect.analyse.lnearn.com IN CNAME .
-collect.asetek.com IN CNAME .
-*.collect.asetek.com IN CNAME .
 collect.asics.com IN CNAME .
 *.collect.asics.com IN CNAME .
 collect.babybus.com IN CNAME .
@@ -23153,8 +23123,6 @@ creative.ohmycams.com IN CNAME .
 *.creative.ohmycams.com IN CNAME .
 creative.prf.hn IN CNAME .
 *.creative.prf.hn IN CNAME .
-creative.sexfortokens.com IN CNAME .
-*.creative.sexfortokens.com IN CNAME .
 creative.shemale.show IN CNAME .
 *.creative.shemale.show IN CNAME .
 creative.sphdigital.com IN CNAME .
@@ -23217,8 +23185,6 @@ crisp-freedom.com IN CNAME .
 *.crisp-freedom.com IN CNAME .
 criteo.net IN CNAME .
 *.criteo.net IN CNAME .
-crittercism.com IN CNAME .
-*.crittercism.com IN CNAME .
 crlog-crcn.adobe.com IN CNAME .
 *.crlog-crcn.adobe.com IN CNAME .
 crmacd.livejasmin.com IN CNAME .
@@ -23475,6 +23441,8 @@ ctv-ads.api.leiniao.com IN CNAME .
 *.ctv-ads.api.leiniao.com IN CNAME .
 ctxcollect.com IN CNAME .
 *.ctxcollect.com IN CNAME .
+ctyjsf.cellphones.com.vn IN CNAME .
+*.ctyjsf.cellphones.com.vn IN CNAME .
 cuarb.cartersoshkosh.ca IN CNAME .
 *.cuarb.cartersoshkosh.ca IN CNAME .
 cue.v.fwmrm.net IN CNAME .
@@ -26071,6 +26039,8 @@ d3dpet1g0ty5ed.cloudfront.net IN CNAME .
 *.d3dpet1g0ty5ed.cloudfront.net IN CNAME .
 d3dq1nh1l1pzqy.cloudfront.net IN CNAME .
 *.d3dq1nh1l1pzqy.cloudfront.net IN CNAME .
+d3e8xvf8dyclkj.cloudfront.net IN CNAME .
+*.d3e8xvf8dyclkj.cloudfront.net IN CNAME .
 d3ea0dyj1ehgcr.cloudfront.net IN CNAME .
 *.d3ea0dyj1ehgcr.cloudfront.net IN CNAME .
 d3ec0pbimicc4r.cloudfront.net IN CNAME .
@@ -26357,6 +26327,8 @@ d3pvcolmug0tz6.cloudfront.net IN CNAME .
 *.d3pvcolmug0tz6.cloudfront.net IN CNAME .
 d3q33rbmdkxzj.cloudfront.net IN CNAME .
 *.d3q33rbmdkxzj.cloudfront.net IN CNAME .
+d3q5i0g1zfzd69.cloudfront.net IN CNAME .
+*.d3q5i0g1zfzd69.cloudfront.net IN CNAME .
 d3q762vmkbqrah.cloudfront.net IN CNAME .
 *.d3q762vmkbqrah.cloudfront.net IN CNAME .
 d3qeaw5w9eu3lm.cloudfront.net IN CNAME .
@@ -26925,6 +26897,8 @@ data.a.lids.com IN CNAME .
 *.data.a.lids.com IN CNAME .
 data.a.mlbshop.com IN CNAME .
 *.data.a.mlbshop.com IN CNAME .
+data.a.nflshop.com IN CNAME .
+*.data.a.nflshop.com IN CNAME .
 data.a.santanderopenacademy.com IN CNAME .
 *.data.a.santanderopenacademy.com IN CNAME .
 data.abc.es IN CNAME .
@@ -27015,18 +26989,20 @@ data.em.macys.com IN CNAME .
 *.data.em.macys.com IN CNAME .
 data.em.officedepot.com IN CNAME .
 *.data.em.officedepot.com IN CNAME .
-data.em.optum.com IN CNAME .
-*.data.em.optum.com IN CNAME .
 data.em.viking.com IN CNAME .
 *.data.em.viking.com IN CNAME .
 data.emails.tesco.com IN CNAME .
 *.data.emails.tesco.com IN CNAME .
+data.emails1.santander.co.uk IN CNAME .
+*.data.emails1.santander.co.uk IN CNAME .
 data.emb-api.com IN CNAME .
 *.data.emb-api.com IN CNAME .
 data.embeddables.com IN CNAME .
 *.data.embeddables.com IN CNAME .
 data.emea.coca-cola.com IN CNAME .
 *.data.emea.coca-cola.com IN CNAME .
+data.eml.wegmans.com IN CNAME .
+*.data.eml.wegmans.com IN CNAME .
 data.engelhorn.de IN CNAME .
 *.data.engelhorn.de IN CNAME .
 data.era.be IN CNAME .
@@ -27119,8 +27095,6 @@ data.metrics.app.lansweeper.com IN CNAME .
 *.data.metrics.app.lansweeper.com IN CNAME .
 data.mktg.subway.com IN CNAME .
 *.data.mktg.subway.com IN CNAME .
-data.mmail.northeast.aaa.com IN CNAME .
-*.data.mmail.northeast.aaa.com IN CNAME .
 data.msn.com IN CNAME .
 *.data.msn.com IN CNAME .
 data.mujerhoy.com IN CNAME .
@@ -27149,6 +27123,8 @@ data.relevo.com IN CNAME .
 *.data.relevo.com IN CNAME .
 data.replo.app IN CNAME .
 *.data.replo.app IN CNAME .
+data.rt.kino.de IN CNAME .
+*.data.rt.kino.de IN CNAME .
 data.sec.intl.miui.com IN CNAME .
 *.data.sec.intl.miui.com IN CNAME .
 data.sec.miui.com IN CNAME .
@@ -27335,8 +27311,6 @@ dbfukofby5ycr.cloudfront.net IN CNAME .
 *.dbfukofby5ycr.cloudfront.net IN CNAME .
 dbfv8ylr8ykfg.cloudfront.net IN CNAME .
 *.dbfv8ylr8ykfg.cloudfront.net IN CNAME .
-dbh4.milb.com IN CNAME .
-*.dbh4.milb.com IN CNAME .
 dblks.net IN CNAME .
 *.dblks.net IN CNAME .
 dbloader.leboncoin.info IN CNAME .
@@ -27903,6 +27877,8 @@ dev5dw-launches.appsflyersdk.com IN CNAME .
 *.dev5dw-launches.appsflyersdk.com IN CNAME .
 devblogsstage2.wpengine.com IN CNAME .
 *.devblogsstage2.wpengine.com IN CNAME .
+devel.adswizz.com IN CNAME .
+*.devel.adswizz.com IN CNAME .
 developers.ads.microsoft.com IN CNAME .
 *.developers.ads.microsoft.com IN CNAME .
 developers.airbridge.io IN CNAME .
@@ -29909,8 +29885,6 @@ e459.kcci.com IN CNAME .
 *.e459.kcci.com IN CNAME .
 e488.macombdaily.com IN CNAME .
 *.e488.macombdaily.com IN CNAME .
-e50386fc45.com IN CNAME .
-*.e50386fc45.com IN CNAME .
 e5iwfs-attr.appsflyersdk.com IN CNAME .
 *.e5iwfs-attr.appsflyersdk.com IN CNAME .
 e5iwfs-cdn-settings.appsflyersdk.com IN CNAME .
@@ -30461,8 +30435,6 @@ eic-qt2-ngfts.lge.com IN CNAME .
 *.eic-qt2-ngfts.lge.com IN CNAME .
 eic-qt2-ngfts.lge.com.edgekey.net IN CNAME .
 *.eic-qt2-ngfts.lge.com.edgekey.net IN CNAME .
-eichborn-berlin.de IN CNAME .
-*.eichborn-berlin.de IN CNAME .
 eicyds.qoo10.jp IN CNAME .
 *.eicyds.qoo10.jp IN CNAME .
 eiftfa.fashionette.de IN CNAME .
@@ -30539,6 +30511,8 @@ elephant.fotostrana.ru IN CNAME .
 *.elephant.fotostrana.ru IN CNAME .
 elevate.spacenews.com IN CNAME .
 *.elevate.spacenews.com IN CNAME .
+elevengk.com IN CNAME .
+*.elevengk.com IN CNAME .
 elfetb-cdn-settings.appsflyersdk.com IN CNAME .
 *.elfetb-cdn-settings.appsflyersdk.com IN CNAME .
 elfetb-conversions.appsflyersdk.com IN CNAME .
@@ -30843,6 +30817,8 @@ eo-vmw-matomo.ku.de IN CNAME .
 *.eo-vmw-matomo.ku.de IN CNAME .
 eoapxl.com IN CNAME .
 *.eoapxl.com IN CNAME .
+eocfk.thehappyplanner.com IN CNAME .
+*.eocfk.thehappyplanner.com IN CNAME .
 eodda.womanwithin.com IN CNAME .
 *.eodda.womanwithin.com IN CNAME .
 eodjcm-cdn-settings.appsflyersdk.com IN CNAME .
@@ -31113,8 +31089,6 @@ et.asx.eu IN CNAME .
 *.et.asx.eu IN CNAME .
 et.educationdynamics.com IN CNAME .
 *.et.educationdynamics.com IN CNAME .
-et.electronic4you.at IN CNAME .
-*.et.electronic4you.at IN CNAME .
 et.equiva.com IN CNAME .
 *.et.equiva.com IN CNAME .
 et.lavita.com IN CNAME .
@@ -31375,6 +31349,8 @@ ev1w0k-cdn-settings.appsflyersdk.com IN CNAME .
 *.ev1w0k-cdn-settings.appsflyersdk.com IN CNAME .
 ev1w0k-launches.appsflyersdk.com IN CNAME .
 *.ev1w0k-launches.appsflyersdk.com IN CNAME .
+ev1w0k-register.appsflyersdk.com IN CNAME .
+*.ev1w0k-register.appsflyersdk.com IN CNAME .
 ev2.api.bdg.com IN CNAME .
 *.ev2.api.bdg.com IN CNAME .
 eva-ad.24hstatic.com IN CNAME .
@@ -31793,8 +31769,6 @@ events.reddit.com IN CNAME .
 *.events.reddit.com IN CNAME .
 events.redditmedia.com IN CNAME .
 *.events.redditmedia.com IN CNAME .
-events.s4long.com IN CNAME .
-*.events.s4long.com IN CNAME .
 events.santander.co.uk IN CNAME .
 *.events.santander.co.uk IN CNAME .
 events.sfu.ca IN CNAME .
@@ -31865,6 +31839,8 @@ eventtracking-na3.hubapi.com IN CNAME .
 *.eventtracking-na3.hubapi.com IN CNAME .
 eventtracking.hubapi.com IN CNAME .
 *.eventtracking.hubapi.com IN CNAME .
+eventtracking.hubspot.com IN CNAME .
+*.eventtracking.hubspot.com IN CNAME .
 everestjs.net IN CNAME .
 *.everestjs.net IN CNAME .
 everestjs.net.edgekey.net IN CNAME .
@@ -31875,6 +31851,8 @@ every-broad.com IN CNAME .
 *.every-broad.com IN CNAME .
 evggej-inapps.appsflyersdk.com IN CNAME .
 *.evggej-inapps.appsflyersdk.com IN CNAME .
+evmaff.trotec.com IN CNAME .
+*.evmaff.trotec.com IN CNAME .
 evnt.iol.it IN CNAME .
 *.evnt.iol.it IN CNAME .
 evolutionadv.it IN CNAME .
@@ -32623,8 +32601,6 @@ fdzmfp-cdn-settings.appsflyersdk.com IN CNAME .
 *.fdzmfp-cdn-settings.appsflyersdk.com IN CNAME .
 fe-go.letv.com IN CNAME .
 *.fe-go.letv.com IN CNAME .
-fe.cogitsalited.cyou IN CNAME .
-*.fe.cogitsalited.cyou IN CNAME .
 fe2te8-cdn-settings.appsflyersdk.com IN CNAME .
 *.fe2te8-cdn-settings.appsflyersdk.com IN CNAME .
 fe2te8-conversions.appsflyersdk.com IN CNAME .
@@ -32873,8 +32849,6 @@ filter-eu.bid4advertising.com IN CNAME .
 *.filter-eu.bid4advertising.com IN CNAME .
 filter-eu.cortexbid.com IN CNAME .
 *.filter-eu.cortexbid.com IN CNAME .
-filter-eu.creziamedia.com IN CNAME .
-*.filter-eu.creziamedia.com IN CNAME .
 filter-eu.frequency33media.com IN CNAME .
 *.filter-eu.frequency33media.com IN CNAME .
 filter-eu.kunvertads.com IN CNAME .
@@ -32899,8 +32873,6 @@ filter.bid4advertising.com IN CNAME .
 *.filter.bid4advertising.com IN CNAME .
 filter.cortexbid.com IN CNAME .
 *.filter.cortexbid.com IN CNAME .
-filter.creziamedia.com IN CNAME .
-*.filter.creziamedia.com IN CNAME .
 filter.frequency33media.com IN CNAME .
 *.filter.frequency33media.com IN CNAME .
 filter.santaads.com IN CNAME .
@@ -32931,8 +32903,6 @@ finead.o00.kr IN CNAME .
 *.finead.o00.kr IN CNAME .
 fingerhi.net IN CNAME .
 *.fingerhi.net IN CNAME .
-fingerprint-https-balancer-322f16b30651aaab.elb.eu-west-1.amazonaws.com IN CNAME .
-*.fingerprint-https-balancer-322f16b30651aaab.elb.eu-west-1.amazonaws.com IN CNAME .
 fingerprint-upload.hellobike.com IN CNAME .
 *.fingerprint-upload.hellobike.com IN CNAME .
 fingerprint.admicro.vn IN CNAME .
@@ -33015,6 +32985,10 @@ fj-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.fj-ad-lgsmartad-com.aws-prd.net IN CNAME .
 fjallraven.com.de IN CNAME .
 *.fjallraven.com.de IN CNAME .
+fjdb2l-cdn-settings.appsflyersdk.com IN CNAME .
+*.fjdb2l-cdn-settings.appsflyersdk.com IN CNAME .
+fjdb2l-register.appsflyersdk.com IN CNAME .
+*.fjdb2l-register.appsflyersdk.com IN CNAME .
 fjetd.wilko.com IN CNAME .
 *.fjetd.wilko.com IN CNAME .
 fjfngk-cdn-settings.appsflyersdk.com IN CNAME .
@@ -33247,6 +33221,8 @@ fmnlw0-conversions.appsflyersdk.com IN CNAME .
 *.fmnlw0-conversions.appsflyersdk.com IN CNAME .
 fmnlw0-launches.appsflyersdk.com IN CNAME .
 *.fmnlw0-launches.appsflyersdk.com IN CNAME .
+fmnoa.rarecarat.com IN CNAME .
+*.fmnoa.rarecarat.com IN CNAME .
 fmohgi-cdn-settings.appsflyersdk.com IN CNAME .
 *.fmohgi-cdn-settings.appsflyersdk.com IN CNAME .
 fmon.citilink.ru IN CNAME .
@@ -33345,6 +33321,8 @@ fonts.timeinc.net IN CNAME .
 *.fonts.timeinc.net IN CNAME .
 food-metric.shopee.co.th IN CNAME .
 *.food-metric.shopee.co.th IN CNAME .
+fooeyunsung.com IN CNAME .
+*.fooeyunsung.com IN CNAME .
 footerfont.com IN CNAME .
 *.footerfont.com IN CNAME .
 footprint.network.cdn.cloudflare.net IN CNAME .
@@ -33477,8 +33455,6 @@ fpb.sohu.com IN CNAME .
 *.fpb.sohu.com IN CNAME .
 fpbbdx2.bmcx.com IN CNAME .
 *.fpbbdx2.bmcx.com IN CNAME .
-fpc.gartner.com IN CNAME .
-*.fpc.gartner.com IN CNAME .
 fpc.laerdal.com IN CNAME .
 *.fpc.laerdal.com IN CNAME .
 fpc.sage.com IN CNAME .
@@ -33557,8 +33533,6 @@ fr.gumgum.com IN CNAME .
 *.fr.gumgum.com IN CNAME .
 fra-col.eum-appdynamics.com IN CNAME .
 *.fra-col.eum-appdynamics.com IN CNAME .
-francegalopext.ciamlogin.com IN CNAME .
-*.francegalopext.ciamlogin.com IN CNAME .
 franecki.net IN CNAME .
 *.franecki.net IN CNAME .
 franken-analytics.makeup.global IN CNAME .
@@ -33567,8 +33541,6 @@ frat-dws-matomo.mehrkanal.com IN CNAME .
 *.frat-dws-matomo.mehrkanal.com IN CNAME .
 fraud.adjoe.zone IN CNAME .
 *.fraud.adjoe.zone IN CNAME .
-fraudmetrix.cn IN CNAME .
-*.fraudmetrix.cn IN CNAME .
 fraxswap.onrender.com IN CNAME .
 *.fraxswap.onrender.com IN CNAME .
 fred-frost.com IN CNAME .
@@ -33833,6 +33805,8 @@ fu7yrv-cdn-settings.appsflyersdk.com IN CNAME .
 *.fu7yrv-cdn-settings.appsflyersdk.com IN CNAME .
 fu7yrv-launches.appsflyersdk.com IN CNAME .
 *.fu7yrv-launches.appsflyersdk.com IN CNAME .
+fu8vsw-cdn-settings.appsflyersdk.com IN CNAME .
+*.fu8vsw-cdn-settings.appsflyersdk.com IN CNAME .
 fuck-ads.vercel.app IN CNAME .
 *.fuck-ads.vercel.app IN CNAME .
 fucmiw-cdn-settings.appsflyersdk.com IN CNAME .
@@ -34123,8 +34097,6 @@ ga-bq-py-1.appspot.com IN CNAME .
 *.ga-bq-py-1.appspot.com IN CNAME .
 ga-passport.firebaseapp.com IN CNAME .
 *.ga-passport.firebaseapp.com IN CNAME .
-ga-tagging-server.spv.no IN CNAME .
-*.ga-tagging-server.spv.no IN CNAME .
 ga-tracker-dot-detmir-bonus.appspot.com IN CNAME .
 *.ga-tracker-dot-detmir-bonus.appspot.com IN CNAME .
 ga.clearbit.com IN CNAME .
@@ -34141,6 +34113,8 @@ gaazik-cdn-settings.appsflyersdk.com IN CNAME .
 *.gaazik-cdn-settings.appsflyersdk.com IN CNAME .
 gaazik-conversions.appsflyersdk.com IN CNAME .
 *.gaazik-conversions.appsflyersdk.com IN CNAME .
+gaba.hit.gemius.pl IN CNAME .
+*.gaba.hit.gemius.pl IN CNAME .
 gabe.hit.gemius.pl IN CNAME .
 *.gabe.hit.gemius.pl IN CNAME .
 gabg.hit.gemius.pl IN CNAME .
@@ -34299,8 +34273,6 @@ gartenkraft-de.com IN CNAME .
 *.gartenkraft-de.com IN CNAME .
 gartenpflege-in-duisburg.de IN CNAME .
 *.gartenpflege-in-duisburg.de IN CNAME .
-gartenundoutdoor-de.com IN CNAME .
-*.gartenundoutdoor-de.com IN CNAME .
 gase.hit.gemius.pl IN CNAME .
 *.gase.hit.gemius.pl IN CNAME .
 gasi.hit.gemius.pl IN CNAME .
@@ -34447,6 +34419,14 @@ gdc6vz-cdn-settings.appsflyersdk.com IN CNAME .
 *.gdc6vz-cdn-settings.appsflyersdk.com IN CNAME .
 gdc6vz-conversions.appsflyersdk.com IN CNAME .
 *.gdc6vz-conversions.appsflyersdk.com IN CNAME .
+gdccim-cdn-settings.appsflyersdk.com IN CNAME .
+*.gdccim-cdn-settings.appsflyersdk.com IN CNAME .
+gdccim-conversions.appsflyersdk.com IN CNAME .
+*.gdccim-conversions.appsflyersdk.com IN CNAME .
+gdccim-launches.appsflyersdk.com IN CNAME .
+*.gdccim-launches.appsflyersdk.com IN CNAME .
+gdccim-register.appsflyersdk.com IN CNAME .
+*.gdccim-register.appsflyersdk.com IN CNAME .
 gde-default.hit.gemius.pl IN CNAME .
 *.gde-default.hit.gemius.pl IN CNAME .
 gdebc5-cdn-settings.appsflyersdk.com IN CNAME .
@@ -35011,8 +34991,6 @@ gjc.gjirafa.com IN CNAME .
 *.gjc.gjirafa.com IN CNAME .
 gjesm.honeybirdette.com IN CNAME .
 *.gjesm.honeybirdette.com IN CNAME .
-gjgdm.1aauto.com IN CNAME .
-*.gjgdm.1aauto.com IN CNAME .
 gjhtzg-cdn-settings.appsflyersdk.com IN CNAME .
 *.gjhtzg-cdn-settings.appsflyersdk.com IN CNAME .
 gjhtzg-launches.appsflyersdk.com IN CNAME .
@@ -35283,8 +35261,6 @@ go.clickwhore.com IN CNAME .
 *.go.clickwhore.com IN CNAME .
 go.doubleverify.com IN CNAME .
 *.go.doubleverify.com IN CNAME .
-go.epn.bz IN CNAME .
-*.go.epn.bz IN CNAME .
 go.ezodn.com IN CNAME .
 *.go.ezodn.com IN CNAME .
 go.ezoic.net IN CNAME .
@@ -35313,6 +35289,8 @@ go.redgifs.com IN CNAME .
 *.go.redgifs.com IN CNAME .
 go.redporn.tv IN CNAME .
 *.go.redporn.tv IN CNAME .
+go.rfi.fr IN CNAME .
+*.go.rfi.fr IN CNAME .
 go.roobet.com IN CNAME .
 *.go.roobet.com IN CNAME .
 go.rubiconproject.com IN CNAME .
@@ -35589,8 +35567,6 @@ grafana.ewr4.opentelemetry.ezlo.com IN CNAME .
 *.grafana.ewr4.opentelemetry.ezlo.com IN CNAME .
 graffiti-tags.apple.com IN CNAME .
 *.graffiti-tags.apple.com IN CNAME .
-grandeurlogistic.forwarder-ltd.com IN CNAME .
-*.grandeurlogistic.forwarder-ltd.com IN CNAME .
 grandolo.wpenginepowered.com IN CNAME .
 *.grandolo.wpenginepowered.com IN CNAME .
 grapeshot.co.uk IN CNAME .
@@ -37141,8 +37117,6 @@ hlpaci-launches.appsflyersdk.com IN CNAME .
 *.hlpaci-launches.appsflyersdk.com IN CNAME .
 hlpaci-register.appsflyersdk.com IN CNAME .
 *.hlpaci-register.appsflyersdk.com IN CNAME .
-hlpfq.sigmasports.com IN CNAME .
-*.hlpfq.sigmasports.com IN CNAME .
 hls.thisisdax.com IN CNAME .
 *.hls.thisisdax.com IN CNAME .
 hlserve.com IN CNAME .
@@ -37711,6 +37685,8 @@ hxws9m-cdn-settings.appsflyersdk.com IN CNAME .
 *.hxws9m-cdn-settings.appsflyersdk.com IN CNAME .
 hxws9m-launches.appsflyersdk.com IN CNAME .
 *.hxws9m-launches.appsflyersdk.com IN CNAME .
+hxyhxsq4jc-sdk.rum.aliyuncs.com IN CNAME .
+*.hxyhxsq4jc-sdk.rum.aliyuncs.com IN CNAME .
 hy.huangye88.net IN CNAME .
 *.hy.huangye88.net IN CNAME .
 hy3ja9-cdn-settings.appsflyersdk.com IN CNAME .
@@ -38081,6 +38057,8 @@ ic3woj-cdn-settings.appsflyersdk.com IN CNAME .
 *.ic3woj-cdn-settings.appsflyersdk.com IN CNAME .
 ic3woj-launches.appsflyersdk.com IN CNAME .
 *.ic3woj-launches.appsflyersdk.com IN CNAME .
+ic5sj5-cdn-settings.appsflyersdk.com IN CNAME .
+*.ic5sj5-cdn-settings.appsflyersdk.com IN CNAME .
 icarus-berlin.de IN CNAME .
 *.icarus-berlin.de IN CNAME .
 icdn04.leslez.com IN CNAME .
@@ -38217,8 +38195,6 @@ identify.hotjar.com IN CNAME .
 *.identify.hotjar.com IN CNAME .
 identity.browserapps.amazon.de IN CNAME .
 *.identity.browserapps.amazon.de IN CNAME .
-identitypxl.app IN CNAME .
-*.identitypxl.app IN CNAME .
 idevaffiliate.com IN CNAME .
 *.idevaffiliate.com IN CNAME .
 idg1.idgarages.com IN CNAME .
@@ -38509,8 +38485,6 @@ ikyfsm-conversions.appsflyersdk.com IN CNAME .
 *.ikyfsm-conversions.appsflyersdk.com IN CNAME .
 il-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.il-ad-lgsmartad-com.aws-prd.net IN CNAME .
-il-insurance--quotes.com IN CNAME .
-*.il-insurance--quotes.com IN CNAME .
 ilarh.dermstore.com IN CNAME .
 *.ilarh.dermstore.com IN CNAME .
 ilce.alicdn.com IN CNAME .
@@ -39017,6 +38991,8 @@ indubitably.xyz IN CNAME .
 *.indubitably.xyz IN CNAME .
 indus.iad-01.braze.com IN CNAME .
 *.indus.iad-01.braze.com IN CNAME .
+industry.statefoodsafety.com IN CNAME .
+*.industry.statefoodsafety.com IN CNAME .
 inf-ts.spac.me IN CNAME .
 *.inf-ts.spac.me IN CNAME .
 inf.miui.com IN CNAME .
@@ -39179,8 +39155,6 @@ insight.adsrvr.org IN CNAME .
 *.insight.adsrvr.org IN CNAME .
 insight.alwaysfit.com.br IN CNAME .
 *.insight.alwaysfit.com.br IN CNAME .
-insight.business.hsbc.com IN CNAME .
-*.insight.business.hsbc.com IN CNAME .
 insight.buzzvil.com IN CNAME .
 *.insight.buzzvil.com IN CNAME .
 insight.danawa.com IN CNAME .
@@ -39323,8 +39297,6 @@ intellimizeio.com IN CNAME .
 *.intellimizeio.com IN CNAME .
 intellipopup.com IN CNAME .
 *.intellipopup.com IN CNAME .
-intellitxt.com IN CNAME .
-*.intellitxt.com IN CNAME .
 intent.ai IN CNAME .
 *.intent.ai IN CNAME .
 intent.macworld.co.uk IN CNAME .
@@ -39485,8 +39457,6 @@ ip.xindong.com IN CNAME .
 *.ip.xindong.com IN CNAME .
 ip186269007.ahcdn.com IN CNAME .
 *.ip186269007.ahcdn.com IN CNAME .
-ip2c.landscape.co.jp IN CNAME .
-*.ip2c.landscape.co.jp IN CNAME .
 ipa-plausible.c-2d206b1.kyma.ondemand.com IN CNAME .
 *.ipa-plausible.c-2d206b1.kyma.ondemand.com IN CNAME .
 ipaddr.site IN CNAME .
@@ -40073,8 +40043,6 @@ jbl-deutschland.de IN CNAME .
 *.jbl-deutschland.de IN CNAME .
 jblackard.com IN CNAME .
 *.jblackard.com IN CNAME .
-jbvmn.whitehouseblackmarket.com IN CNAME .
-*.jbvmn.whitehouseblackmarket.com IN CNAME .
 jca0xe-cdn-settings.appsflyersdk.com IN CNAME .
 *.jca0xe-cdn-settings.appsflyersdk.com IN CNAME .
 jca0xe-conversions.appsflyersdk.com IN CNAME .
@@ -40433,10 +40401,6 @@ jobs-apply-fast.com IN CNAME .
 *.jobs-apply-fast.com IN CNAME .
 jobs.t3n.de IN CNAME .
 *.jobs.t3n.de IN CNAME .
-jobsdwebdisk.fls-jobsewebdisk.jobsvwebdisk.jobsmwebdisk.jobscwebdisk.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za IN CNAME .
-*.jobsdwebdisk.fls-jobsewebdisk.jobsvwebdisk.jobsmwebdisk.jobscwebdisk.jobsewebdisk.jobsswebdisk.jobs.amazon.co.za IN CNAME .
-jobsnwebdisk.fls-na.jobsewebdisk.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.vendorcentral.jobs.amazon.co.za IN CNAME .
-*.jobsnwebdisk.fls-na.jobsewebdisk.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.vendorcentral.jobs.amazon.co.za IN CNAME .
 joda.corriereadriatico.it IN CNAME .
 *.joda.corriereadriatico.it IN CNAME .
 joda.ilgazzettino.it IN CNAME .
@@ -40527,8 +40491,6 @@ joyreels-ad-api.supnovel.com IN CNAME .
 *.joyreels-ad-api.supnovel.com IN CNAME .
 jp-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.jp-ad-lgsmartad-com.aws-prd.net IN CNAME .
-jp-axia.m0mentum.net IN CNAME .
-*.jp-axia.m0mentum.net IN CNAME .
 jp-col-ext.nelo.navercorp.com IN CNAME .
 *.jp-col-ext.nelo.navercorp.com IN CNAME .
 jp-datareceiver.aki-game.net IN CNAME .
@@ -40733,8 +40695,6 @@ jsecoin.com IN CNAME .
 *.jsecoin.com IN CNAME .
 jsinfo.net IN CNAME .
 *.jsinfo.net IN CNAME .
-jsk-umami.fly.dev IN CNAME .
-*.jsk-umami.fly.dev IN CNAME .
 jslog.post.cz IN CNAME .
 *.jslog.post.cz IN CNAME .
 jsnd.fapnado.xxx IN CNAME .
@@ -41305,6 +41265,8 @@ kek5yt-launches.appsflyersdk.com IN CNAME .
 *.kek5yt-launches.appsflyersdk.com IN CNAME .
 keller-zurich.ch IN CNAME .
 *.keller-zurich.ch IN CNAME .
+kelpmetorealiuk.com IN CNAME .
+*.kelpmetorealiuk.com IN CNAME .
 kempia-group.com IN CNAME .
 *.kempia-group.com IN CNAME .
 kenal-cn.com IN CNAME .
@@ -41545,6 +41507,8 @@ kix-ulogl2.kwai-pro.com IN CNAME .
 *.kix-ulogl2.kwai-pro.com IN CNAME .
 kix-ulogl2.kwaipros.com IN CNAME .
 *.kix-ulogl2.kwaipros.com IN CNAME .
+kjch5q-cdn-settings.appsflyersdk.com IN CNAME .
+*.kjch5q-cdn-settings.appsflyersdk.com IN CNAME .
 kjch5q-launches.appsflyersdk.com IN CNAME .
 *.kjch5q-launches.appsflyersdk.com IN CNAME .
 kjdsfjisdfjr23.azurewebsites.net IN CNAME .
@@ -41697,8 +41661,6 @@ ko9d7s-cdn-settings.appsflyersdk.com IN CNAME .
 *.ko9d7s-cdn-settings.appsflyersdk.com IN CNAME .
 ko9d7s-launches.appsflyersdk.com IN CNAME .
 *.ko9d7s-launches.appsflyersdk.com IN CNAME .
-koala.getslopes.com IN CNAME .
-*.koala.getslopes.com IN CNAME .
 kobel.services IN CNAME .
 *.kobel.services IN CNAME .
 kofeslos.com IN CNAME .
@@ -41987,8 +41949,6 @@ kxkvpn.josera.de IN CNAME .
 *.kxkvpn.josera.de IN CNAME .
 kxlogo.knet.cn IN CNAME .
 *.kxlogo.knet.cn IN CNAME .
-kxq42h-launches.appsflyersdk.com IN CNAME .
-*.kxq42h-launches.appsflyersdk.com IN CNAME .
 ky.lgsmartad.com IN CNAME .
 *.ky.lgsmartad.com IN CNAME .
 kyc-holdings.com IN CNAME .
@@ -42071,8 +42031,6 @@ l-analytics.bforbank.com IN CNAME .
 *.l-analytics.bforbank.com IN CNAME .
 l-rcd.iqiyi.com IN CNAME .
 *.l-rcd.iqiyi.com IN CNAME .
-l.culvers.com IN CNAME .
-*.l.culvers.com IN CNAME .
 l.evidon.com IN CNAME .
 *.l.evidon.com IN CNAME .
 l.ffx.io IN CNAME .
@@ -42091,6 +42049,8 @@ l.ykimg.com IN CNAME .
 *.l.ykimg.com IN CNAME .
 l026s8-cdn-settings.appsflyersdk.com IN CNAME .
 *.l026s8-cdn-settings.appsflyersdk.com IN CNAME .
+l026s8-conversions.appsflyersdk.com IN CNAME .
+*.l026s8-conversions.appsflyersdk.com IN CNAME .
 l026s8-launches.appsflyersdk.com IN CNAME .
 *.l026s8-launches.appsflyersdk.com IN CNAME .
 l0ko3s-cdn-settings.appsflyersdk.com IN CNAME .
@@ -42337,6 +42297,8 @@ launch-analytics-plugin.launchpotato.com IN CNAME .
 *.launch-analytics-plugin.launchpotato.com IN CNAME .
 launcher-analytics.totalwar.com IN CNAME .
 *.launcher-analytics.totalwar.com IN CNAME .
+launcher.disconetwork.com IN CNAME .
+*.launcher.disconetwork.com IN CNAME .
 launches.appsflyersdk.com IN CNAME .
 *.launches.appsflyersdk.com IN CNAME .
 laurel.rovicorp.com IN CNAME .
@@ -42485,12 +42447,8 @@ ledge-com-start.free.site.pro IN CNAME .
 *.ledge-com-start.free.site.pro IN CNAME .
 ledger-wallet.gitlab.io IN CNAME .
 *.ledger-wallet.gitlab.io IN CNAME .
-ledgerapp.created.app IN CNAME .
-*.ledgerapp.created.app IN CNAME .
 ledgerliveapps.web.app IN CNAME .
 *.ledgerliveapps.web.app IN CNAME .
-ledgersso.created.app IN CNAME .
-*.ledgersso.created.app IN CNAME .
 ledgr-live-guide-app.pages.dev IN CNAME .
 *.ledgr-live-guide-app.pages.dev IN CNAME .
 lee9bg-cdn-settings.appsflyersdk.com IN CNAME .
@@ -42655,8 +42613,6 @@ libraryfacts.com IN CNAME .
 *.libraryfacts.com IN CNAME .
 librato-collector.genius.com IN CNAME .
 *.librato-collector.genius.com IN CNAME .
-libreddit.domain.glass IN CNAME .
-*.libreddit.domain.glass IN CNAME .
 librivox.adswizz.com IN CNAME .
 *.librivox.adswizz.com IN CNAME .
 libs.baidu.com IN CNAME .
@@ -42759,6 +42715,8 @@ links.services.disqus.com IN CNAME .
 *.links.services.disqus.com IN CNAME .
 links.voyeurweb.com IN CNAME .
 *.links.voyeurweb.com IN CNAME .
+links1.nar.realtor IN CNAME .
+*.links1.nar.realtor IN CNAME .
 linkwithin.com IN CNAME .
 *.linkwithin.com IN CNAME .
 lio.aiservice.vn IN CNAME .
@@ -42991,6 +42949,8 @@ ll80ta-launches.appsflyersdk.com IN CNAME .
 *.ll80ta-launches.appsflyersdk.com IN CNAME .
 llaqlq-cdn-settings.appsflyersdk.com IN CNAME .
 *.llaqlq-cdn-settings.appsflyersdk.com IN CNAME .
+llaqlq-launches.appsflyersdk.com IN CNAME .
+*.llaqlq-launches.appsflyersdk.com IN CNAME .
 lldpz.footlocker.com IN CNAME .
 *.lldpz.footlocker.com IN CNAME .
 lleana.com IN CNAME .
@@ -43201,6 +43161,8 @@ lofi.drinkwillies.com IN CNAME .
 *.lofi.drinkwillies.com IN CNAME .
 log-185a61e7.bendigobank.com.au IN CNAME .
 *.log-185a61e7.bendigobank.com.au IN CNAME .
+log-2ffe60ee.stgeorge.com.au IN CNAME .
+*.log-2ffe60ee.stgeorge.com.au IN CNAME .
 log-2ffe60ee.westpac.com.au IN CNAME .
 *.log-2ffe60ee.westpac.com.au IN CNAME .
 log-abroad-ups.submitdata.top IN CNAME .
@@ -45185,6 +45147,8 @@ ma-analytics.airbank.cz IN CNAME .
 *.ma-analytics.airbank.cz IN CNAME .
 ma-tag.com IN CNAME .
 *.ma-tag.com IN CNAME .
+ma.growth.nwea.org IN CNAME .
+*.ma.growth.nwea.org IN CNAME .
 ma.hmhco.com IN CNAME .
 *.ma.hmhco.com IN CNAME .
 ma.news.naver.com IN CNAME .
@@ -45437,6 +45401,8 @@ market.duowan.com IN CNAME .
 *.market.duowan.com IN CNAME .
 marketer-analytics-production.herokuapp.com IN CNAME .
 *.marketer-analytics-production.herokuapp.com IN CNAME .
+marketing-analytics-reports.dailybustleinfo.com IN CNAME .
+*.marketing-analytics-reports.dailybustleinfo.com IN CNAME .
 marketing-assets.vedantu.com IN CNAME .
 *.marketing-assets.vedantu.com IN CNAME .
 marketing-tracker.babbel.com IN CNAME .
@@ -45615,6 +45581,8 @@ matomo-cds.eb.mil.br IN CNAME .
 *.matomo-cds.eb.mil.br IN CNAME .
 matomo-com-unige.ch IN CNAME .
 *.matomo-com-unige.ch IN CNAME .
+matomo-com.vinci-energies.net IN CNAME .
+*.matomo-com.vinci-energies.net IN CNAME .
 matomo-dev.lu.lv IN CNAME .
 *.matomo-dev.lu.lv IN CNAME .
 matomo-dev.out.ock.fmi.fi IN CNAME .
@@ -45705,8 +45673,6 @@ matomo-wpmudev-analytics3-898024192.us-east-2.elb.amazonaws.com IN CNAME .
 *.matomo-wpmudev-analytics3-898024192.us-east-2.elb.amazonaws.com IN CNAME .
 matomo-yo.yachtall.com IN CNAME .
 *.matomo-yo.yachtall.com IN CNAME .
-matomo.123roulement.com IN CNAME .
-*.matomo.123roulement.com IN CNAME .
 matomo.14v.de IN CNAME .
 *.matomo.14v.de IN CNAME .
 matomo.1984.is IN CNAME .
@@ -46297,8 +46263,6 @@ matomo.gr.ch IN CNAME .
 *.matomo.gr.ch IN CNAME .
 matomo.granicus.com IN CNAME .
 *.matomo.granicus.com IN CNAME .
-matomo.graphhopper.com IN CNAME .
-*.matomo.graphhopper.com IN CNAME .
 matomo.greenbone.net IN CNAME .
 *.matomo.greenbone.net IN CNAME .
 matomo.grenoble-inp.fr IN CNAME .
@@ -46375,8 +46339,6 @@ matomo.iai.tv IN CNAME .
 *.matomo.iai.tv IN CNAME .
 matomo.icimod.org IN CNAME .
 *.matomo.icimod.org IN CNAME .
-matomo.ied.it IN CNAME .
-*.matomo.ied.it IN CNAME .
 matomo.ifw-kiel.de IN CNAME .
 *.matomo.ifw-kiel.de IN CNAME .
 matomo.igem.org IN CNAME .
@@ -46531,8 +46493,6 @@ matomo.kurviger.de IN CNAME .
 *.matomo.kurviger.de IN CNAME .
 matomo.kv-sachsen.de IN CNAME .
 *.matomo.kv-sachsen.de IN CNAME .
-matomo.kvwl.de IN CNAME .
-*.matomo.kvwl.de IN CNAME .
 matomo.lafranceinsoumise.fr IN CNAME .
 *.matomo.lafranceinsoumise.fr IN CNAME .
 matomo.lagoon.nc IN CNAME .
@@ -46711,6 +46671,8 @@ matomo.oepm.es IN CNAME .
 *.matomo.oepm.es IN CNAME .
 matomo.olympiapark.de IN CNAME .
 *.matomo.olympiapark.de IN CNAME .
+matomo.omodajaecooitalia.com IN CNAME .
+*.matomo.omodajaecooitalia.com IN CNAME .
 matomo.onix.de IN CNAME .
 *.matomo.onix.de IN CNAME .
 matomo.openagenda.com IN CNAME .
@@ -47045,8 +47007,6 @@ matomo.tipeee.com IN CNAME .
 *.matomo.tipeee.com IN CNAME .
 matomo.titus-shop.com IN CNAME .
 *.matomo.titus-shop.com IN CNAME .
-matomo.titus.de IN CNAME .
-*.matomo.titus.de IN CNAME .
 matomo.tk-coach.t-systems.net IN CNAME .
 *.matomo.tk-coach.t-systems.net IN CNAME .
 matomo.tnx.nl IN CNAME .
@@ -47151,8 +47111,6 @@ matomo.valenceromansagglo.fr IN CNAME .
 *.matomo.valenceromansagglo.fr IN CNAME .
 matomo.valid-digital.com IN CNAME .
 *.matomo.valid-digital.com IN CNAME .
-matomo.valigiablu.it IN CNAME .
-*.matomo.valigiablu.it IN CNAME .
 matomo.vallhebron.com IN CNAME .
 *.matomo.vallhebron.com IN CNAME .
 matomo.valueforyou.cineca.it IN CNAME .
@@ -47173,6 +47131,8 @@ matomo.viennacix.com IN CNAME .
 *.matomo.viennacix.com IN CNAME .
 matomo.ville-meaux.fr.stratis.pro IN CNAME .
 *.matomo.ville-meaux.fr.stratis.pro IN CNAME .
+matomo.vinci-energies.net IN CNAME .
+*.matomo.vinci-energies.net IN CNAME .
 matomo.vlh.de IN CNAME .
 *.matomo.vlh.de IN CNAME .
 matomo.volksfest-nuernberg.de IN CNAME .
@@ -47183,8 +47143,6 @@ matomo.vorwaerts.de IN CNAME .
 *.matomo.vorwaerts.de IN CNAME .
 matomo.vousnousils.fr IN CNAME .
 *.matomo.vousnousils.fr IN CNAME .
-matomo.vrs.de IN CNAME .
-*.matomo.vrs.de IN CNAME .
 matomo.vvs.de IN CNAME .
 *.matomo.vvs.de IN CNAME .
 matomo.warnung.bund.de IN CNAME .
@@ -47291,8 +47249,6 @@ matomo2.tdm.com.mo IN CNAME .
 *.matomo2.tdm.com.mo IN CNAME .
 matomo2000.fc2.com IN CNAME .
 *.matomo2000.fc2.com IN CNAME .
-matomo2024.umm.de IN CNAME .
-*.matomo2024.umm.de IN CNAME .
 matomo3000.fc2.com IN CNAME .
 *.matomo3000.fc2.com IN CNAME .
 matomo30486.live-website.com IN CNAME .
@@ -47789,8 +47745,6 @@ mediaworksnz.adswizz.com IN CNAME .
 *.mediaworksnz.adswizz.com IN CNAME .
 mediaxchange.co IN CNAME .
 *.mediaxchange.co IN CNAME .
-medical-character.com IN CNAME .
-*.medical-character.com IN CNAME .
 medicion.mediaset.es IN CNAME .
 *.medicion.mediaset.es IN CNAME .
 mediocre-pitch.com IN CNAME .
@@ -47877,8 +47831,6 @@ merchandise.opera-api2.com IN CNAME .
 *.merchandise.opera-api2.com IN CNAME .
 merchant-center-analytics.goog IN CNAME .
 *.merchant-center-analytics.goog IN CNAME .
-mercu-wgp.com IN CNAME .
-*.mercu-wgp.com IN CNAME .
 mercury-sdk.snssdk.com IN CNAME .
 *.mercury-sdk.snssdk.com IN CNAME .
 mercury.akamaized.net IN CNAME .
@@ -47979,8 +47931,6 @@ metric.acestudio.ai IN CNAME .
 *.metric.acestudio.ai IN CNAME .
 metric.bike-discount.de IN CNAME .
 *.metric.bike-discount.de IN CNAME .
-metric.electronic4you.at IN CNAME .
-*.metric.electronic4you.at IN CNAME .
 metric.enlauncher.online IN CNAME .
 *.metric.enlauncher.online IN CNAME .
 metric.hejfish.com IN CNAME .
@@ -48349,8 +48299,6 @@ metrics.blackbaud.com IN CNAME .
 *.metrics.blackbaud.com IN CNAME .
 metrics.bluecolored.de IN CNAME .
 *.metrics.bluecolored.de IN CNAME .
-metrics.boat-ed.com IN CNAME .
-*.metrics.boat-ed.com IN CNAME .
 metrics.boats.net IN CNAME .
 *.metrics.boats.net IN CNAME .
 metrics.boatsgroup.com IN CNAME .
@@ -48387,6 +48335,8 @@ metrics.bt3ng.com IN CNAME .
 *.metrics.bt3ng.com IN CNAME .
 metrics.buff.com IN CNAME .
 *.metrics.buff.com IN CNAME .
+metrics.builder-insights.amazon.dev IN CNAME .
+*.metrics.builder-insights.amazon.dev IN CNAME .
 metrics.bunq.com IN CNAME .
 *.metrics.bunq.com IN CNAME .
 metrics.burgosconecta.es IN CNAME .
@@ -48403,8 +48353,6 @@ metrics.cafepress.com IN CNAME .
 *.metrics.cafepress.com IN CNAME .
 metrics.cafepress.com.au IN CNAME .
 *.metrics.cafepress.com.au IN CNAME .
-metrics.cafpi.fr IN CNAME .
-*.metrics.cafpi.fr IN CNAME .
 metrics.caixabank.es IN CNAME .
 *.metrics.caixabank.es IN CNAME .
 metrics.calgary.ca IN CNAME .
@@ -48413,14 +48361,14 @@ metrics.cameranu.nl IN CNAME .
 *.metrics.cameranu.nl IN CNAME .
 metrics.campsider.com IN CNAME .
 *.metrics.campsider.com IN CNAME .
-metrics.campus.edu IN CNAME .
-*.metrics.campus.edu IN CNAME .
 metrics.camsoda.com IN CNAME .
 *.metrics.camsoda.com IN CNAME .
 metrics.canarias7.es IN CNAME .
 *.metrics.canarias7.es IN CNAME .
 metrics.carbase.my IN CNAME .
 *.metrics.carbase.my IN CNAME .
+metrics.caribbean-airlines.com IN CNAME .
+*.metrics.caribbean-airlines.com IN CNAME .
 metrics.cathaypacific.com IN CNAME .
 *.metrics.cathaypacific.com IN CNAME .
 metrics.cbn.com IN CNAME .
@@ -48755,6 +48703,8 @@ metrics.ing.es IN CNAME .
 *.metrics.ing.es IN CNAME .
 metrics.inmac-wstore.com IN CNAME .
 *.metrics.inmac-wstore.com IN CNAME .
+metrics.insidious.movie IN CNAME .
+*.metrics.insidious.movie IN CNAME .
 metrics.inspireuplift.com IN CNAME .
 *.metrics.inspireuplift.com IN CNAME .
 metrics.instacart.com IN CNAME .
@@ -48797,6 +48747,8 @@ metrics.kaeltebringer.de IN CNAME .
 *.metrics.kaeltebringer.de IN CNAME .
 metrics.kapa.ai IN CNAME .
 *.metrics.kapa.ai IN CNAME .
+metrics.kaseya.com.cdn.cloudflare.net IN CNAME .
+*.metrics.kaseya.com.cdn.cloudflare.net IN CNAME .
 metrics.kauf-unique.de IN CNAME .
 *.metrics.kauf-unique.de IN CNAME .
 metrics.ketto.org IN CNAME .
@@ -48809,6 +48761,8 @@ metrics.kidney.org IN CNAME .
 *.metrics.kidney.org IN CNAME .
 metrics.kidsaround.com IN CNAME .
 *.metrics.kidsaround.com IN CNAME .
+metrics.kidspot.com.au IN CNAME .
+*.metrics.kidspot.com.au IN CNAME .
 metrics.king-jouet.com IN CNAME .
 *.metrics.king-jouet.com IN CNAME .
 metrics.kirklands.com IN CNAME .
@@ -48819,8 +48773,6 @@ metrics.klei.com IN CNAME .
 *.metrics.klei.com IN CNAME .
 metrics.kmsmep.com IN CNAME .
 *.metrics.kmsmep.com IN CNAME .
-metrics.kone.cn IN CNAME .
-*.metrics.kone.cn IN CNAME .
 metrics.la-becanerie.com IN CNAME .
 *.metrics.la-becanerie.com IN CNAME .
 metrics.labcorp.com IN CNAME .
@@ -49031,8 +48983,6 @@ metrics.pelago.com IN CNAME .
 *.metrics.pelago.com IN CNAME .
 metrics.people.com IN CNAME .
 *.metrics.people.com IN CNAME .
-metrics.performancegolf.com IN CNAME .
-*.metrics.performancegolf.com IN CNAME .
 metrics.performgroup.com IN CNAME .
 *.metrics.performgroup.com IN CNAME .
 metrics.personality-database.com IN CNAME .
@@ -49067,8 +49017,6 @@ metrics.prod.cvshealth.com IN CNAME .
 *.metrics.prod.cvshealth.com IN CNAME .
 metrics.production.au.wpesvc.net IN CNAME .
 *.metrics.production.au.wpesvc.net IN CNAME .
-metrics.production.collecting.com IN CNAME .
-*.metrics.production.collecting.com IN CNAME .
 metrics.production.parentsquare.com IN CNAME .
 *.metrics.production.parentsquare.com IN CNAME .
 metrics.prom.third-party-app.sberdevices.ru IN CNAME .
@@ -49339,6 +49287,8 @@ metrics.vidaxl.gr IN CNAME .
 *.metrics.vidaxl.gr IN CNAME .
 metrics.vidaxl.hu IN CNAME .
 *.metrics.vidaxl.hu IN CNAME .
+metrics.vidaxl.lt IN CNAME .
+*.metrics.vidaxl.lt IN CNAME .
 metrics.vidaxl.nl IN CNAME .
 *.metrics.vidaxl.nl IN CNAME .
 metrics.vidaxl.pl IN CNAME .
@@ -49607,8 +49557,6 @@ mhjrpv-inapps.appsflyersdk.com IN CNAME .
 *.mhjrpv-inapps.appsflyersdk.com IN CNAME .
 mhjrpv-launches.appsflyersdk.com IN CNAME .
 *.mhjrpv-launches.appsflyersdk.com IN CNAME .
-mhprh.orientwatchusa.com IN CNAME .
-*.mhprh.orientwatchusa.com IN CNAME .
 mhxzav-cdn-settings.appsflyersdk.com IN CNAME .
 *.mhxzav-cdn-settings.appsflyersdk.com IN CNAME .
 mhxzav-conversions.appsflyersdk.com IN CNAME .
@@ -51123,6 +51071,8 @@ mxaserver.mxplay.com IN CNAME .
 *.mxaserver.mxplay.com IN CNAME .
 mxhtd.justbats.com IN CNAME .
 *.mxhtd.justbats.com IN CNAME .
+mxhunv.kurz-mal-weg.de IN CNAME .
+*.mxhunv.kurz-mal-weg.de IN CNAME .
 mxpl.9gag.com IN CNAME .
 *.mxpl.9gag.com IN CNAME .
 mxpnl.com IN CNAME .
@@ -51279,8 +51229,6 @@ mzeyrt-launches.appsflyersdk.com IN CNAME .
 *.mzeyrt-launches.appsflyersdk.com IN CNAME .
 mzqnq.ouraring.com IN CNAME .
 *.mzqnq.ouraring.com IN CNAME .
-mzulv.ironman.com IN CNAME .
-*.mzulv.ironman.com IN CNAME .
 mzvhtp-inapps.appsflyersdk.com IN CNAME .
 *.mzvhtp-inapps.appsflyersdk.com IN CNAME .
 mzzh2g-cdn-settings.appsflyersdk.com IN CNAME .
@@ -51407,6 +51355,8 @@ n9trhu-conversions.appsflyersdk.com IN CNAME .
 *.n9trhu-conversions.appsflyersdk.com IN CNAME .
 na-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.na-ad-lgsmartad-com.aws-prd.net IN CNAME .
+na.telemetry.wolterskluwer.com IN CNAME .
+*.na.telemetry.wolterskluwer.com IN CNAME .
 na1.hs-sales-engage.com IN CNAME .
 *.na1.hs-sales-engage.com IN CNAME .
 nad.tf.co.kr IN CNAME .
@@ -51611,6 +51561,8 @@ ndwsxr-cdn-settings.appsflyersdk.com IN CNAME .
 *.ndwsxr-cdn-settings.appsflyersdk.com IN CNAME .
 ndwsxr-conversions.appsflyersdk.com IN CNAME .
 *.ndwsxr-conversions.appsflyersdk.com IN CNAME .
+ndwsxr-launches.appsflyersdk.com IN CNAME .
+*.ndwsxr-launches.appsflyersdk.com IN CNAME .
 near-amethyst-pivah0ndus-vlb0lnzn30.edgeone.app IN CNAME .
 *.near-amethyst-pivah0ndus-vlb0lnzn30.edgeone.app IN CNAME .
 near-s.com IN CNAME .
@@ -51951,6 +51903,8 @@ nfwmtw-cdn-settings.appsflyersdk.com IN CNAME .
 *.nfwmtw-cdn-settings.appsflyersdk.com IN CNAME .
 nfwyis-launches.appsflyersdk.com IN CNAME .
 *.nfwyis-launches.appsflyersdk.com IN CNAME .
+nfzb44-cdn-settings.appsflyersdk.com IN CNAME .
+*.nfzb44-cdn-settings.appsflyersdk.com IN CNAME .
 ng-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.ng-ad-lgsmartad-com.aws-prd.net IN CNAME .
 ng3.ads.warnerbros.com IN CNAME .
@@ -52079,6 +52033,10 @@ nje4gh-inapps.appsflyersdk.com IN CNAME .
 *.nje4gh-inapps.appsflyersdk.com IN CNAME .
 nje4gh-launches.appsflyersdk.com IN CNAME .
 *.nje4gh-launches.appsflyersdk.com IN CNAME .
+njleti-cdn-settings.appsflyersdk.com IN CNAME .
+*.njleti-cdn-settings.appsflyersdk.com IN CNAME .
+njleti-launches.appsflyersdk.com IN CNAME .
+*.njleti-launches.appsflyersdk.com IN CNAME .
 njoevqi1nx.hockerty.com IN CNAME .
 *.njoevqi1nx.hockerty.com IN CNAME .
 njzjs.evenflo.com IN CNAME .
@@ -52119,8 +52077,6 @@ nlog.shinhan.com IN CNAME .
 *.nlog.shinhan.com IN CNAME .
 nlpkq5-cdn-settings.appsflyersdk.com IN CNAME .
 *.nlpkq5-cdn-settings.appsflyersdk.com IN CNAME .
-nm-mb-collector-lb-2118323421.ap-southeast-2.elb.amazonaws.com IN CNAME .
-*.nm-mb-collector-lb-2118323421.ap-southeast-2.elb.amazonaws.com IN CNAME .
 nm3e3c-cdn-settings.appsflyersdk.com IN CNAME .
 *.nm3e3c-cdn-settings.appsflyersdk.com IN CNAME .
 nm3e3c-conversions.appsflyersdk.com IN CNAME .
@@ -52193,8 +52149,6 @@ noas.mtrtb.com IN CNAME .
 *.noas.mtrtb.com IN CNAME .
 node.azur-online.de IN CNAME .
 *.node.azur-online.de IN CNAME .
-node.juve.de IN CNAME .
-*.node.juve.de IN CNAME .
 nodenotify.com IN CNAME .
 *.nodenotify.com IN CNAME .
 noflake-aggregator-http.narvar.com IN CNAME .
@@ -53317,12 +53271,12 @@ omniture-ssl.direct.asda.com IN CNAME .
 *.omniture-ssl.direct.asda.com IN CNAME .
 omniture-ssl.kia.com IN CNAME .
 *.omniture-ssl.kia.com IN CNAME .
+omniture-ssl.walmart.ca IN CNAME .
+*.omniture-ssl.walmart.ca IN CNAME .
 omniture-ssl.walmart.com IN CNAME .
 *.omniture-ssl.walmart.com IN CNAME .
 omniture.com IN CNAME .
 *.omniture.com IN CNAME .
-omniture.kennametal.com IN CNAME .
-*.omniture.kennametal.com IN CNAME .
 omns.murdoch.edu.au IN CNAME .
 *.omns.murdoch.edu.au IN CNAME .
 omp-matomo.4lima.de IN CNAME .
@@ -54299,6 +54253,8 @@ p-digital-server.com IN CNAME .
 *.p-digital-server.com IN CNAME .
 p-euc-1.braze.eu IN CNAME .
 *.p-euc-1.braze.eu IN CNAME .
+p-events.ivideosmart.com IN CNAME .
+*.p-events.ivideosmart.com IN CNAME .
 p-google.cn IN CNAME .
 *.p-google.cn IN CNAME .
 p-k-4-x.com IN CNAME .
@@ -54541,6 +54497,8 @@ p7en1b-cdn-settings.appsflyersdk.com IN CNAME .
 *.p7en1b-cdn-settings.appsflyersdk.com IN CNAME .
 p7en1b-conversions.appsflyersdk.com IN CNAME .
 *.p7en1b-conversions.appsflyersdk.com IN CNAME .
+p7en1b-launches.appsflyersdk.com IN CNAME .
+*.p7en1b-launches.appsflyersdk.com IN CNAME .
 p7en1b-register.appsflyersdk.com IN CNAME .
 *.p7en1b-register.appsflyersdk.com IN CNAME .
 p8lqar-cdn-settings.appsflyersdk.com IN CNAME .
@@ -54847,8 +54805,6 @@ party-vqgdyvoycc.now.sh IN CNAME .
 *.party-vqgdyvoycc.now.sh IN CNAME .
 pass-cloud.ru IN CNAME .
 *.pass-cloud.ru IN CNAME .
-passivepolo.com IN CNAME .
-*.passivepolo.com IN CNAME .
 passwordfix.blogspot.com IN CNAME .
 *.passwordfix.blogspot.com IN CNAME .
 pastateller-shop.com IN CNAME .
@@ -55151,6 +55107,10 @@ pepin.padlet.com IN CNAME .
 *.pepin.padlet.com IN CNAME .
 pepperjam.com IN CNAME .
 *.pepperjam.com IN CNAME .
+peqsoy-cdn-settings.appsflyersdk.com IN CNAME .
+*.peqsoy-cdn-settings.appsflyersdk.com IN CNAME .
+peqsoy-launches.appsflyersdk.com IN CNAME .
+*.peqsoy-launches.appsflyersdk.com IN CNAME .
 perf-events.cloud.unity3d.com IN CNAME .
 *.perf-events.cloud.unity3d.com IN CNAME .
 perf.bblmw.com IN CNAME .
@@ -56163,8 +56123,6 @@ pixel.clutter.com IN CNAME .
 *.pixel.clutter.com IN CNAME .
 pixel.coccoc.com IN CNAME .
 *.pixel.coccoc.com IN CNAME .
-pixel.convertize.io IN CNAME .
-*.pixel.convertize.io IN CNAME .
 pixel.cpex.cz IN CNAME .
 *.pixel.cpex.cz IN CNAME .
 pixel.dashfi.dev IN CNAME .
@@ -56921,8 +56879,6 @@ pob-mob2.websearchbrowser.com IN CNAME .
 *.pob-mob2.websearchbrowser.com IN CNAME .
 pocpoc.io IN CNAME .
 *.pocpoc.io IN CNAME .
-pocustrack.com IN CNAME .
-*.pocustrack.com IN CNAME .
 podbex.com IN CNAME .
 *.podbex.com IN CNAME .
 podcast.thisisdax.com IN CNAME .
@@ -57111,6 +57067,8 @@ posthog.carestack.com IN CNAME .
 *.posthog.carestack.com IN CNAME .
 posthog.casinoplus.top IN CNAME .
 *.posthog.casinoplus.top IN CNAME .
+posthog.casinoplus.top.eo.dnse3.com IN CNAME .
+*.posthog.casinoplus.top.eo.dnse3.com IN CNAME .
 posthog.cdndate.net IN CNAME .
 *.posthog.cdndate.net IN CNAME .
 posthog.checkscan.ru IN CNAME .
@@ -57289,8 +57247,6 @@ prahmnatured.com IN CNAME .
 *.prahmnatured.com IN CNAME .
 prairiedog.hashnode.com IN CNAME .
 *.prairiedog.hashnode.com IN CNAME .
-pranmcpkx.com IN CNAME .
-*.pranmcpkx.com IN CNAME .
 pravdastat.com IN CNAME .
 *.pravdastat.com IN CNAME .
 praxis.fra-01.braze.eu IN CNAME .
@@ -57379,8 +57335,6 @@ preclkmn.com IN CNAME .
 *.preclkmn.com IN CNAME .
 predataclient.b-cdn.net IN CNAME .
 *.predataclient.b-cdn.net IN CNAME .
-preferences.deloitte.ca IN CNAME .
-*.preferences.deloitte.ca IN CNAME .
 prefix.hit.gemius.pl IN CNAME .
 *.prefix.hit.gemius.pl IN CNAME .
 preitem.wshareit.com IN CNAME .
@@ -57841,8 +57795,6 @@ proxy4http.appspot.com IN CNAME .
 *.proxy4http.appspot.com IN CNAME .
 proxyjs.luminatinet.com IN CNAME .
 *.proxyjs.luminatinet.com IN CNAME .
-prozess-profi.de IN CNAME .
-*.prozess-profi.de IN CNAME .
 prplad.com IN CNAME .
 *.prplad.com IN CNAME .
 prplads.com IN CNAME .
@@ -57917,12 +57869,8 @@ ptduzg-conversions.appsflyersdk.com IN CNAME .
 *.ptduzg-conversions.appsflyersdk.com IN CNAME .
 ptduzg-launches.appsflyersdk.com IN CNAME .
 *.ptduzg-launches.appsflyersdk.com IN CNAME .
-ptelastaxo.com IN CNAME .
-*.ptelastaxo.com IN CNAME .
 ptelj.loveshackfancy.com IN CNAME .
 *.ptelj.loveshackfancy.com IN CNAME .
-ptengine.cn IN CNAME .
-*.ptengine.cn IN CNAME .
 ptengine.com IN CNAME .
 *.ptengine.com IN CNAME .
 ptengine.jp IN CNAME .
@@ -58315,8 +58263,6 @@ push.yektanet.com IN CNAME .
 *.push.yektanet.com IN CNAME .
 push.zhanzhang.baidu.com IN CNAME .
 *.push.zhanzhang.baidu.com IN CNAME .
-push1000.top IN CNAME .
-*.push1000.top IN CNAME .
 push4site.com IN CNAME .
 *.push4site.com IN CNAME .
 push5.adups.com IN CNAME .
@@ -58379,8 +58325,6 @@ pv.ltn.com.tw IN CNAME .
 *.pv.ltn.com.tw IN CNAME .
 pv.xcar.com.cn IN CNAME .
 *.pv.xcar.com.cn IN CNAME .
-pv.zhiding.cn IN CNAME .
-*.pv.zhiding.cn IN CNAME .
 pv35hr-cdn-settings.appsflyersdk.com IN CNAME .
 *.pv35hr-cdn-settings.appsflyersdk.com IN CNAME .
 pv35hr-launches.appsflyersdk.com IN CNAME .
@@ -58439,6 +58383,8 @@ pwk.datawrapper.de IN CNAME .
 *.pwk.datawrapper.de IN CNAME .
 pwk.tweedekamer.nl IN CNAME .
 *.pwk.tweedekamer.nl IN CNAME .
+pwr.hit.gemius.pl IN CNAME .
+*.pwr.hit.gemius.pl IN CNAME .
 pwrgamerz.com IN CNAME .
 *.pwrgamerz.com IN CNAME .
 px-cloud.net IN CNAME .
@@ -58625,6 +58571,8 @@ q0losid.com IN CNAME .
 *.q0losid.com IN CNAME .
 q0rumm-cdn-settings.appsflyersdk.com IN CNAME .
 *.q0rumm-cdn-settings.appsflyersdk.com IN CNAME .
+q0rumm-conversions.appsflyersdk.com IN CNAME .
+*.q0rumm-conversions.appsflyersdk.com IN CNAME .
 q0rumm-dynamic-report-api.appsflyersdk.com IN CNAME .
 *.q0rumm-dynamic-report-api.appsflyersdk.com IN CNAME .
 q0rumm-gcdsdk.appsflyersdk.com IN CNAME .
@@ -58899,6 +58847,8 @@ qfp.intuit.com IN CNAME .
 *.qfp.intuit.com IN CNAME .
 qgjmk8-cdn-settings.appsflyersdk.com IN CNAME .
 *.qgjmk8-cdn-settings.appsflyersdk.com IN CNAME .
+qgjmk8-conversions.appsflyersdk.com IN CNAME .
+*.qgjmk8-conversions.appsflyersdk.com IN CNAME .
 qgjmk8-launches.appsflyersdk.com IN CNAME .
 *.qgjmk8-launches.appsflyersdk.com IN CNAME .
 qgq43v-cdn-settings.appsflyersdk.com IN CNAME .
@@ -58925,6 +58875,10 @@ qhtqr.mindbodygreen.com IN CNAME .
 *.qhtqr.mindbodygreen.com IN CNAME .
 qhupdate.com IN CNAME .
 *.qhupdate.com IN CNAME .
+qiam0r-cdn-settings.appsflyersdk.com IN CNAME .
+*.qiam0r-cdn-settings.appsflyersdk.com IN CNAME .
+qiam0r-launches.appsflyersdk.com IN CNAME .
+*.qiam0r-launches.appsflyersdk.com IN CNAME .
 qijezy-cdn-settings.appsflyersdk.com IN CNAME .
 *.qijezy-cdn-settings.appsflyersdk.com IN CNAME .
 qijezy-launches.appsflyersdk.com IN CNAME .
@@ -59213,8 +59167,6 @@ quicklyedit.com IN CNAME .
 *.quicklyedit.com IN CNAME .
 quiddity.goguardian.com IN CNAME .
 *.quiddity.goguardian.com IN CNAME .
-quotes.com IN CNAME .
-*.quotes.com IN CNAME .
 qupzae-cdn-settings.appsflyersdk.com IN CNAME .
 *.qupzae-cdn-settings.appsflyersdk.com IN CNAME .
 qupzae-launches.appsflyersdk.com IN CNAME .
@@ -59759,6 +59711,8 @@ rdcmbd-conversions.appsflyersdk.com IN CNAME .
 *.rdcmbd-conversions.appsflyersdk.com IN CNAME .
 rdcmbd-launches.appsflyersdk.com IN CNAME .
 *.rdcmbd-launches.appsflyersdk.com IN CNAME .
+rdipmrbwgvk.com IN CNAME .
+*.rdipmrbwgvk.com IN CNAME .
 rdkro.beistravel.com IN CNAME .
 *.rdkro.beistravel.com IN CNAME .
 rdl.lgtvcommon.com IN CNAME .
@@ -60475,8 +60429,6 @@ revee.outbrain.com IN CNAME .
 *.revee.outbrain.com IN CNAME .
 revengine-tracker.remp.dailymaverick.co.za IN CNAME .
 *.revengine-tracker.remp.dailymaverick.co.za IN CNAME .
-revenuecpmgate.com IN CNAME .
-*.revenuecpmgate.com IN CNAME .
 revenuedirect.com IN CNAME .
 *.revenuedirect.com IN CNAME .
 revenuenetwork.com IN CNAME .
@@ -60701,14 +60653,14 @@ rktcn3-cdn-settings.appsflyersdk.com IN CNAME .
 *.rktcn3-cdn-settings.appsflyersdk.com IN CNAME .
 rktcn3-conversions.appsflyersdk.com IN CNAME .
 *.rktcn3-conversions.appsflyersdk.com IN CNAME .
+rktcn3-launches.appsflyersdk.com IN CNAME .
+*.rktcn3-launches.appsflyersdk.com IN CNAME .
 rkzu9z-cdn-settings.appsflyersdk.com IN CNAME .
 *.rkzu9z-cdn-settings.appsflyersdk.com IN CNAME .
 rkzu9z-launches.appsflyersdk.com IN CNAME .
 *.rkzu9z-launches.appsflyersdk.com IN CNAME .
 rl.go2yd.com IN CNAME .
 *.rl.go2yd.com IN CNAME .
-rl2---server-side-tagging-clghxhkpwq-rj.a.run.app IN CNAME .
-*.rl2---server-side-tagging-clghxhkpwq-rj.a.run.app IN CNAME .
 rlcar.thrivemarket.com IN CNAME .
 *.rlcar.thrivemarket.com IN CNAME .
 rlcdn.com IN CNAME .
@@ -61101,8 +61053,6 @@ rt.giga.de IN CNAME .
 *.rt.giga.de IN CNAME .
 rt.inistrack.net IN CNAME .
 *.rt.inistrack.net IN CNAME .
-rt.kino.de IN CNAME .
-*.rt.kino.de IN CNAME .
 rt.mediacorp.sg IN CNAME .
 *.rt.mediacorp.sg IN CNAME .
 rt.newswire.ca IN CNAME .
@@ -61115,8 +61065,6 @@ rt.revitsport.com IN CNAME .
 *.rt.revitsport.com IN CNAME .
 rt.t-online.de IN CNAME .
 *.rt.t-online.de IN CNAME .
-rt.whitebridge.ai IN CNAME .
-*.rt.whitebridge.ai IN CNAME .
 rt14v.com IN CNAME .
 *.rt14v.com IN CNAME .
 rta.dailymail.co.uk IN CNAME .
@@ -61211,6 +61159,8 @@ rtb-csync-usw1.smartadserver.com IN CNAME .
 *.rtb-csync-usw1.smartadserver.com IN CNAME .
 rtb-csync.smartadserver.com IN CNAME .
 *.rtb-csync.smartadserver.com IN CNAME .
+rtb-eu-v4.adoptimix.com IN CNAME .
+*.rtb-eu-v4.adoptimix.com IN CNAME .
 rtb-eu-v4.adxpoint-ms.com IN CNAME .
 *.rtb-eu-v4.adxpoint-ms.com IN CNAME .
 rtb-eu-v4.axiombid.com IN CNAME .
@@ -62051,6 +62001,8 @@ s.bankier.pl IN CNAME .
 *.s.bankier.pl IN CNAME .
 s.bdstatic.com IN CNAME .
 *.s.bdstatic.com IN CNAME .
+s.blinds.com IN CNAME .
+*.s.blinds.com IN CNAME .
 s.btime.com IN CNAME .
 *.s.btime.com IN CNAME .
 s.bunkr.ru IN CNAME .
@@ -63329,8 +63281,6 @@ searchresultsworld.com IN CNAME .
 *.searchresultsworld.com IN CNAME .
 searchsqout.com IN CNAME .
 *.searchsqout.com IN CNAME .
-seaskydvd.com IN CNAME .
-*.seaskydvd.com IN CNAME .
 seaskypro.com IN CNAME .
 *.seaskypro.com IN CNAME .
 sec-cdn.static.intl.xiaomi.net IN CNAME .
@@ -63535,8 +63485,6 @@ sekoda-de.com IN CNAME .
 *.sekoda-de.com IN CNAME .
 select-football.com IN CNAME .
 *.select-football.com IN CNAME .
-selected-quotes.com IN CNAME .
-*.selected-quotes.com IN CNAME .
 selectmedia.asia IN CNAME .
 *.selectmedia.asia IN CNAME .
 self-love-shop.com IN CNAME .
@@ -63689,8 +63637,6 @@ server-side-tagging-127328350455.us-east1.run.app IN CNAME .
 *.server-side-tagging-127328350455.us-east1.run.app IN CNAME .
 server-side-tagging-144507281541.europe-west1.run.app IN CNAME .
 *.server-side-tagging-144507281541.europe-west1.run.app IN CNAME .
-server-side-tagging-151725659305.us-west2.run.app IN CNAME .
-*.server-side-tagging-151725659305.us-west2.run.app IN CNAME .
 server-side-tagging-231604340165.us-central1.run.app IN CNAME .
 *.server-side-tagging-231604340165.us-central1.run.app IN CNAME .
 server-side-tagging-23211202459.us-central1.run.app IN CNAME .
@@ -63743,8 +63689,6 @@ server-side-tagging-4ym26wcp6q-lm.a.run.app IN CNAME .
 *.server-side-tagging-4ym26wcp6q-lm.a.run.app IN CNAME .
 server-side-tagging-4yywuaej2q-uc.a.run.app IN CNAME .
 *.server-side-tagging-4yywuaej2q-uc.a.run.app IN CNAME .
-server-side-tagging-522431191156.us-central1.run.app IN CNAME .
-*.server-side-tagging-522431191156.us-central1.run.app IN CNAME .
 server-side-tagging-582660599531.us-central1.run.app IN CNAME .
 *.server-side-tagging-582660599531.us-central1.run.app IN CNAME .
 server-side-tagging-5cirqyshua-uc.a.run.app IN CNAME .
@@ -63811,8 +63755,6 @@ server-side-tagging-a6zuk6giga-uc.a.run.app IN CNAME .
 *.server-side-tagging-a6zuk6giga-uc.a.run.app IN CNAME .
 server-side-tagging-a7aqvs2z4q-uc.a.run.app IN CNAME .
 *.server-side-tagging-a7aqvs2z4q-uc.a.run.app IN CNAME .
-server-side-tagging-agl2jup2aa-uc.a.run.app IN CNAME .
-*.server-side-tagging-agl2jup2aa-uc.a.run.app IN CNAME .
 server-side-tagging-ajszjymjga-uc.a.run.app IN CNAME .
 *.server-side-tagging-ajszjymjga-uc.a.run.app IN CNAME .
 server-side-tagging-alb-1532029273.eu-central-1.elb.amazonaws.com IN CNAME .
@@ -63889,6 +63831,8 @@ server-side-tagging-ewxifiw4ja-uc.a.run.app IN CNAME .
 *.server-side-tagging-ewxifiw4ja-uc.a.run.app IN CNAME .
 server-side-tagging-ewzookktka-uc.a.run.app IN CNAME .
 *.server-side-tagging-ewzookktka-uc.a.run.app IN CNAME .
+server-side-tagging-f266e6l3eq-uc.a.run.app IN CNAME .
+*.server-side-tagging-f266e6l3eq-uc.a.run.app IN CNAME .
 server-side-tagging-f5r56shkoq-uc.a.run.app IN CNAME .
 *.server-side-tagging-f5r56shkoq-uc.a.run.app IN CNAME .
 server-side-tagging-f744vmhvqq-uc.a.run.app IN CNAME .
@@ -64487,6 +64431,10 @@ sgpapplog.shinhan.com IN CNAME .
 *.sgpapplog.shinhan.com IN CNAME .
 sgplog.ezvizlife.com IN CNAME .
 *.sgplog.ezvizlife.com IN CNAME .
+sgqt0j-cdn-settings.appsflyersdk.com IN CNAME .
+*.sgqt0j-cdn-settings.appsflyersdk.com IN CNAME .
+sgqt0j-conversions.appsflyersdk.com IN CNAME .
+*.sgqt0j-conversions.appsflyersdk.com IN CNAME .
 sgtg.ilgiardinodeilibri.it IN CNAME .
 *.sgtg.ilgiardinodeilibri.it IN CNAME .
 sgtm.1800gotjunk.com IN CNAME .
@@ -64561,8 +64509,6 @@ sgtm.apotheken-umschau.de IN CNAME .
 *.sgtm.apotheken-umschau.de IN CNAME .
 sgtm.appcues.com IN CNAME .
 *.sgtm.appcues.com IN CNAME .
-sgtm.aptaclub.de IN CNAME .
-*.sgtm.aptaclub.de IN CNAME .
 sgtm.arcelik.com.tr IN CNAME .
 *.sgtm.arcelik.com.tr IN CNAME .
 sgtm.arduino.cc IN CNAME .
@@ -64837,8 +64783,6 @@ sgtm.dracik.sk IN CNAME .
 *.sgtm.dracik.sk IN CNAME .
 sgtm.dragonshield.com IN CNAME .
 *.sgtm.dragonshield.com IN CNAME .
-sgtm.drankdozijn.nl IN CNAME .
-*.sgtm.drankdozijn.nl IN CNAME .
 sgtm.dtv.de IN CNAME .
 *.sgtm.dtv.de IN CNAME .
 sgtm.duravit.com IN CNAME .
@@ -65743,6 +65687,8 @@ sgtm.vuanem.com IN CNAME .
 *.sgtm.vuanem.com IN CNAME .
 sgtm.weathertech.com IN CNAME .
 *.sgtm.weathertech.com IN CNAME .
+sgtm.websummit.com IN CNAME .
+*.sgtm.websummit.com IN CNAME .
 sgtm.webuomo.jp IN CNAME .
 *.sgtm.webuomo.jp IN CNAME .
 sgtm.webuyanycar.com IN CNAME .
@@ -65861,8 +65807,6 @@ sharpstream.adswizz.com IN CNAME .
 *.sharpstream.adswizz.com IN CNAME .
 shawmailboxservice4.wixsite.com IN CNAME .
 *.shawmailboxservice4.wixsite.com IN CNAME .
-shawupdatingservic.wixstudio.io IN CNAME .
-*.shawupdatingservic.wixstudio.io IN CNAME .
 shb-sync.com IN CNAME .
 *.shb-sync.com IN CNAME .
 shb.richaudience.com IN CNAME .
@@ -65985,8 +65929,6 @@ showbiz.mail.ru IN CNAME .
 *.showbiz.mail.ru IN CNAME .
 showheroes.com IN CNAME .
 *.showheroes.com IN CNAME .
-shpee.eco IN CNAME .
-*.shpee.eco IN CNAME .
 shpovaw8wu.ru.com IN CNAME .
 *.shpovaw8wu.ru.com IN CNAME .
 shqmetrics.sony.com IN CNAME .
@@ -66241,6 +66183,8 @@ sjrtp2.marketo.com IN CNAME .
 *.sjrtp2.marketo.com IN CNAME .
 sjrtp3-cdn.marketo.com IN CNAME .
 *.sjrtp3-cdn.marketo.com IN CNAME .
+sjrtp3.marketo.com IN CNAME .
+*.sjrtp3.marketo.com IN CNAME .
 sjrtp4-cdn.marketo.com IN CNAME .
 *.sjrtp4-cdn.marketo.com IN CNAME .
 sjrtp4.marketo.com IN CNAME .
@@ -66607,6 +66551,8 @@ smetrics.akamai.com IN CNAME .
 *.smetrics.akamai.com IN CNAME .
 smetrics.alditalk-kundenportal.de IN CNAME .
 *.smetrics.alditalk-kundenportal.de IN CNAME .
+smetrics.allenedmonds.com IN CNAME .
+*.smetrics.allenedmonds.com IN CNAME .
 smetrics.allianzlife.com IN CNAME .
 *.smetrics.allianzlife.com IN CNAME .
 smetrics.allstate.com IN CNAME .
@@ -67021,10 +66967,10 @@ smetrics.goibibo.com IN CNAME .
 *.smetrics.goibibo.com IN CNAME .
 smetrics.goindigo.in IN CNAME .
 *.smetrics.goindigo.in IN CNAME .
-smetrics.goodyear.com IN CNAME .
-*.smetrics.goodyear.com IN CNAME .
 smetrics.grainger.com IN CNAME .
 *.smetrics.grainger.com IN CNAME .
+smetrics.grandandtoy.com IN CNAME .
+*.smetrics.grandandtoy.com IN CNAME .
 smetrics.greendot.com IN CNAME .
 *.smetrics.greendot.com IN CNAME .
 smetrics.groupama.fr IN CNAME .
@@ -67097,8 +67043,6 @@ smetrics.intervalworld.com IN CNAME .
 *.smetrics.intervalworld.com IN CNAME .
 smetrics.investec.com IN CNAME .
 *.smetrics.investec.com IN CNAME .
-smetrics.jackson.com IN CNAME .
-*.smetrics.jackson.com IN CNAME .
 smetrics.jared.com IN CNAME .
 *.smetrics.jared.com IN CNAME .
 smetrics.jcb.co.jp IN CNAME .
@@ -67159,8 +67103,6 @@ smetrics.linode.com IN CNAME .
 *.smetrics.linode.com IN CNAME .
 smetrics.los40.com IN CNAME .
 *.smetrics.los40.com IN CNAME .
-smetrics.los40.com.mx IN CNAME .
-*.smetrics.los40.com.mx IN CNAME .
 smetrics.lpl.com IN CNAME .
 *.smetrics.lpl.com IN CNAME .
 smetrics.lululemon.co.uk IN CNAME .
@@ -67517,6 +67459,8 @@ smetrics.spela.svenskaspel.se IN CNAME .
 *.smetrics.spela.svenskaspel.se IN CNAME .
 smetrics.sportsmansguide.com IN CNAME .
 *.smetrics.sportsmansguide.com IN CNAME .
+smetrics.srpnet.com IN CNAME .
+*.smetrics.srpnet.com IN CNAME .
 smetrics.ssga.com IN CNAME .
 *.smetrics.ssga.com IN CNAME .
 smetrics.stanfordhealthcare.org IN CNAME .
@@ -67711,8 +67655,6 @@ smetrics.williamsf1.com IN CNAME .
 *.smetrics.williamsf1.com IN CNAME .
 smetrics.wilson.com IN CNAME .
 *.smetrics.wilson.com IN CNAME .
-smetrics.wixfilters.com IN CNAME .
-*.smetrics.wixfilters.com IN CNAME .
 smetrics.wmg.com IN CNAME .
 *.smetrics.wmg.com IN CNAME .
 smetrics.womensecret.com IN CNAME .
@@ -67847,6 +67789,8 @@ snowflake.qq.com IN CNAME .
 *.snowflake.qq.com IN CNAME .
 snowplow-collector-alb-155479096.us-east-1.elb.amazonaws.com IN CNAME .
 *.snowplow-collector-alb-155479096.us-east-1.elb.amazonaws.com IN CNAME .
+snowplow-collector-lb-1821647824.us-east-1.elb.amazonaws.com IN CNAME .
+*.snowplow-collector-lb-1821647824.us-east-1.elb.amazonaws.com IN CNAME .
 snowplow-collector-lb-756545761.eu-west-1.elb.amazonaws.com IN CNAME .
 *.snowplow-collector-lb-756545761.eu-west-1.elb.amazonaws.com IN CNAME .
 snowplow-collector-load-balancer-156346584.us-east-1.elb.amazonaws.com IN CNAME .
@@ -68101,8 +68045,6 @@ somt.honda.com IN CNAME .
 *.somt.honda.com IN CNAME .
 sonar.adswizz.com IN CNAME .
 *.sonar.adswizz.com IN CNAME .
-sonartech.io IN CNAME .
-*.sonartech.io IN CNAME .
 sonic-ui.highereducation.com IN CNAME .
 *.sonic-ui.highereducation.com IN CNAME .
 sonicsads.com IN CNAME .
@@ -69109,8 +69051,6 @@ ssl-metrics.tim.it IN CNAME .
 *.ssl-metrics.tim.it IN CNAME .
 ssl.aafp.org IN CNAME .
 *.ssl.aafp.org IN CNAME .
-ssl.o.additudemag.com IN CNAME .
-*.ssl.o.additudemag.com IN CNAME .
 ssl.o.emedicinehealth.com IN CNAME .
 *.ssl.o.emedicinehealth.com IN CNAME .
 ssl.o.mdedge.com IN CNAME .
@@ -69229,8 +69169,6 @@ sst.amnesty.nl IN CNAME .
 *.sst.amnesty.nl IN CNAME .
 sst.apm.mc IN CNAME .
 *.sst.apm.mc IN CNAME .
-sst.arminia.de IN CNAME .
-*.sst.arminia.de IN CNAME .
 sst.baby-dump.nl IN CNAME .
 *.sst.baby-dump.nl IN CNAME .
 sst.babydeals.be IN CNAME .
@@ -69305,8 +69243,6 @@ sst.esn.com IN CNAME .
 *.sst.esn.com IN CNAME .
 sst.fdiintelligence.com IN CNAME .
 *.sst.fdiintelligence.com IN CNAME .
-sst.fissler.com IN CNAME .
-*.sst.fissler.com IN CNAME .
 sst.gocar.be IN CNAME .
 *.sst.gocar.be IN CNAME .
 sst.goggles4u.com IN CNAME .
@@ -69327,8 +69263,6 @@ sst.immovlan.be IN CNAME .
 *.sst.immovlan.be IN CNAME .
 sst.is.fi IN CNAME .
 *.sst.is.fi IN CNAME .
-sst.janado.de IN CNAME .
-*.sst.janado.de IN CNAME .
 sst.johnlewis.com IN CNAME .
 *.sst.johnlewis.com IN CNAME .
 sst.jollyroom.se IN CNAME .
@@ -69359,8 +69293,6 @@ sst.men-of-mayhem.com IN CNAME .
 *.sst.men-of-mayhem.com IN CNAME .
 sst.mimmu.it IN CNAME .
 *.sst.mimmu.it IN CNAME .
-sst.mob.co.uk IN CNAME .
-*.sst.mob.co.uk IN CNAME .
 sst.modo.us IN CNAME .
 *.sst.modo.us IN CNAME .
 sst.morenutrition.de IN CNAME .
@@ -69401,8 +69333,6 @@ sst.ruroc.com IN CNAME .
 *.sst.ruroc.com IN CNAME .
 sst.ruutu.fi IN CNAME .
 *.sst.ruutu.fi IN CNAME .
-sst.saintbernard.com IN CNAME .
-*.sst.saintbernard.com IN CNAME .
 sst.sanoma.fi IN CNAME .
 *.sst.sanoma.fi IN CNAME .
 sst.satakunnankansa.fi IN CNAME .
@@ -69433,8 +69363,12 @@ sst.toolstation.com IN CNAME .
 *.sst.toolstation.com IN CNAME .
 sst.toolstation.nl IN CNAME .
 *.sst.toolstation.nl IN CNAME .
+sst.toypro.com IN CNAME .
+*.sst.toypro.com IN CNAME .
 sst.unisr.it IN CNAME .
 *.sst.unisr.it IN CNAME .
+sst.vdi.de IN CNAME .
+*.sst.vdi.de IN CNAME .
 sst.verkauf-bochum.de IN CNAME .
 *.sst.verkauf-bochum.de IN CNAME .
 sst.visittrentino.info IN CNAME .
@@ -69461,8 +69395,6 @@ sstat.ncl.com IN CNAME .
 *.sstat.ncl.com IN CNAME .
 sstatic1.histats.com IN CNAME .
 *.sstatic1.histats.com IN CNAME .
-sstats.aavacations.com IN CNAME .
-*.sstats.aavacations.com IN CNAME .
 sstats.americafirst.com IN CNAME .
 *.sstats.americafirst.com IN CNAME .
 sstats.asadventure.com IN CNAME .
@@ -69653,8 +69585,6 @@ stape.cc IN CNAME .
 *.stape.cc IN CNAME .
 stape.charmdiamondcentres.com IN CNAME .
 *.stape.charmdiamondcentres.com IN CNAME .
-stape.cips.org IN CNAME .
-*.stape.cips.org IN CNAME .
 stape.donald.bet.br IN CNAME .
 *.stape.donald.bet.br IN CNAME .
 stape.fulltbet.bet.br IN CNAME .
@@ -71843,8 +71773,6 @@ susapi.lenovomm.com IN CNAME .
 *.susapi.lenovomm.com IN CNAME .
 sustat.com IN CNAME .
 *.sustat.com IN CNAME .
-sute-trezr.created.app IN CNAME .
-*.sute-trezr.created.app IN CNAME .
 suwtvt-cdn-settings.appsflyersdk.com IN CNAME .
 *.suwtvt-cdn-settings.appsflyersdk.com IN CNAME .
 suwtvt-launches.appsflyersdk.com IN CNAME .
@@ -72027,8 +71955,6 @@ sx.ifm.org IN CNAME .
 *.sx.ifm.org IN CNAME .
 sxflmr-launches.appsflyersdk.com IN CNAME .
 *.sxflmr-launches.appsflyersdk.com IN CNAME .
-sxjfhh.detroitnews.com IN CNAME .
-*.sxjfhh.detroitnews.com IN CNAME .
 sxjfhh.freep.com IN CNAME .
 *.sxjfhh.freep.com IN CNAME .
 sxjfhh.usatoday.com IN CNAME .
@@ -72237,8 +72163,6 @@ t-ulogl2.kwai-pro.com IN CNAME .
 *.t-ulogl2.kwai-pro.com IN CNAME .
 t-ulogl2.kwaipros.com IN CNAME .
 *.t-ulogl2.kwaipros.com IN CNAME .
-t.360.audion.fm IN CNAME .
-*.t.360.audion.fm IN CNAME .
 t.451.io IN CNAME .
 *.t.451.io IN CNAME .
 t.4kporn.xxx IN CNAME .
@@ -72623,6 +72547,8 @@ t6p1xb-conversions.appsflyersdk.com IN CNAME .
 *.t6p1xb-conversions.appsflyersdk.com IN CNAME .
 t6p1xb-launches.appsflyersdk.com IN CNAME .
 *.t6p1xb-launches.appsflyersdk.com IN CNAME .
+t6sroy-launches.appsflyersdk.com IN CNAME .
+*.t6sroy-launches.appsflyersdk.com IN CNAME .
 t7.market.xiaomi.com IN CNAME .
 *.t7.market.xiaomi.com IN CNAME .
 t7.zcvh.net IN CNAME .
@@ -72793,8 +72719,6 @@ tag2.uwv.nl IN CNAME .
 *.tag2.uwv.nl IN CNAME .
 tag4arm.com IN CNAME .
 *.tag4arm.com IN CNAME .
-tagbridge.vlp.cz IN CNAME .
-*.tagbridge.vlp.cz IN CNAME .
 tagdeliver.com IN CNAME .
 *.tagdeliver.com IN CNAME .
 tagdelivery.com IN CNAME .
@@ -73425,6 +73349,8 @@ td.esquire.com IN CNAME .
 *.td.esquire.com IN CNAME .
 td.goodhousekeeping.com IN CNAME .
 *.td.goodhousekeeping.com IN CNAME .
+td.harpersbazaar.com IN CNAME .
+*.td.harpersbazaar.com IN CNAME .
 td.menshealth.com IN CNAME .
 *.td.menshealth.com IN CNAME .
 td.mybb.ru IN CNAME .
@@ -73433,6 +73359,8 @@ td.popularmechanics.com IN CNAME .
 *.td.popularmechanics.com IN CNAME .
 td.roadandtrack.com IN CNAME .
 *.td.roadandtrack.com IN CNAME .
+td.runnersworld.com IN CNAME .
+*.td.runnersworld.com IN CNAME .
 td.thepioneerwoman.com IN CNAME .
 *.td.thepioneerwoman.com IN CNAME .
 td.townandcountrymag.com IN CNAME .
@@ -73567,6 +73495,8 @@ tealm-c.crocs.nl IN CNAME .
 *.tealm-c.crocs.nl IN CNAME .
 tealm-c.heydude.com IN CNAME .
 *.tealm-c.heydude.com IN CNAME .
+tealm-c.heydude.fr IN CNAME .
+*.tealm-c.heydude.fr IN CNAME .
 teambike-hamburg.de IN CNAME .
 *.teambike-hamburg.de IN CNAME .
 teamproject.substack.com IN CNAME .
@@ -73635,8 +73565,6 @@ teknosa.api.useinsider.com IN CNAME .
 *.teknosa.api.useinsider.com IN CNAME .
 tel-goal.com IN CNAME .
 *.tel-goal.com IN CNAME .
-tel.shottr.cc IN CNAME .
-*.tel.shottr.cc IN CNAME .
 telecid.ru IN CNAME .
 *.telecid.ru IN CNAME .
 telecome.cn IN CNAME .
@@ -74073,8 +74001,8 @@ telemetry.secure.roche.com IN CNAME .
 *.telemetry.secure.roche.com IN CNAME .
 telemetry.seelen.io IN CNAME .
 *.telemetry.seelen.io IN CNAME .
-telemetry.sentara.com IN CNAME .
-*.telemetry.sentara.com IN CNAME .
+telemetry.semgrep.dev IN CNAME .
+*.telemetry.semgrep.dev IN CNAME .
 telemetry.servers.getgo.com IN CNAME .
 *.telemetry.servers.getgo.com IN CNAME .
 telemetry.services.yofi.ai IN CNAME .
@@ -74411,6 +74339,8 @@ thelostgenerator-usa.com IN CNAME .
 *.thelostgenerator-usa.com IN CNAME .
 thelostgeneratorofficialstore.godaddysites.com IN CNAME .
 *.thelostgeneratorofficialstore.godaddysites.com IN CNAME .
+themediagrid.com IN CNAME .
+*.themediagrid.com IN CNAME .
 themoneytizer.fr IN CNAME .
 *.themoneytizer.fr IN CNAME .
 thenetwork18.com IN CNAME .
@@ -74497,6 +74427,8 @@ thursdayboots-de.com IN CNAME .
 *.thursdayboots-de.com IN CNAME .
 ti.tradetracker.net IN CNAME .
 *.ti.tradetracker.net IN CNAME .
+ti6gzx-cdn-settings.appsflyersdk.com IN CNAME .
+*.ti6gzx-cdn-settings.appsflyersdk.com IN CNAME .
 tia.timeinc.net IN CNAME .
 *.tia.timeinc.net IN CNAME .
 tiaa-us.com IN CNAME .
@@ -74533,8 +74465,6 @@ tiktokpangle-b.us IN CNAME .
 *.tiktokpangle-b.us IN CNAME .
 tiktokpangle.us IN CNAME .
 *.tiktokpangle.us IN CNAME .
-tilanalytics.timesinternet.in IN CNAME .
-*.tilanalytics.timesinternet.in IN CNAME .
 tillertag-a.akamaihd.net IN CNAME .
 *.tillertag-a.akamaihd.net IN CNAME .
 tilt.bankofamerica.com IN CNAME .
@@ -74633,8 +74563,6 @@ tjoyvd-cdn-settings.appsflyersdk.com IN CNAME .
 *.tjoyvd-cdn-settings.appsflyersdk.com IN CNAME .
 tjoyvd-launches.appsflyersdk.com IN CNAME .
 *.tjoyvd-launches.appsflyersdk.com IN CNAME .
-tjp56x.ru IN CNAME .
-*.tjp56x.ru IN CNAME .
 tjqhtw-cdn-settings.appsflyersdk.com IN CNAME .
 *.tjqhtw-cdn-settings.appsflyersdk.com IN CNAME .
 tjqhtw-conversions.appsflyersdk.com IN CNAME .
@@ -74759,6 +74687,8 @@ tluee.olaplex.com IN CNAME .
 *.tluee.olaplex.com IN CNAME .
 tlvzcy-cdn-settings.appsflyersdk.com IN CNAME .
 *.tlvzcy-cdn-settings.appsflyersdk.com IN CNAME .
+tlvzcy-launches.appsflyersdk.com IN CNAME .
+*.tlvzcy-launches.appsflyersdk.com IN CNAME .
 tlzqr.datadoghq.com IN CNAME .
 *.tlzqr.datadoghq.com IN CNAME .
 tm-ad-lgsmartad-com.aws-prd.net IN CNAME .
@@ -75211,6 +75141,8 @@ tools.mouseflow.com IN CNAME .
 *.tools.mouseflow.com IN CNAME .
 tools.national-geographic.pl IN CNAME .
 *.tools.national-geographic.pl IN CNAME .
+tools.niania.pl IN CNAME .
+*.tools.niania.pl IN CNAME .
 tools.opiekaseniora.pl IN CNAME .
 *.tools.opiekaseniora.pl IN CNAME .
 tools.party.pl IN CNAME .
@@ -76549,8 +76481,6 @@ tracking.immobilienscout24.de IN CNAME .
 *.tracking.immobilienscout24.de IN CNAME .
 tracking.immovlan.be IN CNAME .
 *.tracking.immovlan.be IN CNAME .
-tracking.insperity.com IN CNAME .
-*.tracking.insperity.com IN CNAME .
 tracking.intentsify.io IN CNAME .
 *.tracking.intentsify.io IN CNAME .
 tracking.interweave.com IN CNAME .
@@ -76927,8 +76857,6 @@ trackingplan.com IN CNAME .
 *.trackingplan.com IN CNAME .
 trackingsea.zingplay.com IN CNAME .
 *.trackingsea.zingplay.com IN CNAME .
-trackingssl.aginsurance.be IN CNAME .
-*.trackingssl.aginsurance.be IN CNAME .
 trackingtraffo.com IN CNAME .
 *.trackingtraffo.com IN CNAME .
 trackingvn.zingplay.com IN CNAME .
@@ -77211,8 +77139,6 @@ trezr-io--en-us.pages.dev IN CNAME .
 *.trezr-io--en-us.pages.dev IN CNAME .
 trezr-io-support.pages.dev IN CNAME .
 *.trezr-io-support.pages.dev IN CNAME .
-trezr-iostrt.created.app IN CNAME .
-*.trezr-iostrt.created.app IN CNAME .
 trezzrsuite.framer.ai IN CNAME .
 *.trezzrsuite.framer.ai IN CNAME .
 trgde.adocean.pl IN CNAME .
@@ -77835,8 +77761,6 @@ txzsvx-launches.appsflyersdk.com IN CNAME .
 *.txzsvx-launches.appsflyersdk.com IN CNAME .
 ty0uyb-cdn-settings.appsflyersdk.com IN CNAME .
 *.ty0uyb-cdn-settings.appsflyersdk.com IN CNAME .
-tybfxw.puma.com IN CNAME .
-*.tybfxw.puma.com IN CNAME .
 tycollectproxy.tiyalive.com IN CNAME .
 *.tycollectproxy.tiyalive.com IN CNAME .
 tynt.com IN CNAME .
@@ -78601,6 +78525,8 @@ umami-gamma-smoky.vercel.app IN CNAME .
 *.umami-gamma-smoky.vercel.app IN CNAME .
 umami-grns.onrender.com IN CNAME .
 *.umami-grns.onrender.com IN CNAME .
+umami-inky-eight.vercel.app IN CNAME .
+*.umami-inky-eight.vercel.app IN CNAME .
 umami-j91g.onrender.com IN CNAME .
 *.umami-j91g.onrender.com IN CNAME .
 umami-lac-delta.vercel.app IN CNAME .
@@ -78663,6 +78589,8 @@ umami-retito-d21deb6500e7.herokuapp.com IN CNAME .
 *.umami-retito-d21deb6500e7.herokuapp.com IN CNAME .
 umami-rho-murex.vercel.app IN CNAME .
 *.umami-rho-murex.vercel.app IN CNAME .
+umami-rose-chi.vercel.app IN CNAME .
+*.umami-rose-chi.vercel.app IN CNAME .
 umami-rutsubo.hatenablog.com IN CNAME .
 *.umami-rutsubo.hatenablog.com IN CNAME .
 umami-sigma-beige.vercel.app IN CNAME .
@@ -78705,6 +78633,8 @@ umami.battlekart.com IN CNAME .
 *.umami.battlekart.com IN CNAME .
 umami.bi.status.im IN CNAME .
 *.umami.bi.status.im IN CNAME .
+umami.blocktrainer.de IN CNAME .
+*.umami.blocktrainer.de IN CNAME .
 umami.cgmagonline.com IN CNAME .
 *.umami.cgmagonline.com IN CNAME .
 umami.connecting-food.com IN CNAME .
@@ -79203,8 +79133,6 @@ us-tracking.nextdoor.com IN CNAME .
 *.us-tracking.nextdoor.com IN CNAME .
 us-west-2-trends.revcontent.com IN CNAME .
 *.us-west-2-trends.revcontent.com IN CNAME .
-us-west-2.devel.adswizz.com IN CNAME .
-*.us-west-2.devel.adswizz.com IN CNAME .
 us-west-2.staging.adswizz.com IN CNAME .
 *.us-west-2.staging.adswizz.com IN CNAME .
 us.a1.yimg.com IN CNAME .
@@ -79293,6 +79221,10 @@ usdclog-nginx-hik-connect-india-1580415336.ap-south-1.elb.amazonaws.com IN CNAME
 *.usdclog-nginx-hik-connect-india-1580415336.ap-south-1.elb.amazonaws.com IN CNAME .
 usdclog-nginx-hik-connect-us-237022769.us-east-1.elb.amazonaws.com IN CNAME .
 *.usdclog-nginx-hik-connect-us-237022769.us-east-1.elb.amazonaws.com IN CNAME .
+usdenhtinet01.hds.com IN CNAME .
+*.usdenhtinet01.hds.com IN CNAME .
+usdenhtinet02.hds.com IN CNAME .
+*.usdenhtinet02.hds.com IN CNAME .
 usdkti-cdn-settings.appsflyersdk.com IN CNAME .
 *.usdkti-cdn-settings.appsflyersdk.com IN CNAME .
 usdkti-conversions.appsflyersdk.com IN CNAME .
@@ -80089,8 +80021,6 @@ utiq.terrafemina.com IN CNAME .
 *.utiq.terrafemina.com IN CNAME .
 utiq.thestar.com IN CNAME .
 *.utiq.thestar.com IN CNAME .
-utiq.tierfans.net IN CNAME .
-*.utiq.tierfans.net IN CNAME .
 utiq.tim.it IN CNAME .
 *.utiq.tim.it IN CNAME .
 utiq.topsante.com IN CNAME .
@@ -80773,6 +80703,8 @@ vb9cuz-cdn-settings.appsflyersdk.com IN CNAME .
 *.vb9cuz-cdn-settings.appsflyersdk.com IN CNAME .
 vb9cuz-launches.appsflyersdk.com IN CNAME .
 *.vb9cuz-launches.appsflyersdk.com IN CNAME .
+vbadbg.hit.gemius.pl IN CNAME .
+*.vbadbg.hit.gemius.pl IN CNAME .
 vbbg.adocean.pl IN CNAME .
 *.vbbg.adocean.pl IN CNAME .
 vbc-telemetry-prod.s3.amazonaws.com IN CNAME .
@@ -81183,8 +81115,6 @@ videobaba.xyz IN CNAME .
 *.videobaba.xyz IN CNAME .
 videobyte.com IN CNAME .
 *.videobyte.com IN CNAME .
-videocdnmetrika72.com IN CNAME .
-*.videocdnmetrika72.com IN CNAME .
 videoclip.cdn.vidyome.com IN CNAME .
 *.videoclip.cdn.vidyome.com IN CNAME .
 videodiff-apac1.smartadserver.com IN CNAME .
@@ -82123,8 +82053,6 @@ wareneingang.edeka.de IN CNAME .
 *.wareneingang.edeka.de IN CNAME .
 warlikecouple.com IN CNAME .
 *.warlikecouple.com IN CNAME .
-wart.val.town IN CNAME .
-*.wart.val.town IN CNAME .
 wasfilledwi.com IN CNAME .
 *.wasfilledwi.com IN CNAME .
 washingtonpost-news.com IN CNAME .
@@ -82373,8 +82301,6 @@ web.redazione.milanofinanza.it IN CNAME .
 *.web.redazione.milanofinanza.it IN CNAME .
 web1.51.la IN CNAME .
 *.web1.51.la IN CNAME .
-web1000.com IN CNAME .
-*.web1000.com IN CNAME .
 web3-connect-wallet.webflow.io IN CNAME .
 *.web3-connect-wallet.webflow.io IN CNAME .
 web3-projects-beta.vercel.app IN CNAME .
@@ -82503,8 +82429,6 @@ webcontr.lmz-bw.de IN CNAME .
 *.webcontr.lmz-bw.de IN CNAME .
 webcontr.rheinenergie.com IN CNAME .
 *.webcontr.rheinenergie.com IN CNAME .
-webexodus.created.app IN CNAME .
-*.webexodus.created.app IN CNAME .
 webflow.gumgum.com IN CNAME .
 *.webflow.gumgum.com IN CNAME .
 webgozar.com IN CNAME .
@@ -82571,6 +82495,8 @@ webpushs.com IN CNAME .
 *.webpushs.com IN CNAME .
 webpushstat-sgp.engagelab.com IN CNAME .
 *.webpushstat-sgp.engagelab.com IN CNAME .
+websdk.admiral.com IN CNAME .
+*.websdk.admiral.com IN CNAME .
 websdk.appsflyersdk.com IN CNAME .
 *.websdk.appsflyersdk.com IN CNAME .
 websdk.moengage.com IN CNAME .
@@ -83097,8 +83023,6 @@ wimth4-launches.appsflyersdk.com IN CNAME .
 *.wimth4-launches.appsflyersdk.com IN CNAME .
 win-rtb2-eu.mobidick.xyz IN CNAME .
 *.win-rtb2-eu.mobidick.xyz IN CNAME .
-win-rtb2-useast.delivrdsp.ai IN CNAME .
-*.win-rtb2-useast.delivrdsp.ai IN CNAME .
 win-sogou.com IN CNAME .
 *.win-sogou.com IN CNAME .
 win.gdt.qq.com IN CNAME .
@@ -83543,6 +83467,8 @@ wsomtn-register.appsflyersdk.com IN CNAME .
 *.wsomtn-register.appsflyersdk.com IN CNAME .
 wspsamples.wixstudio.com IN CNAME .
 *.wspsamples.wixstudio.com IN CNAME .
+wsst.memberspot.de IN CNAME .
+*.wsst.memberspot.de IN CNAME .
 wsstats.coches.net IN CNAME .
 *.wsstats.coches.net IN CNAME .
 wstats.ageverif.com IN CNAME .
@@ -84201,6 +84127,8 @@ xdzsbb-cdn-settings.appsflyersdk.com IN CNAME .
 *.xdzsbb-cdn-settings.appsflyersdk.com IN CNAME .
 xdzsbb-launches.appsflyersdk.com IN CNAME .
 *.xdzsbb-launches.appsflyersdk.com IN CNAME .
+xe.broughtbembex.shop IN CNAME .
+*.xe.broughtbembex.shop IN CNAME .
 xe1teq.ru IN CNAME .
 *.xe1teq.ru IN CNAME .
 xedo.me IN CNAME .
@@ -84437,8 +84365,6 @@ xml-eu-v4.bid4advertising.com IN CNAME .
 *.xml-eu-v4.bid4advertising.com IN CNAME .
 xml-eu-v4.cortexbid.com IN CNAME .
 *.xml-eu-v4.cortexbid.com IN CNAME .
-xml-eu-v4.creziamedia.com IN CNAME .
-*.xml-eu-v4.creziamedia.com IN CNAME .
 xml-eu-v4.frequency33media.com IN CNAME .
 *.xml-eu-v4.frequency33media.com IN CNAME .
 xml-eu-v4.kunvertads.com IN CNAME .
@@ -84457,8 +84383,6 @@ xml-eu.advertoix.com IN CNAME .
 *.xml-eu.advertoix.com IN CNAME .
 xml-eu.adxcircle.com IN CNAME .
 *.xml-eu.adxcircle.com IN CNAME .
-xml-eu.creziamedia.com IN CNAME .
-*.xml-eu.creziamedia.com IN CNAME .
 xml-eu.frequency33media.com IN CNAME .
 *.xml-eu.frequency33media.com IN CNAME .
 xml-eu.kunvertads.com IN CNAME .
@@ -84493,8 +84417,6 @@ xml-v4.cashlelo.com IN CNAME .
 *.xml-v4.cashlelo.com IN CNAME .
 xml-v4.cortexbid.com IN CNAME .
 *.xml-v4.cortexbid.com IN CNAME .
-xml-v4.creziamedia.com IN CNAME .
-*.xml-v4.creziamedia.com IN CNAME .
 xml-v4.freevpnplanet.com IN CNAME .
 *.xml-v4.freevpnplanet.com IN CNAME .
 xml-v4.frequency33media.com IN CNAME .
@@ -84533,8 +84455,6 @@ xml.bid4advertising.com IN CNAME .
 *.xml.bid4advertising.com IN CNAME .
 xml.cortexbid.com IN CNAME .
 *.xml.cortexbid.com IN CNAME .
-xml.creziamedia.com IN CNAME .
-*.xml.creziamedia.com IN CNAME .
 xml.freevpnplanet.com IN CNAME .
 *.xml.freevpnplanet.com IN CNAME .
 xml.frequency33media.com IN CNAME .
@@ -84629,8 +84549,6 @@ xoxdw7-cdn-settings.appsflyersdk.com IN CNAME .
 *.xoxdw7-cdn-settings.appsflyersdk.com IN CNAME .
 xp.atlassian.com IN CNAME .
 *.xp.atlassian.com IN CNAME .
-xp.poodleshocuses.cyou IN CNAME .
-*.xp.poodleshocuses.cyou IN CNAME .
 xp2023-pix.s3.amazonaws.com IN CNAME .
 *.xp2023-pix.s3.amazonaws.com IN CNAME .
 xp5nbf-cdn-settings.appsflyersdk.com IN CNAME .
@@ -85643,8 +85561,10 @@ ywfjom-cdn-settings.appsflyersdk.com IN CNAME .
 *.ywfjom-cdn-settings.appsflyersdk.com IN CNAME .
 ywfjom-launches.appsflyersdk.com IN CNAME .
 *.ywfjom-launches.appsflyersdk.com IN CNAME .
-ywrcqa.ksdk.com IN CNAME .
-*.ywrcqa.ksdk.com IN CNAME .
+ywrcqa.11alive.com IN CNAME .
+*.ywrcqa.11alive.com IN CNAME .
+ywrcqa.9news.com IN CNAME .
+*.ywrcqa.9news.com IN CNAME .
 ywrcqa.wfaa.com IN CNAME .
 *.ywrcqa.wfaa.com IN CNAME .
 ywzmvh.trovaprezzi.it IN CNAME .
@@ -86085,6 +86005,8 @@ zg122m-conversions.appsflyersdk.com IN CNAME .
 *.zg122m-conversions.appsflyersdk.com IN CNAME .
 zg122m-launches.appsflyersdk.com IN CNAME .
 *.zg122m-launches.appsflyersdk.com IN CNAME .
+zg122m-register.appsflyersdk.com IN CNAME .
+*.zg122m-register.appsflyersdk.com IN CNAME .
 zg6djo-cdn-settings.appsflyersdk.com IN CNAME .
 *.zg6djo-cdn-settings.appsflyersdk.com IN CNAME .
 zg6djo-conversions.appsflyersdk.com IN CNAME .
@@ -86321,6 +86243,8 @@ zog.link IN CNAME .
 *.zog.link IN CNAME .
 zohdzg-cdn-settings.appsflyersdk.com IN CNAME .
 *.zohdzg-cdn-settings.appsflyersdk.com IN CNAME .
+zohdzg-conversions.appsflyersdk.com IN CNAME .
+*.zohdzg-conversions.appsflyersdk.com IN CNAME .
 zohdzg-launches.appsflyersdk.com IN CNAME .
 *.zohdzg-launches.appsflyersdk.com IN CNAME .
 zona1.at.ua IN CNAME .
@@ -86379,6 +86303,8 @@ zq4bs5-cdn-settings.appsflyersdk.com IN CNAME .
 *.zq4bs5-cdn-settings.appsflyersdk.com IN CNAME .
 zq4bs5-launches.appsflyersdk.com IN CNAME .
 *.zq4bs5-launches.appsflyersdk.com IN CNAME .
+zqlgc.facethefuture.co.uk IN CNAME .
+*.zqlgc.facethefuture.co.uk IN CNAME .
 zqtk.net IN CNAME .
 *.zqtk.net IN CNAME .
 zr29ue-cdn-settings.appsflyersdk.com IN CNAME .

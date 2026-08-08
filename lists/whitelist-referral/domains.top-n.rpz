@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1786071393 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1786158020 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -445,6 +445,8 @@ awstrack.me IN CNAME .
 *.awstrack.me IN CNAME .
 aylink.co IN CNAME .
 *.aylink.co IN CNAME .
+bapi-01.moengage.com IN CNAME .
+*.bapi-01.moengage.com IN CNAME .
 bapi-02.moengage.com IN CNAME .
 *.bapi-02.moengage.com IN CNAME .
 bapi-04.moengage.com IN CNAME .
@@ -935,8 +937,6 @@ iljmp.com IN CNAME .
 *.iljmp.com IN CNAME .
 ink1001.com IN CNAME .
 *.ink1001.com IN CNAME .
-intercom-clicks.com IN CNAME .
-*.intercom-clicks.com IN CNAME .
 internshala.bapi-03.moengage.com IN CNAME .
 *.internshala.bapi-03.moengage.com IN CNAME .
 io.clickguard.com IN CNAME .
@@ -1001,8 +1001,6 @@ list-manage.com IN CNAME .
 *.list-manage.com IN CNAME .
 list-unsubscribe.eservice.emarsys.net IN CNAME .
 *.list-unsubscribe.eservice.emarsys.net IN CNAME .
-lndata.com IN CNAME .
-*.lndata.com IN CNAME .
 lt45.net IN CNAME .
 *.lt45.net IN CNAME .
 m-3b5ue.custobar.com IN CNAME .
@@ -1109,8 +1107,6 @@ mg.mail.notion.so IN CNAME .
 *.mg.mail.notion.so IN CNAME .
 micpn.com IN CNAME .
 *.micpn.com IN CNAME .
-mkto-dev.certinia.com IN CNAME .
-*.mkto-dev.certinia.com IN CNAME .
 mkto-trk.cisco.com IN CNAME .
 *.mkto-trk.cisco.com IN CNAME .
 mktoweb.com IN CNAME .
@@ -1125,8 +1121,6 @@ mssg.me IN CNAME .
 *.mssg.me IN CNAME .
 mydealz.digidip.net IN CNAME .
 *.mydealz.digidip.net IN CNAME .
-neoengage-va-cdn.exponea.com IN CNAME .
-*.neoengage-va-cdn.exponea.com IN CNAME .
 network.bazaarvoice.com IN CNAME .
 *.network.bazaarvoice.com IN CNAME .
 neural17.cdnwebcloud.com IN CNAME .
@@ -1691,8 +1685,6 @@ track.omguk.com IN CNAME .
 *.track.omguk.com IN CNAME .
 track.productsup.com IN CNAME .
 *.track.productsup.com IN CNAME .
-track.productsup.io IN CNAME .
-*.track.productsup.io IN CNAME .
 track.pstmrk.it IN CNAME .
 *.track.pstmrk.it IN CNAME .
 track.seadform.net IN CNAME .
