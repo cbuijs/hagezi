@@ -1,10 +1,12 @@
 ; RPZ "NATIVE-APPLE-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1788229092 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1788315594 12h 15m 3w 3h
 ab.apple.com.akadns.net IN CNAME .
 *.ab.apple.com.akadns.net IN CNAME .
 acfeedbackws.icloud.com IN CNAME .
 *.acfeedbackws.icloud.com IN CNAME .
+ads.apple.com IN CNAME .
+*.ads.apple.com IN CNAME .
 advertising.apple.com IN CNAME .
 *.advertising.apple.com IN CNAME .
 advp.apple.com IN CNAME .

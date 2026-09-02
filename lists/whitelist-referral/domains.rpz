@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1788230411 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1788317458 12h 15m 3w 3h
 1-aclk.net IN CNAME .
 *.1-aclk.net IN CNAME .
 1aurl.io IN CNAME .
@@ -17,6 +17,10 @@ $TTL 3600
 *.2performant.com IN CNAME .
 3-aclk.net IN CNAME .
 *.3-aclk.net IN CNAME .
+341676991.group0.sites.hscoscdn-na3.net IN CNAME .
+*.341676991.group0.sites.hscoscdn-na3.net IN CNAME .
+341850582.group0.sites.hscoscdn-na3.net IN CNAME .
+*.341850582.group0.sites.hscoscdn-na3.net IN CNAME .
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 4-aclk.net IN CNAME .
@@ -167,8 +171,6 @@ ads.revjet.com IN CNAME .
 *.ads.revjet.com IN CNAME .
 adscendmedia.com IN CNAME .
 *.adscendmedia.com IN CNAME .
-adservice.google.ae IN CNAME .
-*.adservice.google.ae IN CNAME .
 adservice.google.at IN CNAME .
 *.adservice.google.at IN CNAME .
 adservice.google.bg IN CNAME .
@@ -1573,8 +1575,6 @@ mkto-ab250068.com IN CNAME .
 *.mkto-ab250068.com IN CNAME .
 mkto-ab250105.com IN CNAME .
 *.mkto-ab250105.com IN CNAME .
-mkto-ab250167.com IN CNAME .
-*.mkto-ab250167.com IN CNAME .
 mkto-ab260164.com IN CNAME .
 *.mkto-ab260164.com IN CNAME .
 mkto-ab270090.com IN CNAME .
@@ -1591,6 +1591,8 @@ mkto-ab290102.com IN CNAME .
 *.mkto-ab290102.com IN CNAME .
 mkto-ab290138.com IN CNAME .
 *.mkto-ab290138.com IN CNAME .
+mkto-ab300154.com IN CNAME .
+*.mkto-ab300154.com IN CNAME .
 mkto-ab310115.com IN CNAME .
 *.mkto-ab310115.com IN CNAME .
 mkto-ab320028.com IN CNAME .
@@ -1613,6 +1615,8 @@ mkto-ab350047.com IN CNAME .
 *.mkto-ab350047.com IN CNAME .
 mkto-ab350123.com IN CNAME .
 *.mkto-ab350123.com IN CNAME .
+mkto-ab370015.com IN CNAME .
+*.mkto-ab370015.com IN CNAME .
 mkto-ab390033.com IN CNAME .
 *.mkto-ab390033.com IN CNAME .
 mkto-ab390129.com IN CNAME .
@@ -2437,8 +2441,6 @@ sites.hscoscdn-eu1.net IN CNAME .
 *.sites.hscoscdn-eu1.net IN CNAME .
 sites.hscoscdn-na2.net IN CNAME .
 *.sites.hscoscdn-na2.net IN CNAME .
-sites.hscoscdn-na3.net IN CNAME .
-*.sites.hscoscdn-na3.net IN CNAME .
 sites.hscoscdn00.net IN CNAME .
 *.sites.hscoscdn00.net IN CNAME .
 sites.hscoscdn10.net IN CNAME .

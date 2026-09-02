@@ -1,12 +1,16 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1788230413 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1788317461 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
 *.1l.my.games IN CNAME .
 2performant.com IN CNAME .
 *.2performant.com IN CNAME .
+341676991.group0.sites.hscoscdn-na3.net IN CNAME .
+*.341676991.group0.sites.hscoscdn-na3.net IN CNAME .
+341850582.group0.sites.hscoscdn-na3.net IN CNAME .
+*.341850582.group0.sites.hscoscdn-na3.net IN CNAME .
 4patientcare-cdn.exponea.com IN CNAME .
 *.4patientcare-cdn.exponea.com IN CNAME .
 7eer.net IN CNAME .
@@ -125,8 +129,6 @@ adobetarget.data.adobedc.net IN CNAME .
 *.adobetarget.data.adobedc.net IN CNAME .
 ads.revjet.com IN CNAME .
 *.ads.revjet.com IN CNAME .
-adservice.google.ae IN CNAME .
-*.adservice.google.ae IN CNAME .
 adservice.google.at IN CNAME .
 *.adservice.google.at IN CNAME .
 adservice.google.bg IN CNAME .
@@ -1411,8 +1413,6 @@ sites.hscoscdn-eu1.net IN CNAME .
 *.sites.hscoscdn-eu1.net IN CNAME .
 sites.hscoscdn-na2.net IN CNAME .
 *.sites.hscoscdn-na2.net IN CNAME .
-sites.hscoscdn-na3.net IN CNAME .
-*.sites.hscoscdn-na3.net IN CNAME .
 sites.hscoscdn00.net IN CNAME .
 *.sites.hscoscdn00.net IN CNAME .
 sites.hscoscdn10.net IN CNAME .
@@ -1707,8 +1707,6 @@ track.grove.co IN CNAME .
 *.track.grove.co IN CNAME .
 track.gumroad.com IN CNAME .
 *.track.gumroad.com IN CNAME .
-track.mdrctr.com IN CNAME .
-*.track.mdrctr.com IN CNAME .
 track.omguk.com IN CNAME .
 *.track.omguk.com IN CNAME .
 track.productsup.com IN CNAME .
