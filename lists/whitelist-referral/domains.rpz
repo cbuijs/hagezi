@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1788403994 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1788490410 12h 15m 3w 3h
 1-aclk.net IN CNAME .
 *.1-aclk.net IN CNAME .
 1aurl.io IN CNAME .
@@ -403,6 +403,8 @@ amazon-value-service.com IN CNAME .
 *.amazon-value-service.com IN CNAME .
 amnet.tw IN CNAME .
 *.amnet.tw IN CNAME .
+amway-cdn.exponea.com IN CNAME .
+*.amway-cdn.exponea.com IN CNAME .
 analytics-eu.trustyou.com IN CNAME .
 *.analytics-eu.trustyou.com IN CNAME .
 analytics-prd.aws.wehaa.net IN CNAME .
@@ -1521,6 +1523,8 @@ mkto-ab010150.com IN CNAME .
 *.mkto-ab010150.com IN CNAME .
 mkto-ab020242.com IN CNAME .
 *.mkto-ab020242.com IN CNAME .
+mkto-ab030075.com IN CNAME .
+*.mkto-ab030075.com IN CNAME .
 mkto-ab040115.com IN CNAME .
 *.mkto-ab040115.com IN CNAME .
 mkto-ab040117.com IN CNAME .
@@ -1533,8 +1537,6 @@ mkto-ab060144.com IN CNAME .
 *.mkto-ab060144.com IN CNAME .
 mkto-ab060210.com IN CNAME .
 *.mkto-ab060210.com IN CNAME .
-mkto-ab070017.com IN CNAME .
-*.mkto-ab070017.com IN CNAME .
 mkto-ab070069.com IN CNAME .
 *.mkto-ab070069.com IN CNAME .
 mkto-ab080055.com IN CNAME .
@@ -1559,14 +1561,14 @@ mkto-ab140048.com IN CNAME .
 *.mkto-ab140048.com IN CNAME .
 mkto-ab150013.com IN CNAME .
 *.mkto-ab150013.com IN CNAME .
+mkto-ab150073.com IN CNAME .
+*.mkto-ab150073.com IN CNAME .
 mkto-ab170094.com IN CNAME .
 *.mkto-ab170094.com IN CNAME .
 mkto-ab170123.com IN CNAME .
 *.mkto-ab170123.com IN CNAME .
 mkto-ab170161.com IN CNAME .
 *.mkto-ab170161.com IN CNAME .
-mkto-ab180008.com IN CNAME .
-*.mkto-ab180008.com IN CNAME .
 mkto-ab180024.com IN CNAME .
 *.mkto-ab180024.com IN CNAME .
 mkto-ab220038.com IN CNAME .
@@ -1581,6 +1583,8 @@ mkto-ab250068.com IN CNAME .
 *.mkto-ab250068.com IN CNAME .
 mkto-ab250105.com IN CNAME .
 *.mkto-ab250105.com IN CNAME .
+mkto-ab250167.com IN CNAME .
+*.mkto-ab250167.com IN CNAME .
 mkto-ab260164.com IN CNAME .
 *.mkto-ab260164.com IN CNAME .
 mkto-ab270090.com IN CNAME .
@@ -1599,8 +1603,6 @@ mkto-ab290138.com IN CNAME .
 *.mkto-ab290138.com IN CNAME .
 mkto-ab300154.com IN CNAME .
 *.mkto-ab300154.com IN CNAME .
-mkto-ab310115.com IN CNAME .
-*.mkto-ab310115.com IN CNAME .
 mkto-ab320028.com IN CNAME .
 *.mkto-ab320028.com IN CNAME .
 mkto-ab320182.com IN CNAME .
@@ -1609,6 +1611,8 @@ mkto-ab320191.com IN CNAME .
 *.mkto-ab320191.com IN CNAME .
 mkto-ab330047.com IN CNAME .
 *.mkto-ab330047.com IN CNAME .
+mkto-ab330197.com IN CNAME .
+*.mkto-ab330197.com IN CNAME .
 mkto-ab340022.com IN CNAME .
 *.mkto-ab340022.com IN CNAME .
 mkto-ab340093.com IN CNAME .
@@ -1645,8 +1649,6 @@ mkto-ab400189.com IN CNAME .
 *.mkto-ab400189.com IN CNAME .
 mkto-ab410073.com IN CNAME .
 *.mkto-ab410073.com IN CNAME .
-mkto-ab420081.com IN CNAME .
-*.mkto-ab420081.com IN CNAME .
 mkto-ab420198.com IN CNAME .
 *.mkto-ab420198.com IN CNAME .
 mkto-ab430045.com IN CNAME .
@@ -1661,6 +1663,8 @@ mkto-ab430126.com IN CNAME .
 *.mkto-ab430126.com IN CNAME .
 mkto-ab430167.com IN CNAME .
 *.mkto-ab430167.com IN CNAME .
+mkto-ab430186.com IN CNAME .
+*.mkto-ab430186.com IN CNAME .
 mkto-ab430187.com IN CNAME .
 *.mkto-ab430187.com IN CNAME .
 mkto-ab440025.com IN CNAME .
@@ -1681,8 +1685,6 @@ mkto-ab470013.com IN CNAME .
 *.mkto-ab470013.com IN CNAME .
 mkto-ab470119.com IN CNAME .
 *.mkto-ab470119.com IN CNAME .
-mkto-ab470148.com IN CNAME .
-*.mkto-ab470148.com IN CNAME .
 mkto-ab480014.com IN CNAME .
 *.mkto-ab480014.com IN CNAME .
 mkto-ab480015.com IN CNAME .
@@ -1693,26 +1695,16 @@ mkto-ab500022.com IN CNAME .
 *.mkto-ab500022.com IN CNAME .
 mkto-ab530192.com IN CNAME .
 *.mkto-ab530192.com IN CNAME .
-mkto-ab540059.com IN CNAME .
-*.mkto-ab540059.com IN CNAME .
 mkto-ab540143.com IN CNAME .
 *.mkto-ab540143.com IN CNAME .
-mkto-ab540186.com IN CNAME .
-*.mkto-ab540186.com IN CNAME .
 mkto-ab550041.com IN CNAME .
 *.mkto-ab550041.com IN CNAME .
-mkto-ab550140.com IN CNAME .
-*.mkto-ab550140.com IN CNAME .
 mkto-ab550184.com IN CNAME .
 *.mkto-ab550184.com IN CNAME .
 mkto-ab560068.com IN CNAME .
 *.mkto-ab560068.com IN CNAME .
 mkto-ab560119.com IN CNAME .
 *.mkto-ab560119.com IN CNAME .
-mkto-ab560171.com IN CNAME .
-*.mkto-ab560171.com IN CNAME .
-mkto-ab570110.com IN CNAME .
-*.mkto-ab570110.com IN CNAME .
 mkto-ab570128.com IN CNAME .
 *.mkto-ab570128.com IN CNAME .
 mkto-ab580004.com IN CNAME .
@@ -1743,28 +1735,18 @@ mkto-ab640171.com IN CNAME .
 *.mkto-ab640171.com IN CNAME .
 mkto-ab650025.com IN CNAME .
 *.mkto-ab650025.com IN CNAME .
-mkto-ab650097.com IN CNAME .
-*.mkto-ab650097.com IN CNAME .
 mkto-ab650172.com IN CNAME .
 *.mkto-ab650172.com IN CNAME .
-mkto-ab660121.com IN CNAME .
-*.mkto-ab660121.com IN CNAME .
 mkto-ab660168.com IN CNAME .
 *.mkto-ab660168.com IN CNAME .
 mkto-ab680016.com IN CNAME .
 *.mkto-ab680016.com IN CNAME .
-mkto-ab690011.com IN CNAME .
-*.mkto-ab690011.com IN CNAME .
-mkto-ab690019.com IN CNAME .
-*.mkto-ab690019.com IN CNAME .
 mkto-ab690062.com IN CNAME .
 *.mkto-ab690062.com IN CNAME .
 mkto-ab690064.com IN CNAME .
 *.mkto-ab690064.com IN CNAME .
 mkto-ab690132.com IN CNAME .
 *.mkto-ab690132.com IN CNAME .
-mkto-ab690180.com IN CNAME .
-*.mkto-ab690180.com IN CNAME .
 mkto-ab700044.com IN CNAME .
 *.mkto-ab700044.com IN CNAME .
 mkto-abc0114.com IN CNAME .
@@ -1799,8 +1781,6 @@ mkto-f0235.com IN CNAME .
 *.mkto-f0235.com IN CNAME .
 mkto-g0030.com IN CNAME .
 *.mkto-g0030.com IN CNAME .
-mkto-g0180.com IN CNAME .
-*.mkto-g0180.com IN CNAME .
 mkto-h0163.com IN CNAME .
 *.mkto-h0163.com IN CNAME .
 mkto-i0206.com IN CNAME .
@@ -1821,8 +1801,6 @@ mkto-lon040022.com IN CNAME .
 *.mkto-lon040022.com IN CNAME .
 mkto-lon040102.com IN CNAME .
 *.mkto-lon040102.com IN CNAME .
-mkto-lon040152.com IN CNAME .
-*.mkto-lon040152.com IN CNAME .
 mkto-lon050034.com IN CNAME .
 *.mkto-lon050034.com IN CNAME .
 mkto-lon050143.com IN CNAME .
@@ -1881,10 +1859,10 @@ mkto-nld1010150.com IN CNAME .
 *.mkto-nld1010150.com IN CNAME .
 mkto-nld1010159.com IN CNAME .
 *.mkto-nld1010159.com IN CNAME .
+mkto-nld1020025.com IN CNAME .
+*.mkto-nld1020025.com IN CNAME .
 mkto-nld1020077.com IN CNAME .
 *.mkto-nld1020077.com IN CNAME .
-mkto-nld1020078.com IN CNAME .
-*.mkto-nld1020078.com IN CNAME .
 mkto-nld1020138.com IN CNAME .
 *.mkto-nld1020138.com IN CNAME .
 mkto-nld1020173.com IN CNAME .
@@ -1899,8 +1877,6 @@ mkto-nld1040117.com IN CNAME .
 *.mkto-nld1040117.com IN CNAME .
 mkto-nld1040152.com IN CNAME .
 *.mkto-nld1040152.com IN CNAME .
-mkto-nld1040186.com IN CNAME .
-*.mkto-nld1040186.com IN CNAME .
 mkto-nld1050007.com IN CNAME .
 *.mkto-nld1050007.com IN CNAME .
 mkto-nld1050048.com IN CNAME .
@@ -1915,8 +1891,6 @@ mkto-p0016.com IN CNAME .
 *.mkto-p0016.com IN CNAME .
 mkto-q0155.com IN CNAME .
 *.mkto-q0155.com IN CNAME .
-mkto-sj010104.com IN CNAME .
-*.mkto-sj010104.com IN CNAME .
 mkto-sj010128.com IN CNAME .
 *.mkto-sj010128.com IN CNAME .
 mkto-sj010203.com IN CNAME .
@@ -1935,6 +1909,8 @@ mkto-sj050106.com IN CNAME .
 *.mkto-sj050106.com IN CNAME .
 mkto-sj050137.com IN CNAME .
 *.mkto-sj050137.com IN CNAME .
+mkto-sj050202.com IN CNAME .
+*.mkto-sj050202.com IN CNAME .
 mkto-sj050237.com IN CNAME .
 *.mkto-sj050237.com IN CNAME .
 mkto-sj060054.com IN CNAME .
@@ -1949,8 +1925,8 @@ mkto-sj070218.com IN CNAME .
 *.mkto-sj070218.com IN CNAME .
 mkto-sj080048.com IN CNAME .
 *.mkto-sj080048.com IN CNAME .
-mkto-sj090132.com IN CNAME .
-*.mkto-sj090132.com IN CNAME .
+mkto-sj080251.com IN CNAME .
+*.mkto-sj080251.com IN CNAME .
 mkto-sj130243.com IN CNAME .
 *.mkto-sj130243.com IN CNAME .
 mkto-sj140007.com IN CNAME .
@@ -1971,8 +1947,6 @@ mkto-sj190094.com IN CNAME .
 *.mkto-sj190094.com IN CNAME .
 mkto-sj190104.com IN CNAME .
 *.mkto-sj190104.com IN CNAME .
-mkto-sj190237.com IN CNAME .
-*.mkto-sj190237.com IN CNAME .
 mkto-sj200186.com IN CNAME .
 *.mkto-sj200186.com IN CNAME .
 mkto-sj200191.com IN CNAME .
@@ -1991,14 +1965,12 @@ mkto-sj220006.com IN CNAME .
 *.mkto-sj220006.com IN CNAME .
 mkto-sj220082.com IN CNAME .
 *.mkto-sj220082.com IN CNAME .
-mkto-sj230006.com IN CNAME .
-*.mkto-sj230006.com IN CNAME .
-mkto-sj240021.com IN CNAME .
-*.mkto-sj240021.com IN CNAME .
 mkto-sj250062.com IN CNAME .
 *.mkto-sj250062.com IN CNAME .
 mkto-sj250111.com IN CNAME .
 *.mkto-sj250111.com IN CNAME .
+mkto-sj250171.com IN CNAME .
+*.mkto-sj250171.com IN CNAME .
 mkto-sj250187.com IN CNAME .
 *.mkto-sj250187.com IN CNAME .
 mkto-sj270072.com IN CNAME .
@@ -2007,6 +1979,8 @@ mkto-sj270078.com IN CNAME .
 *.mkto-sj270078.com IN CNAME .
 mkto-sj270080.com IN CNAME .
 *.mkto-sj270080.com IN CNAME .
+mkto-sj290040.com IN CNAME .
+*.mkto-sj290040.com IN CNAME .
 mkto-sj290167.com IN CNAME .
 *.mkto-sj290167.com IN CNAME .
 mkto-sj300124.com IN CNAME .
@@ -2015,10 +1989,6 @@ mkto-sj310061.com IN CNAME .
 *.mkto-sj310061.com IN CNAME .
 mkto-sj310157.com IN CNAME .
 *.mkto-sj310157.com IN CNAME .
-mkto-sj310186.com IN CNAME .
-*.mkto-sj310186.com IN CNAME .
-mkto-sj320047.com IN CNAME .
-*.mkto-sj320047.com IN CNAME .
 mkto-sj320061.com IN CNAME .
 *.mkto-sj320061.com IN CNAME .
 mkto-sj320080.com IN CNAME .
@@ -2027,6 +1997,10 @@ mkto-sj330006.com IN CNAME .
 *.mkto-sj330006.com IN CNAME .
 mkto-sj340004.com IN CNAME .
 *.mkto-sj340004.com IN CNAME .
+mkto-sj360090.com IN CNAME .
+*.mkto-sj360090.com IN CNAME .
+mkto-sj360091.com IN CNAME .
+*.mkto-sj360091.com IN CNAME .
 mkto-sj360104.com IN CNAME .
 *.mkto-sj360104.com IN CNAME .
 mkto-sj360117.com IN CNAME .
@@ -2043,6 +2017,8 @@ mkto-sjg0030.com IN CNAME .
 *.mkto-sjg0030.com IN CNAME .
 mkto-sjh0084.com IN CNAME .
 *.mkto-sjh0084.com IN CNAME .
+mkto-sji0183.com IN CNAME .
+*.mkto-sji0183.com IN CNAME .
 mkto-sn010116.com IN CNAME .
 *.mkto-sn010116.com IN CNAME .
 mkto-sn030149.com IN CNAME .
