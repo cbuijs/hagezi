@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-HUAWEI-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1788488417 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1788574870 12h 15m 3w 3h
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn IN CNAME .
 *.0001-metrics1-data-hicloud-com.geac.dbankedge.cn IN CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn IN CNAME .
@@ -73,8 +73,6 @@ data.hicloud.com IN CNAME .
 *.data.hicloud.com IN CNAME .
 datacollector-dra.dt.dbankcloud.cn IN CNAME .
 *.datacollector-dra.dt.dbankcloud.cn IN CNAME .
-datacollector-drcn.dt.dbankcloud.cn IN CNAME .
-*.datacollector-drcn.dt.dbankcloud.cn IN CNAME .
 datacollector-dre.dt.dbankcloud.cn IN CNAME .
 *.datacollector-dre.dt.dbankcloud.cn IN CNAME .
 dnkeeper.dbankcloud.com IN CNAME .

@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-AMAZON-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1788488409 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1788574861 12h 15m 3w 3h
 3px.axp.amazon-adsystem.com IN CNAME .
 *.3px.axp.amazon-adsystem.com IN CNAME .
 aan.amazon.co.jp IN CNAME .
@@ -83,8 +83,6 @@ aax-gamma-us-east.axp.amazon-adsystem.com IN CNAME .
 *.aax-gamma-us-east.axp.amazon-adsystem.com IN CNAME .
 aax-ott-c2s.amazon-adsystem.com IN CNAME .
 *.aax-ott-c2s.amazon-adsystem.com IN CNAME .
-aax-ott-sdk.amazon-adsystem.amazon.com IN CNAME .
-*.aax-ott-sdk.amazon-adsystem.amazon.com IN CNAME .
 aax-ott-sdk.amazon-adsystem.com IN CNAME .
 *.aax-ott-sdk.amazon-adsystem.com IN CNAME .
 aax-ott.amazon-adsystem.amazon.com IN CNAME .
@@ -221,8 +219,6 @@ alt1-3ps.amazon-adsystem.com IN CNAME .
 *.alt1-3ps.amazon-adsystem.com IN CNAME .
 api.eu-west-1.aiv-delivery.net IN CNAME .
 *.api.eu-west-1.aiv-delivery.net IN CNAME .
-api.metrics.eu-central-1.iris.apx.amazon.dev IN CNAME .
-*.api.metrics.eu-central-1.iris.apx.amazon.dev IN CNAME .
 api.metrics.us-west-2.iris.apx.amazon.dev IN CNAME .
 *.api.metrics.us-west-2.iris.apx.amazon.dev IN CNAME .
 api.us-east-1.aiv-delivery.net IN CNAME .
@@ -443,6 +439,8 @@ maws-aax-us-east.amazon-adsystem.com IN CNAME .
 *.maws-aax-us-east.amazon-adsystem.com IN CNAME .
 maws-aax-us-pdx-rtb.amazon-adsystem.com IN CNAME .
 *.maws-aax-us-pdx-rtb.amazon-adsystem.com IN CNAME .
+metrics.eu-central-1.iris.apx.amazon.dev IN CNAME .
+*.metrics.eu-central-1.iris.apx.amazon.dev IN CNAME .
 metrics.eu-south-2.iris.apx.amazon.dev IN CNAME .
 *.metrics.eu-south-2.iris.apx.amazon.dev IN CNAME .
 metrics.eu-west-1.iris.apx.amazon.dev IN CNAME .
@@ -457,6 +455,8 @@ mobileanalytics.us-east-1.amazonaws.com IN CNAME .
 *.mobileanalytics.us-east-1.amazonaws.com IN CNAME .
 mshopbugsnag.irm.amazon.dev IN CNAME .
 *.mshopbugsnag.irm.amazon.dev IN CNAME .
+origin-s.amazon-adsystem.com IN CNAME .
+*.origin-s.amazon-adsystem.com IN CNAME .
 origin-sq-tungsten-ts.amazon-adsystem.com IN CNAME .
 *.origin-sq-tungsten-ts.amazon-adsystem.com IN CNAME .
 paa-reporting-advertising.amazon IN CNAME .
