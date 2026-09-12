@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1789094925 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1789181712 12h 15m 3w 3h
 1-aclk.net IN CNAME .
 *.1-aclk.net IN CNAME .
 1aurl.io IN CNAME .
@@ -693,6 +693,8 @@ ck.hdm3.in IN CNAME .
 *.ck.hdm3.in IN CNAME .
 cl.adosiz.net IN CNAME .
 *.cl.adosiz.net IN CNAME .
+cl.boa.exct.net IN CNAME .
+*.cl.boa.exct.net IN CNAME .
 cl.exct.net IN CNAME .
 *.cl.exct.net IN CNAME .
 cl.s10.exct.net IN CNAME .
@@ -1615,6 +1617,8 @@ mkto-ab320191.com IN CNAME .
 *.mkto-ab320191.com IN CNAME .
 mkto-ab330047.com IN CNAME .
 *.mkto-ab330047.com IN CNAME .
+mkto-ab330197.com IN CNAME .
+*.mkto-ab330197.com IN CNAME .
 mkto-ab340022.com IN CNAME .
 *.mkto-ab340022.com IN CNAME .
 mkto-ab340093.com IN CNAME .
@@ -1701,14 +1705,14 @@ mkto-ab540143.com IN CNAME .
 *.mkto-ab540143.com IN CNAME .
 mkto-ab550041.com IN CNAME .
 *.mkto-ab550041.com IN CNAME .
-mkto-ab550140.com IN CNAME .
-*.mkto-ab550140.com IN CNAME .
 mkto-ab550184.com IN CNAME .
 *.mkto-ab550184.com IN CNAME .
 mkto-ab560068.com IN CNAME .
 *.mkto-ab560068.com IN CNAME .
 mkto-ab560119.com IN CNAME .
 *.mkto-ab560119.com IN CNAME .
+mkto-ab570052.com IN CNAME .
+*.mkto-ab570052.com IN CNAME .
 mkto-ab570128.com IN CNAME .
 *.mkto-ab570128.com IN CNAME .
 mkto-ab580004.com IN CNAME .
@@ -1975,8 +1979,6 @@ mkto-sj220082.com IN CNAME .
 *.mkto-sj220082.com IN CNAME .
 mkto-sj250062.com IN CNAME .
 *.mkto-sj250062.com IN CNAME .
-mkto-sj250111.com IN CNAME .
-*.mkto-sj250111.com IN CNAME .
 mkto-sj250187.com IN CNAME .
 *.mkto-sj250187.com IN CNAME .
 mkto-sj270072.com IN CNAME .
