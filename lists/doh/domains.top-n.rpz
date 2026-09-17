@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1789524977 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1789611416 12h 15m 3w 3h
 1and1-dns.de IN CNAME .
 *.1and1-dns.de IN CNAME .
 2.alpo.pp.ua IN CNAME .
@@ -779,8 +779,6 @@ dot.seby.io IN CNAME .
 *.dot.seby.io IN CNAME .
 dot.tiar.app IN CNAME .
 *.dot.tiar.app IN CNAME .
-dot.ublockdns.com IN CNAME .
-*.dot.ublockdns.com IN CNAME .
 dot.westus.pi-dns.com IN CNAME .
 *.dot.westus.pi-dns.com IN CNAME .
 dot.xfinity.com IN CNAME .
@@ -1257,8 +1255,6 @@ muc01.dnscry.pt IN CNAME .
 *.muc01.dnscry.pt IN CNAME .
 muli.stusta.mhn.de IN CNAME .
 *.muli.stusta.mhn.de IN CNAME .
-my.ublockdns.com IN CNAME .
-*.my.ublockdns.com IN CNAME .
 mydns.ddns.me IN CNAME .
 *.mydns.ddns.me IN CNAME .
 mypihole.hopto.org IN CNAME .
@@ -1627,6 +1623,8 @@ tyo02.dnscry.pt IN CNAME .
 *.tyo02.dnscry.pt IN CNAME .
 tyo03.dnscry.pt IN CNAME .
 *.tyo03.dnscry.pt IN CNAME .
+ublockdns.com IN CNAME .
+*.ublockdns.com IN CNAME .
 udns.weixin.qq.com IN CNAME .
 *.udns.weixin.qq.com IN CNAME .
 ueni.dyndns.org IN CNAME .

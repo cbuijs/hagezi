@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1789524974 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1789611413 12h 15m 3w 3h
 003153.xyz IN CNAME .
 *.003153.xyz IN CNAME .
 0815cloud.de IN CNAME .
@@ -1103,6 +1103,8 @@ block.abstergo.it IN CNAME .
 *.block.abstergo.it IN CNAME .
 block.coconut.id IN CNAME .
 *.block.coconut.id IN CNAME .
+blockdns.com IN CNAME .
+*.blockdns.com IN CNAME .
 blocker.thethorsens.org IN CNAME .
 *.blocker.thethorsens.org IN CNAME .
 blog.kimiblock.top IN CNAME .
@@ -1457,6 +1459,8 @@ dns-family.adguard.com IN CNAME .
 *.dns-family.adguard.com IN CNAME .
 dns-family.esegece.com IN CNAME .
 *.dns-family.esegece.com IN CNAME .
+dns-fr-psv1.cloudsides.com IN CNAME .
+*.dns-fr-psv1.cloudsides.com IN CNAME .
 dns-free.link IN CNAME .
 *.dns-free.link IN CNAME .
 dns-gcp.aaflalo.me IN CNAME .
@@ -1583,6 +1587,8 @@ dns.abppro.ru IN CNAME .
 *.dns.abppro.ru IN CNAME .
 dns.adguard.com IN CNAME .
 *.dns.adguard.com IN CNAME .
+dns.adguarddns.com IN CNAME .
+*.dns.adguarddns.com IN CNAME .
 dns.adnull.com IN CNAME .
 *.dns.adnull.com IN CNAME .
 dns.adrianlam.com IN CNAME .
@@ -2387,6 +2393,8 @@ dns.kriswerry.nl IN CNAME .
 *.dns.kriswerry.nl IN CNAME .
 dns.krol.cloud IN CNAME .
 *.dns.krol.cloud IN CNAME .
+dns.kugoapps.com IN CNAME .
+*.dns.kugoapps.com IN CNAME .
 dns.kukal.cz IN CNAME .
 *.dns.kukal.cz IN CNAME .
 dns.kusoneko.moe IN CNAME .
@@ -2469,6 +2477,8 @@ dns.malhuda.com IN CNAME .
 *.dns.malhuda.com IN CNAME .
 dns.mandre.dev IN CNAME .
 *.dns.mandre.dev IN CNAME .
+dns.maolaohei.xyz IN CNAME .
+*.dns.maolaohei.xyz IN CNAME .
 dns.maomaovpn.com IN CNAME .
 *.dns.maomaovpn.com IN CNAME .
 dns.marasov.id IN CNAME .
@@ -2699,6 +2709,8 @@ dns.pacificmonster.com IN CNAME .
 *.dns.pacificmonster.com IN CNAME .
 dns.paesa.es IN CNAME .
 *.dns.paesa.es IN CNAME .
+dns.paliska.net IN CNAME .
+*.dns.paliska.net IN CNAME .
 dns.panszelescik.pl IN CNAME .
 *.dns.panszelescik.pl IN CNAME .
 dns.pari.network IN CNAME .
@@ -3589,6 +3601,8 @@ doh.appliedprivacy.net IN CNAME .
 *.doh.appliedprivacy.net IN CNAME .
 doh.archuser.org IN CNAME .
 *.doh.archuser.org IN CNAME .
+doh.armadillodns.net IN CNAME .
+*.doh.armadillodns.net IN CNAME .
 doh.asagiri.moe IN CNAME .
 *.doh.asagiri.moe IN CNAME .
 doh.asecdns.com IN CNAME .
@@ -3609,6 +3623,8 @@ doh.blitarian.com IN CNAME .
 *.doh.blitarian.com IN CNAME .
 doh.blockerdns.com IN CNAME .
 *.doh.blockerdns.com IN CNAME .
+doh.boje8.me IN CNAME .
+*.doh.boje8.me IN CNAME .
 doh.bortzmeyer.fr IN CNAME .
 *.doh.bortzmeyer.fr IN CNAME .
 doh.bt.com IN CNAME .
@@ -3695,6 +3711,8 @@ doh.greenwood.eu.org IN CNAME .
 *.doh.greenwood.eu.org IN CNAME .
 doh.hosterra.tech IN CNAME .
 *.doh.hosterra.tech IN CNAME .
+doh.hshkf.com IN CNAME .
+*.doh.hshkf.com IN CNAME .
 doh.hugang8.cn IN CNAME .
 *.doh.hugang8.cn IN CNAME .
 doh.ibr.cs.tu-bs.de IN CNAME .
@@ -3965,8 +3983,6 @@ dot.tiar.app IN CNAME .
 *.dot.tiar.app IN CNAME .
 dot.tooli.ca IN CNAME .
 *.dot.tooli.ca IN CNAME .
-dot.ublockdns.com IN CNAME .
-*.dot.ublockdns.com IN CNAME .
 dot.westus.pi-dns.com IN CNAME .
 *.dot.westus.pi-dns.com IN CNAME .
 dot.xfinity.com IN CNAME .
@@ -4085,6 +4101,8 @@ f4f.es IN CNAME .
 *.f4f.es IN CNAME .
 facomunit.ddns.net IN CNAME .
 *.facomunit.ddns.net IN CNAME .
+family.adguarddns.com IN CNAME .
+*.family.adguarddns.com IN CNAME .
 family.dns.doubleangels.com IN CNAME .
 *.family.dns.doubleangels.com IN CNAME .
 family.dns.teknoholistik.com IN CNAME .
@@ -5075,8 +5093,6 @@ mx1.laoxiao789.com IN CNAME .
 *.mx1.laoxiao789.com IN CNAME .
 my.8484848.cn IN CNAME .
 *.my.8484848.cn IN CNAME .
-my.ublockdns.com IN CNAME .
-*.my.ublockdns.com IN CNAME .
 myadg.ru IN CNAME .
 *.myadg.ru IN CNAME .
 myagh.claptrap.me IN CNAME .
@@ -6197,6 +6213,8 @@ tyo03.dnscry.pt IN CNAME .
 *.tyo03.dnscry.pt IN CNAME .
 typaza.com IN CNAME .
 *.typaza.com IN CNAME .
+ublockdns.com IN CNAME .
+*.ublockdns.com IN CNAME .
 udns.weixin.qq.com IN CNAME .
 *.udns.weixin.qq.com IN CNAME .
 ueni.dyndns.org IN CNAME .
