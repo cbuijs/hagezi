@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1789611416 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1789697808 12h 15m 3w 3h
 1and1-dns.de IN CNAME .
 *.1and1-dns.de IN CNAME .
 2.alpo.pp.ua IN CNAME .
@@ -625,6 +625,8 @@ doh.aaaab3n.moe IN CNAME .
 *.doh.aaaab3n.moe IN CNAME .
 doh.asia.dnswarden.com IN CNAME .
 *.doh.asia.dnswarden.com IN CNAME .
+doh.beauty IN CNAME .
+*.doh.beauty IN CNAME .
 doh.blahdns.com IN CNAME .
 *.doh.blahdns.com IN CNAME .
 doh.bt.com IN CNAME .
