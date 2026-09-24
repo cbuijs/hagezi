@@ -1,6 +1,6 @@
 ; RPZ "NOSAFESEARCH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1790130067 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1790216509 12h 15m 3w 3h
 andisearch.com IN CNAME .
 *.andisearch.com IN CNAME .
 baidu.com IN CNAME .
@@ -65,6 +65,8 @@ search.trom.tf IN CNAME .
 *.search.trom.tf IN CNAME .
 search.us.projectsegfau.lt IN CNAME .
 *.search.us.projectsegfau.lt IN CNAME .
+searx.mastodontech.de IN CNAME .
+*.searx.mastodontech.de IN CNAME .
 searx.nixnet.services IN CNAME .
 *.searx.nixnet.services IN CNAME .
 searx.space IN CNAME .

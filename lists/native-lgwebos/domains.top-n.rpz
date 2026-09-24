@@ -1,6 +1,10 @@
 ; RPZ "NATIVE-LGWEBOS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1790130037 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1790216475 12h 15m 3w 3h
+ads.lgtvcommon.com IN CNAME .
+*.ads.lgtvcommon.com IN CNAME .
+adts.lgtvcommon.com IN CNAME .
+*.adts.lgtvcommon.com IN CNAME .
 ae-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.ae-ad-lgsmartad-com.aws-prd.net IN CNAME .
 ae-rdx2-lgtvsdp-com.aws-prd.net IN CNAME .
@@ -89,6 +93,10 @@ ca-rdx2-lgtvsdp-com.aws-prd.net IN CNAME .
 *.ca-rdx2-lgtvsdp-com.aws-prd.net IN CNAME .
 cd-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.cd-ad-lgsmartad-com.aws-prd.net IN CNAME .
+cdpbeacon.lgtvcommon.com IN CNAME .
+*.cdpbeacon.lgtvcommon.com IN CNAME .
+cdpbeacon2.lgtvcommon.com IN CNAME .
+*.cdpbeacon2.lgtvcommon.com IN CNAME .
 cg-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.cg-ad-lgsmartad-com.aws-prd.net IN CNAME .
 ch-ad-lgsmartad-com.aws-prd.net IN CNAME .
@@ -249,8 +257,6 @@ lb-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.lb-ad-lgsmartad-com.aws-prd.net IN CNAME .
 lgsmartad.com IN CNAME .
 *.lgsmartad.com IN CNAME .
-lgtvcommon.com IN CNAME .
-*.lgtvcommon.com IN CNAME .
 li-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.li-ad-lgsmartad-com.aws-prd.net IN CNAME .
 lk-ad-lgsmartad-com.aws-prd.net IN CNAME .
@@ -345,12 +351,16 @@ py-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.py-ad-lgsmartad-com.aws-prd.net IN CNAME .
 qa-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.qa-ad-lgsmartad-com.aws-prd.net IN CNAME .
+rdl.lgtvcommon.com IN CNAME .
+*.rdl.lgtvcommon.com IN CNAME .
 rdx2.lgtvsdp.com IN CNAME .
 *.rdx2.lgtvsdp.com IN CNAME .
 rdx2.nextlgsdp.com IN CNAME .
 *.rdx2.nextlgsdp.com IN CNAME .
 re-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.re-ad-lgsmartad-com.aws-prd.net IN CNAME .
+recommend.lgtvcommon.com IN CNAME .
+*.recommend.lgtvcommon.com IN CNAME .
 ro-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.ro-ad-lgsmartad-com.aws-prd.net IN CNAME .
 ro-info-lgsmartad-com.aws-prd.net IN CNAME .
@@ -397,6 +407,8 @@ tg-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.tg-ad-lgsmartad-com.aws-prd.net IN CNAME .
 th-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.th-ad-lgsmartad-com.aws-prd.net IN CNAME .
+thinqrecommend.lgtvcommon.com IN CNAME .
+*.thinqrecommend.lgtvcommon.com IN CNAME .
 tm-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.tm-ad-lgsmartad-com.aws-prd.net IN CNAME .
 tn-ad-lgsmartad-com.aws-prd.net IN CNAME .
@@ -429,10 +441,14 @@ vc-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.vc-ad-lgsmartad-com.aws-prd.net IN CNAME .
 ve-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.ve-ad-lgsmartad-com.aws-prd.net IN CNAME .
+videoads.lgtvcommon.com IN CNAME .
+*.videoads.lgtvcommon.com IN CNAME .
 vn-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.vn-ad-lgsmartad-com.aws-prd.net IN CNAME .
 vu-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.vu-ad-lgsmartad-com.aws-prd.net IN CNAME .
+wiseconfig.lgtvcommon.com IN CNAME .
+*.wiseconfig.lgtvcommon.com IN CNAME .
 ye-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.ye-ad-lgsmartad-com.aws-prd.net IN CNAME .
 za-ad-lgsmartad-com.aws-prd.net IN CNAME .
