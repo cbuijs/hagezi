@@ -1,6 +1,8 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1790216391 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1790302800 12h 15m 3w 3h
+000.pe IN CNAME .
+*.000.pe IN CNAME .
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -139,8 +141,6 @@ blogspot.lt IN CNAME .
 *.blogspot.lt IN CNAME .
 blogspot.lu IN CNAME .
 *.blogspot.lu IN CNAME .
-blogspot.mk IN CNAME .
-*.blogspot.mk IN CNAME .
 blogspot.mx IN CNAME .
 *.blogspot.mx IN CNAME .
 blogspot.my IN CNAME .
@@ -289,8 +289,6 @@ hpage.com IN CNAME .
 *.hpage.com IN CNAME .
 iblogger.org IN CNAME .
 *.iblogger.org IN CNAME .
-iceiy.com IN CNAME .
-*.iceiy.com IN CNAME .
 infinityfree.me IN CNAME .
 *.infinityfree.me IN CNAME .
 infinityfreeapp.com IN CNAME .
@@ -323,6 +321,8 @@ leaguelineup.com IN CNAME .
 *.leaguelineup.com IN CNAME .
 lihi1.com IN CNAME .
 *.lihi1.com IN CNAME .
+live-website.com IN CNAME .
+*.live-website.com IN CNAME .
 liveblog365.com IN CNAME .
 *.liveblog365.com IN CNAME .
 lovestoblog.com IN CNAME .
@@ -435,6 +435,8 @@ temporary.site IN CNAME .
 *.temporary.site IN CNAME .
 tiiny.host IN CNAME .
 *.tiiny.host IN CNAME .
+tiiny.site IN CNAME .
+*.tiiny.site IN CNAME .
 tmweb.ru IN CNAME .
 *.tmweb.ru IN CNAME .
 totalh.net IN CNAME .
