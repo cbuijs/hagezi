@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1790302631 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1790389047 12h 15m 3w 3h
 003153.xyz IN CNAME .
 *.003153.xyz IN CNAME .
 0815cloud.de IN CNAME .
@@ -3963,8 +3963,6 @@ dot.360.cn IN CNAME .
 *.dot.360.cn IN CNAME .
 dot.886675.xyz IN CNAME .
 *.dot.886675.xyz IN CNAME .
-dot.asecdns.com IN CNAME .
-*.dot.asecdns.com IN CNAME .
 dot.centraleu.pi-dns.com IN CNAME .
 *.dot.centraleu.pi-dns.com IN CNAME .
 dot.cox.net IN CNAME .
@@ -4113,6 +4111,8 @@ family.adguarddns.com IN CNAME .
 *.family.adguarddns.com IN CNAME .
 family.dns.doubleangels.com IN CNAME .
 *.family.dns.doubleangels.com IN CNAME .
+family.dns.dremaxx.com IN CNAME .
+*.family.dns.dremaxx.com IN CNAME .
 family.dns.teknoholistik.com IN CNAME .
 *.family.dns.teknoholistik.com IN CNAME .
 family.dot.dns.yandex.net IN CNAME .
@@ -5375,6 +5375,8 @@ oowo.de IN CNAME .
 *.oowo.de IN CNAME .
 open-resolver1.unima.ac.id IN CNAME .
 *.open-resolver1.unima.ac.id IN CNAME .
+open.dns.dremaxx.com IN CNAME .
+*.open.dns.dremaxx.com IN CNAME .
 openbld.net IN CNAME .
 *.openbld.net IN CNAME .
 opencdn.jomodns.com IN CNAME .
