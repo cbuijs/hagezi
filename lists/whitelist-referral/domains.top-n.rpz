@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1790910298 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1790996917 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -463,8 +463,6 @@ app2a.outreach.io IN CNAME .
 *.app2a.outreach.io IN CNAME .
 app2a.portal.outreach.io IN CNAME .
 *.app2a.portal.outreach.io IN CNAME .
-app2b.gateway.portal.outreach.io IN CNAME .
-*.app2b.gateway.portal.outreach.io IN CNAME .
 app2b.outreach.io IN CNAME .
 *.app2b.outreach.io IN CNAME .
 app2b.portal.outreach.io IN CNAME .
@@ -497,6 +495,8 @@ awstrack.me IN CNAME .
 *.awstrack.me IN CNAME .
 aylink.co IN CNAME .
 *.aylink.co IN CNAME .
+bapi-01.moengage.com IN CNAME .
+*.bapi-01.moengage.com IN CNAME .
 bapi-02.moengage.com IN CNAME .
 *.bapi-02.moengage.com IN CNAME .
 bapi-04.moengage.com IN CNAME .
