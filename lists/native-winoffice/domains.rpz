@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-WINOFFICE"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1790994173 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1791080586 12h 15m 3w 3h
 a-ring-fallback.msedge.net IN CNAME .
 *.a-ring-fallback.msedge.net IN CNAME .
 a-ring.msedge.net IN CNAME .
@@ -381,8 +381,6 @@ inference-location-livenet.trafficmanager.net IN CNAME .
 *.inference-location-livenet.trafficmanager.net IN CNAME .
 ingest.appcenter.ms IN CNAME .
 *.ingest.appcenter.ms IN CNAME .
-insights.cloud.microsoft IN CNAME .
-*.insights.cloud.microsoft IN CNAME .
 ir-tracking.trafficmanager.net IN CNAME .
 *.ir-tracking.trafficmanager.net IN CNAME .
 irreverselookuptm.trafficmanager.net IN CNAME .
@@ -583,6 +581,8 @@ ppc-word-telemetry.wac.trafficmanager.net IN CNAME .
 *.ppc-word-telemetry.wac.trafficmanager.net IN CNAME .
 ppm-licensingtelemetry.servicebus.windows.net IN CNAME .
 *.ppm-licensingtelemetry.servicebus.windows.net IN CNAME .
+prd-qlik-telemetry.servicebus.windows.net IN CNAME .
+*.prd-qlik-telemetry.servicebus.windows.net IN CNAME .
 preview.msn.com IN CNAME .
 *.preview.msn.com IN CNAME .
 prod-eh-v1-analytics.servicebus.windows.net IN CNAME .

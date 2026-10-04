@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1790993856 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1791080279 12h 15m 3w 3h
 1and1-dns.de IN CNAME .
 *.1and1-dns.de IN CNAME .
 2.alpo.pp.ua IN CNAME .
@@ -619,8 +619,6 @@ doh.blahdns.com IN CNAME .
 *.doh.blahdns.com IN CNAME .
 doh.bt.com IN CNAME .
 *.doh.bt.com IN CNAME .
-doh.buzz IN CNAME .
-*.doh.buzz IN CNAME .
 doh.centraleu.pi-dns.com IN CNAME .
 *.doh.centraleu.pi-dns.com IN CNAME .
 doh.controld.com IN CNAME .
@@ -1287,6 +1285,8 @@ nqh-dns.duckdns.org IN CNAME .
 *.nqh-dns.duckdns.org IN CNAME .
 nrusimha.crabdance.com IN CNAME .
 *.nrusimha.crabdance.com IN CNAME .
+ns.mtsoln.com IN CNAME .
+*.ns.mtsoln.com IN CNAME .
 ns0.fdn.fr IN CNAME .
 *.ns0.fdn.fr IN CNAME .
 ns1.fdn.fr IN CNAME .
