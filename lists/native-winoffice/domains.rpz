@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-WINOFFICE"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1791080586 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1791166714 12h 15m 3w 3h
 a-ring-fallback.msedge.net IN CNAME .
 *.a-ring-fallback.msedge.net IN CNAME .
 a-ring.msedge.net IN CNAME .
@@ -317,10 +317,8 @@ excel-telemetry.officeapps.live.com IN CNAME .
 *.excel-telemetry.officeapps.live.com IN CNAME .
 excel-telemetry.wac.trafficmanager.net IN CNAME .
 *.excel-telemetry.wac.trafficmanager.net IN CNAME .
-excelonline.nel.measure.office.net.cardano.com IN CNAME .
-*.excelonline.nel.measure.office.net.cardano.com IN CNAME .
-exo.nel.measure.office.net.cardano.com IN CNAME .
-*.exo.nel.measure.office.net.cardano.com IN CNAME .
+feedback.search.microsoft.com IN CNAME .
+*.feedback.search.microsoft.com IN CNAME .
 ffc-excel-telemetry.officeapps.live.com IN CNAME .
 *.ffc-excel-telemetry.officeapps.live.com IN CNAME .
 ffc-word-telemetry.officeapps.live.com IN CNAME .
@@ -359,8 +357,6 @@ hme-uat-loganalytics-namespace.servicebus.windows.net IN CNAME .
 *.hme-uat-loganalytics-namespace.servicebus.windows.net IN CNAME .
 i1.services.social.microsoft.com IN CNAME .
 *.i1.services.social.microsoft.com IN CNAME .
-identity.nel.measure.office.net.cardano.com IN CNAME .
-*.identity.nel.measure.office.net.cardano.com IN CNAME .
 ieonline.microsoft.com IN CNAME .
 *.ieonline.microsoft.com IN CNAME .
 in.appcenter.ms IN CNAME .
@@ -381,6 +377,8 @@ inference-location-livenet.trafficmanager.net IN CNAME .
 *.inference-location-livenet.trafficmanager.net IN CNAME .
 ingest.appcenter.ms IN CNAME .
 *.ingest.appcenter.ms IN CNAME .
+inputsuggestions.msdxcdn.microsoft.com IN CNAME .
+*.inputsuggestions.msdxcdn.microsoft.com IN CNAME .
 ir-tracking.trafficmanager.net IN CNAME .
 *.ir-tracking.trafficmanager.net IN CNAME .
 irreverselookuptm.trafficmanager.net IN CNAME .
@@ -423,8 +421,10 @@ location.live.net IN CNAME .
 *.location.live.net IN CNAME .
 location.microsoft.com IN CNAME .
 *.location.microsoft.com IN CNAME .
-m365cdn.nel.measure.office.net.cardano.com IN CNAME .
-*.m365cdn.nel.measure.office.net.cardano.com IN CNAME .
+logs.appsource.microsoft.com IN CNAME .
+*.logs.appsource.microsoft.com IN CNAME .
+measure.microsoft.com IN CNAME .
+*.measure.microsoft.com IN CNAME .
 measure.office.com IN CNAME .
 *.measure.office.com IN CNAME .
 measure.office.com.akamaized.net IN CNAME .
@@ -461,8 +461,6 @@ oca.microsoft.com IN CNAME .
 *.oca.microsoft.com IN CNAME .
 office-events-data.trafficmanager.net IN CNAME .
 *.office-events-data.trafficmanager.net IN CNAME .
-officehub.nel.measure.office.net.cardano.com IN CNAME .
-*.officehub.nel.measure.office.net.cardano.com IN CNAME .
 oms-analytics.trafficmanager.net IN CNAME .
 *.oms-analytics.trafficmanager.net IN CNAME .
 outlookads.live.com IN CNAME .
@@ -581,8 +579,6 @@ ppc-word-telemetry.wac.trafficmanager.net IN CNAME .
 *.ppc-word-telemetry.wac.trafficmanager.net IN CNAME .
 ppm-licensingtelemetry.servicebus.windows.net IN CNAME .
 *.ppm-licensingtelemetry.servicebus.windows.net IN CNAME .
-prd-qlik-telemetry.servicebus.windows.net IN CNAME .
-*.prd-qlik-telemetry.servicebus.windows.net IN CNAME .
 preview.msn.com IN CNAME .
 *.preview.msn.com IN CNAME .
 prod-eh-v1-analytics.servicebus.windows.net IN CNAME .
@@ -613,6 +609,8 @@ rmads.eu.msn.com IN CNAME .
 *.rmads.eu.msn.com IN CNAME .
 rmads.msn.com IN CNAME .
 *.rmads.msn.com IN CNAME .
+romeccs.microsoft.com IN CNAME .
+*.romeccs.microsoft.com IN CNAME .
 s-ring-fallback.msedge.net IN CNAME .
 *.s-ring-fallback.msedge.net IN CNAME .
 s-ring.msedge.net IN CNAME .
@@ -629,8 +627,6 @@ sgtus1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 *.sgtus1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 sgtus1-word-telemetry-vip.officeapps.live.com IN CNAME .
 *.sgtus1-word-telemetry-vip.officeapps.live.com IN CNAME .
-spo.nel.measure.office.net.cardano.com IN CNAME .
-*.spo.nel.measure.office.net.cardano.com IN CNAME .
 spynet2.microsoft.com IN CNAME .
 *.spynet2.microsoft.com IN CNAME .
 spynetalt.microsoft.com IN CNAME .
@@ -677,8 +673,6 @@ t-s2-ring.msedge.net IN CNAME .
 *.t-s2-ring.msedge.net IN CNAME .
 teams-events-data.trafficmanager.net IN CNAME .
 *.teams-events-data.trafficmanager.net IN CNAME .
-teams.nel.measure.office.net.cardano.com IN CNAME .
-*.teams.nel.measure.office.net.cardano.com IN CNAME .
 telecommandsvc.microsoft.com IN CNAME .
 *.telecommandsvc.microsoft.com IN CNAME .
 telem-edge.smartscreen.microsoft.com IN CNAME .

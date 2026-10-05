@@ -1,6 +1,8 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1791080287 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1791166520 12h 15m 3w 3h
+0000.ir.ir.ir.meli-n12.info IN CNAME .
+*.0000.ir.ir.ir.meli-n12.info IN CNAME .
 01100010011011000110111101100011011010110110110101100101.zone.id IN CNAME .
 *.01100010011011000110111101100011011010110110110101100101.zone.id IN CNAME .
 09vpn.com IN CNAME .
@@ -15,8 +17,6 @@ $TTL 3600
 *.1007440730.rsc.cdn77.org IN CNAME .
 1008868842.rsc.cdn77.org IN CNAME .
 *.1008868842.rsc.cdn77.org IN CNAME .
-1015650414.rsc.cdn77.org IN CNAME .
-*.1015650414.rsc.cdn77.org IN CNAME .
 1016945378.rsc.cdn77.org IN CNAME .
 *.1016945378.rsc.cdn77.org IN CNAME .
 1017683305.rsc.cdn77.org IN CNAME .
@@ -153,8 +153,6 @@ $TTL 3600
 *.1138962056.rsc.cdn77.org IN CNAME .
 114-etilobrut-diordna.b-cdn.net IN CNAME .
 *.114-etilobrut-diordna.b-cdn.net IN CNAME .
-1142033790.rsc.cdn77.org IN CNAME .
-*.1142033790.rsc.cdn77.org IN CNAME .
 1142797333.rsc.cdn77.org IN CNAME .
 *.1142797333.rsc.cdn77.org IN CNAME .
 1153865737.rsc.cdn77.org IN CNAME .
@@ -171,8 +169,6 @@ $TTL 3600
 *.1163557739.rsc.cdn77.org IN CNAME .
 1163636294.rsc.cdn77.org IN CNAME .
 *.1163636294.rsc.cdn77.org IN CNAME .
-1170955507.rsc.cdn77.org IN CNAME .
-*.1170955507.rsc.cdn77.org IN CNAME .
 1182855438.rsc.cdn77.org IN CNAME .
 *.1182855438.rsc.cdn77.org IN CNAME .
 1183375021.rsc.cdn77.org IN CNAME .
@@ -217,12 +213,8 @@ $TTL 3600
 *.123adsas.store IN CNAME .
 1243523605.rsc.cdn77.org IN CNAME .
 *.1243523605.rsc.cdn77.org IN CNAME .
-1247442939.rsc.cdn77.org IN CNAME .
-*.1247442939.rsc.cdn77.org IN CNAME .
 1257389168.rsc.cdn77.org IN CNAME .
 *.1257389168.rsc.cdn77.org IN CNAME .
-1262665886.rsc.cdn77.org IN CNAME .
-*.1262665886.rsc.cdn77.org IN CNAME .
 1263764643.rsc.cdn77.org IN CNAME .
 *.1263764643.rsc.cdn77.org IN CNAME .
 1269588098.rsc.cdn77.org IN CNAME .
@@ -297,14 +289,10 @@ $TTL 3600
 *.1375068563.rsc.cdn77.org IN CNAME .
 1375411732.rsc.cdn77.org IN CNAME .
 *.1375411732.rsc.cdn77.org IN CNAME .
-1381221305.rsc.cdn77.org IN CNAME .
-*.1381221305.rsc.cdn77.org IN CNAME .
 1383105207.rsc.cdn77.org IN CNAME .
 *.1383105207.rsc.cdn77.org IN CNAME .
 1390794492.rsc.cdn77.org IN CNAME .
 *.1390794492.rsc.cdn77.org IN CNAME .
-1390956831.rsc.cdn77.org IN CNAME .
-*.1390956831.rsc.cdn77.org IN CNAME .
 1392886840.rsc.cdn77.org IN CNAME .
 *.1392886840.rsc.cdn77.org IN CNAME .
 1395286050.rsc.cdn77.org IN CNAME .
@@ -319,8 +307,6 @@ $TTL 3600
 *.1397764510.rsc.cdn77.org IN CNAME .
 1404808554.rsc.cdn77.org IN CNAME .
 *.1404808554.rsc.cdn77.org IN CNAME .
-1405176684.rsc.cdn77.org IN CNAME .
-*.1405176684.rsc.cdn77.org IN CNAME .
 1407818672.rsc.cdn77.org IN CNAME .
 *.1407818672.rsc.cdn77.org IN CNAME .
 1408205437.rsc.cdn77.org IN CNAME .
@@ -335,8 +321,6 @@ $TTL 3600
 *.1432679815.rsc.cdn77.org IN CNAME .
 1437165997.rsc.cdn77.org IN CNAME .
 *.1437165997.rsc.cdn77.org IN CNAME .
-1438025079.rsc.cdn77.org IN CNAME .
-*.1438025079.rsc.cdn77.org IN CNAME .
 1439273816.rsc.cdn77.org IN CNAME .
 *.1439273816.rsc.cdn77.org IN CNAME .
 144-217-77-9.backname.io IN CNAME .
@@ -429,8 +413,6 @@ $TTL 3600
 *.15.204.247.166.sslip.io IN CNAME .
 15.204.247.166.traefik.me IN CNAME .
 *.15.204.247.166.traefik.me IN CNAME .
-1502025344.rsc.cdn77.org IN CNAME .
-*.1502025344.rsc.cdn77.org IN CNAME .
 1504019855.rsc.cdn77.org IN CNAME .
 *.1504019855.rsc.cdn77.org IN CNAME .
 1506093233.rsc.cdn77.org IN CNAME .
@@ -501,10 +483,6 @@ $TTL 3600
 *.1554441360.rsc.cdn77.org IN CNAME .
 1554552077.rsc.cdn77.org IN CNAME .
 *.1554552077.rsc.cdn77.org IN CNAME .
-1555796374.rsc.cdn77.org IN CNAME .
-*.1555796374.rsc.cdn77.org IN CNAME .
-1559679430.rsc.cdn77.org IN CNAME .
-*.1559679430.rsc.cdn77.org IN CNAME .
 1560791640.rsc.cdn77.org IN CNAME .
 *.1560791640.rsc.cdn77.org IN CNAME .
 1561577691.rsc.cdn77.org IN CNAME .
@@ -819,8 +797,6 @@ $TTL 3600
 *.233py.com IN CNAME .
 268222219.xyz IN CNAME .
 *.268222219.xyz IN CNAME .
-27ddd1.mmd1.meli-n12.info IN CNAME .
-*.27ddd1.mmd1.meli-n12.info IN CNAME .
 2vwijqat.com IN CNAME .
 *.2vwijqat.com IN CNAME .
 2wired.hopto.org IN CNAME .
@@ -849,6 +825,8 @@ $TTL 3600
 *.37er19htfd.execute-api.us-east-1.amazonaws.com IN CNAME .
 3dns.eu IN CNAME .
 *.3dns.eu IN CNAME .
+3etare.co.uk IN CNAME .
+*.3etare.co.uk IN CNAME .
 3ik9bjnm.com IN CNAME .
 *.3ik9bjnm.com IN CNAME .
 401-0506.b-cdn.net IN CNAME .
@@ -1179,8 +1157,6 @@ adguard-vpn.com IN CNAME .
 *.adguard-vpn.com IN CNAME .
 adguard-vpn.online IN CNAME .
 *.adguard-vpn.online IN CNAME .
-adguard.bug3factory.ddns.net IN CNAME .
-*.adguard.bug3factory.ddns.net IN CNAME .
 adguard.ekhozie.dynu.net IN CNAME .
 *.adguard.ekhozie.dynu.net IN CNAME .
 adguard.eoghan-net.com IN CNAME .
@@ -1523,6 +1499,8 @@ bananakun.zapto.org IN CNAME .
 *.bananakun.zapto.org IN CNAME .
 bannana.web-doge.42web.io IN CNAME .
 *.bannana.web-doge.42web.io IN CNAME .
+baran.goooalir.co.uk IN CNAME .
+*.baran.goooalir.co.uk IN CNAME .
 bartproxies.com IN CNAME .
 *.bartproxies.com IN CNAME .
 bashful-stretch.surge.sh IN CNAME .
@@ -1709,6 +1687,8 @@ burrvillees.org.cdn.cloudflare.net IN CNAME .
 *.burrvillees.org.cdn.cloudflare.net IN CNAME .
 buy.artweb.website.cdn.cloudflare.net IN CNAME .
 *.buy.artweb.website.cdn.cloudflare.net IN CNAME .
+bvv608.ir.meli-n13.info IN CNAME .
+*.bvv608.ir.meli-n13.info IN CNAME .
 bydcs.ipv64.net IN CNAME .
 *.bydcs.ipv64.net IN CNAME .
 byteful.com IN CNAME .
@@ -1781,6 +1761,8 @@ cayden.farted.net IN CNAME .
 *.cayden.farted.net IN CNAME .
 ccadguard.dynu.net IN CNAME .
 *.ccadguard.dynu.net IN CNAME .
+ccc.horizon555.co.uk IN CNAME .
+*.ccc.horizon555.co.uk IN CNAME .
 cdn-7xf.pages.dev IN CNAME .
 *.cdn-7xf.pages.dev IN CNAME .
 cdn-earnapp.b-cdn.net IN CNAME .
@@ -1945,8 +1927,6 @@ config-24.com IN CNAME .
 *.config-24.com IN CNAME .
 connect.info.north-kazakhstan.su.cdn.cloudflare.net IN CNAME .
 *.connect.info.north-kazakhstan.su.cdn.cloudflare.net IN CNAME .
-connect.mishutkin.click IN CNAME .
-*.connect.mishutkin.click IN CNAME .
 consumervpn.trendmicro.com IN CNAME .
 *.consumervpn.trendmicro.com IN CNAME .
 contentabc.com IN CNAME .
@@ -3071,6 +3051,8 @@ diskjlpa9.easterndns.com IN CNAME .
 *.diskjlpa9.easterndns.com IN CNAME .
 diufks10.easterndns.com IN CNAME .
 *.diufks10.easterndns.com IN CNAME .
+dizgrakh.mamadali.co.uk IN CNAME .
+*.dizgrakh.mamadali.co.uk IN CNAME .
 dj2ozsqktgipp.cloudfront.net IN CNAME .
 *.dj2ozsqktgipp.cloudfront.net IN CNAME .
 djfbasjbnijasdas.info.north-kazakhstan.su.cdn.cloudflare.net IN CNAME .
@@ -3797,6 +3779,8 @@ fargos2.dns.army IN CNAME .
 *.fargos2.dns.army IN CNAME .
 fast.finecooking.info IN CNAME .
 *.fast.finecooking.info IN CNAME .
+fast.mishutkin.click IN CNAME .
+*.fast.mishutkin.click IN CNAME .
 fastcloudcdn.net IN CNAME .
 *.fastcloudcdn.net IN CNAME .
 fastconn.github.io IN CNAME .
@@ -4599,6 +4583,8 @@ ilovepetezahparty.vincenzodimaro.it.cdn.cloudflare.net IN CNAME .
 *.ilovepetezahparty.vincenzodimaro.it.cdn.cloudflare.net IN CNAME .
 ilpphgf.ipv64.net IN CNAME .
 *.ilpphgf.ipv64.net IN CNAME .
+im.dumaniltd.co.uk IN CNAME .
+*.im.dumaniltd.co.uk IN CNAME .
 imgcache.b-cdn.net IN CNAME .
 *.imgcache.b-cdn.net IN CNAME .
 imkayan.info.north-kazakhstan.su.cdn.cloudflare.net IN CNAME .
@@ -4769,6 +4755,8 @@ jelly-factory.com IN CNAME .
 *.jelly-factory.com IN CNAME .
 jfeoks.duckdns.org IN CNAME .
 *.jfeoks.duckdns.org IN CNAME .
+jhndoes.co.uk IN CNAME .
+*.jhndoes.co.uk IN CNAME .
 jimmysgames.cc.cdn.cloudflare.net IN CNAME .
 *.jimmysgames.cc.cdn.cloudflare.net IN CNAME .
 jit.ddns.net IN CNAME .
@@ -5181,6 +5169,8 @@ me.foltmeingop.co.uk IN CNAME .
 *.me.foltmeingop.co.uk IN CNAME .
 mechanikdns.kozow.com IN CNAME .
 *.mechanikdns.kozow.com IN CNAME .
+media12.happtg.org IN CNAME .
+*.media12.happtg.org IN CNAME .
 meela.pages.dev IN CNAME .
 *.meela.pages.dev IN CNAME .
 mekilavo.hair IN CNAME .
@@ -5279,6 +5269,8 @@ msstore-submissions.s3.us-east-1.amazonaws.com IN CNAME .
 *.msstore-submissions.s3.us-east-1.amazonaws.com IN CNAME .
 mtpro.xyz IN CNAME .
 *.mtpro.xyz IN CNAME .
+mtproxygram.lol IN CNAME .
+*.mtproxygram.lol IN CNAME .
 mtyrqg.com IN CNAME .
 *.mtyrqg.com IN CNAME .
 mudfish.net IN CNAME .
@@ -5383,8 +5375,6 @@ new.lambforkebeb.co.uk IN CNAME .
 *.new.lambforkebeb.co.uk IN CNAME .
 new.nchnch.co.uk IN CNAME .
 *.new.nchnch.co.uk IN CNAME .
-new2.lambforkebeb.co.uk IN CNAME .
-*.new2.lambforkebeb.co.uk IN CNAME .
 newlenta24.online IN CNAME .
 *.newlenta24.online IN CNAME .
 newlibrarian.myqnapcloud.com IN CNAME .
@@ -6145,8 +6135,6 @@ rhproxy.kozow.com IN CNAME .
 *.rhproxy.kozow.com IN CNAME .
 riga91197.mooo.com IN CNAME .
 *.riga91197.mooo.com IN CNAME .
-rightel-irancell.ir.mausjakaqd.info IN CNAME .
-*.rightel-irancell.ir.mausjakaqd.info IN CNAME .
 ring.clean.abrdns.com IN CNAME .
 *.ring.clean.abrdns.com IN CNAME .
 ripschool.zone.id IN CNAME .
@@ -6219,6 +6207,8 @@ s.info.north-kazakhstan.su.cdn.cloudflare.net IN CNAME .
 *.s.info.north-kazakhstan.su.cdn.cloudflare.net IN CNAME .
 s0r4nd0m.com IN CNAME .
 *.s0r4nd0m.com IN CNAME .
+s11.assetflux.org IN CNAME .
+*.s11.assetflux.org IN CNAME .
 s14-eu5.startpage.com IN CNAME .
 *.s14-eu5.startpage.com IN CNAME .
 s15-us2.startpage.com IN CNAME .
@@ -6929,6 +6919,8 @@ tunnelbear.com IN CNAME .
 *.tunnelbear.com IN CNAME .
 tunnelbear.s3.amazonaws.com IN CNAME .
 *.tunnelbear.s3.amazonaws.com IN CNAME .
+tunnelmole.net IN CNAME .
+*.tunnelmole.net IN CNAME .
 turbo-node.vercel.app IN CNAME .
 *.turbo-node.vercel.app IN CNAME .
 turboitems.com IN CNAME .
@@ -7121,8 +7113,6 @@ v4-ai14.vercel.app IN CNAME .
 *.v4-ai14.vercel.app IN CNAME .
 v4.quest.cdn.cloudflare.net IN CNAME .
 *.v4.quest.cdn.cloudflare.net IN CNAME .
-v6v68.ir.ir.ir.meli-n12.info IN CNAME .
-*.v6v68.ir.ir.ir.meli-n12.info IN CNAME .
 vahshianeh.ghodratitarin.info IN CNAME .
 *.vahshianeh.ghodratitarin.info IN CNAME .
 vaipnvpn1-metadata-rtdb.firebaseio.com IN CNAME .
@@ -7141,6 +7131,8 @@ vaporon.top.cdn.cloudflare.net IN CNAME .
 *.vaporon.top.cdn.cloudflare.net IN CNAME .
 vaporsite.pages.dev IN CNAME .
 *.vaporsite.pages.dev IN CNAME .
+vasalshim.mamadgoli.co.uk IN CNAME .
+*.vasalshim.mamadgoli.co.uk IN CNAME .
 vasle.goooalir.co.uk IN CNAME .
 *.vasle.goooalir.co.uk IN CNAME .
 vbox-proxy.netlify.app IN CNAME .
