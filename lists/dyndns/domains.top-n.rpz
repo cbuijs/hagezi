@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1791166526 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1791252958 12h 15m 3w 3h
 1cooldns.com IN CNAME .
 *.1cooldns.com IN CNAME .
 25u.com IN CNAME .
@@ -347,6 +347,8 @@ freeddns.com IN CNAME .
 *.freeddns.com IN CNAME .
 freeddns.org IN CNAME .
 *.freeddns.org IN CNAME .
+freedynamicdns.net IN CNAME .
+*.freedynamicdns.net IN CNAME .
 freemyip.com IN CNAME .
 *.freemyip.com IN CNAME .
 freetcp.com IN CNAME .
@@ -809,8 +811,6 @@ topdns.com IN CNAME .
 *.topdns.com IN CNAME .
 topsddns.net IN CNAME .
 *.topsddns.net IN CNAME .
-toshibanetcam.com IN CNAME .
-*.toshibanetcam.com IN CNAME .
 toythieves.com IN CNAME .
 *.toythieves.com IN CNAME .
 tpddns.cn IN CNAME .
