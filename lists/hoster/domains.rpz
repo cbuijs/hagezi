@@ -1,6 +1,6 @@
 ; RPZ "HOSTER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1791339586 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1791426013 12h 15m 3w 3h
 000.pe IN CNAME .
 *.000.pe IN CNAME .
 000a.de IN CNAME .
@@ -599,6 +599,8 @@ boxmode.io IN CNAME .
 *.boxmode.io IN CNAME .
 br.gp IN CNAME .
 *.br.gp IN CNAME .
+bugs3.com IN CNAME .
+*.bugs3.com IN CNAME .
 builderall.net IN CNAME .
 *.builderall.net IN CNAME .
 builtfree.org IN CNAME .
@@ -1295,8 +1297,6 @@ im-internet.eu IN CNAME .
 *.im-internet.eu IN CNAME .
 imagengratis.org IN CNAME .
 *.imagengratis.org IN CNAME .
-imageurlhost.com IN CNAME .
-*.imageurlhost.com IN CNAME .
 in.gp IN CNAME .
 *.in.gp IN CNAME .
 in.run IN CNAME .
@@ -2095,6 +2095,8 @@ tentbuildingservices.eu IN CNAME .
 *.tentbuildingservices.eu IN CNAME .
 test.lc IN CNAME .
 *.test.lc IN CNAME .
+testingnow.me IN CNAME .
+*.testingnow.me IN CNAME .
 th.gp IN CNAME .
 *.th.gp IN CNAME .
 thamboli.co.za IN CNAME .
