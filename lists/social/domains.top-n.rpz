@@ -1,6 +1,6 @@
 ; RPZ "SOCIAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1791514120 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1791600708 12h 15m 3w 3h
 2ch.org IN CNAME .
 *.2ch.org IN CNAME .
 4cdn.org IN CNAME .
@@ -395,8 +395,6 @@ mathstodon.xyz IN CNAME .
 *.mathstodon.xyz IN CNAME .
 messenger.com IN CNAME .
 *.messenger.com IN CNAME .
-metalhead.club IN CNAME .
-*.metalhead.club IN CNAME .
 mindly.social IN CNAME .
 *.mindly.social IN CNAME .
 mirtesen.ru IN CNAME .
@@ -601,8 +599,12 @@ thefind.com IN CNAME .
 *.thefind.com IN CNAME .
 tiktok.com IN CNAME .
 *.tiktok.com IN CNAME .
+tiktok.tps.dv.tech IN CNAME .
+*.tiktok.tps.dv.tech IN CNAME .
 tiktokcdn-eu.com IN CNAME .
 *.tiktokcdn-eu.com IN CNAME .
+tiktokcdn-eu.com.ttdns3.com IN CNAME .
+*.tiktokcdn-eu.com.ttdns3.com IN CNAME .
 tiktokcdn-eu.net IN CNAME .
 *.tiktokcdn-eu.net IN CNAME .
 tiktokcdn-in.com IN CNAME .
@@ -615,10 +617,16 @@ tiktokrow-cdn.com IN CNAME .
 *.tiktokrow-cdn.com IN CNAME .
 tiktokv.com IN CNAME .
 *.tiktokv.com IN CNAME .
+tiktokv.com.edgesuite.net IN CNAME .
+*.tiktokv.com.edgesuite.net IN CNAME .
 tiktokv.eu IN CNAME .
 *.tiktokv.eu IN CNAME .
+tiktokv.eu.edgesuite.net IN CNAME .
+*.tiktokv.eu.edgesuite.net IN CNAME .
 tiktokv.us IN CNAME .
 *.tiktokv.us IN CNAME .
+tiktokv.us.edgesuite.net IN CNAME .
+*.tiktokv.us.edgesuite.net IN CNAME .
 tiktokw.eu IN CNAME .
 *.tiktokw.eu IN CNAME .
 tiktokw.us IN CNAME .

@@ -1,14 +1,12 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1791514609 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1791601591 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
 *.1l.my.games IN CNAME .
 2performant.com IN CNAME .
 *.2performant.com IN CNAME .
-47587921.group0.sites.hscoscdn-ap1.net IN CNAME .
-*.47587921.group0.sites.hscoscdn-ap1.net IN CNAME .
 4patientcare-cdn.exponea.com IN CNAME .
 *.4patientcare-cdn.exponea.com IN CNAME .
 7eer.net IN CNAME .
@@ -433,8 +431,6 @@ api-eu.cleverpush.com IN CNAME .
 *.api-eu.cleverpush.com IN CNAME .
 api-eu1.hubapi.com IN CNAME .
 *.api-eu1.hubapi.com IN CNAME .
-api-fra02-origin.hubapi.com IN CNAME .
-*.api-fra02-origin.hubapi.com IN CNAME .
 api-mobile.cleverpush.com IN CNAME .
 *.api-mobile.cleverpush.com IN CNAME .
 api-na1.hubapi.com IN CNAME .
@@ -449,8 +445,6 @@ api.cleverpush.com IN CNAME .
 *.api.cleverpush.com IN CNAME .
 api.elasticemail.com IN CNAME .
 *.api.elasticemail.com IN CNAME .
-api.eu1.hubapi.com IN CNAME .
-*.api.eu1.hubapi.com IN CNAME .
 api.heylink.com IN CNAME .
 *.api.heylink.com IN CNAME .
 api.hubapi.com IN CNAME .
@@ -559,6 +553,8 @@ awstrack.me IN CNAME .
 *.awstrack.me IN CNAME .
 aylink.co IN CNAME .
 *.aylink.co IN CNAME .
+bapi-01.moengage.com IN CNAME .
+*.bapi-01.moengage.com IN CNAME .
 bapi-02.moengage.com IN CNAME .
 *.bapi-02.moengage.com IN CNAME .
 bapi-04.moengage.com IN CNAME .
@@ -1125,6 +1121,8 @@ m-4wovq.custobar.com IN CNAME .
 *.m-4wovq.custobar.com IN CNAME .
 m-54yud.custobar.com IN CNAME .
 *.m-54yud.custobar.com IN CNAME .
+m-55aim.custobar.com IN CNAME .
+*.m-55aim.custobar.com IN CNAME .
 m-5fwyg.custobar.com IN CNAME .
 *.m-5fwyg.custobar.com IN CNAME .
 m-5gene.custobar.com IN CNAME .
@@ -1495,6 +1493,8 @@ shareasale.com IN CNAME .
 *.shareasale.com IN CNAME .
 short.io IN CNAME .
 *.short.io IN CNAME .
+sites.hscoscdn-ap1.net IN CNAME .
+*.sites.hscoscdn-ap1.net IN CNAME .
 sites.hscoscdn-eu1.net IN CNAME .
 *.sites.hscoscdn-eu1.net IN CNAME .
 sites.hscoscdn-na2.net IN CNAME .

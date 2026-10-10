@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-VIVO"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1791512535 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1791598961 12h 15m 3w 3h
 adlog.vivo.com IN CNAME .
 *.adlog.vivo.com IN CNAME .
 adlog.vivo.com.cn IN CNAME .
@@ -119,6 +119,8 @@ cname-in-ctdbonrt-stsdk.vivoglobal.com IN CNAME .
 *.cname-in-ctdbonrt-stsdk.vivoglobal.com IN CNAME .
 cname-sin01-stsdk09.vivoglobal.com IN CNAME .
 *.cname-sin01-stsdk09.vivoglobal.com IN CNAME .
+co-album-api.vivoglobal.com IN CNAME .
+*.co-album-api.vivoglobal.com IN CNAME .
 co-cota.vivoglobal.com IN CNAME .
 *.co-cota.vivoglobal.com IN CNAME .
 co-domaincfg.vivoglobal.com IN CNAME .

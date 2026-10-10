@@ -1,6 +1,6 @@
 ; RPZ "SPAM-TLDS-ALLOW-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1791514130 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1791600719 12h 15m 3w 3h
 10gen.cc IN CNAME .
 *.10gen.cc IN CNAME .
 18comic.vip IN CNAME .
@@ -67,6 +67,8 @@ boo.dating IN CNAME .
 *.boo.dating IN CNAME .
 boo.world IN CNAME .
 *.boo.world IN CNAME .
+bunkr.red IN CNAME .
+*.bunkr.red IN CNAME .
 buybox.click IN CNAME .
 *.buybox.click IN CNAME .
 bypass.city IN CNAME .
