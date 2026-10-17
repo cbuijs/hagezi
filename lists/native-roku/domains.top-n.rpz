@@ -1,42 +1,10 @@
 ; RPZ "NATIVE-ROKU-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1792116978 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1792203713 12h 15m 3w 3h
 acr.roku.com IN CNAME .
 *.acr.roku.com IN CNAME .
-ad-bl.geoproximity.staging.rpay.roku.com IN CNAME .
-*.ad-bl.geoproximity.staging.rpay.roku.com IN CNAME .
-ad-bl.prod.rpay.int.roku.com IN CNAME .
-*.ad-bl.prod.rpay.int.roku.com IN CNAME .
-ad-bl.usw2.staging.rpay.int.roku.com IN CNAME .
-*.ad-bl.usw2.staging.rpay.int.roku.com IN CNAME .
-ad-eng-bl.geoproximity.staging.rpay.roku.com IN CNAME .
-*.ad-eng-bl.geoproximity.staging.rpay.roku.com IN CNAME .
-ad-eng-bl.use1.prod.rpay.int.roku.com IN CNAME .
-*.ad-eng-bl.use1.prod.rpay.int.roku.com IN CNAME .
-ad-eng-bl.usw2.prod.rpay.int.roku.com IN CNAME .
-*.ad-eng-bl.usw2.prod.rpay.int.roku.com IN CNAME .
-ad-eng-pci-bl.geoproximity.rpay.roku.com IN CNAME .
-*.ad-eng-pci-bl.geoproximity.rpay.roku.com IN CNAME .
-ad-eng-pci-bl.geoproximity.staging.rpay.roku.com IN CNAME .
-*.ad-eng-pci-bl.geoproximity.staging.rpay.roku.com IN CNAME .
-ad-eng-pci-bl.prod.rpay.int.roku.com IN CNAME .
-*.ad-eng-pci-bl.prod.rpay.int.roku.com IN CNAME .
-ad-eng-pci-bl.use1.prod.rpay.int.roku.com IN CNAME .
-*.ad-eng-pci-bl.use1.prod.rpay.int.roku.com IN CNAME .
-ad-eng-pci-bl.usw2.prod.rpay.int.roku.com IN CNAME .
-*.ad-eng-pci-bl.usw2.prod.rpay.int.roku.com IN CNAME .
-ad-eng-pci.prod.rpay.int.roku.com IN CNAME .
-*.ad-eng-pci.prod.rpay.int.roku.com IN CNAME .
-ad-eng.prod.rpay.int.roku.com IN CNAME .
-*.ad-eng.prod.rpay.int.roku.com IN CNAME .
-ad-eng.staging.rpay.int.roku.com IN CNAME .
-*.ad-eng.staging.rpay.int.roku.com IN CNAME .
-ad.prod.rpay.int.roku.com IN CNAME .
-*.ad.prod.rpay.int.roku.com IN CNAME .
 ad.qa.ap.int.roku.com IN CNAME .
 *.ad.qa.ap.int.roku.com IN CNAME .
-ad.staging.rpay.int.roku.com IN CNAME .
-*.ad.staging.rpay.int.roku.com IN CNAME .
 ad.usw2.qa.ap.int.roku.com IN CNAME .
 *.ad.usw2.qa.ap.int.roku.com IN CNAME .
 adeng-identity-prod3.bdp.roku.com IN CNAME .

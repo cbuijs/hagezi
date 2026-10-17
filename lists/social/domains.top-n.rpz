@@ -1,6 +1,6 @@
 ; RPZ "SOCIAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1792117411 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1792205220 12h 15m 3w 3h
 0xdd.org.ru IN CNAME .
 *.0xdd.org.ru IN CNAME .
 101010.pl IN CNAME .
@@ -187,6 +187,8 @@ douyinvod.com IN CNAME .
 *.douyinvod.com IN CNAME .
 drehspiess-online.de IN CNAME .
 *.drehspiess-online.de IN CNAME .
+ds9.lemmy.ml IN CNAME .
+*.ds9.lemmy.ml IN CNAME .
 dtf.ru IN CNAME .
 *.dtf.ru IN CNAME .
 dtp-mstdn.jp IN CNAME .
@@ -287,8 +289,6 @@ fosstodon.org IN CNAME .
 *.fosstodon.org IN CNAME .
 fotostrana.ru IN CNAME .
 *.fotostrana.ru IN CNAME .
-framapiaf.org IN CNAME .
-*.framapiaf.org IN CNAME .
 freebasics.com IN CNAME .
 *.freebasics.com IN CNAME .
 friend.baai.ac.cn IN CNAME .
@@ -299,6 +299,8 @@ friendica.eskimo.com IN CNAME .
 *.friendica.eskimo.com IN CNAME .
 friendica.helvetet.eu IN CNAME .
 *.friendica.helvetet.eu IN CNAME .
+friendica.world IN CNAME .
+*.friendica.world IN CNAME .
 funkwhale.duckdns.org IN CNAME .
 *.funkwhale.duckdns.org IN CNAME .
 futurology.today IN CNAME .
@@ -331,12 +333,8 @@ hammerandchisel.ssl.zendesk.com IN CNAME .
 *.hammerandchisel.ssl.zendesk.com IN CNAME .
 herbicide.fallcounty.omg.lol IN CNAME .
 *.herbicide.fallcounty.omg.lol IN CNAME .
-hessen.social IN CNAME .
-*.hessen.social IN CNAME .
 hoihoi.superboi.eu.org IN CNAME .
 *.hoihoi.superboi.eu.org IN CNAME .
-hostux.social IN CNAME .
-*.hostux.social IN CNAME .
 hubzilla.eskimo.com IN CNAME .
 *.hubzilla.eskimo.com IN CNAME .
 hulvr.com IN CNAME .
@@ -495,6 +493,8 @@ lemmy.dbzer0.com IN CNAME .
 *.lemmy.dbzer0.com IN CNAME .
 lemmy.frozeninferno.xyz IN CNAME .
 *.lemmy.frozeninferno.xyz IN CNAME .
+lemmy.grey.ooo IN CNAME .
+*.lemmy.grey.ooo IN CNAME .
 lemmy.hangdaan.com IN CNAME .
 *.lemmy.hangdaan.com IN CNAME .
 lemmy.helvetet.eu IN CNAME .
@@ -623,6 +623,8 @@ mastodon.acc.sunet.se IN CNAME .
 *.mastodon.acc.sunet.se IN CNAME .
 mastodon.acm.org IN CNAME .
 *.mastodon.acm.org IN CNAME .
+mastodon.adst.org IN CNAME .
+*.mastodon.adst.org IN CNAME .
 mastodon.anteiku.mydns.jp IN CNAME .
 *.mastodon.anteiku.mydns.jp IN CNAME .
 mastodon.archive.org IN CNAME .
@@ -647,6 +649,8 @@ mastodon.devontechnologies.com IN CNAME .
 *.mastodon.devontechnologies.com IN CNAME .
 mastodon.dias.ie IN CNAME .
 *.mastodon.dias.ie IN CNAME .
+mastodon.eskimo.com IN CNAME .
+*.mastodon.eskimo.com IN CNAME .
 mastodon.fightforthefuture.org IN CNAME .
 *.mastodon.fightforthefuture.org IN CNAME .
 mastodon.from-de.com IN CNAME .
@@ -695,8 +699,6 @@ mastodon.nether.net IN CNAME .
 *.mastodon.nether.net IN CNAME .
 mastodon.nl IN CNAME .
 *.mastodon.nl IN CNAME .
-mastodon.nu IN CNAME .
-*.mastodon.nu IN CNAME .
 mastodon.nudecri.unicamp.br IN CNAME .
 *.mastodon.nudecri.unicamp.br IN CNAME .
 mastodon.nz IN CNAME .
@@ -751,6 +753,8 @@ mastodon.tymoon.eu IN CNAME .
 *.mastodon.tymoon.eu IN CNAME .
 mastodon.uno IN CNAME .
 *.mastodon.uno IN CNAME .
+mastodon.usal.es IN CNAME .
+*.mastodon.usal.es IN CNAME .
 mastodon.well.com IN CNAME .
 *.mastodon.well.com IN CNAME .
 mastodon.world IN CNAME .
@@ -771,6 +775,8 @@ mathstodon.xyz IN CNAME .
 *.mathstodon.xyz IN CNAME .
 me.dm IN CNAME .
 *.me.dm IN CNAME .
+me.illis.ddns.net IN CNAME .
+*.me.illis.ddns.net IN CNAME .
 media.interior.edu.uy IN CNAME .
 *.media.interior.edu.uy IN CNAME .
 media.nolog.cz IN CNAME .
@@ -847,6 +853,12 @@ nerdculture.de IN CNAME .
 *.nerdculture.de IN CNAME .
 newskey.ja-jp.org IN CNAME .
 *.newskey.ja-jp.org IN CNAME .
+nitter.kareem.one IN CNAME .
+*.nitter.kareem.one IN CNAME .
+nitter.pp.ua IN CNAME .
+*.nitter.pp.ua IN CNAME .
+nitter.tiekoetter.com IN CNAME .
+*.nitter.tiekoetter.com IN CNAME .
 no.lastname.nz IN CNAME .
 *.no.lastname.nz IN CNAME .
 noc.social IN CNAME .
@@ -929,8 +941,6 @@ peertube.astral0pitek.synology.me IN CNAME .
 *.peertube.astral0pitek.synology.me IN CNAME .
 peertube.beeldengeluid.nl IN CNAME .
 *.peertube.beeldengeluid.nl IN CNAME .
-peertube.gravitywell.xyz IN CNAME .
-*.peertube.gravitywell.xyz IN CNAME .
 peertube.heise.de IN CNAME .
 *.peertube.heise.de IN CNAME .
 peertube.helvetet.eu IN CNAME .
@@ -1041,8 +1051,6 @@ pixel.sp-codes.de IN CNAME .
 *.pixel.sp-codes.de IN CNAME .
 pixel.tchncs.de IN CNAME .
 *.pixel.tchncs.de IN CNAME .
-pixelfed.cats-home.net IN CNAME .
-*.pixelfed.cats-home.net IN CNAME .
 pixelfed.de IN CNAME .
 *.pixelfed.de IN CNAME .
 pixelfed.eskimo.com IN CNAME .
@@ -1071,8 +1079,6 @@ pleroma.pch.net IN CNAME .
 *.pleroma.pch.net IN CNAME .
 polaroid.absturztau.be IN CNAME .
 *.polaroid.absturztau.be IN CNAME .
-possum.city IN CNAME .
-*.possum.city IN CNAME .
 pouet.chapril.org IN CNAME .
 *.pouet.chapril.org IN CNAME .
 procial.tchncs.de IN CNAME .
@@ -1201,8 +1207,6 @@ social.darc.de IN CNAME .
 *.social.darc.de IN CNAME .
 social.data.coop IN CNAME .
 *.social.data.coop IN CNAME .
-social.dcomms.colnodo.apc.org IN CNAME .
-*.social.dcomms.colnodo.apc.org IN CNAME .
 social.detektor.fm IN CNAME .
 *.social.detektor.fm IN CNAME .
 social.earth.li IN CNAME .
@@ -1227,8 +1231,6 @@ social.funk.net IN CNAME .
 *.social.funk.net IN CNAME .
 social.fz-juelich.de IN CNAME .
 *.social.fz-juelich.de IN CNAME .
-social.garudalinux.org IN CNAME .
-*.social.garudalinux.org IN CNAME .
 social.gitea.io IN CNAME .
 *.social.gitea.io IN CNAME .
 social.gnuweeb.org IN CNAME .
@@ -1537,6 +1539,8 @@ vhs.absturztau.be IN CNAME .
 *.vhs.absturztau.be IN CNAME .
 video.adullact.org IN CNAME .
 *.video.adullact.org IN CNAME .
+video.antopie.org IN CNAME .
+*.video.antopie.org IN CNAME .
 video.barcelo.ynh.fr IN CNAME .
 *.video.barcelo.ynh.fr IN CNAME .
 video.bilecik.edu.tr IN CNAME .
@@ -1545,14 +1549,14 @@ video.blender.org IN CNAME .
 *.video.blender.org IN CNAME .
 video.cartoon-aa.xyz IN CNAME .
 *.video.cartoon-aa.xyz IN CNAME .
-video.cats-home.net IN CNAME .
-*.video.cats-home.net IN CNAME .
 video.cnr.it IN CNAME .
 *.video.cnr.it IN CNAME .
 video.elfhosted.com IN CNAME .
 *.video.elfhosted.com IN CNAME .
 video.fuss.bz.it IN CNAME .
 *.video.fuss.bz.it IN CNAME .
+video.genky.duckdns.org IN CNAME .
+*.video.genky.duckdns.org IN CNAME .
 video.igem.org IN CNAME .
 *.video.igem.org IN CNAME .
 video.ipng.ch IN CNAME .
@@ -1595,6 +1599,8 @@ videos.wirtube.de IN CNAME .
 *.videos.wirtube.de IN CNAME .
 videos.yeswiki.net IN CNAME .
 *.videos.yeswiki.net IN CNAME .
+videotheque.uness.fr IN CNAME .
+*.videotheque.uness.fr IN CNAME .
 videotube.duckdns.org IN CNAME .
 *.videotube.duckdns.org IN CNAME .
 vine.co IN CNAME .
