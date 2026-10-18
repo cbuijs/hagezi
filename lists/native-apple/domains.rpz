@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-APPLE"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1792203696 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1792290134 12h 15m 3w 3h
 acfeedbackws.icloud.com IN CNAME .
 *.acfeedbackws.icloud.com IN CNAME .
 ads.apple.com IN CNAME .
@@ -15,6 +15,8 @@ analytics-events.apple.com IN CNAME .
 *.analytics-events.apple.com IN CNAME .
 api-adservices.apple.com IN CNAME .
 *.api-adservices.apple.com IN CNAME .
+app-events.infoapps.apple.com IN CNAME .
+*.app-events.infoapps.apple.com IN CNAME .
 applemediaservices.com IN CNAME .
 *.applemediaservices.com IN CNAME .
 beacon.shazam.com IN CNAME .
@@ -69,6 +71,8 @@ feedbackws.icloud.com.cn IN CNAME .
 *.feedbackws.icloud.com.cn IN CNAME .
 flirfvysba2opz0zmzqs5iuiad.apple.com IN CNAME .
 *.flirfvysba2opz0zmzqs5iuiad.apple.com IN CNAME .
+freeform-events.apple.com IN CNAME .
+*.freeform-events.apple.com IN CNAME .
 graffiti-tags.apple.com IN CNAME .
 *.graffiti-tags.apple.com IN CNAME .
 h4g3z1-native-apple.web.app IN CNAME .
@@ -149,6 +153,8 @@ podcasts-analytics-events.apple.com IN CNAME .
 *.podcasts-analytics-events.apple.com IN CNAME .
 prd-usw2-requestattribution-iad.apple.com IN CNAME .
 *.prd-usw2-requestattribution-iad.apple.com IN CNAME .
+prod-app-analytics-event-gateway.v.aaplimg.com IN CNAME .
+*.prod-app-analytics-event-gateway.v.aaplimg.com IN CNAME .
 prod-event-relay-api.v.aaplimg.com IN CNAME .
 *.prod-event-relay-api.v.aaplimg.com IN CNAME .
 prod-event-relay-books-api.v.aaplimg.com IN CNAME .
@@ -161,6 +167,8 @@ prod-event-relay-stocks-api.v.aaplimg.com IN CNAME .
 *.prod-event-relay-stocks-api.v.aaplimg.com IN CNAME .
 prod-event-relay-weather-api.v.aaplimg.com IN CNAME .
 *.prod-event-relay-weather-api.v.aaplimg.com IN CNAME .
+prod-iwork-events.v.aaplimg.com IN CNAME .
+*.prod-iwork-events.v.aaplimg.com IN CNAME .
 prod-news-notification-events.v.aaplimg.com IN CNAME .
 *.prod-news-notification-events.v.aaplimg.com IN CNAME .
 proxy-skadnetwork.apple.com IN CNAME .
