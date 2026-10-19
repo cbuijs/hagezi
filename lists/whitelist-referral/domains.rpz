@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1792292793 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1792378097 12h 15m 3w 3h
 1-aclk.net IN CNAME .
 *.1-aclk.net IN CNAME .
 1aurl.io IN CNAME .
@@ -17,10 +17,16 @@ $TTL 3600
 *.2performant.com IN CNAME .
 3-aclk.net IN CNAME .
 *.3-aclk.net IN CNAME .
+341676991.group0.sites.hscoscdn-na3.net IN CNAME .
+*.341676991.group0.sites.hscoscdn-na3.net IN CNAME .
+341850582.group0.sites.hscoscdn-na3.net IN CNAME .
+*.341850582.group0.sites.hscoscdn-na3.net IN CNAME .
 3cinteractive.com IN CNAME .
 *.3cinteractive.com IN CNAME .
 4-aclk.net IN CNAME .
 *.4-aclk.net IN CNAME .
+47587921.group0.sites.hscoscdn-ap1.net IN CNAME .
+*.47587921.group0.sites.hscoscdn-ap1.net IN CNAME .
 4patientcare-cdn.exponea.com IN CNAME .
 *.4patientcare-cdn.exponea.com IN CNAME .
 5-aclk.net IN CNAME .
@@ -569,8 +575,6 @@ app.us.adjust.com IN CNAME .
 *.app.us.adjust.com IN CNAME .
 app1a.gateway.portal.outreach.io IN CNAME .
 *.app1a.gateway.portal.outreach.io IN CNAME .
-app1a.outreach.io IN CNAME .
-*.app1a.outreach.io IN CNAME .
 app1a.portal.outreach.io IN CNAME .
 *.app1a.portal.outreach.io IN CNAME .
 app1b.portal.outreach.io IN CNAME .
@@ -601,8 +605,6 @@ app2a.outreach.io IN CNAME .
 *.app2a.outreach.io IN CNAME .
 app2a.portal.outreach.io IN CNAME .
 *.app2a.portal.outreach.io IN CNAME .
-app2b.outreach.io IN CNAME .
-*.app2b.outreach.io IN CNAME .
 app2b.portal.outreach.io IN CNAME .
 *.app2b.portal.outreach.io IN CNAME .
 app2c.gateway.portal.outreach.io IN CNAME .
@@ -769,8 +771,6 @@ cdn.eu1.exponea.com IN CNAME .
 *.cdn.eu1.exponea.com IN CNAME .
 cdn.exponea.com IN CNAME .
 *.cdn.exponea.com IN CNAME .
-cdn.ftspecialist.exponea.com IN CNAME .
-*.cdn.ftspecialist.exponea.com IN CNAME .
 cdn.mie.exponea.com IN CNAME .
 *.cdn.mie.exponea.com IN CNAME .
 cdn.network.exponea.com IN CNAME .
@@ -1717,6 +1717,8 @@ mkto-ab250068.com IN CNAME .
 *.mkto-ab250068.com IN CNAME .
 mkto-ab250105.com IN CNAME .
 *.mkto-ab250105.com IN CNAME .
+mkto-ab250167.com IN CNAME .
+*.mkto-ab250167.com IN CNAME .
 mkto-ab260164.com IN CNAME .
 *.mkto-ab260164.com IN CNAME .
 mkto-ab270090.com IN CNAME .
@@ -1733,8 +1735,6 @@ mkto-ab290102.com IN CNAME .
 *.mkto-ab290102.com IN CNAME .
 mkto-ab290138.com IN CNAME .
 *.mkto-ab290138.com IN CNAME .
-mkto-ab300154.com IN CNAME .
-*.mkto-ab300154.com IN CNAME .
 mkto-ab320182.com IN CNAME .
 *.mkto-ab320182.com IN CNAME .
 mkto-ab320191.com IN CNAME .
@@ -1829,8 +1829,6 @@ mkto-ab500022.com IN CNAME .
 *.mkto-ab500022.com IN CNAME .
 mkto-ab520004.com IN CNAME .
 *.mkto-ab520004.com IN CNAME .
-mkto-ab530057.com IN CNAME .
-*.mkto-ab530057.com IN CNAME .
 mkto-ab530192.com IN CNAME .
 *.mkto-ab530192.com IN CNAME .
 mkto-ab540143.com IN CNAME .
@@ -2587,14 +2585,10 @@ short.cm IN CNAME .
 *.short.cm IN CNAME .
 short.io IN CNAME .
 *.short.io IN CNAME .
-sites.hscoscdn-ap1.net IN CNAME .
-*.sites.hscoscdn-ap1.net IN CNAME .
 sites.hscoscdn-eu1.net IN CNAME .
 *.sites.hscoscdn-eu1.net IN CNAME .
 sites.hscoscdn-na2.net IN CNAME .
 *.sites.hscoscdn-na2.net IN CNAME .
-sites.hscoscdn-na3.net IN CNAME .
-*.sites.hscoscdn-na3.net IN CNAME .
 sites.hscoscdn00.net IN CNAME .
 *.sites.hscoscdn00.net IN CNAME .
 sites.hscoscdn10.net IN CNAME .
