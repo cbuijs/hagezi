@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1792378097 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1792464985 12h 15m 3w 3h
 1-aclk.net IN CNAME .
 *.1-aclk.net IN CNAME .
 1aurl.io IN CNAME .
@@ -25,8 +25,6 @@ $TTL 3600
 *.3cinteractive.com IN CNAME .
 4-aclk.net IN CNAME .
 *.4-aclk.net IN CNAME .
-47587921.group0.sites.hscoscdn-ap1.net IN CNAME .
-*.47587921.group0.sites.hscoscdn-ap1.net IN CNAME .
 4patientcare-cdn.exponea.com IN CNAME .
 *.4patientcare-cdn.exponea.com IN CNAME .
 5-aclk.net IN CNAME .
@@ -575,6 +573,8 @@ app.us.adjust.com IN CNAME .
 *.app.us.adjust.com IN CNAME .
 app1a.gateway.portal.outreach.io IN CNAME .
 *.app1a.gateway.portal.outreach.io IN CNAME .
+app1a.outreach.io IN CNAME .
+*.app1a.outreach.io IN CNAME .
 app1a.portal.outreach.io IN CNAME .
 *.app1a.portal.outreach.io IN CNAME .
 app1b.portal.outreach.io IN CNAME .
@@ -1481,6 +1481,8 @@ lt45.net IN CNAME .
 *.lt45.net IN CNAME .
 m-3b5ue.custobar.com IN CNAME .
 *.m-3b5ue.custobar.com IN CNAME .
+m-3fq4v.custobar.com IN CNAME .
+*.m-3fq4v.custobar.com IN CNAME .
 m-42m67.custobar.com IN CNAME .
 *.m-42m67.custobar.com IN CNAME .
 m-4wovq.custobar.com IN CNAME .
@@ -2245,8 +2247,6 @@ n.rich IN CNAME .
 *.n.rich IN CNAME .
 ndirect.ppro.de IN CNAME .
 *.ndirect.ppro.de IN CNAME .
-neoengage-va-cdn.exponea.com IN CNAME .
-*.neoengage-va-cdn.exponea.com IN CNAME .
 netbet.gr IN CNAME .
 *.netbet.gr IN CNAME .
 netbet.livepartners.com IN CNAME .
@@ -2585,6 +2585,8 @@ short.cm IN CNAME .
 *.short.cm IN CNAME .
 short.io IN CNAME .
 *.short.io IN CNAME .
+sites.hscoscdn-ap1.net IN CNAME .
+*.sites.hscoscdn-ap1.net IN CNAME .
 sites.hscoscdn-eu1.net IN CNAME .
 *.sites.hscoscdn-eu1.net IN CNAME .
 sites.hscoscdn-na2.net IN CNAME .
@@ -2811,6 +2813,8 @@ t.adcell.com IN CNAME .
 *.t.adcell.com IN CNAME .
 t.afi-b.com IN CNAME .
 *.t.afi-b.com IN CNAME .
+t.ajump.link IN CNAME .
+*.t.ajump.link IN CNAME .
 t.cfjump.com IN CNAME .
 *.t.cfjump.com IN CNAME .
 t.clickwise.net IN CNAME .
