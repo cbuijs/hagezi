@@ -1,6 +1,6 @@
 ; RPZ "SOCIAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1792464223 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1792550632 12h 15m 3w 3h
 0xdd.org.ru IN CNAME .
 *.0xdd.org.ru IN CNAME .
 101010.pl IN CNAME .
@@ -511,6 +511,8 @@ lemmy.imagisphe.re IN CNAME .
 *.lemmy.imagisphe.re IN CNAME .
 lemmy.jaypg.pw IN CNAME .
 *.lemmy.jaypg.pw IN CNAME .
+lemmy.linuxuserspace.show IN CNAME .
+*.lemmy.linuxuserspace.show IN CNAME .
 lemmy.norbipeti.eu IN CNAME .
 *.lemmy.norbipeti.eu IN CNAME .
 lemmy.nx.dedyn.io IN CNAME .
@@ -1381,6 +1383,10 @@ thegoatery.dyndns.org IN CNAME .
 *.thegoatery.dyndns.org IN CNAME .
 thelemmy.club IN CNAME .
 *.thelemmy.club IN CNAME .
+threads.com IN CNAME .
+*.threads.com IN CNAME .
+threads.net IN CNAME .
+*.threads.net IN CNAME .
 tiktok.com IN CNAME .
 *.tiktok.com IN CNAME .
 tiktok.tps.dv.tech IN CNAME .
@@ -1555,6 +1561,8 @@ userapi.com IN CNAME .
 *.userapi.com IN CNAME .
 vhs.absturztau.be IN CNAME .
 *.vhs.absturztau.be IN CNAME .
+vid.prometheus.systems IN CNAME .
+*.vid.prometheus.systems IN CNAME .
 video.adullact.org IN CNAME .
 *.video.adullact.org IN CNAME .
 video.antopie.org IN CNAME .

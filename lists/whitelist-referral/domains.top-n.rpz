@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1792464987 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1792551354 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -527,6 +527,8 @@ app2a.outreach.io IN CNAME .
 *.app2a.outreach.io IN CNAME .
 app2a.portal.outreach.io IN CNAME .
 *.app2a.portal.outreach.io IN CNAME .
+app2b.outreach.io IN CNAME .
+*.app2b.outreach.io IN CNAME .
 app2b.portal.outreach.io IN CNAME .
 *.app2b.portal.outreach.io IN CNAME .
 app2c.gateway.portal.outreach.io IN CNAME .
@@ -639,6 +641,8 @@ cdn.eu1.exponea.com IN CNAME .
 *.cdn.eu1.exponea.com IN CNAME .
 cdn.exponea.com IN CNAME .
 *.cdn.exponea.com IN CNAME .
+cdn.ftspecialist.exponea.com IN CNAME .
+*.cdn.ftspecialist.exponea.com IN CNAME .
 cdn.mie.exponea.com IN CNAME .
 *.cdn.mie.exponea.com IN CNAME .
 cdn.network.exponea.com IN CNAME .
@@ -1949,6 +1953,8 @@ www.googleadservices.com IN CNAME .
 *.www.googleadservices.com IN CNAME .
 www.partner-ads.com IN CNAME .
 *.www.partner-ads.com IN CNAME .
+x.bestcheck.de IN CNAME .
+*.x.bestcheck.de IN CNAME .
 xg4ken.com IN CNAME .
 *.xg4ken.com IN CNAME .
 yellowbook.com IN CNAME .

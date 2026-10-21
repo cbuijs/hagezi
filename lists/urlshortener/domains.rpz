@@ -1,6 +1,6 @@
 ; RPZ "URLSHORTENER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1792464979 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1792551347 12h 15m 3w 3h
 0.gp IN CNAME .
 *.0.gp IN CNAME .
 00m.in IN CNAME .
@@ -1853,6 +1853,8 @@ azx.az IN CNAME .
 *.azx.az IN CNAME .
 b-gat.es IN CNAME .
 *.b-gat.es IN CNAME .
+b-short.link IN CNAME .
+*.b-short.link IN CNAME .
 b-url.it IN CNAME .
 *.b-url.it IN CNAME .
 b.bw IN CNAME .

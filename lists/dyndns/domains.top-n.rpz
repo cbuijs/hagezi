@@ -1,8 +1,10 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1792462570 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1792549048 12h 15m 3w 3h
 1cooldns.com IN CNAME .
 *.1cooldns.com IN CNAME .
+24-7.ro IN CNAME .
+*.24-7.ro IN CNAME .
 25u.com IN CNAME .
 *.25u.com IN CNAME .
 2waky.com IN CNAME .
@@ -75,6 +77,8 @@ chickenkiller.com IN CNAME .
 *.chickenkiller.com IN CNAME .
 cleansite.us IN CNAME .
 *.cleansite.us IN CNAME .
+clickip.de IN CNAME .
+*.clickip.de IN CNAME .
 cloudns.biz IN CNAME .
 *.cloudns.biz IN CNAME .
 cloudns.cc IN CNAME .
@@ -669,6 +673,8 @@ ocry.com IN CNAME .
 *.ocry.com IN CNAME .
 ods.org IN CNAME .
 *.ods.org IN CNAME .
+office-on-the.net IN CNAME .
+*.office-on-the.net IN CNAME .
 on-the-web.tv IN CNAME .
 *.on-the-web.tv IN CNAME .
 onedumb.com IN CNAME .
