@@ -1,16 +1,12 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1792551354 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1792638294 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
 *.1l.my.games IN CNAME .
 2performant.com IN CNAME .
 *.2performant.com IN CNAME .
-341676991.group0.sites.hscoscdn-na3.net IN CNAME .
-*.341676991.group0.sites.hscoscdn-na3.net IN CNAME .
-341850582.group0.sites.hscoscdn-na3.net IN CNAME .
-*.341850582.group0.sites.hscoscdn-na3.net IN CNAME .
 4patientcare-cdn.exponea.com IN CNAME .
 *.4patientcare-cdn.exponea.com IN CNAME .
 7eer.net IN CNAME .
@@ -499,6 +495,8 @@ app1a.outreach.io IN CNAME .
 *.app1a.outreach.io IN CNAME .
 app1a.portal.outreach.io IN CNAME .
 *.app1a.portal.outreach.io IN CNAME .
+app1b.outreach.io IN CNAME .
+*.app1b.outreach.io IN CNAME .
 app1b.portal.outreach.io IN CNAME .
 *.app1b.portal.outreach.io IN CNAME .
 app1c.gateway.portal.outreach.io IN CNAME .
@@ -755,6 +753,8 @@ click.mail.macmillan.com IN CNAME .
 *.click.mail.macmillan.com IN CNAME .
 click.mailing.ticketmaster.com IN CNAME .
 *.click.mailing.ticketmaster.com IN CNAME .
+click.mc.crimsontrace.com IN CNAME .
+*.click.mc.crimsontrace.com IN CNAME .
 click.member.americanexpress.com IN CNAME .
 *.click.member.americanexpress.com IN CNAME .
 click.members.nra.org IN CNAME .
@@ -1157,6 +1157,8 @@ m-eqxt2.custobar.com IN CNAME .
 *.m-eqxt2.custobar.com IN CNAME .
 m-fi32s.custobar.com IN CNAME .
 *.m-fi32s.custobar.com IN CNAME .
+m-fqlpo.custobar.com IN CNAME .
+*.m-fqlpo.custobar.com IN CNAME .
 m-fucdf.custobar.com IN CNAME .
 *.m-fucdf.custobar.com IN CNAME .
 m-gs5w6.custobar.com IN CNAME .
@@ -1515,6 +1517,8 @@ sites.hscoscdn-eu1.net IN CNAME .
 *.sites.hscoscdn-eu1.net IN CNAME .
 sites.hscoscdn-na2.net IN CNAME .
 *.sites.hscoscdn-na2.net IN CNAME .
+sites.hscoscdn-na3.net IN CNAME .
+*.sites.hscoscdn-na3.net IN CNAME .
 sites.hscoscdn00.net IN CNAME .
 *.sites.hscoscdn00.net IN CNAME .
 sites.hscoscdn10.net IN CNAME .
