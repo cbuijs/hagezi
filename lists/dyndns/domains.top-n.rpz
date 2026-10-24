@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1792721899 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1792808344 12h 15m 3w 3h
 1cooldns.com IN CNAME .
 *.1cooldns.com IN CNAME .
 24-7.ro IN CNAME .
@@ -353,6 +353,8 @@ freeddns.org IN CNAME .
 *.freeddns.org IN CNAME .
 freedynamicdns.net IN CNAME .
 *.freedynamicdns.net IN CNAME .
+freedynamicdns.org IN CNAME .
+*.freedynamicdns.org IN CNAME .
 freemyip.com IN CNAME .
 *.freemyip.com IN CNAME .
 freetcp.com IN CNAME .
@@ -665,8 +667,6 @@ ns02.biz IN CNAME .
 *.ns02.biz IN CNAME .
 ns1.name IN CNAME .
 *.ns1.name IN CNAME .
-ns3.name IN CNAME .
-*.ns3.name IN CNAME .
 nsupdate.info IN CNAME .
 *.nsupdate.info IN CNAME .
 ocry.com IN CNAME .

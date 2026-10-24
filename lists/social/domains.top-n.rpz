@@ -1,6 +1,6 @@
 ; RPZ "SOCIAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1792723688 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1792810410 12h 15m 3w 3h
 0xdd.org.ru IN CNAME .
 *.0xdd.org.ru IN CNAME .
 101010.pl IN CNAME .
@@ -133,6 +133,8 @@ digitalcourage.social IN CNAME .
 *.digitalcourage.social IN CNAME .
 dis.gd IN CNAME .
 *.dis.gd IN CNAME .
+discord-activities.com IN CNAME .
+*.discord-activities.com IN CNAME .
 discord.co IN CNAME .
 *.discord.co IN CNAME .
 discord.com IN CNAME .
@@ -277,8 +279,6 @@ fedi.xamk.fi IN CNAME .
 *.fedi.xamk.fi IN CNAME .
 fediscience.org IN CNAME .
 *.fediscience.org IN CNAME .
-fediverse.observer IN CNAME .
-*.fediverse.observer IN CNAME .
 fika.grin.hu IN CNAME .
 *.fika.grin.hu IN CNAME .
 fishki.net IN CNAME .
@@ -773,8 +773,6 @@ mastodon.zaclys.com IN CNAME .
 *.mastodon.zaclys.com IN CNAME .
 mastodonapp.uk IN CNAME .
 *.mastodonapp.uk IN CNAME .
-mastodont.cat IN CNAME .
-*.mastodont.cat IN CNAME .
 mastodontech.de IN CNAME .
 *.mastodontech.de IN CNAME .
 mathstodon.xyz IN CNAME .
