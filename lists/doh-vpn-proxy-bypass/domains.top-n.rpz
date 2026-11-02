@@ -1,12 +1,10 @@
 ; RPZ "DOH-VPN-PROXY-BYPASS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1793503164 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1793589364 12h 15m 3w 3h
 01100010011011000110111101100011011010110110110101100101.zone.id IN CNAME .
 *.01100010011011000110111101100011011010110110110101100101.zone.id IN CNAME .
 09vpn.com IN CNAME .
 *.09vpn.com IN CNAME .
-1.hide.newflamingodomain.co.uk IN CNAME .
-*.1.hide.newflamingodomain.co.uk IN CNAME .
 1002407848.rsc.cdn77.org IN CNAME .
 *.1002407848.rsc.cdn77.org IN CNAME .
 1003957851.rsc.cdn77.org IN CNAME .
@@ -785,8 +783,6 @@ $TTL 3600
 *.205.209.125.106.sslip.io IN CNAME .
 205.209.125.106.traefik.me IN CNAME .
 *.205.209.125.106.traefik.me IN CNAME .
-21.hide.newflamingodomain.co.uk IN CNAME .
-*.21.hide.newflamingodomain.co.uk IN CNAME .
 23.106.141.137.16clouds.com IN CNAME .
 *.23.106.141.137.16clouds.com IN CNAME .
 233py.com IN CNAME .
@@ -799,8 +795,6 @@ $TTL 3600
 *.2vwijqat.com IN CNAME .
 2wired.hopto.org IN CNAME .
 *.2wired.hopto.org IN CNAME .
-31.hide.newflamingodomain.co.uk IN CNAME .
-*.31.hide.newflamingodomain.co.uk IN CNAME .
 37-27-88-135.backname.io IN CNAME .
 *.37-27-88-135.backname.io IN CNAME .
 37-27-88-135.nip.io IN CNAME .
@@ -823,8 +817,6 @@ $TTL 3600
 *.37er19htfd.execute-api.us-east-1.amazonaws.com IN CNAME .
 3dns.eu IN CNAME .
 *.3dns.eu IN CNAME .
-3etare.co.uk IN CNAME .
-*.3etare.co.uk IN CNAME .
 3ik9bjnm.com IN CNAME .
 *.3ik9bjnm.com IN CNAME .
 401-0506.b-cdn.net IN CNAME .
@@ -833,8 +825,6 @@ $TTL 3600
 *.401-0507.b-cdn.net IN CNAME .
 401-retsam-swodniw.b-cdn.net IN CNAME .
 *.401-retsam-swodniw.b-cdn.net IN CNAME .
-41.hide.newflamingodomain.co.uk IN CNAME .
-*.41.hide.newflamingodomain.co.uk IN CNAME .
 416d70de.nip.io IN CNAME .
 *.416d70de.nip.io IN CNAME .
 416d70de.sslip.io IN CNAME .
@@ -917,8 +907,6 @@ $TTL 3600
 *.51.222.206.184.sslip.io IN CNAME .
 51.222.206.184.traefik.me IN CNAME .
 *.51.222.206.184.traefik.me IN CNAME .
-521.mmd1.meli-n12.info IN CNAME .
-*.521.mmd1.meli-n12.info IN CNAME .
 55gms.skysthelimit.dev.cdn.cloudflare.net IN CNAME .
 *.55gms.skysthelimit.dev.cdn.cloudflare.net IN CNAME .
 55gms.store.cdn.cloudflare.net IN CNAME .
@@ -957,8 +945,6 @@ $TTL 3600
 *.66.23.193.126.backname.io IN CNAME .
 66.23.193.126.traefik.me IN CNAME .
 *.66.23.193.126.traefik.me IN CNAME .
-6621.mmd1.meli-n12.info IN CNAME .
-*.6621.mmd1.meli-n12.info IN CNAME .
 67.global.ssl.fastly.net IN CNAME .
 *.67.global.ssl.fastly.net IN CNAME .
 67.info.north-kazakhstan.su.cdn.cloudflare.net IN CNAME .
@@ -1023,8 +1009,8 @@ $TTL 3600
 *.74.208.64.80.sslip.io IN CNAME .
 74.208.64.80.traefik.me IN CNAME .
 *.74.208.64.80.traefik.me IN CNAME .
-77m89.masi.ir.he6fhd.ru IN CNAME .
-*.77m89.masi.ir.he6fhd.ru IN CNAME .
+77.mishutkin.click IN CNAME .
+*.77.mishutkin.click IN CNAME .
 784ertysdfghjklvnm-l-8dk-4rydfghvbn.vercel.app IN CNAME .
 *.784ertysdfghjklvnm-l-8dk-4rydfghvbn.vercel.app IN CNAME .
 8888.google IN CNAME .
@@ -1035,6 +1021,8 @@ $TTL 3600
 *.8o00imq7asda.mooo.com IN CNAME .
 8tiodxhk8a.execute-api.us-east-1.amazonaws.com IN CNAME .
 *.8tiodxhk8a.execute-api.us-east-1.amazonaws.com IN CNAME .
+9132706292.cloudns.be IN CNAME .
+*.9132706292.cloudns.be IN CNAME .
 92-38-177-16.nip.io IN CNAME .
 *.92-38-177-16.nip.io IN CNAME .
 92-38-177-16.plesk.page IN CNAME .
@@ -1165,6 +1153,8 @@ adguard.io IN CNAME .
 *.adguard.io IN CNAME .
 adguard.llf520.dpdns.org IN CNAME .
 *.adguard.llf520.dpdns.org IN CNAME .
+adguard.veanswart.cloudns.be IN CNAME .
+*.adguard.veanswart.cloudns.be IN CNAME .
 adguard01.dns.infrapod.nl IN CNAME .
 *.adguard01.dns.infrapod.nl IN CNAME .
 adguard01.infrapod.nl IN CNAME .
@@ -1383,8 +1373,6 @@ applied-privacy.net IN CNAME .
 *.applied-privacy.net IN CNAME .
 apps-ivacy.s3.amazonaws.com IN CNAME .
 *.apps-ivacy.s3.amazonaws.com IN CNAME .
-appstoff.info IN CNAME .
-*.appstoff.info IN CNAME .
 arashi.eu.org IN CNAME .
 *.arashi.eu.org IN CNAME .
 arashi.net.eu.org IN CNAME .
@@ -1397,6 +1385,8 @@ area51.mywire.org IN CNAME .
 *.area51.mywire.org IN CNAME .
 argovpn.com IN CNAME .
 *.argovpn.com IN CNAME .
+ariobarzanes.ir.igakwvwa.info IN CNAME .
+*.ariobarzanes.ir.igakwvwa.info IN CNAME .
 arm.adblocker.eu.org IN CNAME .
 *.arm.adblocker.eu.org IN CNAME .
 armm.duckdns.org IN CNAME .
@@ -1443,6 +1433,8 @@ astroid-three.vercel.app IN CNAME .
 *.astroid-three.vercel.app IN CNAME .
 atill.giize.com IN CNAME .
 *.atill.giize.com IN CNAME .
+atlantic.dyn1.de IN CNAME .
+*.atlantic.dyn1.de IN CNAME .
 atlasvpn.com IN CNAME .
 *.atlasvpn.com IN CNAME .
 attrite.karrozzin.cloud-ip.cc IN CNAME .
@@ -1619,8 +1611,6 @@ bmext1static.b-cdn.net IN CNAME .
 *.bmext1static.b-cdn.net IN CNAME .
 bmqan2static.b-cdn.net IN CNAME .
 *.bmqan2static.b-cdn.net IN CNAME .
-bo0ji.co.uk IN CNAME .
-*.bo0ji.co.uk IN CNAME .
 bodbox.easterndns.com IN CNAME .
 *.bodbox.easterndns.com IN CNAME .
 boi9osyg1uwtyafn.com IN CNAME .
@@ -1637,8 +1627,6 @@ boredomss.a.ssl.fastly.net IN CNAME .
 *.boredomss.a.ssl.fastly.net IN CNAME .
 boredonasndkf.global.ssl.fastly.net IN CNAME .
 *.boredonasndkf.global.ssl.fastly.net IN CNAME .
-boro.poolaki.co.uk IN CNAME .
-*.boro.poolaki.co.uk IN CNAME .
 brd-sdk-app-packages.s3.amazonaws.com IN CNAME .
 *.brd-sdk-app-packages.s3.amazonaws.com IN CNAME .
 brightdata-app-production-app-bucket.s3.us-east-1.amazonaws.com IN CNAME .
@@ -1919,8 +1907,6 @@ cnamerannmertest.ints.f5.si IN CNAME .
 *.cnamerannmertest.ints.f5.si IN CNAME .
 cober-sky.pro IN CNAME .
 *.cober-sky.pro IN CNAME .
-cocorichmond.pareporeh.info IN CNAME .
-*.cocorichmond.pareporeh.info IN CNAME .
 codarka.com IN CNAME .
 *.codarka.com IN CNAME .
 codecrafterssoft.com IN CNAME .
@@ -3175,8 +3161,6 @@ diskjlpa9.easterndns.com IN CNAME .
 *.diskjlpa9.easterndns.com IN CNAME .
 diufks10.easterndns.com IN CNAME .
 *.diufks10.easterndns.com IN CNAME .
-dizgrakh.mamadali.co.uk IN CNAME .
-*.dizgrakh.mamadali.co.uk IN CNAME .
 dj2ozsqktgipp.cloudfront.net IN CNAME .
 *.dj2ozsqktgipp.cloudfront.net IN CNAME .
 djfbasjbnijasdas.info.north-kazakhstan.su.cdn.cloudflare.net IN CNAME .
@@ -3311,6 +3295,8 @@ dns.dns-53.us IN CNAME .
 *.dns.dns-53.us IN CNAME .
 dns.dnshome.de IN CNAME .
 *.dns.dnshome.de IN CNAME .
+dns.dyn1.de IN CNAME .
+*.dns.dyn1.de IN CNAME .
 dns.engineer-lib.ru IN CNAME .
 *.dns.engineer-lib.ru IN CNAME .
 dns.envs.net IN CNAME .
@@ -3403,6 +3389,8 @@ dns.skous.dedyn.io IN CNAME .
 *.dns.skous.dedyn.io IN CNAME .
 dns.sky-plex.com IN CNAME .
 *.dns.sky-plex.com IN CNAME .
+dns.speed-benz.co.uk IN CNAME .
+*.dns.speed-benz.co.uk IN CNAME .
 dns.study.africa.com IN CNAME .
 *.dns.study.africa.com IN CNAME .
 dns.surfsharkdns.com IN CNAME .
@@ -3657,8 +3645,6 @@ dpb7lli3zpdp0.cloudfront.net IN CNAME .
 *.dpb7lli3zpdp0.cloudfront.net IN CNAME .
 dpdw1da7o48u.cloudfront.net IN CNAME .
 *.dpdw1da7o48u.cloudfront.net IN CNAME .
-dpi.server-space52.info IN CNAME .
-*.dpi.server-space52.info IN CNAME .
 dq8px0bb4u50o.cloudfront.net IN CNAME .
 *.dq8px0bb4u50o.cloudfront.net IN CNAME .
 dqrdyxjik5nl0.cloudfront.net IN CNAME .
@@ -3945,8 +3931,6 @@ fallbreaksover.info.north-kazakhstan.su.cdn.cloudflare.net IN CNAME .
 *.fallbreaksover.info.north-kazakhstan.su.cdn.cloudflare.net IN CNAME .
 fargos2.dns.army IN CNAME .
 *.fargos2.dns.army IN CNAME .
-fast.finecooking.info IN CNAME .
-*.fast.finecooking.info IN CNAME .
 fastcloudcdn.net IN CNAME .
 *.fastcloudcdn.net IN CNAME .
 fastconn.github.io IN CNAME .
@@ -4217,8 +4201,6 @@ galxy.autos.cdn.cloudflare.net IN CNAME .
 *.galxy.autos.cdn.cloudflare.net IN CNAME .
 gamdns.duckdns.org IN CNAME .
 *.gamdns.duckdns.org IN CNAME .
-gazo19.mosswren.vip IN CNAME .
-*.gazo19.mosswren.vip IN CNAME .
 gb-cov-w-f-1.nashkan.net IN CNAME .
 *.gb-cov-w-f-1.nashkan.net IN CNAME .
 gb-cov-w-f-2.nashkan.net IN CNAME .
@@ -4327,8 +4309,6 @@ gologin.com IN CNAME .
 *.gologin.com IN CNAME .
 gomibako.easterndns.com IN CNAME .
 *.gomibako.easterndns.com IN CNAME .
-good.cipservice.co.uk IN CNAME .
-*.good.cipservice.co.uk IN CNAME .
 goodfast.it.com IN CNAME .
 *.goodfast.it.com IN CNAME .
 google-public-dns-a.google.com IN CNAME .
@@ -4771,8 +4751,6 @@ ilovepetezahparty.vincenzodimaro.it.cdn.cloudflare.net IN CNAME .
 *.ilovepetezahparty.vincenzodimaro.it.cdn.cloudflare.net IN CNAME .
 ilpphgf.ipv64.net IN CNAME .
 *.ilpphgf.ipv64.net IN CNAME .
-im.dumaniltd.co.uk IN CNAME .
-*.im.dumaniltd.co.uk IN CNAME .
 imgcache.b-cdn.net IN CNAME .
 *.imgcache.b-cdn.net IN CNAME .
 imkayan.info.north-kazakhstan.su.cdn.cloudflare.net IN CNAME .
@@ -4869,14 +4847,14 @@ ipsharkk.com IN CNAME .
 *.ipsharkk.com IN CNAME .
 ipvanish.com IN CNAME .
 *.ipvanish.com IN CNAME .
+ir-ir.ataman.info IN CNAME .
+*.ir-ir.ataman.info IN CNAME .
 ir-ir.grasic.info IN CNAME .
 *.ir-ir.grasic.info IN CNAME .
-ir.closcloud.co.uk IN CNAME .
-*.ir.closcloud.co.uk IN CNAME .
+ir.ataman.info IN CNAME .
+*.ir.ataman.info IN CNAME .
 ir.grasic.info IN CNAME .
 *.ir.grasic.info IN CNAME .
-ir.speed.finecooking.info IN CNAME .
-*.ir.speed.finecooking.info IN CNAME .
 iro.varfootball2.co.uk IN CNAME .
 *.iro.varfootball2.co.uk IN CNAME .
 irogallery.golgoli1.co.uk IN CNAME .
@@ -5043,8 +5021,6 @@ kalwat.duckdns.org IN CNAME .
 *.kalwat.duckdns.org IN CNAME .
 karaseee.f5.si IN CNAME .
 *.karaseee.f5.si IN CNAME .
-kasco.alhosein.co.uk IN CNAME .
-*.kasco.alhosein.co.uk IN CNAME .
 kayleesickfern.gleeze.com IN CNAME .
 *.kayleesickfern.gleeze.com IN CNAME .
 kazwire.global.ssl.fastly.net IN CNAME .
@@ -5081,6 +5057,8 @@ kiohjbh.ipv64.net IN CNAME .
 *.kiohjbh.ipv64.net IN CNAME .
 kiri.nonexiste.net IN CNAME .
 *.kiri.nonexiste.net IN CNAME .
+kirov.unicom.cloudns.be IN CNAME .
+*.kirov.unicom.cloudns.be IN CNAME .
 kiwifunke.duckdns.org IN CNAME .
 *.kiwifunke.duckdns.org IN CNAME .
 kkio778.pages.dev IN CNAME .
@@ -5129,6 +5107,8 @@ kuailian-hk.com IN CNAME .
 *.kuailian-hk.com IN CNAME .
 kuailian-it.com IN CNAME .
 *.kuailian-it.com IN CNAME .
+kuailian-ki.com IN CNAME .
+*.kuailian-ki.com IN CNAME .
 kuailian-st.com IN CNAME .
 *.kuailian-st.com IN CNAME .
 kuailian-ui.com IN CNAME .
@@ -5249,10 +5229,6 @@ localtonet.com IN CNAME .
 *.localtonet.com IN CNAME .
 location-list.wendysgolang.workers.dev IN CNAME .
 *.location-list.wendysgolang.workers.dev IN CNAME .
-loga85.tidelark.cc IN CNAME .
-*.loga85.tidelark.cc IN CNAME .
-logato78.tidelark.cc IN CNAME .
-*.logato78.tidelark.cc IN CNAME .
 login.vincenzodimaro.it.cdn.cloudflare.net IN CNAME .
 *.login.vincenzodimaro.it.cdn.cloudflare.net IN CNAME .
 logos.karrozzin.cloud-ip.cc IN CNAME .
@@ -5307,22 +5283,16 @@ m-amp-2-3w5hsuiikq-ez.a.run.app IN CNAME .
 *.m-amp-2-3w5hsuiikq-ez.a.run.app IN CNAME .
 m-docs-3w5hsuiikq-ez.a.run.app IN CNAME .
 *.m-docs-3w5hsuiikq-ez.a.run.app IN CNAME .
-m6m6.masi.ir.he6fhd.ru IN CNAME .
-*.m6m6.masi.ir.he6fhd.ru IN CNAME .
 mad4todo.com IN CNAME .
 *.mad4todo.com IN CNAME .
 madeinchina1987.zapto.org IN CNAME .
 *.madeinchina1987.zapto.org IN CNAME .
-makama85.mosswren.vip IN CNAME .
-*.makama85.mosswren.vip IN CNAME .
 makomako.easterndns.com IN CNAME .
 *.makomako.easterndns.com IN CNAME .
 mamas-garden-market.com IN CNAME .
 *.mamas-garden-market.com IN CNAME .
 man.info.north-kazakhstan.su.cdn.cloudflare.net IN CNAME .
 *.man.info.north-kazakhstan.su.cdn.cloudflare.net IN CNAME .
-mangoseason8.co.uk IN CNAME .
-*.mangoseason8.co.uk IN CNAME .
 manually-relaxed-alien.global.ssl.fastly.net IN CNAME .
 *.manually-relaxed-alien.global.ssl.fastly.net IN CNAME .
 maple-leaf-cafe.com IN CNAME .
@@ -5373,8 +5343,6 @@ mathtestprep.pages.dev IN CNAME .
 *.mathtestprep.pages.dev IN CNAME .
 mavalleenumerique.hopto.org IN CNAME .
 *.mavalleenumerique.hopto.org IN CNAME .
-max.kimt.click IN CNAME .
-*.max.kimt.click IN CNAME .
 mcore.us.to IN CNAME .
 *.mcore.us.to IN CNAME .
 mechanikdns.kozow.com IN CNAME .
@@ -5585,8 +5553,6 @@ netpioneeres.com IN CNAME .
 *.netpioneeres.com IN CNAME .
 netvora.space IN CNAME .
 *.netvora.space IN CNAME .
-new7.mizanmizanesgh.co.uk IN CNAME .
-*.new7.mizanmizanesgh.co.uk IN CNAME .
 newlenta24.online IN CNAME .
 *.newlenta24.online IN CNAME .
 newlibrarian.myqnapcloud.com IN CNAME .
@@ -5665,8 +5631,6 @@ noon.begir.co.uk IN CNAME .
 *.noon.begir.co.uk IN CNAME .
 noonv2-c55a5-default-rtdb.firebaseio.com IN CNAME .
 *.noonv2-c55a5-default-rtdb.firebaseio.com IN CNAME .
-nooshabe.mikhay.co.uk IN CNAME .
-*.nooshabe.mikhay.co.uk IN CNAME .
 noproblem.eu.org IN CNAME .
 *.noproblem.eu.org IN CNAME .
 nord-cn.net IN CNAME .
@@ -5705,6 +5669,8 @@ nqh-dns.duckdns.org IN CNAME .
 *.nqh-dns.duckdns.org IN CNAME .
 nrusimha.crabdance.com IN CNAME .
 *.nrusimha.crabdance.com IN CNAME .
+ns.beerun.ru IN CNAME .
+*.ns.beerun.ru IN CNAME .
 ns.mtsoln.com IN CNAME .
 *.ns.mtsoln.com IN CNAME .
 ns0.fdn.fr IN CNAME .
@@ -5737,8 +5703,6 @@ nwdm.easterndns.com IN CNAME .
 *.nwdm.easterndns.com IN CNAME .
 nym.com IN CNAME .
 *.nym.com IN CNAME .
-nypo94.mosswren.vip IN CNAME .
-*.nypo94.mosswren.vip IN CNAME .
 o--o.duckdns.org IN CNAME .
 *.o--o.duckdns.org IN CNAME .
 o2comm-prd.norton.com IN CNAME .
@@ -5859,8 +5823,6 @@ panurgic.karrozzin.cloud-ip.cc IN CNAME .
 *.panurgic.karrozzin.cloud-ip.cc IN CNAME .
 parsa.dpdns.org IN CNAME .
 *.parsa.dpdns.org IN CNAME .
-pashmak.mikhay.co.uk IN CNAME .
-*.pashmak.mikhay.co.uk IN CNAME .
 passssssssssword.easterndns.com IN CNAME .
 *.passssssssssword.easterndns.com IN CNAME .
 pates.services.sfr.fr.casepp.sfr.fr IN CNAME .
@@ -6007,6 +5969,8 @@ prem.deltamath.help.cdn.cloudflare.net IN CNAME .
 *.prem.deltamath.help.cdn.cloudflare.net IN CNAME .
 premium-web.info IN CNAME .
 *.premium-web.info IN CNAME .
+premium.speed-benz.co.uk IN CNAME .
+*.premium.speed-benz.co.uk IN CNAME .
 premzon.com IN CNAME .
 *.premzon.com IN CNAME .
 prep.ela.okoloko.one.pl IN CNAME .
@@ -6281,6 +6245,8 @@ reenreen.easterndns.com IN CNAME .
 *.reenreen.easterndns.com IN CNAME .
 refiq.poolaki.co.uk IN CNAME .
 *.refiq.poolaki.co.uk IN CNAME .
+relay.surfvpn.app IN CNAME .
+*.relay.surfvpn.app IN CNAME .
 rem1.easterndns.com IN CNAME .
 *.rem1.easterndns.com IN CNAME .
 rem2.easterndns.com IN CNAME .
@@ -6481,8 +6447,6 @@ sarakou.easterndns.com IN CNAME .
 *.sarakou.easterndns.com IN CNAME .
 sarawut.ddns.net IN CNAME .
 *.sarawut.ddns.net IN CNAME .
-sarzamin.mosbatbashim.info IN CNAME .
-*.sarzamin.mosbatbashim.info IN CNAME .
 sat.api.ksfto.dpdns.org IN CNAME .
 *.sat.api.ksfto.dpdns.org IN CNAME .
 sat.ksf.qzz.io IN CNAME .
@@ -6571,8 +6535,6 @@ serviseapi.com IN CNAME .
 *.serviseapi.com IN CNAME .
 setupvpn.com IN CNAME .
 *.setupvpn.com IN CNAME .
-severjadid.co.uk IN CNAME .
-*.severjadid.co.uk IN CNAME .
 sewage.myclarevision.com IN CNAME .
 *.sewage.myclarevision.com IN CNAME .
 sf-helper.com IN CNAME .
@@ -6729,6 +6691,8 @@ songochain.freeddns.org IN CNAME .
 *.songochain.freeddns.org IN CNAME .
 soporte-premium.duckdns.org IN CNAME .
 *.soporte-premium.duckdns.org IN CNAME .
+sorena.ir.igakwvwa.info IN CNAME .
+*.sorena.ir.igakwvwa.info IN CNAME .
 sorephie-dns2.ddns.net IN CNAME .
 *.sorephie-dns2.ddns.net IN CNAME .
 soulone.ddns.net IN CNAME .
@@ -6789,8 +6753,6 @@ srv04.dns64.de IN CNAME .
 *.srv04.dns64.de IN CNAME .
 ssbdgef.com IN CNAME .
 *.ssbdgef.com IN CNAME .
-ssh.meow0.co.uk IN CNAME .
-*.ssh.meow0.co.uk IN CNAME .
 sshocean.com IN CNAME .
 *.sshocean.com IN CNAME .
 ssl-proxy.my-addr.com IN CNAME .
@@ -6871,8 +6833,6 @@ sukidayo.eu.org IN CNAME .
 *.sukidayo.eu.org IN CNAME .
 sulinkcloud.github.io IN CNAME .
 *.sulinkcloud.github.io IN CNAME .
-sumi59.mosswren.vip IN CNAME .
-*.sumi59.mosswren.vip IN CNAME .
 summer.bury.abrdns.com IN CNAME .
 *.summer.bury.abrdns.com IN CNAME .
 sunbeam-market.com IN CNAME .
@@ -7077,8 +7037,6 @@ top10vpn.com IN CNAME .
 *.top10vpn.com IN CNAME .
 toppal.tech IN CNAME .
 *.toppal.tech IN CNAME .
-topproxt.asia IN CNAME .
-*.topproxt.asia IN CNAME .
 topvpn.cc IN CNAME .
 *.topvpn.cc IN CNAME .
 tor.bravesoftware.com IN CNAME .
@@ -7373,8 +7331,6 @@ vaporon.top.cdn.cloudflare.net IN CNAME .
 *.vaporon.top.cdn.cloudflare.net IN CNAME .
 vaporsite.pages.dev IN CNAME .
 *.vaporsite.pages.dev IN CNAME .
-vasalshim.mamadgoli.co.uk IN CNAME .
-*.vasalshim.mamadgoli.co.uk IN CNAME .
 vasle.goooalir.co.uk IN CNAME .
 *.vasle.goooalir.co.uk IN CNAME .
 vbox-proxy.netlify.app IN CNAME .
@@ -7409,16 +7365,14 @@ victionary.bury.abrdns.com IN CNAME .
 *.victionary.bury.abrdns.com IN CNAME .
 viggbsh.ipv64.net IN CNAME .
 *.viggbsh.ipv64.net IN CNAME .
-vima74.tidelark.cc IN CNAME .
-*.vima74.tidelark.cc IN CNAME .
+ving.mozitop.co.uk IN CNAME .
+*.ving.mozitop.co.uk IN CNAME .
 vir.accesscam.org IN CNAME .
 *.vir.accesscam.org IN CNAME .
 virga.pp.ua IN CNAME .
 *.virga.pp.ua IN CNAME .
 virmamp33.sytes.net IN CNAME .
 *.virmamp33.sytes.net IN CNAME .
-vitori41.tidelark.cc IN CNAME .
-*.vitori41.tidelark.cc IN CNAME .
 vivid-bison.com IN CNAME .
 *.vivid-bison.com IN CNAME .
 vless-1vpn-android.europe-west1.firebasedatabase.app IN CNAME .
@@ -7653,12 +7607,8 @@ weather-doc.com IN CNAME .
 *.weather-doc.com IN CNAME .
 weathercloudapp.com IN CNAME .
 *.weathercloudapp.com IN CNAME .
-web-kook.mosbatbashim.info IN CNAME .
-*.web-kook.mosbatbashim.info IN CNAME .
 web.artweb.website.cdn.cloudflare.net IN CNAME .
 *.web.artweb.website.cdn.cloudflare.net IN CNAME .
-web.mangoseason7.co.uk IN CNAME .
-*.web.mangoseason7.co.uk IN CNAME .
 web.server-space52.info IN CNAME .
 *.web.server-space52.info IN CNAME .
 web.unstop.cloudns.ch IN CNAME .

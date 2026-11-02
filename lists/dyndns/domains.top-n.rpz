@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1793503174 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1793589371 12h 15m 3w 3h
 1cooldns.com IN CNAME .
 *.1cooldns.com IN CNAME .
 25u.com IN CNAME .
@@ -77,6 +77,10 @@ cleansite.us IN CNAME .
 *.cleansite.us IN CNAME .
 clickip.de IN CNAME .
 *.clickip.de IN CNAME .
+cloudns.asia IN CNAME .
+*.cloudns.asia IN CNAME .
+cloudns.be IN CNAME .
+*.cloudns.be IN CNAME .
 cloudns.biz IN CNAME .
 *.cloudns.biz IN CNAME .
 cloudns.cc IN CNAME .
@@ -193,8 +197,6 @@ dnspod.cn IN CNAME .
 *.dnspod.cn IN CNAME .
 dnsrd.com IN CNAME .
 *.dnsrd.com IN CNAME .
-dnsup.net IN CNAME .
-*.dnsup.net IN CNAME .
 does-it.net IN CNAME .
 *.does-it.net IN CNAME .
 drayddns.com IN CNAME .
@@ -241,6 +243,8 @@ dynamix.run IN CNAME .
 *.dynamix.run IN CNAME .
 dyndns-at-home.com IN CNAME .
 *.dyndns-at-home.com IN CNAME .
+dyndns-at-work.com IN CNAME .
+*.dyndns-at-work.com IN CNAME .
 dyndns-blog.com IN CNAME .
 *.dyndns-blog.com IN CNAME .
 dyndns-free.com IN CNAME .
@@ -815,8 +819,6 @@ thruhere.net IN CNAME .
 *.thruhere.net IN CNAME .
 topdns.com IN CNAME .
 *.topdns.com IN CNAME .
-topsddns.net IN CNAME .
-*.topsddns.net IN CNAME .
 toythieves.com IN CNAME .
 *.toythieves.com IN CNAME .
 tpddns.cn IN CNAME .
