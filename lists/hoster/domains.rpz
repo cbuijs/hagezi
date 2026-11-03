@@ -1,6 +1,6 @@
 ; RPZ "HOSTER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1793589494 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1793675977 12h 15m 3w 3h
 000.pe IN CNAME .
 *.000.pe IN CNAME .
 000a.de IN CNAME .
@@ -749,8 +749,12 @@ diowebhost.com IN CNAME .
 *.diowebhost.com IN CNAME .
 domain.lc IN CNAME .
 *.domain.lc IN CNAME .
+domain.name IN CNAME .
+*.domain.name IN CNAME .
 dot.tk IN CNAME .
 *.dot.tk IN CNAME .
+dothome.co.kr IN CNAME .
+*.dothome.co.kr IN CNAME .
 douploads.net IN CNAME .
 *.douploads.net IN CNAME .
 downfall.shop IN CNAME .
@@ -1753,8 +1757,6 @@ shortu.be IN CNAME .
 *.shortu.be IN CNAME .
 shorturl.ae IN CNAME .
 *.shorturl.ae IN CNAME .
-sitebeat.crazydomains.com IN CNAME .
-*.sitebeat.crazydomains.com IN CNAME .
 sitepalace.com IN CNAME .
 *.sitepalace.com IN CNAME .
 sitey.me IN CNAME .
@@ -1999,8 +2001,6 @@ vuzelia.com IN CNAME .
 *.vuzelia.com IN CNAME .
 vz.lc IN CNAME .
 *.vz.lc IN CNAME .
-w3spaces.com IN CNAME .
-*.w3spaces.com IN CNAME .
 wapka.club IN CNAME .
 *.wapka.club IN CNAME .
 wapka.site IN CNAME .
