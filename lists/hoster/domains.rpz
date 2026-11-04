@@ -1,6 +1,6 @@
 ; RPZ "HOSTER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1793675977 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1793762481 12h 15m 3w 3h
 000.pe IN CNAME .
 *.000.pe IN CNAME .
 000a.de IN CNAME .
@@ -749,8 +749,6 @@ diowebhost.com IN CNAME .
 *.diowebhost.com IN CNAME .
 domain.lc IN CNAME .
 *.domain.lc IN CNAME .
-domain.name IN CNAME .
-*.domain.name IN CNAME .
 dot.tk IN CNAME .
 *.dot.tk IN CNAME .
 dothome.co.kr IN CNAME .
@@ -1479,6 +1477,8 @@ newmail.ru IN CNAME .
 *.newmail.ru IN CNAME .
 nicepage.io IN CNAME .
 *.nicepage.io IN CNAME .
+nip.io IN CNAME .
+*.nip.io IN CNAME .
 nl.gp IN CNAME .
 *.nl.gp IN CNAME .
 nl.kg IN CNAME .

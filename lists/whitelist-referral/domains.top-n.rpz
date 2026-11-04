@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1793678121 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1793764820 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -531,6 +531,8 @@ app2a.outreach.io IN CNAME .
 *.app2a.outreach.io IN CNAME .
 app2a.portal.outreach.io IN CNAME .
 *.app2a.portal.outreach.io IN CNAME .
+app2b.outreach.io IN CNAME .
+*.app2b.outreach.io IN CNAME .
 app2b.portal.outreach.io IN CNAME .
 *.app2b.portal.outreach.io IN CNAME .
 app2c.gateway.portal.outreach.io IN CNAME .
@@ -645,6 +647,8 @@ cdn.eu1.exponea.com IN CNAME .
 *.cdn.eu1.exponea.com IN CNAME .
 cdn.exponea.com IN CNAME .
 *.cdn.exponea.com IN CNAME .
+cdn.ftspecialist.exponea.com IN CNAME .
+*.cdn.ftspecialist.exponea.com IN CNAME .
 cdn.mie.exponea.com IN CNAME .
 *.cdn.mie.exponea.com IN CNAME .
 cdn.network.exponea.com IN CNAME .
@@ -1299,6 +1303,8 @@ mssg.me IN CNAME .
 *.mssg.me IN CNAME .
 mydealz.digidip.net IN CNAME .
 *.mydealz.digidip.net IN CNAME .
+neoengage-va-cdn.exponea.com IN CNAME .
+*.neoengage-va-cdn.exponea.com IN CNAME .
 network.bazaarvoice.com IN CNAME .
 *.network.bazaarvoice.com IN CNAME .
 neural17.cdnwebcloud.com IN CNAME .
