@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1793761814 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1793848215 12h 15m 3w 3h
 004430.xyz IN CNAME .
 *.004430.xyz IN CNAME .
 0123456789nonexistent.com IN CNAME .
@@ -83,6 +83,8 @@ $TTL 3600
 *.1flex.org IN CNAME .
 1movies.stream IN CNAME .
 *.1movies.stream IN CNAME .
+1tube.org IN CNAME .
+*.1tube.org IN CNAME .
 2.tracker.eu.org IN CNAME .
 *.2.tracker.eu.org IN CNAME .
 22jumpstreetonlinenow.comunidades.net IN CNAME .
@@ -215,6 +217,8 @@ alanb.yi.org IN CNAME .
 *.alanb.yi.org IN CNAME .
 aletorrenty.pl IN CNAME .
 *.aletorrenty.pl IN CNAME .
+alfafile.net IN CNAME .
+*.alfafile.net IN CNAME .
 all4nothin.net IN CNAME .
 *.all4nothin.net IN CNAME .
 alldebrid.com IN CNAME .
@@ -389,8 +393,6 @@ arabseed-tv.com IN CNAME .
 *.arabseed-tv.com IN CNAME .
 arabseed.rent IN CNAME .
 *.arabseed.rent IN CNAME .
-arabseed.social IN CNAME .
-*.arabseed.social IN CNAME .
 archive.torrentonline.cc IN CNAME .
 *.archive.torrentonline.cc IN CNAME .
 arena-tr.com IN CNAME .
@@ -657,8 +659,6 @@ cinefound.com IN CNAME .
 *.cinefound.com IN CNAME .
 cinefreak.net IN CNAME .
 *.cinefreak.net IN CNAME .
-cinehd.app IN CNAME .
-*.cinehd.app IN CNAME .
 cinemaos-v2.vercel.app IN CNAME .
 *.cinemaos-v2.vercel.app IN CNAME .
 cinepulse.com.de IN CNAME .
@@ -687,8 +687,6 @@ coeus.torrentonline.cc IN CNAME .
 *.coeus.torrentonline.cc IN CNAME .
 coflix-fr.com IN CNAME .
 *.coflix-fr.com IN CNAME .
-coflix.esq IN CNAME .
-*.coflix.esq IN CNAME .
 collectionchamber.blogspot.com IN CNAME .
 *.collectionchamber.blogspot.com IN CNAME .
 comicat.org IN CNAME .
@@ -725,6 +723,8 @@ cs.rin.ru IN CNAME .
 *.cs.rin.ru IN CNAME .
 ctgmovies.com IN CNAME .
 *.ctgmovies.com IN CNAME .
+cuevanamax.com IN CNAME .
+*.cuevanamax.com IN CNAME .
 cutscloud.duckdns.org IN CNAME .
 *.cutscloud.duckdns.org IN CNAME .
 cyberia.is IN CNAME .
@@ -763,8 +763,6 @@ demonii.com IN CNAME .
 *.demonii.com IN CNAME .
 demonoid.com IN CNAME .
 *.demonoid.com IN CNAME .
-demonoid.is IN CNAME .
-*.demonoid.is IN CNAME .
 demonoid.pw IN CNAME .
 *.demonoid.pw IN CNAME .
 destinteam.xyz IN CNAME .
@@ -945,6 +943,8 @@ erdgeist.org IN CNAME .
 *.erdgeist.org IN CNAME .
 esk.onl IN CNAME .
 *.esk.onl IN CNAME .
+eurostream.mom IN CNAME .
+*.eurostream.mom IN CNAME .
 evan.im IN CNAME .
 *.evan.im IN CNAME .
 evening-badlands-6215.herokuapp.com IN CNAME .
@@ -1091,8 +1091,6 @@ flemmix.cloud IN CNAME .
 *.flemmix.cloud IN CNAME .
 flemmix.kim IN CNAME .
 *.flemmix.kim IN CNAME .
-flemmix.men IN CNAME .
-*.flemmix.men IN CNAME .
 flemmix.party IN CNAME .
 *.flemmix.party IN CNAME .
 flemmix.style IN CNAME .
@@ -1127,6 +1125,8 @@ fmovies.com.se IN CNAME .
 *.fmovies.com.se IN CNAME .
 fmovies.us.com IN CNAME .
 *.fmovies.us.com IN CNAME .
+fmovies4k.org IN CNAME .
+*.fmovies4k.org IN CNAME .
 fmoviesopen.net IN CNAME .
 *.fmoviesopen.net IN CNAME .
 fmoviess.org IN CNAME .
@@ -1335,6 +1335,8 @@ hdfilmizlemax.pro IN CNAME .
 *.hdfilmizlemax.pro IN CNAME .
 hdhome.org IN CNAME .
 *.hdhome.org IN CNAME .
+hdmovie2a.sbs IN CNAME .
+*.hdmovie2a.sbs IN CNAME .
 hdmovie2r.dev IN CNAME .
 *.hdmovie2r.dev IN CNAME .
 hdmovie55.xyz IN CNAME .
@@ -1957,8 +1959,6 @@ modcombo.com IN CNAME .
 *.modcombo.com IN CNAME .
 modded-1.com IN CNAME .
 *.modded-1.com IN CNAME .
-modder.me IN CNAME .
-*.modder.me IN CNAME .
 moddroid.com IN CNAME .
 *.moddroid.com IN CNAME .
 modilimitado.io IN CNAME .
@@ -1973,8 +1973,6 @@ modw.net IN CNAME .
 *.modw.net IN CNAME .
 modyolo.com IN CNAME .
 *.modyolo.com IN CNAME .
-moflix-stream.xyz IN CNAME .
-*.moflix-stream.xyz IN CNAME .
 montreal.nyap2p.com IN CNAME .
 *.montreal.nyap2p.com IN CNAME .
 moonburrow.club IN CNAME .
@@ -1983,12 +1981,16 @@ morencius.com IN CNAME .
 *.morencius.com IN CNAME .
 motchill-tv.com IN CNAME .
 *.motchill-tv.com IN CNAME .
+motchill.eu.com IN CNAME .
+*.motchill.eu.com IN CNAME .
 motchillb.now IN CNAME .
 *.motchillb.now IN CNAME .
 motchille.media IN CNAME .
 *.motchille.media IN CNAME .
 motchilltv.zip IN CNAME .
 *.motchilltv.zip IN CNAME .
+motchillv.ph IN CNAME .
+*.motchillv.ph IN CNAME .
 movie-web-me.vercel.app IN CNAME .
 *.movie-web-me.vercel.app IN CNAME .
 movie-web.app IN CNAME .
@@ -2041,8 +2043,6 @@ moviezda.com IN CNAME .
 *.moviezda.com IN CNAME .
 moviezda.net IN CNAME .
 *.moviezda.net IN CNAME .
-movix.bet IN CNAME .
-*.movix.bet IN CNAME .
 mp3juices-app.en.uptodown.com IN CNAME .
 *.mp3juices-app.en.uptodown.com IN CNAME .
 mp4moviez.rip IN CNAME .
@@ -2169,12 +2169,8 @@ new-rutor.org IN CNAME .
 *.new-rutor.org IN CNAME .
 newalbumreleases.net IN CNAME .
 *.newalbumreleases.net IN CNAME .
-newhdmovie2.app IN CNAME .
-*.newhdmovie2.app IN CNAME .
 newhdmovie2.bar IN CNAME .
 *.newhdmovie2.bar IN CNAME .
-newhdmovie2.beer IN CNAME .
-*.newhdmovie2.beer IN CNAME .
 newhdmovie2.best IN CNAME .
 *.newhdmovie2.best IN CNAME .
 newhdmovie2.day IN CNAME .
@@ -3047,6 +3043,8 @@ tfpdl.se IN CNAME .
 *.tfpdl.se IN CNAME .
 tfreeca22.com IN CNAME .
 *.tfreeca22.com IN CNAME .
+the-eye.eu IN CNAME .
+*.the-eye.eu IN CNAME .
 the-soap2day.day IN CNAME .
 *.the-soap2day.day IN CNAME .
 thebazaar.sytes.net IN CNAME .
@@ -4123,6 +4121,8 @@ yuptracker.gaijinent.com IN CNAME .
 *.yuptracker.gaijinent.com IN CNAME .
 z-li.ru IN CNAME .
 *.z-li.ru IN CNAME .
+z-lib.do IN CNAME .
+*.z-lib.do IN CNAME .
 z-lib.fm IN CNAME .
 *.z-lib.fm IN CNAME .
 z-lib.id IN CNAME .
