@@ -1,6 +1,6 @@
 ; RPZ "URLSHORTENER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794023868 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794110461 12h 15m 3w 3h
 0rz.tw IN CNAME .
 *.0rz.tw IN CNAME .
 100freeonlinetools.vercel.app IN CNAME .
@@ -837,6 +837,8 @@ rbx-hyperlink.vercel.app IN CNAME .
 *.rbx-hyperlink.vercel.app IN CNAME .
 rbx-url.com IN CNAME .
 *.rbx-url.com IN CNAME .
+rd-client.com IN CNAME .
+*.rd-client.com IN CNAME .
 rdcu.be IN CNAME .
 *.rdcu.be IN CNAME .
 react-url-shortener-vert.vercel.app IN CNAME .
@@ -993,8 +995,6 @@ smart.link IN CNAME .
 *.smart.link IN CNAME .
 smarturl.it IN CNAME .
 *.smarturl.it IN CNAME .
-sms-my.com IN CNAME .
-*.sms-my.com IN CNAME .
 sms.katapult.com IN CNAME .
 *.sms.katapult.com IN CNAME .
 snaplink-xegc.vercel.app IN CNAME .
@@ -1213,6 +1213,8 @@ urlr.me IN CNAME .
 *.urlr.me IN CNAME .
 urls.fr IN CNAME .
 *.urls.fr IN CNAME .
+urls.oenet.gr IN CNAME .
+*.urls.oenet.gr IN CNAME .
 urlshortener-client.vercel.app IN CNAME .
 *.urlshortener-client.vercel.app IN CNAME .
 urlshortener-cyan-five.vercel.app IN CNAME .

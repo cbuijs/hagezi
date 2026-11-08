@@ -1,16 +1,12 @@
 ; RPZ "NATIVE-TIKTOK"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794021788 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794108222 12h 15m 3w 3h
 ad-format-ie.tiktokv.eu IN CNAME .
 *.ad-format-ie.tiktokv.eu IN CNAME .
-ad-format-ttp2.tiktokv.eu IN CNAME .
-*.ad-format-ttp2.tiktokv.eu IN CNAME .
 ad-format-ttp2.tiktokv.us IN CNAME .
 *.ad-format-ttp2.tiktokv.us IN CNAME .
 ad-format.tiktokv.eu IN CNAME .
 *.ad-format.tiktokv.eu IN CNAME .
-ad-format.tiktokv.us IN CNAME .
-*.ad-format.tiktokv.us IN CNAME .
 ad-format16-normal-useastred.tiktokv.eu IN CNAME .
 *.ad-format16-normal-useastred.tiktokv.eu IN CNAME .
 ad-instantpage-ie.tiktokv.eu IN CNAME .
@@ -319,8 +315,6 @@ livelycdn.com IN CNAME .
 *.livelycdn.com IN CNAME .
 location-ie.tiktokv.eu IN CNAME .
 *.location-ie.tiktokv.eu IN CNAME .
-location-ttp2.tiktokv.eu IN CNAME .
-*.location-ttp2.tiktokv.eu IN CNAME .
 location-ttp2.tiktokv.us IN CNAME .
 *.location-ttp2.tiktokv.us IN CNAME .
 location-ttp2.tiktokw.eu IN CNAME .
@@ -341,14 +335,10 @@ location.tiktok.com IN CNAME .
 *.location.tiktok.com IN CNAME .
 location.tiktokv.eu IN CNAME .
 *.location.tiktokv.eu IN CNAME .
-location.tiktokv.us IN CNAME .
-*.location.tiktokv.us IN CNAME .
 location.tiktokw.eu IN CNAME .
 *.location.tiktokw.eu IN CNAME .
 location.tiktokw.us IN CNAME .
 *.location.tiktokw.us IN CNAME .
-location16-normal-useastred.tiktokv.eu IN CNAME .
-*.location16-normal-useastred.tiktokv.eu IN CNAME .
 location16-normal-useastred.tiktokw.eu IN CNAME .
 *.location16-normal-useastred.tiktokw.eu IN CNAME .
 locationv16-normal-useastred.tiktokv.eu IN CNAME .
@@ -395,8 +385,14 @@ log19-normal-useast5.tiktokv.us IN CNAME .
 *.log19-normal-useast5.tiktokv.us IN CNAME .
 log19-normal-useast8.tiktokv.us IN CNAME .
 *.log19-normal-useast8.tiktokv.us IN CNAME .
+log22-normal-alisg.tiktokv.com.kp45.ru IN CNAME .
+*.log22-normal-alisg.tiktokv.com.kp45.ru IN CNAME .
 log22-normal.capcutapi.com IN CNAME .
 *.log22-normal.capcutapi.com IN CNAME .
+log3-normal-c-alisg.tiktokv.com.w.kunlunsl.com IN CNAME .
+*.log3-normal-c-alisg.tiktokv.com.w.kunlunsl.com IN CNAME .
+log3-normal-c-useast1a.tiktokv.com.w.kunlunsl.com IN CNAME .
+*.log3-normal-c-useast1a.tiktokv.com.w.kunlunsl.com IN CNAME .
 log31-normal-no1a.tiktokv.eu IN CNAME .
 *.log31-normal-no1a.tiktokv.eu IN CNAME .
 log31-normal-sg.capcutapi.com IN CNAME .
@@ -413,6 +409,8 @@ log32-normal-useastred.tiktokv.eu IN CNAME .
 *.log32-normal-useastred.tiktokv.eu IN CNAME .
 log32-normal.capcutapi.com IN CNAME .
 *.log32-normal.capcutapi.com IN CNAME .
+log9-normal-c-useast1a.tiktokv.com.ecdnx.com IN CNAME .
+*.log9-normal-c-useast1a.tiktokv.com.ecdnx.com IN CNAME .
 maliva-mcs.capcutapi.com IN CNAME .
 *.maliva-mcs.capcutapi.com IN CNAME .
 mcs-i18n.tiktok.com IN CNAME .
@@ -477,18 +475,10 @@ mssdk-sg.capcutapi.com IN CNAME .
 *.mssdk-sg.capcutapi.com IN CNAME .
 mssdk.capcutapi.us IN CNAME .
 *.mssdk.capcutapi.us IN CNAME .
-mssdk16-normal-sg.capcutapi.com IN CNAME .
-*.mssdk16-normal-sg.capcutapi.com IN CNAME .
 mssdk16-normal-us-ttp.capcutapi.us IN CNAME .
 *.mssdk16-normal-us-ttp.capcutapi.us IN CNAME .
 mssdk16-normal-us-ttp2.capcutapi.us IN CNAME .
 *.mssdk16-normal-us-ttp2.capcutapi.us IN CNAME .
-mssdk16-normal.capcutapi.com IN CNAME .
-*.mssdk16-normal.capcutapi.com IN CNAME .
-mssdk32-normal-sg.capcutapi.com IN CNAME .
-*.mssdk32-normal-sg.capcutapi.com IN CNAME .
-mssdk32-normal.capcutapi.com IN CNAME .
-*.mssdk32-normal.capcutapi.com IN CNAME .
 musapi.cc IN CNAME .
 *.musapi.cc IN CNAME .
 muscdn.com IN CNAME .
@@ -543,8 +533,6 @@ pomelo.im IN CNAME .
 *.pomelo.im IN CNAME .
 pstatp.com IN CNAME .
 *.pstatp.com IN CNAME .
-rtc-logger-ie.tiktokv.eu IN CNAME .
-*.rtc-logger-ie.tiktokv.eu IN CNAME .
 rtc-logger-ttp2.tiktokv.eu IN CNAME .
 *.rtc-logger-ttp2.tiktokv.eu IN CNAME .
 rtc-logger-ttp2.tiktokv.us IN CNAME .
@@ -557,6 +545,8 @@ rtc-logger16-normal-useastred.tiktokv.eu IN CNAME .
 *.rtc-logger16-normal-useastred.tiktokv.eu IN CNAME .
 rtlog.tiktokv.eu IN CNAME .
 *.rtlog.tiktokv.eu IN CNAME .
+rtlog16-normal-alisg.tiktokv.com.kp45.ru IN CNAME .
+*.rtlog16-normal-alisg.tiktokv.com.kp45.ru IN CNAME .
 rtlog16-normal-ie.tiktokv.eu IN CNAME .
 *.rtlog16-normal-ie.tiktokv.eu IN CNAME .
 rtlog16-normal-no1a.tiktokv.eu IN CNAME .
@@ -573,6 +563,8 @@ rtlog19-normal-useast5.tiktokv.us IN CNAME .
 *.rtlog19-normal-useast5.tiktokv.us IN CNAME .
 rtlog19-normal-useast8.tiktokv.us IN CNAME .
 *.rtlog19-normal-useast8.tiktokv.us IN CNAME .
+rtlog22-normal-alisg.tiktokv.com.kp45.ru IN CNAME .
+*.rtlog22-normal-alisg.tiktokv.com.kp45.ru IN CNAME .
 rtlog31-normal-no1a.tiktokv.eu IN CNAME .
 *.rtlog31-normal-no1a.tiktokv.eu IN CNAME .
 rtlog31-normal-useastred.tiktokv.eu IN CNAME .

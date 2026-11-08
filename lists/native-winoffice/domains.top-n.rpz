@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-WINOFFICE-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794021801 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794108236 12h 15m 3w 3h
 a-ring-fallback.msedge.net IN CNAME .
 *.a-ring-fallback.msedge.net IN CNAME .
 a-ring.msedge.net IN CNAME .
@@ -15,8 +15,6 @@ ad.msn.com IN CNAME .
 *.ad.msn.com IN CNAME .
 adevents.msn.com IN CNAME .
 *.adevents.msn.com IN CNAME .
-ads-msn-com-profile.trafficmanager.net IN CNAME .
-*.ads-msn-com-profile.trafficmanager.net IN CNAME .
 ads.bing.com IN CNAME .
 *.ads.bing.com IN CNAME .
 ads.eu.msn.com IN CNAME .
@@ -65,6 +63,8 @@ analytics.trafficmanager.net IN CNAME .
 *.analytics.trafficmanager.net IN CNAME .
 analyticsehnwe.servicebus.windows.net IN CNAME .
 *.analyticsehnwe.servicebus.windows.net IN CNAME .
+analyticsiot-prod-mobileapps-ehn.servicebus.windows.net IN CNAME .
+*.analyticsiot-prod-mobileapps-ehn.servicebus.windows.net IN CNAME .
 analyticspixel.microsoft.com IN CNAME .
 *.analyticspixel.microsoft.com IN CNAME .
 api.edgeoffer.microsoft.com IN CNAME .
@@ -89,6 +89,8 @@ arctb53wmig1gagbqjqgolj2ig.msn.com IN CNAME .
 *.arctb53wmig1gagbqjqgolj2ig.msn.com IN CNAME .
 auc-visio-telemetry.officeapps.live.com IN CNAME .
 *.auc-visio-telemetry.officeapps.live.com IN CNAME .
+audiobible-production-analytics-eh.servicebus.windows.net IN CNAME .
+*.audiobible-production-analytics-eh.servicebus.windows.net IN CNAME .
 az667904.vo.msecnd.net IN CNAME .
 *.az667904.vo.msecnd.net IN CNAME .
 azurewatson.microsoft.com IN CNAME .
@@ -207,14 +209,14 @@ ceuswatcab02.blob.core.windows.net IN CNAME .
 *.ceuswatcab02.blob.core.windows.net IN CNAME .
 ch-asimov-leafs-events-data.trafficmanager.net IN CNAME .
 *.ch-asimov-leafs-events-data.trafficmanager.net IN CNAME .
-chc-visio-telemetry.officeapps.live.com IN CNAME .
-*.chc-visio-telemetry.officeapps.live.com IN CNAME .
 citrixanalyticseh-alias.servicebus.windows.net IN CNAME .
 *.citrixanalyticseh-alias.servicebus.windows.net IN CNAME .
 citrixanalyticseh.servicebus.windows.net IN CNAME .
 *.citrixanalyticseh.servicebus.windows.net IN CNAME .
 citrixanalyticseh2-alias.servicebus.windows.net IN CNAME .
 *.citrixanalyticseh2-alias.servicebus.windows.net IN CNAME .
+citrixanalyticseh2.servicebus.windows.net IN CNAME .
+*.citrixanalyticseh2.servicebus.windows.net IN CNAME .
 citrixanalyticseh3-alias.servicebus.windows.net IN CNAME .
 *.citrixanalyticseh3-alias.servicebus.windows.net IN CNAME .
 citrixanalyticseh3.servicebus.windows.net IN CNAME .
@@ -271,8 +273,8 @@ eaus2watcab01.blob.core.windows.net IN CNAME .
 *.eaus2watcab01.blob.core.windows.net IN CNAME .
 eaus2watcab02.blob.core.windows.net IN CNAME .
 *.eaus2watcab02.blob.core.windows.net IN CNAME .
-ehtelemetrystaging-alias.servicebus.windows.net IN CNAME .
-*.ehtelemetrystaging-alias.servicebus.windows.net IN CNAME .
+ehtelemetrystaging.servicebus.windows.net IN CNAME .
+*.ehtelemetrystaging.servicebus.windows.net IN CNAME .
 euc-excel-telemetry.officeapps.live.com IN CNAME .
 *.euc-excel-telemetry.officeapps.live.com IN CNAME .
 euc-excel-telemetry.wac.trafficmanager.net IN CNAME .
@@ -291,8 +293,6 @@ euc-word-telemetry.wac.trafficmanager.net IN CNAME .
 *.euc-word-telemetry.wac.trafficmanager.net IN CNAME .
 eurffc-word-telemetry.officeapps.live.com IN CNAME .
 *.eurffc-word-telemetry.officeapps.live.com IN CNAME .
-eurffc-word-telemetry.wac.trafficmanager.net IN CNAME .
-*.eurffc-word-telemetry.wac.trafficmanager.net IN CNAME .
 eurppc-excel-telemetry.officeapps.live.com IN CNAME .
 *.eurppc-excel-telemetry.officeapps.live.com IN CNAME .
 eurppc-powerpoint-telemetry.officeapps.live.com IN CNAME .
@@ -357,6 +357,8 @@ hme-uat-loganalytics-namespace.servicebus.windows.net IN CNAME .
 *.hme-uat-loganalytics-namespace.servicebus.windows.net IN CNAME .
 i1.services.social.microsoft.com IN CNAME .
 *.i1.services.social.microsoft.com IN CNAME .
+icmskillevents.trafficmanager.net IN CNAME .
+*.icmskillevents.trafficmanager.net IN CNAME .
 ieonline.microsoft.com IN CNAME .
 *.ieonline.microsoft.com IN CNAME .
 in.appcenter.ms IN CNAME .
@@ -467,24 +469,8 @@ outlookads.live.com IN CNAME .
 *.outlookads.live.com IN CNAME .
 partnerfraudevents.trafficmanager.net IN CNAME .
 *.partnerfraudevents.trafficmanager.net IN CNAME .
-pgtbr1-excel-telemetry-vip.officeapps.live.com IN CNAME .
-*.pgtbr1-excel-telemetry-vip.officeapps.live.com IN CNAME .
-pgtbr1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
-*.pgtbr1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
-pgtbr1-word-telemetry-vip.officeapps.live.com IN CNAME .
-*.pgtbr1-word-telemetry-vip.officeapps.live.com IN CNAME .
 pgtbr2-excel-telemetry-vip.officeapps.live.com IN CNAME .
 *.pgtbr2-excel-telemetry-vip.officeapps.live.com IN CNAME .
-pgtbr2-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
-*.pgtbr2-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
-pgtbr2-word-telemetry-vip.officeapps.live.com IN CNAME .
-*.pgtbr2-word-telemetry-vip.officeapps.live.com IN CNAME .
-pgtca1-excel-telemetry-vip.officeapps.live.com IN CNAME .
-*.pgtca1-excel-telemetry-vip.officeapps.live.com IN CNAME .
-pgtca1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
-*.pgtca1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
-pgtca1-word-telemetry-vip.officeapps.live.com IN CNAME .
-*.pgtca1-word-telemetry-vip.officeapps.live.com IN CNAME .
 pgteu1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 *.pgteu1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 pgteu1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
@@ -507,18 +493,8 @@ pgteu4-excel-telemetry-vip.officeapps.live.com IN CNAME .
 *.pgteu4-excel-telemetry-vip.officeapps.live.com IN CNAME .
 pgteu4-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 *.pgteu4-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
-pgteu4-word-telemetry-vip.officeapps.live.com IN CNAME .
-*.pgteu4-word-telemetry-vip.officeapps.live.com IN CNAME .
-pgteu5-excel-telemetry-vip.officeapps.live.com IN CNAME .
-*.pgteu5-excel-telemetry-vip.officeapps.live.com IN CNAME .
 pgteu5-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 *.pgteu5-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
-pgteu5-word-telemetry-vip.officeapps.live.com IN CNAME .
-*.pgteu5-word-telemetry-vip.officeapps.live.com IN CNAME .
-pgtmx1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
-*.pgtmx1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
-pgtmx1-word-telemetry-vip.officeapps.live.com IN CNAME .
-*.pgtmx1-word-telemetry-vip.officeapps.live.com IN CNAME .
 pgtus1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 *.pgtus1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
@@ -579,8 +555,6 @@ ppc-word-telemetry.officeapps.live.com IN CNAME .
 *.ppc-word-telemetry.officeapps.live.com IN CNAME .
 ppc-word-telemetry.wac.trafficmanager.net IN CNAME .
 *.ppc-word-telemetry.wac.trafficmanager.net IN CNAME .
-ppm-licensingtelemetry.servicebus.windows.net IN CNAME .
-*.ppm-licensingtelemetry.servicebus.windows.net IN CNAME .
 prd-qlik-telemetry.servicebus.windows.net IN CNAME .
 *.prd-qlik-telemetry.servicebus.windows.net IN CNAME .
 preview.msn.com IN CNAME .
@@ -659,20 +633,12 @@ t-ring-fallback.msedge.net IN CNAME .
 *.t-ring-fallback.msedge.net IN CNAME .
 t-ring-fallbacks1.msedge.net IN CNAME .
 *.t-ring-fallbacks1.msedge.net IN CNAME .
-t-ring-fallbacks2.msedge.net IN CNAME .
-*.t-ring-fallbacks2.msedge.net IN CNAME .
-t-ring-fdv2.msedge.net IN CNAME .
-*.t-ring-fdv2.msedge.net IN CNAME .
-t-ring-s.msedge.net IN CNAME .
-*.t-ring-s.msedge.net IN CNAME .
 t-ring-s2.msedge.net IN CNAME .
 *.t-ring-s2.msedge.net IN CNAME .
 t-ring-trafficshield.msedge.net IN CNAME .
 *.t-ring-trafficshield.msedge.net IN CNAME .
 t-ring.msedge.net IN CNAME .
 *.t-ring.msedge.net IN CNAME .
-t-s1-ring.msedge.net IN CNAME .
-*.t-s1-ring.msedge.net IN CNAME .
 t-s2-ring.msedge.net IN CNAME .
 *.t-s2-ring.msedge.net IN CNAME .
 teams-events-data.trafficmanager.net IN CNAME .
@@ -719,8 +685,6 @@ ukc-onenote-telemetry.officeapps.live.com IN CNAME .
 *.ukc-onenote-telemetry.officeapps.live.com IN CNAME .
 ukc-visio-telemetry.officeapps.live.com IN CNAME .
 *.ukc-visio-telemetry.officeapps.live.com IN CNAME .
-us-mesh-events-data-leafs.trafficmanager.net IN CNAME .
-*.us-mesh-events-data-leafs.trafficmanager.net IN CNAME .
 usc-onenote-telemetry.officeapps.live.com IN CNAME .
 *.usc-onenote-telemetry.officeapps.live.com IN CNAME .
 usc-visio-telemetry.officeapps.live.com IN CNAME .
@@ -747,6 +711,8 @@ watson.microsoft.com IN CNAME .
 *.watson.microsoft.com IN CNAME .
 watson.officeint.microsoft.com IN CNAME .
 *.watson.officeint.microsoft.com IN CNAME .
+watsoncab.trafficmanager.net IN CNAME .
+*.watsoncab.trafficmanager.net IN CNAME .
 wayfinderanalytics.servicebus.windows.net IN CNAME .
 *.wayfinderanalytics.servicebus.windows.net IN CNAME .
 weus2watcab01.blob.core.windows.net IN CNAME .
@@ -761,7 +727,5 @@ word-telemetry.officeapps.live.com IN CNAME .
 *.word-telemetry.officeapps.live.com IN CNAME .
 word-telemetry.wac.trafficmanager.net IN CNAME .
 *.word-telemetry.wac.trafficmanager.net IN CNAME .
-wttwebsiteprodapi-liveevents.trafficmanager.net IN CNAME .
-*.wttwebsiteprodapi-liveevents.trafficmanager.net IN CNAME .
 zmetrics.msn.com IN CNAME .
 *.zmetrics.msn.com IN CNAME .
