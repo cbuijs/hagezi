@@ -1,6 +1,6 @@
 ; RPZ "ANTI-PIRACY-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794193812 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794280213 12h 15m 3w 3h
 004430.xyz IN CNAME .
 *.004430.xyz IN CNAME .
 0123456789nonexistent.com IN CNAME .
@@ -109,6 +109,8 @@ $TTL 3600
 *.2600.com IN CNAME .
 2embed.cc IN CNAME .
 *.2embed.cc IN CNAME .
+2embed.skin IN CNAME .
+*.2embed.skin IN CNAME .
 2ix2.com IN CNAME .
 *.2ix2.com IN CNAME .
 3.tracker.eu.org IN CNAME .
@@ -151,8 +153,6 @@ $TTL 3600
 *.5movierulz.host IN CNAME .
 5movierulz.kitchen IN CNAME .
 *.5movierulz.kitchen IN CNAME .
-5movierulz.pictures IN CNAME .
-*.5movierulz.pictures IN CNAME .
 5movierulz.plumbing IN CNAME .
 *.5movierulz.plumbing IN CNAME .
 5movierulz.university IN CNAME .
@@ -177,8 +177,6 @@ $TTL 3600
 *.94-227-232-84.access.telenet.be IN CNAME .
 9anime.blue IN CNAME .
 *.9anime.blue IN CNAME .
-9fmovies.net IN CNAME .
-*.9fmovies.net IN CNAME .
 9mod.com IN CNAME .
 *.9mod.com IN CNAME .
 9xdownloadz.vze.com IN CNAME .
@@ -507,8 +505,6 @@ bitsearch.to IN CNAME .
 *.bitsearch.to IN CNAME .
 bittorrent-tracker.e-n-c-r-y-p-t.net IN CNAME .
 *.bittorrent-tracker.e-n-c-r-y-p-t.net IN CNAME .
-bittorrent.am IN CNAME .
-*.bittorrent.am IN CNAME .
 bittorrent.com IN CNAME .
 *.bittorrent.com IN CNAME .
 black-bird.ynh.fr IN CNAME .
@@ -629,6 +625,8 @@ cb01-ai.com IN CNAME .
 *.cb01-ai.com IN CNAME .
 cb01uno.club IN CNAME .
 *.cb01uno.club IN CNAME .
+cba-livetv-baidu.com IN CNAME .
+*.cba-livetv-baidu.com IN CNAME .
 ccmixter.org IN CNAME .
 *.ccmixter.org IN CNAME .
 ccn5050.wixsite.com IN CNAME .
@@ -789,6 +787,8 @@ devuploads.com IN CNAME .
 *.devuploads.com IN CNAME .
 diakov.net IN CNAME .
 *.diakov.net IN CNAME .
+didiaokanlivetv-qq.com IN CNAME .
+*.didiaokanlivetv-qq.com IN CNAME .
 digital-eliteboard.com IN CNAME .
 *.digital-eliteboard.com IN CNAME .
 dimeadozen.org IN CNAME .
@@ -1175,8 +1175,6 @@ fmoviess.org IN CNAME .
 *.fmoviess.org IN CNAME .
 fn-bd.com IN CNAME .
 *.fn-bd.com IN CNAME .
-forever-tracker.zooki.xyz IN CNAME .
-*.forever-tracker.zooki.xyz IN CNAME .
 foreverpirates.co IN CNAME .
 *.foreverpirates.co IN CNAME .
 forum.exetools.com IN CNAME .
@@ -1193,8 +1191,6 @@ frap94.blogspot.com IN CNAME .
 *.frap94.blogspot.com IN CNAME .
 frdl.my IN CNAME .
 *.frdl.my IN CNAME .
-free-tracker.zooki.xyz IN CNAME .
-*.free-tracker.zooki.xyz IN CNAME .
 freedisc.pl IN CNAME .
 *.freedisc.pl IN CNAME .
 freetp.org IN CNAME .
@@ -1237,6 +1233,8 @@ fullversionsoftwaredownload.blogspot.com IN CNAME .
 *.fullversionsoftwaredownload.blogspot.com IN CNAME .
 funfile.org IN CNAME .
 *.funfile.org IN CNAME .
+futbollibre-plus.com IN CNAME .
+*.futbollibre-plus.com IN CNAME .
 futbollibre.ink IN CNAME .
 *.futbollibre.ink IN CNAME .
 futbollibre.mobi IN CNAME .
@@ -1515,8 +1513,12 @@ iplayerhls.com IN CNAME .
 *.iplayerhls.com IN CNAME .
 iptorrents.com IN CNAME .
 *.iptorrents.com IN CNAME .
+iptv-smarters-pro-fr.com IN CNAME .
+*.iptv-smarters-pro-fr.com IN CNAME .
 iptv-web.app IN CNAME .
 *.iptv-web.app IN CNAME .
+iptvdark-tv.com IN CNAME .
+*.iptvdark-tv.com IN CNAME .
 iptvsatistr.com IN CNAME .
 *.iptvsatistr.com IN CNAME .
 ipv4.rer.lol IN CNAME .
@@ -1823,8 +1825,6 @@ lordfilm1.you IN CNAME .
 *.lordfilm1.you IN CNAME .
 lordfilm2.fyi IN CNAME .
 *.lordfilm2.fyi IN CNAME .
-lordfilm4.movie IN CNAME .
-*.lordfilm4.movie IN CNAME .
 lordfilm5.pro IN CNAME .
 *.lordfilm5.pro IN CNAME .
 lordfilm7.art IN CNAME .
@@ -1991,8 +1991,6 @@ milanesitracker.tekcities.com IN CNAME .
 *.milanesitracker.tekcities.com IN CNAME .
 mininova.org IN CNAME .
 *.mininova.org IN CNAME .
-minochinos.com IN CNAME .
-*.minochinos.com IN CNAME .
 mirror.aptus.co.tz IN CNAME .
 *.mirror.aptus.co.tz IN CNAME .
 miruro.com IN CNAME .
@@ -2167,8 +2165,6 @@ multimovies.beer IN CNAME .
 *.multimovies.beer IN CNAME .
 multimovies.motorcycles IN CNAME .
 *.multimovies.motorcycles IN CNAME .
-mults.info IN CNAME .
-*.mults.info IN CNAME .
 mv-web.netlify.app IN CNAME .
 *.mv-web.netlify.app IN CNAME .
 mvgroup.org IN CNAME .
@@ -2255,6 +2251,8 @@ netmirror.com.se IN CNAME .
 *.netmirror.com.se IN CNAME .
 netmirror.gg IN CNAME .
 *.netmirror.gg IN CNAME .
+netmirror.in.net IN CNAME .
+*.netmirror.in.net IN CNAME .
 netmirror.studio IN CNAME .
 *.netmirror.studio IN CNAME .
 new-123movies.online IN CNAME .
@@ -2379,8 +2377,6 @@ online-tv.de IN CNAME .
 *.online-tv.de IN CNAME .
 onlinekora-tv.com IN CNAME .
 *.onlinekora-tv.com IN CNAME .
-open-v6.demonoid.ch IN CNAME .
-*.open-v6.demonoid.ch IN CNAME .
 open.acgtracker.com IN CNAME .
 *.open.acgtracker.com IN CNAME .
 open.demonii.si IN CNAME .
@@ -2537,8 +2533,6 @@ prmovies.energy IN CNAME .
 *.prmovies.energy IN CNAME .
 prmovies.futbol IN CNAME .
 *.prmovies.futbol IN CNAME .
-prmovies.locker IN CNAME .
-*.prmovies.locker IN CNAME .
 pro-windows.net IN CNAME .
 *.pro-windows.net IN CNAME .
 productoilicito2.blogspot.com IN CNAME .
@@ -2559,8 +2553,6 @@ psyfp.ucoz.ru IN CNAME .
 *.psyfp.ucoz.ru IN CNAME .
 pte.nu IN CNAME .
 *.pte.nu IN CNAME .
-public-tracker.zooki.xyz IN CNAME .
-*.public-tracker.zooki.xyz IN CNAME .
 publictracker.xyz IN CNAME .
 *.publictracker.xyz IN CNAME .
 pubt.net IN CNAME .
@@ -2843,6 +2835,8 @@ sexy-torrents.ru IN CNAME .
 *.sexy-torrents.ru IN CNAME .
 shadowshq.yi.org IN CNAME .
 *.shadowshq.yi.org IN CNAME .
+shahidrazi.online IN CNAME .
+*.shahidrazi.online IN CNAME .
 shanaproject.com IN CNAME .
 *.shanaproject.com IN CNAME .
 share.camoe.cn IN CNAME .
@@ -2945,6 +2939,8 @@ songswave.com IN CNAME .
 *.songswave.com IN CNAME .
 sons-of-anarchy-3.cz.cc IN CNAME .
 *.sons-of-anarchy-3.cz.cc IN CNAME .
+souqiulivetv-qq.com IN CNAME .
+*.souqiulivetv-qq.com IN CNAME .
 southparkstudios.com IN CNAME .
 *.southparkstudios.com IN CNAME .
 spacetradersapi-chatbox.herokuapp.com IN CNAME .
@@ -3097,6 +3093,8 @@ t.nyaatracker.com IN CNAME .
 *.t.nyaatracker.com IN CNAME .
 t.overflow.biz IN CNAME .
 *.t.overflow.biz IN CNAME .
+t.quic.ws IN CNAME .
+*.t.quic.ws IN CNAME .
 tabula-rasa.pw IN CNAME .
 *.tabula-rasa.pw IN CNAME .
 tachki-lordfilm-online.ru IN CNAME .
@@ -3155,8 +3153,6 @@ thejigsawpuzzles.com IN CNAME .
 *.thejigsawpuzzles.com IN CNAME .
 theoldschool.cc IN CNAME .
 *.theoldschool.cc IN CNAME .
-thepibay.site IN CNAME .
-*.thepibay.site IN CNAME .
 thepiratebay-us.org IN CNAME .
 *.thepiratebay-us.org IN CNAME .
 thepiratebay.bond IN CNAME .
@@ -3259,6 +3255,8 @@ torrent-client.com IN CNAME .
 *.torrent-client.com IN CNAME .
 torrent-download-rj.com IN CNAME .
 *.torrent-download-rj.com IN CNAME .
+torrent-films-2026.org IN CNAME .
+*.torrent-films-2026.org IN CNAME .
 torrent-finder.com IN CNAME .
 *.torrent-finder.com IN CNAME .
 torrent-on.ru IN CNAME .
@@ -3375,8 +3373,12 @@ tr.abiir.top IN CNAME .
 *.tr.abiir.top IN CNAME .
 tr.abir.ga IN CNAME .
 *.tr.abir.ga IN CNAME .
+tr.btube3.com IN CNAME .
+*.tr.btube3.com IN CNAME .
 tr.burnabyhighstar.com IN CNAME .
 *.tr.burnabyhighstar.com IN CNAME .
+tr.highstar.shop IN CNAME .
+*.tr.highstar.shop IN CNAME .
 tr.nyacat.pw IN CNAME .
 *.tr.nyacat.pw IN CNAME .
 tr.ready4.icu IN CNAME .
@@ -3397,8 +3399,6 @@ tracker-de.ololosh.space IN CNAME .
 *.tracker-de.ololosh.space IN CNAME .
 tracker-udp.gbitt.info IN CNAME .
 *.tracker-udp.gbitt.info IN CNAME .
-tracker-v6.zooki.xyz IN CNAME .
-*.tracker-v6.zooki.xyz IN CNAME .
 tracker.0x7c0.com IN CNAME .
 *.tracker.0x7c0.com IN CNAME .
 tracker.1h.is IN CNAME .
@@ -3459,6 +3459,8 @@ tracker.cangku.moe IN CNAME .
 *.tracker.cangku.moe IN CNAME .
 tracker.ccc.de IN CNAME .
 *.tracker.ccc.de IN CNAME .
+tracker.cgpeers.to IN CNAME .
+*.tracker.cgpeers.to IN CNAME .
 tracker.cinemaz.to IN CNAME .
 *.tracker.cinemaz.to IN CNAME .
 tracker.cl IN CNAME .
@@ -3473,8 +3475,6 @@ tracker.d.tube IN CNAME .
 *.tracker.d.tube IN CNAME .
 tracker.darkness.services IN CNAME .
 *.tracker.darkness.services IN CNAME .
-tracker.ddunlimited.net IN CNAME .
-*.tracker.ddunlimited.net IN CNAME .
 tracker.deadorbit.nl IN CNAME .
 *.tracker.deadorbit.nl IN CNAME .
 tracker.dhitechnical.com IN CNAME .
@@ -3605,8 +3605,6 @@ tracker.novage.com.ua IN CNAME .
 *.tracker.novage.com.ua IN CNAME .
 tracker.novaopcj.eu.org IN CNAME .
 *.tracker.novaopcj.eu.org IN CNAME .
-tracker.nucozer-tracker.ml IN CNAME .
-*.tracker.nucozer-tracker.ml IN CNAME .
 tracker.nyaa.vc IN CNAME .
 *.tracker.nyaa.vc IN CNAME .
 tracker.ololosh.space IN CNAME .
@@ -3647,6 +3645,8 @@ tracker.segso.net IN CNAME .
 *.tracker.segso.net IN CNAME .
 tracker.servequake.com IN CNAME .
 *.tracker.servequake.com IN CNAME .
+tracker.shkinev.me IN CNAME .
+*.tracker.shkinev.me IN CNAME .
 tracker.sjtu.edu.cn IN CNAME .
 *.tracker.sjtu.edu.cn IN CNAME .
 tracker.skynetcloud.site IN CNAME .
@@ -3891,8 +3891,6 @@ vdos-s.com IN CNAME .
 *.vdos-s.com IN CNAME .
 vdownloads967x.usa.cc IN CNAME .
 *.vdownloads967x.usa.cc IN CNAME .
-vegamovie.site IN CNAME .
-*.vegamovie.site IN CNAME .
 vegamovies.catering IN CNAME .
 *.vegamovies.catering IN CNAME .
 vegamovies.directory IN CNAME .
@@ -4069,6 +4067,8 @@ wcoflix.tv IN CNAME .
 *.wcoflix.tv IN CNAME .
 wcoforever.net IN CNAME .
 *.wcoforever.net IN CNAME .
+wcofuntv.sa.com IN CNAME .
+*.wcofuntv.sa.com IN CNAME .
 wcostream.com IN CNAME .
 *.wcostream.com IN CNAME .
 wcostream.tv IN CNAME .
@@ -4177,6 +4177,8 @@ xzlist.vze.com IN CNAME .
 *.xzlist.vze.com IN CNAME .
 ya-krasneyu-lordfilm-online.ru IN CNAME .
 *.ya-krasneyu-lordfilm-online.ru IN CNAME .
+yahor.of.by IN CNAME .
+*.yahor.of.by IN CNAME .
 yaps.therarbg.to IN CNAME .
 *.yaps.therarbg.to IN CNAME .
 yarrlist.net IN CNAME .
@@ -4185,8 +4187,6 @@ yasdl.com IN CNAME .
 *.yasdl.com IN CNAME .
 yasir252.com IN CNAME .
 *.yasir252.com IN CNAME .
-yesmovies-website.com IN CNAME .
-*.yesmovies-website.com IN CNAME .
 yesmovies.ag IN CNAME .
 *.yesmovies.ag IN CNAME .
 yesmoviess.com.de IN CNAME .
@@ -4217,6 +4217,8 @@ yuptracker-us.gaijinent.com IN CNAME .
 *.yuptracker-us.gaijinent.com IN CNAME .
 yuptracker.gaijinent.com IN CNAME .
 *.yuptracker.gaijinent.com IN CNAME .
+yuyanlivetv-qq.com IN CNAME .
+*.yuyanlivetv-qq.com IN CNAME .
 z-lib.do IN CNAME .
 *.z-lib.do IN CNAME .
 z-lib.fm IN CNAME .
@@ -4225,6 +4227,8 @@ z-lib.id IN CNAME .
 *.z-lib.id IN CNAME .
 z-lib.sk IN CNAME .
 *.z-lib.sk IN CNAME .
+z-library.biz IN CNAME .
+*.z-library.biz IN CNAME .
 z-library.sk IN CNAME .
 *.z-library.sk IN CNAME .
 z-torrents.ru IN CNAME .
@@ -4245,6 +4249,8 @@ zer0day.to IN CNAME .
 *.zer0day.to IN CNAME .
 zerowing.idsoftware.com IN CNAME .
 *.zerowing.idsoftware.com IN CNAME .
+zhizhu-livetv-huya.com IN CNAME .
+*.zhizhu-livetv-huya.com IN CNAME .
 ziperto.com IN CNAME .
 *.ziperto.com IN CNAME .
 zippyshare.com IN CNAME .

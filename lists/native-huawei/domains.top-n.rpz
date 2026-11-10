@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-HUAWEI-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794194387 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794280934 12h 15m 3w 3h
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn IN CNAME .
 *.0001-metrics1-data-hicloud-com.geac.dbankedge.cn IN CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn IN CNAME .
@@ -9,8 +9,6 @@ $TTL 3600
 *.0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn IN CNAME .
 ad-drcn.media.dbankcloud.cn IN CNAME .
 *.ad-drcn.media.dbankcloud.cn IN CNAME .
-ad-drcn.media.dbankcloud.ru IN CNAME .
-*.ad-drcn.media.dbankcloud.ru IN CNAME .
 ads-dra.platform.hihonorcloud.com IN CNAME .
 *.ads-dra.platform.hihonorcloud.com IN CNAME .
 ads-drcn.platform.hihonorcloud.com IN CNAME .
@@ -51,6 +49,18 @@ adx-drru.op.dbankcloud.com IN CNAME .
 *.adx-drru.op.dbankcloud.com IN CNAME .
 adx-drru.op.hicloud.com IN CNAME .
 *.adx-drru.op.hicloud.com IN CNAME .
+apm-ap.yun.hihonor.com IN CNAME .
+*.apm-ap.yun.hihonor.com IN CNAME .
+apm-eu.yun.hihonor.com IN CNAME .
+*.apm-eu.yun.hihonor.com IN CNAME .
+apm-fr.yun.hihonor.com IN CNAME .
+*.apm-fr.yun.hihonor.com IN CNAME .
+apm-ru.yun.hihonor.com IN CNAME .
+*.apm-ru.yun.hihonor.com IN CNAME .
+apm-sg.yun.hihonor.com IN CNAME .
+*.apm-sg.yun.hihonor.com IN CNAME .
+apm.yun.hihonor.com IN CNAME .
+*.apm.yun.hihonor.com IN CNAME .
 browsercfg-drcn.cloud.dbankcloud.cn IN CNAME .
 *.browsercfg-drcn.cloud.dbankcloud.cn IN CNAME .
 connect-dra.dbankcloud.cn IN CNAME .
@@ -123,6 +133,8 @@ events-dre.op.dbankcloud.com IN CNAME .
 *.events-dre.op.dbankcloud.com IN CNAME .
 events-dre.op.hicloud.com IN CNAME .
 *.events-dre.op.hicloud.com IN CNAME .
+grayr.abx.ipd.hihonor.com IN CNAME .
+*.grayr.abx.ipd.hihonor.com IN CNAME .
 grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn IN CNAME .
 *.grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn IN CNAME .
 grs-dbankcloud-asia-dra.appacc.dbankedge.cn IN CNAME .
@@ -161,6 +173,8 @@ grs.platform.dbankcloud.ru IN CNAME .
 *.grs.platform.dbankcloud.ru IN CNAME .
 h4g3z1-native-huawei.web.app IN CNAME .
 *.h4g3z1-native-huawei.web.app IN CNAME .
+hihonor.api.useinsider.com IN CNAME .
+*.hihonor.api.useinsider.com IN CNAME .
 hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn IN CNAME .
 *.hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn IN CNAME .
 hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn IN CNAME .
@@ -211,8 +225,6 @@ metrics-dra.dt.dbankcloud.com IN CNAME .
 *.metrics-dra.dt.dbankcloud.com IN CNAME .
 metrics-drcn.dt.dbankcloud.cn IN CNAME .
 *.metrics-drcn.dt.dbankcloud.cn IN CNAME .
-metrics-drcn.dt.dbankcloud.com IN CNAME .
-*.metrics-drcn.dt.dbankcloud.com IN CNAME .
 metrics-dre.data.dbankcloud.cn IN CNAME .
 *.metrics-dre.data.dbankcloud.cn IN CNAME .
 metrics-dre.dt.dbankcloud.cn IN CNAME .
@@ -259,6 +271,16 @@ openlocation-drcn-platform-dbankcloud-com-drcn.appacc.dbankedge.cn IN CNAME .
 *.openlocation-drcn-platform-dbankcloud-com-drcn.appacc.dbankedge.cn IN CNAME .
 openlocation-drcn.platform.dbankcloud.com IN CNAME .
 *.openlocation-drcn.platform.dbankcloud.com IN CNAME .
+remoteconfig-dra.platform.hihonorcloud.com IN CNAME .
+*.remoteconfig-dra.platform.hihonorcloud.com IN CNAME .
+remoteconfig-drcn.platform.hihonorcloud.com IN CNAME .
+*.remoteconfig-drcn.platform.hihonorcloud.com IN CNAME .
+remoteconfig-dre.platform.hihonorcloud.com IN CNAME .
+*.remoteconfig-dre.platform.hihonorcloud.com IN CNAME .
+remoteconfig-uat-drcn.platform.hihonorcloud.com IN CNAME .
+*.remoteconfig-uat-drcn.platform.hihonorcloud.com IN CNAME .
+rms-behavior-collect-drcn.hihonorcdn.com IN CNAME .
+*.rms-behavior-collect-drcn.hihonorcdn.com IN CNAME .
 rnd-cbgpas01.huawei.com IN CNAME .
 *.rnd-cbgpas01.huawei.com IN CNAME .
 tracking-data-drru.platform.hihonorcloud.com IN CNAME .
