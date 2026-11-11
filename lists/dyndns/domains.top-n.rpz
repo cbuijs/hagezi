@@ -1,6 +1,8 @@
 ; RPZ "DYNDNS-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794280662 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794367143 12h 15m 3w 3h
+24-7.ro IN CNAME .
+*.24-7.ro IN CNAME .
 25u.com IN CNAME .
 *.25u.com IN CNAME .
 2waky.com IN CNAME .
@@ -23,6 +25,8 @@ access.ly IN CNAME .
 *.access.ly IN CNAME .
 accesscam.org IN CNAME .
 *.accesscam.org IN CNAME .
+acmetoy.com IN CNAME .
+*.acmetoy.com IN CNAME .
 afraid.org IN CNAME .
 *.afraid.org IN CNAME .
 almostmy.com IN CNAME .
@@ -95,6 +99,8 @@ crabdance.com IN CNAME .
 *.crabdance.com IN CNAME .
 crazedns.ru IN CNAME .
 *.crazedns.ru IN CNAME .
+cupddns.net IN CNAME .
+*.cupddns.net IN CNAME .
 custom-gaming.net IN CNAME .
 *.custom-gaming.net IN CNAME .
 d-n-s.name IN CNAME .

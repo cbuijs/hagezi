@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794282839 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794369122 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -357,6 +357,8 @@ api-na2.hubapi.com IN CNAME .
 *.api-na2.hubapi.com IN CNAME .
 api-na3.hubapi.com IN CNAME .
 *.api-na3.hubapi.com IN CNAME .
+api-origin.hubapi.com IN CNAME .
+*.api-origin.hubapi.com IN CNAME .
 api.bam-x.com IN CNAME .
 *.api.bam-x.com IN CNAME .
 api.cleverpush.com IN CNAME .
@@ -413,6 +415,8 @@ app1c.outreach.io IN CNAME .
 *.app1c.outreach.io IN CNAME .
 app1e.gateway.portal.outreach.io IN CNAME .
 *.app1e.gateway.portal.outreach.io IN CNAME .
+app1e.outreach.io IN CNAME .
+*.app1e.outreach.io IN CNAME .
 app1f.gateway.portal.outreach.io IN CNAME .
 *.app1f.gateway.portal.outreach.io IN CNAME .
 app1f.outreach.io IN CNAME .
@@ -423,6 +427,8 @@ app2a.gateway.portal.outreach.io IN CNAME .
 *.app2a.gateway.portal.outreach.io IN CNAME .
 app2a.outreach.io IN CNAME .
 *.app2a.outreach.io IN CNAME .
+app2b.outreach.io IN CNAME .
+*.app2b.outreach.io IN CNAME .
 app2c.gateway.portal.outreach.io IN CNAME .
 *.app2c.gateway.portal.outreach.io IN CNAME .
 app2c.outreach.io IN CNAME .
@@ -505,8 +511,6 @@ c2.piano.io IN CNAME .
 *.c2.piano.io IN CNAME .
 c2827.dotomi.com IN CNAME .
 *.c2827.dotomi.com IN CNAME .
-c2990.dotomi.com IN CNAME .
-*.c2990.dotomi.com IN CNAME .
 cadent-match.dotomi.com IN CNAME .
 *.cadent-match.dotomi.com IN CNAME .
 callback.api.qgraph.io IN CNAME .
@@ -529,12 +533,12 @@ cdn.adsdefender.com IN CNAME .
 *.cdn.adsdefender.com IN CNAME .
 cdn.braze.eu IN CNAME .
 *.cdn.braze.eu IN CNAME .
-cdn.e-pfg.exponea.com IN CNAME .
-*.cdn.e-pfg.exponea.com IN CNAME .
 cdn.eu1.exponea.com IN CNAME .
 *.cdn.eu1.exponea.com IN CNAME .
 cdn.exponea.com IN CNAME .
 *.cdn.exponea.com IN CNAME .
+cdn.ftspecialist.exponea.com IN CNAME .
+*.cdn.ftspecialist.exponea.com IN CNAME .
 cdn.mie.exponea.com IN CNAME .
 *.cdn.mie.exponea.com IN CNAME .
 cdn.network.exponea.com IN CNAME .
@@ -565,6 +569,8 @@ cl.s11.exct.net IN CNAME .
 *.cl.s11.exct.net IN CNAME .
 cl.s12.exct.net IN CNAME .
 *.cl.s12.exct.net IN CNAME .
+cl.s13.exct.net IN CNAME .
+*.cl.s13.exct.net IN CNAME .
 cl.s4.exct.net IN CNAME .
 *.cl.s4.exct.net IN CNAME .
 cl.s50.exct.net IN CNAME .
@@ -1021,8 +1027,6 @@ m-b2o72.custobar.com IN CNAME .
 *.m-b2o72.custobar.com IN CNAME .
 m-bzp7z.custobar.com IN CNAME .
 *.m-bzp7z.custobar.com IN CNAME .
-m-dpsxz.custobar.com IN CNAME .
-*.m-dpsxz.custobar.com IN CNAME .
 m-dsrbu.custobar.com IN CNAME .
 *.m-dsrbu.custobar.com IN CNAME .
 m-fi32s.custobar.com IN CNAME .
@@ -1127,6 +1131,8 @@ mssg.me IN CNAME .
 *.mssg.me IN CNAME .
 mydealz.digidip.net IN CNAME .
 *.mydealz.digidip.net IN CNAME .
+neoengage-va-cdn.exponea.com IN CNAME .
+*.neoengage-va-cdn.exponea.com IN CNAME .
 network.bazaarvoice.com IN CNAME .
 *.network.bazaarvoice.com IN CNAME .
 neural17.cdnwebcloud.com IN CNAME .
@@ -1507,6 +1513,8 @@ suite34.emarsys.net IN CNAME .
 *.suite34.emarsys.net IN CNAME .
 suite37.emarsys.net IN CNAME .
 *.suite37.emarsys.net IN CNAME .
+suite38-cf.emarsys.net IN CNAME .
+*.suite38-cf.emarsys.net IN CNAME .
 suite38.emarsys.net IN CNAME .
 *.suite38.emarsys.net IN CNAME .
 suite40-cf.emarsys.net IN CNAME .
@@ -1797,6 +1805,8 @@ ulink.adjust.com IN CNAME .
 *.ulink.adjust.com IN CNAME .
 unilever2.demdex.net IN CNAME .
 *.unilever2.demdex.net IN CNAME .
+unilever3.demdex.net IN CNAME .
+*.unilever3.demdex.net IN CNAME .
 uns.apsis.one IN CNAME .
 *.uns.apsis.one IN CNAME .
 us-serve.nrich.ai IN CNAME .
