@@ -1,6 +1,6 @@
 ; RPZ "SOCIAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794368557 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794455346 12h 15m 3w 3h
 0xdd.org.ru IN CNAME .
 *.0xdd.org.ru IN CNAME .
 101010.pl IN CNAME .
@@ -175,6 +175,8 @@ discuss.mschae23.de IN CNAME .
 *.discuss.mschae23.de IN CNAME .
 discuss.online IN CNAME .
 *.discuss.online IN CNAME .
+discuss.systems IN CNAME .
+*.discuss.systems IN CNAME .
 discuss.tchncs.de IN CNAME .
 *.discuss.tchncs.de IN CNAME .
 dottork.hopto.org IN CNAME .
@@ -317,8 +319,6 @@ friendica.eskimo.com IN CNAME .
 *.friendica.eskimo.com IN CNAME .
 friendica.helvetet.eu IN CNAME .
 *.friendica.helvetet.eu IN CNAME .
-friendica.world IN CNAME .
-*.friendica.world IN CNAME .
 funkwhale.duckdns.org IN CNAME .
 *.funkwhale.duckdns.org IN CNAME .
 futurology.today IN CNAME .
@@ -433,8 +433,6 @@ l-0015.l-msedge.net IN CNAME .
 *.l-0015.l-msedge.net IN CNAME .
 l.hostux.net IN CNAME .
 *.l.hostux.net IN CNAME .
-l.mchome.net IN CNAME .
-*.l.mchome.net IN CNAME .
 lacra.ia.br IN CNAME .
 *.lacra.ia.br IN CNAME .
 lem.cochrun.xyz IN CNAME .
@@ -1611,12 +1609,8 @@ vkontakte.ru IN CNAME .
 *.vkontakte.ru IN CNAME .
 vkuser.net IN CNAME .
 *.vkuser.net IN CNAME .
-vkuseraudio.com IN CNAME .
-*.vkuseraudio.com IN CNAME .
 vkuseraudio.net IN CNAME .
 *.vkuseraudio.net IN CNAME .
-vkuserlive.net IN CNAME .
-*.vkuserlive.net IN CNAME .
 vkuservideo.com IN CNAME .
 *.vkuservideo.com IN CNAME .
 vkuservideo.net IN CNAME .
@@ -1653,8 +1647,6 @@ writefreely.stage.anoxinon.de IN CNAME .
 *.writefreely.stage.anoxinon.de IN CNAME .
 www-facebook.com IN CNAME .
 *.www-facebook.com IN CNAME .
-wwwinstagram.com IN CNAME .
-*.wwwinstagram.com IN CNAME .
 x.com IN CNAME .
 *.x.com IN CNAME .
 x.mxteam.spb.ru IN CNAME .
@@ -1673,7 +1665,5 @@ zijieapi.com IN CNAME .
 *.zijieapi.com IN CNAME .
 zirk.us IN CNAME .
 *.zirk.us IN CNAME .
-zoner.work IN CNAME .
-*.zoner.work IN CNAME .
 zoo.retro-ink.com IN CNAME .
 *.zoo.retro-ink.com IN CNAME .
