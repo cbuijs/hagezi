@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-AMAZON"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794540117 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794626642 12h 15m 3w 3h
 3px.axp.amazon-adsystem.com IN CNAME .
 *.3px.axp.amazon-adsystem.com IN CNAME .
 aan.amazon.co.jp IN CNAME .
@@ -185,6 +185,10 @@ ads.amazon.com IN CNAME .
 *.ads.amazon.com IN CNAME .
 adserver.pubtech.amazon.dev IN CNAME .
 *.adserver.pubtech.amazon.dev IN CNAME .
+adskit.juno.alexa.amazon.dev IN CNAME .
+*.adskit.juno.alexa.amazon.dev IN CNAME .
+advertising-api-cn.amazon.com IN CNAME .
+*.advertising-api-cn.amazon.com IN CNAME .
 advertising-api-eu.amazon.com IN CNAME .
 *.advertising-api-eu.amazon.com IN CNAME .
 advertising.a2z.com IN CNAME .
@@ -273,6 +277,12 @@ assoc-msdk-eu.amazon-adsystem.com IN CNAME .
 *.assoc-msdk-eu.amazon-adsystem.com IN CNAME .
 assoc-msdk-us.amazon-adsystem.com IN CNAME .
 *.assoc-msdk-us.amazon-adsystem.com IN CNAME .
+at-beta.amazon-adsystem.com IN CNAME .
+*.at-beta.amazon-adsystem.com IN CNAME .
+at-gamma-us-east.amazon-adsystem.com IN CNAME .
+*.at-gamma-us-east.amazon-adsystem.com IN CNAME .
+at-us-east.amazon-adsystem.com IN CNAME .
+*.at-us-east.amazon-adsystem.com IN CNAME .
 atfe.amazon-adsystem.com IN CNAME .
 *.atfe.amazon-adsystem.com IN CNAME .
 atue.amazon-adsystem.com IN CNAME .
@@ -285,12 +295,6 @@ aviary.amazon.de IN CNAME .
 *.aviary.amazon.de IN CNAME .
 bugs.firebat.prime-video.amazon.dev IN CNAME .
 *.bugs.firebat.prime-video.amazon.dev IN CNAME .
-bugsnag-event.monitor.core.app.alexa.a2z.com IN CNAME .
-*.bugsnag-event.monitor.core.app.alexa.a2z.com IN CNAME .
-bugsnag.appstore.a2z.com IN CNAME .
-*.bugsnag.appstore.a2z.com IN CNAME .
-bugsnag.shopbop.amazon.dev IN CNAME .
-*.bugsnag.shopbop.amazon.dev IN CNAME .
 c.amazon-adsystem.com IN CNAME .
 *.c.amazon-adsystem.com IN CNAME .
 cdn-a.amazon-adsystem.com IN CNAME .
@@ -299,6 +303,8 @@ cdn-d.amazon-adsystem.com IN CNAME .
 *.cdn-d.amazon-adsystem.com IN CNAME .
 cdn-t.amazon-adsystem.com IN CNAME .
 *.cdn-t.amazon-adsystem.com IN CNAME .
+cdn-vfw-us-test.amazon-adsystem.com IN CNAME .
+*.cdn-vfw-us-test.amazon-adsystem.com IN CNAME .
 d3p8zr0ffa9t17.cloudfront.net IN CNAME .
 *.d3p8zr0ffa9t17.cloudfront.net IN CNAME .
 da-cdn.amazon-adsystem.com IN CNAME .
@@ -323,6 +329,8 @@ fls-cn.amazon-adsystem.com IN CNAME .
 *.fls-cn.amazon-adsystem.com IN CNAME .
 fls-cn.amazon.cn IN CNAME .
 *.fls-cn.amazon.cn IN CNAME .
+fls-cn.amazon.com IN CNAME .
+*.fls-cn.amazon.com IN CNAME .
 fls-eu.amazon-adsystem.com IN CNAME .
 *.fls-eu.amazon-adsystem.com IN CNAME .
 fls-eu.amazon.ae IN CNAME .
@@ -379,6 +387,8 @@ fls-na.amazon.com.mx IN CNAME .
 *.fls-na.amazon.com.mx IN CNAME .
 forester.a2z.com IN CNAME .
 *.forester.a2z.com IN CNAME .
+global.prod.telemetry.taskei.amazon.dev IN CNAME .
+*.global.prod.telemetry.taskei.amazon.dev IN CNAME .
 h4g3z1-native-amazon.web.app IN CNAME .
 *.h4g3z1-native-amazon.web.app IN CNAME .
 identity.browserapps.amazon.de IN CNAME .
@@ -577,6 +587,8 @@ sponsored-ads.amazon.com.mx IN CNAME .
 *.sponsored-ads.amazon.com.mx IN CNAME .
 sponsored-ads.amazon.com.tr IN CNAME .
 *.sponsored-ads.amazon.com.tr IN CNAME .
+sponsored-ads.amazon.de IN CNAME .
+*.sponsored-ads.amazon.de IN CNAME .
 sponsored-ads.amazon.eg IN CNAME .
 *.sponsored-ads.amazon.eg IN CNAME .
 sponsored-ads.amazon.es IN CNAME .
@@ -613,6 +625,10 @@ ts-gamma.amazon-adsystem.com IN CNAME .
 *.ts-gamma.amazon-adsystem.com IN CNAME .
 ts.amazon-adsystem.com IN CNAME .
 *.ts.amazon-adsystem.com IN CNAME .
+unagi-cn.amazon.com IN CNAME .
+*.unagi-cn.amazon.com IN CNAME .
+unagi-eu-central-1.amazon.com IN CNAME .
+*.unagi-eu-central-1.amazon.com IN CNAME .
 unagi-eu.amazon.com IN CNAME .
 *.unagi-eu.amazon.com IN CNAME .
 unagi-fe.amazon.com IN CNAME .
@@ -713,6 +729,8 @@ vfws.amazon-adsystem.com IN CNAME .
 *.vfws.amazon-adsystem.com IN CNAME .
 video-ads.a2z.com IN CNAME .
 *.video-ads.a2z.com IN CNAME .
+vq-ap-southeast-1.amazon-adsystem.com IN CNAME .
+*.vq-ap-southeast-1.amazon-adsystem.com IN CNAME .
 vq-eu-west-1.amazon-adsystem.com IN CNAME .
 *.vq-eu-west-1.amazon-adsystem.com IN CNAME .
 vq-fe-us-west-2.amazon-adsystem.com IN CNAME .

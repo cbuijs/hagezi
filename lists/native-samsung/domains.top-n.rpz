@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-SAMSUNG-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794540140 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794626664 12h 15m 3w 3h
 acr-au-prd.samsungcloud.tv IN CNAME .
 *.acr-au-prd.samsungcloud.tv IN CNAME .
 acr-br-prd.samsungcloud.tv IN CNAME .
@@ -37,8 +37,6 @@ analytics.samsungknox.com IN CNAME .
 *.analytics.samsungknox.com IN CNAME .
 api-analytics-qa.samsungknox.com IN CNAME .
 *.api-analytics-qa.samsungknox.com IN CNAME .
-api-analytics.samsungknox.com IN CNAME .
-*.api-analytics.samsungknox.com IN CNAME .
 api-samsung.swypeconnect.com IN CNAME .
 *.api-samsung.swypeconnect.com IN CNAME .
 api.runestone.samsung.com IN CNAME .
@@ -101,6 +99,8 @@ event-tracking.samsung.com IN CNAME .
 *.event-tracking.samsung.com IN CNAME .
 fast.samsungsingapore.demdex.net IN CNAME .
 *.fast.samsungsingapore.demdex.net IN CNAME .
+gld.samsungosp.com IN CNAME .
+*.gld.samsungosp.com IN CNAME .
 h4g3z1-native-samsung.web.app IN CNAME .
 *.h4g3z1-native-samsung.web.app IN CNAME .
 images.frbusiness.samsung.com IN CNAME .

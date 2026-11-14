@@ -1,8 +1,12 @@
 ; RPZ "NATIVE-ROKU-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794540137 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794626661 12h 15m 3w 3h
 acr.roku.com IN CNAME .
 *.acr.roku.com IN CNAME .
+ad-eng.prod.rpay.int.roku.com IN CNAME .
+*.ad-eng.prod.rpay.int.roku.com IN CNAME .
+ad-eng.staging.rpay.int.roku.com IN CNAME .
+*.ad-eng.staging.rpay.int.roku.com IN CNAME .
 ad.qa.ap.int.roku.com IN CNAME .
 *.ad.qa.ap.int.roku.com IN CNAME .
 ad.usw2.qa.ap.int.roku.com IN CNAME .
@@ -25,6 +29,8 @@ ads-cf-us-east-1.delivery.roku.com IN CNAME .
 *.ads-cf-us-east-1.delivery.roku.com IN CNAME .
 ads-cf-us-east-1.dev.delivery.roku.com IN CNAME .
 *.ads-cf-us-east-1.dev.delivery.roku.com IN CNAME .
+ads-cf-us-east-2.delivery.roku.com IN CNAME .
+*.ads-cf-us-east-2.delivery.roku.com IN CNAME .
 ads-cf-us-west-2.delivery.roku.com IN CNAME .
 *.ads-cf-us-west-2.delivery.roku.com IN CNAME .
 ads-us-east-1.delivery.roku.com IN CNAME .
@@ -43,6 +49,8 @@ ads.rokuapi.net IN CNAME .
 *.ads.rokuapi.net IN CNAME .
 ads.staging.roku.com IN CNAME .
 *.ads.staging.roku.com IN CNAME .
+ads.z.data.roku.com IN CNAME .
+*.ads.z.data.roku.com IN CNAME .
 adservices.roku.com IN CNAME .
 *.adservices.roku.com IN CNAME .
 advertising-qa.us-east-1.dev.msc.roku.com IN CNAME .
@@ -59,6 +67,8 @@ advertising.roku.com IN CNAME .
 *.advertising.roku.com IN CNAME .
 advertising.us-east-1.msc.roku.com IN CNAME .
 *.advertising.us-east-1.msc.roku.com IN CNAME .
+adx.z.data.roku.com IN CNAME .
+*.adx.z.data.roku.com IN CNAME .
 analytics.roku.com IN CNAME .
 *.analytics.roku.com IN CNAME .
 assets.sr.roku.com IN CNAME .
@@ -75,12 +85,16 @@ cloudservices.roku.com IN CNAME .
 *.cloudservices.roku.com IN CNAME .
 customer-feedbacks.web.roku.com IN CNAME .
 *.customer-feedbacks.web.roku.com IN CNAME .
+giga.logs.staging.roku.com IN CNAME .
+*.giga.logs.staging.roku.com IN CNAME .
 h4g3z1-native-roku.web.app IN CNAME .
 *.h4g3z1-native-roku.web.app IN CNAME .
 item-tracking.dev.sr.roku.com IN CNAME .
 *.item-tracking.dev.sr.roku.com IN CNAME .
 logs.dev.sr.roku.com IN CNAME .
 *.logs.dev.sr.roku.com IN CNAME .
+logs.prod.ap.int.roku.com IN CNAME .
+*.logs.prod.ap.int.roku.com IN CNAME .
 logs.qa.ap.int.roku.com IN CNAME .
 *.logs.qa.ap.int.roku.com IN CNAME .
 logs.roku.com IN CNAME .

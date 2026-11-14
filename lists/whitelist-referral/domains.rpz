@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794542086 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794628784 12h 15m 3w 3h
 1-aclk.net IN CNAME .
 *.1-aclk.net IN CNAME .
 1aurl.io IN CNAME .
@@ -311,8 +311,6 @@ adservice.google.no IN CNAME .
 *.adservice.google.no IN CNAME .
 adservice.google.pl IN CNAME .
 *.adservice.google.pl IN CNAME .
-adservice.google.pt IN CNAME .
-*.adservice.google.pt IN CNAME .
 adservice.google.ro IN CNAME .
 *.adservice.google.ro IN CNAME .
 adservice.google.rs IN CNAME .
@@ -497,6 +495,8 @@ app2a.gateway.portal.outreach.io IN CNAME .
 *.app2a.gateway.portal.outreach.io IN CNAME .
 app2a.outreach.io IN CNAME .
 *.app2a.outreach.io IN CNAME .
+app2b.outreach.io IN CNAME .
+*.app2b.outreach.io IN CNAME .
 app2c.gateway.portal.outreach.io IN CNAME .
 *.app2c.gateway.portal.outreach.io IN CNAME .
 app2c.outreach.io IN CNAME .
@@ -1367,6 +1367,8 @@ m-3s3q4.custobar.com IN CNAME .
 *.m-3s3q4.custobar.com IN CNAME .
 m-4wovq.custobar.com IN CNAME .
 *.m-4wovq.custobar.com IN CNAME .
+m-55aim.custobar.com IN CNAME .
+*.m-55aim.custobar.com IN CNAME .
 m-5fwyg.custobar.com IN CNAME .
 *.m-5fwyg.custobar.com IN CNAME .
 m-7uz3v.custobar.com IN CNAME .
@@ -1521,6 +1523,8 @@ mkto-ab250167.com IN CNAME .
 *.mkto-ab250167.com IN CNAME .
 mkto-ab290138.com IN CNAME .
 *.mkto-ab290138.com IN CNAME .
+mkto-ab300013.com IN CNAME .
+*.mkto-ab300013.com IN CNAME .
 mkto-ab300154.com IN CNAME .
 *.mkto-ab300154.com IN CNAME .
 mkto-ab330018.com IN CNAME .
@@ -1529,16 +1533,12 @@ mkto-ab330047.com IN CNAME .
 *.mkto-ab330047.com IN CNAME .
 mkto-ab340022.com IN CNAME .
 *.mkto-ab340022.com IN CNAME .
-mkto-ab350042.com IN CNAME .
-*.mkto-ab350042.com IN CNAME .
 mkto-ab350122.com IN CNAME .
 *.mkto-ab350122.com IN CNAME .
 mkto-ab390033.com IN CNAME .
 *.mkto-ab390033.com IN CNAME .
 mkto-ab390129.com IN CNAME .
 *.mkto-ab390129.com IN CNAME .
-mkto-ab400068.com IN CNAME .
-*.mkto-ab400068.com IN CNAME .
 mkto-ab410098.com IN CNAME .
 *.mkto-ab410098.com IN CNAME .
 mkto-ab410147.com IN CNAME .
@@ -1565,6 +1565,8 @@ mkto-ab540143.com IN CNAME .
 *.mkto-ab540143.com IN CNAME .
 mkto-ab550041.com IN CNAME .
 *.mkto-ab550041.com IN CNAME .
+mkto-ab550140.com IN CNAME .
+*.mkto-ab550140.com IN CNAME .
 mkto-ab550184.com IN CNAME .
 *.mkto-ab550184.com IN CNAME .
 mkto-ab560068.com IN CNAME .
@@ -1623,8 +1625,12 @@ mkto-lon030330.com IN CNAME .
 *.mkto-lon030330.com IN CNAME .
 mkto-lon040102.com IN CNAME .
 *.mkto-lon040102.com IN CNAME .
+mkto-lon060043.com IN CNAME .
+*.mkto-lon060043.com IN CNAME .
 mkto-lon060131.com IN CNAME .
 *.mkto-lon060131.com IN CNAME .
+mkto-lon070031.com IN CNAME .
+*.mkto-lon070031.com IN CNAME .
 mkto-lon070075.com IN CNAME .
 *.mkto-lon070075.com IN CNAME .
 mkto-lon080059.com IN CNAME .
@@ -1675,8 +1681,6 @@ mkto-sj010203.com IN CNAME .
 *.mkto-sj010203.com IN CNAME .
 mkto-sj040252.com IN CNAME .
 *.mkto-sj040252.com IN CNAME .
-mkto-sj050106.com IN CNAME .
-*.mkto-sj050106.com IN CNAME .
 mkto-sj070214.com IN CNAME .
 *.mkto-sj070214.com IN CNAME .
 mkto-sj090132.com IN CNAME .
@@ -1703,8 +1707,8 @@ mkto-sj230010.com IN CNAME .
 *.mkto-sj230010.com IN CNAME .
 mkto-sj240021.com IN CNAME .
 *.mkto-sj240021.com IN CNAME .
-mkto-sj250187.com IN CNAME .
-*.mkto-sj250187.com IN CNAME .
+mkto-sj250062.com IN CNAME .
+*.mkto-sj250062.com IN CNAME .
 mkto-sj270072.com IN CNAME .
 *.mkto-sj270072.com IN CNAME .
 mkto-sj270078.com IN CNAME .
@@ -1727,6 +1731,8 @@ mkto-sj360142.com IN CNAME .
 *.mkto-sj360142.com IN CNAME .
 mkto-sj400023.com IN CNAME .
 *.mkto-sj400023.com IN CNAME .
+mkto-sjg0030.com IN CNAME .
+*.mkto-sjg0030.com IN CNAME .
 mkto-sjh0084.com IN CNAME .
 *.mkto-sjh0084.com IN CNAME .
 mkto-sji0033.com IN CNAME .
@@ -1767,8 +1773,6 @@ n.rich IN CNAME .
 *.n.rich IN CNAME .
 ndirect.ppro.de IN CNAME .
 *.ndirect.ppro.de IN CNAME .
-neoengage-va-cdn.exponea.com IN CNAME .
-*.neoengage-va-cdn.exponea.com IN CNAME .
 netbet.gr IN CNAME .
 *.netbet.gr IN CNAME .
 netbet.livepartners.com IN CNAME .
@@ -2267,6 +2271,8 @@ suite33.emarsys.net IN CNAME .
 *.suite33.emarsys.net IN CNAME .
 suite34.emarsys.net IN CNAME .
 *.suite34.emarsys.net IN CNAME .
+suite36.emarsys.net IN CNAME .
+*.suite36.emarsys.net IN CNAME .
 suite37.emarsys.net IN CNAME .
 *.suite37.emarsys.net IN CNAME .
 suite38-cf.emarsys.net IN CNAME .
@@ -2553,8 +2559,6 @@ track34102166105.effiliation.com IN CNAME .
 *.track34102166105.effiliation.com IN CNAME .
 track34102167160.effiliation.com IN CNAME .
 *.track34102167160.effiliation.com IN CNAME .
-track34102180193.effiliation.com IN CNAME .
-*.track34102180193.effiliation.com IN CNAME .
 track3410224983.effiliation.com IN CNAME .
 *.track3410224983.effiliation.com IN CNAME .
 track35190150.effiliation.com IN CNAME .

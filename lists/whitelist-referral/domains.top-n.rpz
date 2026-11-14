@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794542088 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794628786 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -271,8 +271,6 @@ adservice.google.no IN CNAME .
 *.adservice.google.no IN CNAME .
 adservice.google.pl IN CNAME .
 *.adservice.google.pl IN CNAME .
-adservice.google.pt IN CNAME .
-*.adservice.google.pt IN CNAME .
 adservice.google.ro IN CNAME .
 *.adservice.google.ro IN CNAME .
 adservice.google.rs IN CNAME .
@@ -423,6 +421,8 @@ app2a.gateway.portal.outreach.io IN CNAME .
 *.app2a.gateway.portal.outreach.io IN CNAME .
 app2a.outreach.io IN CNAME .
 *.app2a.outreach.io IN CNAME .
+app2b.outreach.io IN CNAME .
+*.app2b.outreach.io IN CNAME .
 app2c.gateway.portal.outreach.io IN CNAME .
 *.app2c.gateway.portal.outreach.io IN CNAME .
 app2c.outreach.io IN CNAME .
@@ -1013,6 +1013,8 @@ m-3s3q4.custobar.com IN CNAME .
 *.m-3s3q4.custobar.com IN CNAME .
 m-4wovq.custobar.com IN CNAME .
 *.m-4wovq.custobar.com IN CNAME .
+m-55aim.custobar.com IN CNAME .
+*.m-55aim.custobar.com IN CNAME .
 m-5fwyg.custobar.com IN CNAME .
 *.m-5fwyg.custobar.com IN CNAME .
 m-7uz3v.custobar.com IN CNAME .
@@ -1123,8 +1125,6 @@ mssg.me IN CNAME .
 *.mssg.me IN CNAME .
 mydealz.digidip.net IN CNAME .
 *.mydealz.digidip.net IN CNAME .
-neoengage-va-cdn.exponea.com IN CNAME .
-*.neoengage-va-cdn.exponea.com IN CNAME .
 network.bazaarvoice.com IN CNAME .
 *.network.bazaarvoice.com IN CNAME .
 neural17.cdnwebcloud.com IN CNAME .
@@ -1503,6 +1503,8 @@ suite33.emarsys.net IN CNAME .
 *.suite33.emarsys.net IN CNAME .
 suite34.emarsys.net IN CNAME .
 *.suite34.emarsys.net IN CNAME .
+suite36.emarsys.net IN CNAME .
+*.suite36.emarsys.net IN CNAME .
 suite37.emarsys.net IN CNAME .
 *.suite37.emarsys.net IN CNAME .
 suite38-cf.emarsys.net IN CNAME .
@@ -1725,8 +1727,6 @@ track34102166105.effiliation.com IN CNAME .
 *.track34102166105.effiliation.com IN CNAME .
 track34102167160.effiliation.com IN CNAME .
 *.track34102167160.effiliation.com IN CNAME .
-track34102180193.effiliation.com IN CNAME .
-*.track34102180193.effiliation.com IN CNAME .
 track3410224983.effiliation.com IN CNAME .
 *.track3410224983.effiliation.com IN CNAME .
 track35190150.effiliation.com IN CNAME .

@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-HUAWEI-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794540127 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794626651 12h 15m 3w 3h
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn IN CNAME .
 *.0001-metrics1-data-hicloud-com.geac.dbankedge.cn IN CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn IN CNAME .
@@ -243,6 +243,8 @@ metrics1-drcn.dt.dbankcloud.cn IN CNAME .
 *.metrics1-drcn.dt.dbankcloud.cn IN CNAME .
 metrics1.data.dbankcloud.cn IN CNAME .
 *.metrics1.data.dbankcloud.cn IN CNAME .
+metrics6.data.dbankcloud.cn IN CNAME .
+*.metrics6.data.dbankcloud.cn IN CNAME .
 nebula-collector.huawei.com IN CNAME .
 *.nebula-collector.huawei.com IN CNAME .
 nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru IN CNAME .
@@ -291,3 +293,5 @@ uba.huaweicloud.com IN CNAME .
 *.uba.huaweicloud.com IN CNAME .
 ubacollect-drcn.cloud.dbankcloud.cn IN CNAME .
 *.ubacollect-drcn.cloud.dbankcloud.cn IN CNAME .
+ug-drcn.media.dbankcloud.cn IN CNAME .
+*.ug-drcn.media.dbankcloud.cn IN CNAME .
