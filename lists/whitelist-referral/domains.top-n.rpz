@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794800481 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794887653 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -87,6 +87,8 @@ aax-events-cell01-cf.us-west.3px.axp.amazon-adsystem.com IN CNAME .
 *.aax-events-cell01-cf.us-west.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01.eu-west.aps.axp.amazon-adsystem.com IN CNAME .
 *.aax-events-cell01.eu-west.aps.axp.amazon-adsystem.com IN CNAME .
+aax-events-cell01.us-east.aps.axp.amazon-adsystem.com IN CNAME .
+*.aax-events-cell01.us-east.aps.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com IN CNAME .
 *.aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
@@ -331,6 +333,8 @@ analytics.twitter.com IN CNAME .
 *.analytics.twitter.com IN CNAME .
 anrdoezrs.net IN CNAME .
 *.anrdoezrs.net IN CNAME .
+api-01.moengage.com IN CNAME .
+*.api-01.moengage.com IN CNAME .
 api-02.moengage.com IN CNAME .
 *.api-02.moengage.com IN CNAME .
 api-03.moengage.com IN CNAME .
@@ -407,8 +411,6 @@ app1c.outreach.io IN CNAME .
 *.app1c.outreach.io IN CNAME .
 app1e.gateway.portal.outreach.io IN CNAME .
 *.app1e.gateway.portal.outreach.io IN CNAME .
-app1e.outreach.io IN CNAME .
-*.app1e.outreach.io IN CNAME .
 app1f.gateway.portal.outreach.io IN CNAME .
 *.app1f.gateway.portal.outreach.io IN CNAME .
 app1f.outreach.io IN CNAME .
@@ -499,8 +501,6 @@ c2.piano.io IN CNAME .
 *.c2.piano.io IN CNAME .
 c2827.dotomi.com IN CNAME .
 *.c2827.dotomi.com IN CNAME .
-c2990.dotomi.com IN CNAME .
-*.c2990.dotomi.com IN CNAME .
 cadent-match.dotomi.com IN CNAME .
 *.cadent-match.dotomi.com IN CNAME .
 callback.api.qgraph.io IN CNAME .
@@ -523,8 +523,6 @@ cdn.adsdefender.com IN CNAME .
 *.cdn.adsdefender.com IN CNAME .
 cdn.braze.eu IN CNAME .
 *.cdn.braze.eu IN CNAME .
-cdn.e-pfg.exponea.com IN CNAME .
-*.cdn.e-pfg.exponea.com IN CNAME .
 cdn.eu1.exponea.com IN CNAME .
 *.cdn.eu1.exponea.com IN CNAME .
 cdn.exponea.com IN CNAME .
@@ -559,8 +557,6 @@ cl.s11.exct.net IN CNAME .
 *.cl.s11.exct.net IN CNAME .
 cl.s12.exct.net IN CNAME .
 *.cl.s12.exct.net IN CNAME .
-cl.s13.exct.net IN CNAME .
-*.cl.s13.exct.net IN CNAME .
 cl.s4.exct.net IN CNAME .
 *.cl.s4.exct.net IN CNAME .
 cl.s50.exct.net IN CNAME .
@@ -1031,6 +1027,8 @@ m-b2o72.custobar.com IN CNAME .
 *.m-b2o72.custobar.com IN CNAME .
 m-bzp7z.custobar.com IN CNAME .
 *.m-bzp7z.custobar.com IN CNAME .
+m-dpsxz.custobar.com IN CNAME .
+*.m-dpsxz.custobar.com IN CNAME .
 m-fi32s.custobar.com IN CNAME .
 *.m-fi32s.custobar.com IN CNAME .
 m-gzmk5.custobar.com IN CNAME .
@@ -1073,8 +1071,6 @@ m-so.custobar.com IN CNAME .
 *.m-so.custobar.com IN CNAME .
 m-stz.custobar.com IN CNAME .
 *.m-stz.custobar.com IN CNAME .
-m-suqr5.custobar.com IN CNAME .
-*.m-suqr5.custobar.com IN CNAME .
 m-swjb2.custobar.com IN CNAME .
 *.m-swjb2.custobar.com IN CNAME .
 m-swt.custobar.com IN CNAME .
@@ -1443,8 +1439,6 @@ spgo.io IN CNAME .
 *.spgo.io IN CNAME .
 ssl.hurra.com IN CNAME .
 *.ssl.hurra.com IN CNAME .
-static-eu-ovh.cleverpush.com IN CNAME .
-*.static-eu-ovh.cleverpush.com IN CNAME .
 static-eu.cleverpush.com IN CNAME .
 *.static-eu.cleverpush.com IN CNAME .
 static-mobile.cleverpush.com IN CNAME .
@@ -1473,8 +1467,6 @@ suite16.emarsys.net IN CNAME .
 *.suite16.emarsys.net IN CNAME .
 suite17.emarsys.net IN CNAME .
 *.suite17.emarsys.net IN CNAME .
-suite2-cf.emarsys.net IN CNAME .
-*.suite2-cf.emarsys.net IN CNAME .
 suite20.emarsys.net IN CNAME .
 *.suite20.emarsys.net IN CNAME .
 suite22-cf.emarsys.net IN CNAME .
