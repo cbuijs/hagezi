@@ -1,6 +1,6 @@
 ; RPZ "SOCIAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794887044 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794973693 12h 15m 3w 3h
 0xdd.org.ru IN CNAME .
 *.0xdd.org.ru IN CNAME .
 101010.pl IN CNAME .
@@ -15,8 +15,6 @@ $TTL 3600
 *.4channel.org IN CNAME .
 500px.com IN CNAME .
 *.500px.com IN CNAME .
-500px.org IN CNAME .
-*.500px.org IN CNAME .
 9cache.com IN CNAME .
 *.9cache.com IN CNAME .
 9gag.com IN CNAME .
@@ -153,10 +151,14 @@ discord.co IN CNAME .
 *.discord.co IN CNAME .
 discord.com IN CNAME .
 *.discord.com IN CNAME .
+discord.dev IN CNAME .
+*.discord.dev IN CNAME .
 discord.gg IN CNAME .
 *.discord.gg IN CNAME .
 discord.gift IN CNAME .
 *.discord.gift IN CNAME .
+discord.gifts IN CNAME .
+*.discord.gifts IN CNAME .
 discord.media IN CNAME .
 *.discord.media IN CNAME .
 discord.new IN CNAME .
@@ -381,6 +383,14 @@ infosec.exchange IN CNAME .
 *.infosec.exchange IN CNAME .
 infosec.pub IN CNAME .
 *.infosec.pub IN CNAME .
+instaadder.com IN CNAME .
+*.instaadder.com IN CNAME .
+instafallow.com IN CNAME .
+*.instafallow.com IN CNAME .
+instafollower.com IN CNAME .
+*.instafollower.com IN CNAME .
+instagda.com IN CNAME .
+*.instagda.com IN CNAME .
 instagram-engineering.com IN CNAME .
 *.instagram-engineering.com IN CNAME .
 instagram-press.com IN CNAME .
@@ -391,6 +401,8 @@ instagram.com IN CNAME .
 *.instagram.com IN CNAME .
 instagramm.com IN CNAME .
 *.instagramm.com IN CNAME .
+instagrampartners.com IN CNAME .
+*.instagrampartners.com IN CNAME .
 instgram.com IN CNAME .
 *.instgram.com IN CNAME .
 intagram.com IN CNAME .
@@ -413,6 +425,8 @@ joinpeertube.org IN CNAME .
 *.joinpeertube.org IN CNAME .
 joyreactor.cc IN CNAME .
 *.joyreactor.cc IN CNAME .
+kaiheila.cn IN CNAME .
+*.kaiheila.cn IN CNAME .
 kbin.earth IN CNAME .
 *.kbin.earth IN CNAME .
 kino.kompot.si IN CNAME .
@@ -459,6 +473,8 @@ lemmy.frozeninferno.xyz IN CNAME .
 *.lemmy.frozeninferno.xyz IN CNAME .
 lemmy.funami.tech IN CNAME .
 *.lemmy.funami.tech IN CNAME .
+lemmy.grey.fail IN CNAME .
+*.lemmy.grey.fail IN CNAME .
 lemmy.grey.ooo IN CNAME .
 *.lemmy.grey.ooo IN CNAME .
 lemmy.hangdaan.com IN CNAME .
@@ -593,6 +609,8 @@ masto.ai IN CNAME .
 *.masto.ai IN CNAME .
 masto.craftcms.com IN CNAME .
 *.masto.craftcms.com IN CNAME .
+masto.es IN CNAME .
+*.masto.es IN CNAME .
 masto.hackers.town IN CNAME .
 *.masto.hackers.town IN CNAME .
 masto.host IN CNAME .
@@ -651,6 +669,8 @@ mastodon.gamedev.place IN CNAME .
 *.mastodon.gamedev.place IN CNAME .
 mastodon.green IN CNAME .
 *.mastodon.green IN CNAME .
+mastodon.grey.fail IN CNAME .
+*.mastodon.grey.fail IN CNAME .
 mastodon.grin.hu IN CNAME .
 *.mastodon.grin.hu IN CNAME .
 mastodon.haojia-wu.com IN CNAME .

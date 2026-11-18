@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794887650 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794974242 12h 15m 3w 3h
 1-aclk.net IN CNAME .
 *.1-aclk.net IN CNAME .
 1aurl.io IN CNAME .
@@ -485,6 +485,8 @@ app1c.outreach.io IN CNAME .
 *.app1c.outreach.io IN CNAME .
 app1e.gateway.portal.outreach.io IN CNAME .
 *.app1e.gateway.portal.outreach.io IN CNAME .
+app1e.outreach.io IN CNAME .
+*.app1e.outreach.io IN CNAME .
 app1f.gateway.portal.outreach.io IN CNAME .
 *.app1f.gateway.portal.outreach.io IN CNAME .
 app1f.outreach.io IN CNAME .
@@ -495,8 +497,12 @@ app2a.gateway.portal.outreach.io IN CNAME .
 *.app2a.gateway.portal.outreach.io IN CNAME .
 app2a.outreach.io IN CNAME .
 *.app2a.outreach.io IN CNAME .
+app2b.outreach.io IN CNAME .
+*.app2b.outreach.io IN CNAME .
 app2c.gateway.portal.outreach.io IN CNAME .
 *.app2c.gateway.portal.outreach.io IN CNAME .
+app2c.outreach.io IN CNAME .
+*.app2c.outreach.io IN CNAME .
 app3.salesmanago.pl IN CNAME .
 *.app3.salesmanago.pl IN CNAME .
 arttrk.com IN CNAME .
@@ -655,6 +661,8 @@ cdn.eu1.exponea.com IN CNAME .
 *.cdn.eu1.exponea.com IN CNAME .
 cdn.exponea.com IN CNAME .
 *.cdn.exponea.com IN CNAME .
+cdn.ftspecialist.exponea.com IN CNAME .
+*.cdn.ftspecialist.exponea.com IN CNAME .
 cdn.mie.exponea.com IN CNAME .
 *.cdn.mie.exponea.com IN CNAME .
 cdn.network.exponea.com IN CNAME .
@@ -691,6 +699,8 @@ cl.s11.exct.net IN CNAME .
 *.cl.s11.exct.net IN CNAME .
 cl.s12.exct.net IN CNAME .
 *.cl.s12.exct.net IN CNAME .
+cl.s13.exct.net IN CNAME .
+*.cl.s13.exct.net IN CNAME .
 cl.s4.exct.net IN CNAME .
 *.cl.s4.exct.net IN CNAME .
 cl.s50.exct.net IN CNAME .
@@ -1047,6 +1057,8 @@ email-link.adtidy.org IN CNAME .
 *.email-link.adtidy.org IN CNAME .
 email-tracking.infobip.com IN CNAME .
 *.email-tracking.infobip.com IN CNAME .
+email.microsoft.com IN CNAME .
+*.email.microsoft.com IN CNAME .
 email.microsoftonline.com IN CNAME .
 *.email.microsoftonline.com IN CNAME .
 email.office.com IN CNAME .
@@ -1231,6 +1243,8 @@ imp.i104546.net IN CNAME .
 *.imp.i104546.net IN CNAME .
 imp.i114863.net IN CNAME .
 *.imp.i114863.net IN CNAME .
+imp.i116503.net IN CNAME .
+*.imp.i116503.net IN CNAME .
 imp.i127447.net IN CNAME .
 *.imp.i127447.net IN CNAME .
 imp.i128439.net IN CNAME .
@@ -1259,6 +1273,10 @@ imp.i326929.net IN CNAME .
 *.imp.i326929.net IN CNAME .
 imp.i346552.net IN CNAME .
 *.imp.i346552.net IN CNAME .
+imp.i350665.net IN CNAME .
+*.imp.i350665.net IN CNAME .
+imp.i366014.net IN CNAME .
+*.imp.i366014.net IN CNAME .
 imp.i384100.net IN CNAME .
 *.imp.i384100.net IN CNAME .
 impulseonline.shop IN CNAME .
@@ -1355,8 +1373,6 @@ links.email.crunchbase.com IN CNAME .
 *.links.email.crunchbase.com IN CNAME .
 links.iterable.com IN CNAME .
 *.links.iterable.com IN CNAME .
-links.mkt91.net IN CNAME .
-*.links.mkt91.net IN CNAME .
 linksaffiliate.com IN CNAME .
 *.linksaffiliate.com IN CNAME .
 linksmail.geosolinc.com IN CNAME .
@@ -1621,6 +1637,8 @@ mkto-ab570178.com IN CNAME .
 *.mkto-ab570178.com IN CNAME .
 mkto-ab580004.com IN CNAME .
 *.mkto-ab580004.com IN CNAME .
+mkto-ab610096.com IN CNAME .
+*.mkto-ab610096.com IN CNAME .
 mkto-ab620024.com IN CNAME .
 *.mkto-ab620024.com IN CNAME .
 mkto-ab630033.com IN CNAME .
@@ -1733,6 +1751,8 @@ mkto-sj010203.com IN CNAME .
 *.mkto-sj010203.com IN CNAME .
 mkto-sj040252.com IN CNAME .
 *.mkto-sj040252.com IN CNAME .
+mkto-sj050202.com IN CNAME .
+*.mkto-sj050202.com IN CNAME .
 mkto-sj070214.com IN CNAME .
 *.mkto-sj070214.com IN CNAME .
 mkto-sj080048.com IN CNAME .
@@ -1991,6 +2011,8 @@ r.srvtrck.com IN CNAME .
 *.r.srvtrck.com IN CNAME .
 r20.rs6.net IN CNAME .
 *.r20.rs6.net IN CNAME .
+rabuur8ab.cc.rs6.net IN CNAME .
+*.rabuur8ab.cc.rs6.net IN CNAME .
 rads.stackoverflow.com IN CNAME .
 *.rads.stackoverflow.com IN CNAME .
 ratm5k9ab.cc.rs6.net IN CNAME .

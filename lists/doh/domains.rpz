@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794885410 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794971913 12h 15m 3w 3h
 003153.xyz IN CNAME .
 *.003153.xyz IN CNAME .
 0815cloud.de IN CNAME .
@@ -475,6 +475,8 @@ adguard.itclogic.cloud IN CNAME .
 *.adguard.itclogic.cloud IN CNAME .
 adguard.jaydub.cloud IN CNAME .
 *.adguard.jaydub.cloud IN CNAME .
+adguard.jfchenier.ca IN CNAME .
+*.adguard.jfchenier.ca IN CNAME .
 adguard.jodatacenter.com IN CNAME .
 *.adguard.jodatacenter.com IN CNAME .
 adguard.johanliebert.top IN CNAME .
@@ -1727,6 +1729,8 @@ dns.adfreedns.org IN CNAME .
 *.dns.adfreedns.org IN CNAME .
 dns.adguard.com IN CNAME .
 *.dns.adguard.com IN CNAME .
+dns.adguarddns.com IN CNAME .
+*.dns.adguarddns.com IN CNAME .
 dns.adnull.com IN CNAME .
 *.dns.adnull.com IN CNAME .
 dns.adrianlam.com IN CNAME .
@@ -3433,8 +3437,6 @@ dns.w3ctag.org IN CNAME .
 *.dns.w3ctag.org IN CNAME .
 dns.wael.name IN CNAME .
 *.dns.wael.name IN CNAME .
-dns.wahr.top IN CNAME .
-*.dns.wahr.top IN CNAME .
 dns.walker.id IN CNAME .
 *.dns.walker.id IN CNAME .
 dns.walshnet.co.uk IN CNAME .
@@ -3557,6 +3559,8 @@ dns.zyxienn.fun IN CNAME .
 *.dns.zyxienn.fun IN CNAME .
 dns.zzuhacker.cn IN CNAME .
 *.dns.zzuhacker.cn IN CNAME .
+dns0.eu IN CNAME .
+*.dns0.eu IN CNAME .
 dns0.permafrostmiami.com IN CNAME .
 *.dns0.permafrostmiami.com IN CNAME .
 dns0.tardishost.ru IN CNAME .
@@ -4405,6 +4409,8 @@ f4f.es IN CNAME .
 *.f4f.es IN CNAME .
 facomunit.ddns.net IN CNAME .
 *.facomunit.ddns.net IN CNAME .
+family.adguarddns.com IN CNAME .
+*.family.adguarddns.com IN CNAME .
 family.dns.doubleangels.com IN CNAME .
 *.family.dns.doubleangels.com IN CNAME .
 family.dns.dremaxx.com IN CNAME .
@@ -6673,6 +6679,8 @@ uncensored-dot.dnswarden.com IN CNAME .
 *.uncensored-dot.dnswarden.com IN CNAME .
 uncensoreddns.org IN CNAME .
 *.uncensoreddns.org IN CNAME .
+unfiltered.adguarddns.com IN CNAME .
+*.unfiltered.adguarddns.com IN CNAME .
 unfiltered.joindns4.eu IN CNAME .
 *.unfiltered.joindns4.eu IN CNAME .
 unicast.censurfridns.dk IN CNAME .
