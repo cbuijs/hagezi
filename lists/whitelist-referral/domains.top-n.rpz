@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1794974244 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795060732 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -273,8 +273,6 @@ adservice.google.pl IN CNAME .
 *.adservice.google.pl IN CNAME .
 adservice.google.ro IN CNAME .
 *.adservice.google.ro IN CNAME .
-adservice.google.rs IN CNAME .
-*.adservice.google.rs IN CNAME .
 adservice.google.ru IN CNAME .
 *.adservice.google.ru IN CNAME .
 adservice.google.se IN CNAME .
@@ -767,6 +765,8 @@ csb-cdn.exponea.com IN CNAME .
 *.csb-cdn.exponea.com IN CNAME .
 csd.dotomi.com IN CNAME .
 *.csd.dotomi.com IN CNAME .
+ct.impactradius.com IN CNAME .
+*.ct.impactradius.com IN CNAME .
 ct.sendgrid.net IN CNAME .
 *.ct.sendgrid.net IN CNAME .
 ctagm.tchibo.de IN CNAME .
@@ -837,8 +837,6 @@ email-link.adtidy.org IN CNAME .
 *.email-link.adtidy.org IN CNAME .
 email-tracking.infobip.com IN CNAME .
 *.email-tracking.infobip.com IN CNAME .
-email.microsoft.com IN CNAME .
-*.email.microsoft.com IN CNAME .
 email.microsoftonline.com IN CNAME .
 *.email.microsoftonline.com IN CNAME .
 email.office.com IN CNAME .
@@ -875,6 +873,8 @@ ew3.io IN CNAME .
 *.ew3.io IN CNAME .
 fis-iittala-cdn.exponea.com IN CNAME .
 *.fis-iittala-cdn.exponea.com IN CNAME .
+fis-moominarabia-cdn.exponea.com IN CNAME .
+*.fis-moominarabia-cdn.exponea.com IN CNAME .
 gate-ag.first-id.fr IN CNAME .
 *.gate-ag.first-id.fr IN CNAME .
 geo.itunes.apple.com IN CNAME .
@@ -1113,6 +1113,8 @@ mandrillapp.com IN CNAME .
 *.mandrillapp.com IN CNAME .
 media01.eu IN CNAME .
 *.media01.eu IN CNAME .
+mediaintelligence.de IN CNAME .
+*.mediaintelligence.de IN CNAME .
 mediaplex.com IN CNAME .
 *.mediaplex.com IN CNAME .
 mention-me.com IN CNAME .
@@ -1427,6 +1429,8 @@ sites.hscoscdn-eu1.net IN CNAME .
 *.sites.hscoscdn-eu1.net IN CNAME .
 sites.hscoscdn-na2.net IN CNAME .
 *.sites.hscoscdn-na2.net IN CNAME .
+sites.hscoscdn-na3.net IN CNAME .
+*.sites.hscoscdn-na3.net IN CNAME .
 sites.hscoscdn00.net IN CNAME .
 *.sites.hscoscdn00.net IN CNAME .
 sites.hscoscdn10.net IN CNAME .
