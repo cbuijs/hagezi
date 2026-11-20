@@ -1,16 +1,12 @@
 ; RPZ "HOSTER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795058536 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795144975 12h 15m 3w 3h
 000.pe IN CNAME .
 *.000.pe IN CNAME .
 000a.de IN CNAME .
 *.000a.de IN CNAME .
 000free.us IN CNAME .
 *.000free.us IN CNAME .
-000nethost.com IN CNAME .
-*.000nethost.com IN CNAME .
-000space.com IN CNAME .
-*.000space.com IN CNAME .
 000webapp.com IN CNAME .
 *.000webapp.com IN CNAME .
 000webhost.com IN CNAME .
@@ -21,10 +17,6 @@ $TTL 3600
 *.000webhostapp.com IN CNAME .
 00author.com IN CNAME .
 *.00author.com IN CNAME .
-00freehost.com IN CNAME .
-*.00freehost.com IN CNAME .
-00freeweb.com IN CNAME .
-*.00freeweb.com IN CNAME .
 00go.com IN CNAME .
 *.00go.com IN CNAME .
 00it.com IN CNAME .
@@ -75,8 +67,6 @@ $TTL 3600
 *.135.it IN CNAME .
 13e.de IN CNAME .
 *.13e.de IN CNAME .
-150m.com IN CNAME .
-*.150m.com IN CNAME .
 178.at IN CNAME .
 *.178.at IN CNAME .
 17p.de IN CNAME .
@@ -115,8 +105,6 @@ $TTL 3600
 *.2.je IN CNAME .
 204.at IN CNAME .
 *.204.at IN CNAME .
-20m.us IN CNAME .
-*.20m.us IN CNAME .
 22web.org IN CNAME .
 *.22web.org IN CNAME .
 24.co.at IN CNAME .
@@ -203,8 +191,6 @@ $TTL 3600
 *.66ghz.com IN CNAME .
 6te.net IN CNAME .
 *.6te.net IN CNAME .
-7.je IN CNAME .
-*.7.je IN CNAME .
 741.com IN CNAME .
 *.741.com IN CNAME .
 766.at IN CNAME .
@@ -229,6 +215,8 @@ $TTL 3600
 *.9gb.de IN CNAME .
 9k.com IN CNAME .
 *.9k.com IN CNAME .
+9vpsta1.com IN CNAME .
+*.9vpsta1.com IN CNAME .
 a-loch.de IN CNAME .
 *.a-loch.de IN CNAME .
 a.gp IN CNAME .
@@ -343,14 +331,14 @@ asia.cm IN CNAME .
 *.asia.cm IN CNAME .
 asia.gp IN CNAME .
 *.asia.gp IN CNAME .
+asset-cdn.dev IN CNAME .
+*.asset-cdn.dev IN CNAME .
 at.cr IN CNAME .
 *.at.cr IN CNAME .
 at.st IN CNAME .
 *.at.st IN CNAME .
 atsnx.com IN CNAME .
 *.atsnx.com IN CNAME .
-atspace.co.uk IN CNAME .
-*.atspace.co.uk IN CNAME .
 atw.hu IN CNAME .
 *.atw.hu IN CNAME .
 atwebpages.com IN CNAME .
@@ -385,8 +373,6 @@ bayfiles.com IN CNAME .
 *.bayfiles.com IN CNAME .
 be.gp IN CNAME .
 *.be.gp IN CNAME .
-beepworld.it IN CNAME .
-*.beepworld.it IN CNAME .
 beget.tech IN CNAME .
 *.beget.tech IN CNAME .
 begins.de IN CNAME .
@@ -403,6 +389,8 @@ bg.gp IN CNAME .
 *.bg.gp IN CNAME .
 bget.ru IN CNAME .
 *.bget.ru IN CNAME .
+bidiurl.com IN CNAME .
+*.bidiurl.com IN CNAME .
 bigheadhosting.net IN CNAME .
 *.bigheadhosting.net IN CNAME .
 bilder.lc IN CNAME .
@@ -417,8 +405,6 @@ bitzli.ch IN CNAME .
 *.bitzli.ch IN CNAME .
 biz.ps IN CNAME .
 *.biz.ps IN CNAME .
-biz.tc IN CNAME .
-*.biz.tc IN CNAME .
 blatnet.com IN CNAME .
 *.blatnet.com IN CNAME .
 blink.hirebiz.com IN CNAME .
@@ -439,16 +425,12 @@ blogspot.vip IN CNAME .
 *.blogspot.vip IN CNAME .
 bo.gp IN CNAME .
 *.bo.gp IN CNAME .
-boxmail.biz IN CNAME .
-*.boxmail.biz IN CNAME .
 boxmode.io IN CNAME .
 *.boxmode.io IN CNAME .
 br.gp IN CNAME .
 *.br.gp IN CNAME .
 brizy.site IN CNAME .
 *.brizy.site IN CNAME .
-bugs3.com IN CNAME .
-*.bugs3.com IN CNAME .
 builderall.net IN CNAME .
 *.builderall.net IN CNAME .
 builtfree.org IN CNAME .
@@ -487,8 +469,6 @@ bz.tc IN CNAME .
 *.bz.tc IN CNAME .
 c.pl IN CNAME .
 *.c.pl IN CNAME .
-c4rex.co IN CNAME .
-*.c4rex.co IN CNAME .
 ca.gp IN CNAME .
 *.ca.gp IN CNAME .
 cabanova.com IN CNAME .
@@ -499,8 +479,6 @@ cbkgardens.com IN CNAME .
 *.cbkgardens.com IN CNAME .
 cc.cd IN CNAME .
 *.cc.cd IN CNAME .
-ccname.org IN CNAME .
-*.ccname.org IN CNAME .
 ccwu.cc IN CNAME .
 *.ccwu.cc IN CNAME .
 cebol.me IN CNAME .
@@ -605,8 +583,6 @@ co.gp IN CNAME .
 *.co.gp IN CNAME .
 com-portal.de IN CNAME .
 *.com-portal.de IN CNAME .
-com.nu IN CNAME .
-*.com.nu IN CNAME .
 com0.de IN CNAME .
 *.com0.de IN CNAME .
 com24.at IN CNAME .
@@ -617,6 +593,8 @@ community.lc IN CNAME .
 *.community.lc IN CNAME .
 community24.eu IN CNAME .
 *.community24.eu IN CNAME .
+compact.link IN CNAME .
+*.compact.link IN CNAME .
 company.site IN CNAME .
 *.company.site IN CNAME .
 comxa.com IN CNAME .
@@ -651,8 +629,8 @@ cstu.io IN CNAME .
 *.cstu.io IN CNAME .
 ct.ws IN CNAME .
 *.ct.ws IN CNAME .
-ctempurl.com IN CNAME .
-*.ctempurl.com IN CNAME .
+curryfielddistribution.com IN CNAME .
+*.curryfielddistribution.com IN CNAME .
 cut.vin IN CNAME .
 *.cut.vin IN CNAME .
 cutedrive.com IN CNAME .
@@ -701,8 +679,6 @@ de5.net IN CNAME .
 *.de5.net IN CNAME .
 design.tl IN CNAME .
 *.design.tl IN CNAME .
-designcarthosting.com IN CNAME .
-*.designcarthosting.com IN CNAME .
 digitalzones.com IN CNAME .
 *.digitalzones.com IN CNAME .
 dik.si IN CNAME .
@@ -743,8 +719,6 @@ e-docssig.com IN CNAME .
 *.e-docssig.com IN CNAME .
 e.gp IN CNAME .
 *.e.gp IN CNAME .
-eb2a.com IN CNAME .
-*.eb2a.com IN CNAME .
 ec.gp IN CNAME .
 *.ec.gp IN CNAME .
 ecardalert.com IN CNAME .
@@ -853,8 +827,6 @@ fastshare.org IN CNAME .
 *.fastshare.org IN CNAME .
 fat-fly.com IN CNAME .
 *.fat-fly.com IN CNAME .
-fcpages.com IN CNAME .
-*.fcpages.com IN CNAME .
 ferreracademy.com IN CNAME .
 *.ferreracademy.com IN CNAME .
 fileave.com IN CNAME .
@@ -905,8 +877,6 @@ forumil.com IN CNAME .
 *.forumil.com IN CNAME .
 fotos.lc IN CNAME .
 *.fotos.lc IN CNAME .
-fr.am IN CNAME .
-*.fr.am IN CNAME .
 fr.gp IN CNAME .
 *.fr.gp IN CNAME .
 framer.website IN CNAME .
@@ -961,12 +931,8 @@ freewebpages.org IN CNAME .
 *.freewebpages.org IN CNAME .
 freewebportal.com IN CNAME .
 *.freewebportal.com IN CNAME .
-freewebsitehosting.com IN CNAME .
-*.freewebsitehosting.com IN CNAME .
 freightinternationalservices.com IN CNAME .
 *.freightinternationalservices.com IN CNAME .
-frewwebs.com IN CNAME .
-*.frewwebs.com IN CNAME .
 friendcircles.com IN CNAME .
 *.friendcircles.com IN CNAME .
 ftp.totallyanonymous.com IN CNAME .
@@ -985,14 +951,14 @@ fun5.de IN CNAME .
 *.fun5.de IN CNAME .
 fw.bz IN CNAME .
 *.fw.bz IN CNAME .
+fwb4me.us IN CNAME .
+*.fwb4me.us IN CNAME .
 fwh.is IN CNAME .
 *.fwh.is IN CNAME .
 gakken.shop IN CNAME .
 *.gakken.shop IN CNAME .
 game.lc IN CNAME .
 *.game.lc IN CNAME .
-gamer.gd IN CNAME .
-*.gamer.gd IN CNAME .
 gaming.lc IN CNAME .
 *.gaming.lc IN CNAME .
 gateway.lighthouse.storage IN CNAME .
@@ -1081,8 +1047,6 @@ hostingersite.com IN CNAME .
 *.hostingersite.com IN CNAME .
 hostingsiteforfree.com IN CNAME .
 *.hostingsiteforfree.com IN CNAME .
-hot.lc IN CNAME .
-*.hot.lc IN CNAME .
 hotfile.com IN CNAME .
 *.hotfile.com IN CNAME .
 hotshare.net IN CNAME .
@@ -1131,8 +1095,6 @@ idiot24.de IN CNAME .
 *.idiot24.de IN CNAME .
 ij2.de IN CNAME .
 *.ij2.de IN CNAME .
-il.gp IN CNAME .
-*.il.gp IN CNAME .
 ilink-to.net IN CNAME .
 *.ilink-to.net IN CNAME .
 im-internet.eu IN CNAME .
@@ -1141,6 +1103,8 @@ imagengratis.org IN CNAME .
 *.imagengratis.org IN CNAME .
 imageurlhost.com IN CNAME .
 *.imageurlhost.com IN CNAME .
+imrobpolit.pro IN CNAME .
+*.imrobpolit.pro IN CNAME .
 in.gp IN CNAME .
 *.in.gp IN CNAME .
 in.run IN CNAME .
@@ -1173,8 +1137,6 @@ infos.cx IN CNAME .
 *.infos.cx IN CNAME .
 infos.lc IN CNAME .
 *.infos.lc IN CNAME .
-infos.st IN CNAME .
-*.infos.st IN CNAME .
 infura-ipfs.io IN CNAME .
 *.infura-ipfs.io IN CNAME .
 infy.uk IN CNAME .
@@ -1283,12 +1245,8 @@ kilu.org IN CNAME .
 *.kilu.org IN CNAME .
 kiluweb.com IN CNAME .
 *.kiluweb.com IN CNAME .
-kl.com.ua IN CNAME .
-*.kl.com.ua IN CNAME .
 klammert.de IN CNAME .
 *.klammert.de IN CNAME .
-konubinix.eu IN CNAME .
-*.konubinix.eu IN CNAME .
 kortlink.dk IN CNAME .
 *.kortlink.dk IN CNAME .
 kr.gp IN CNAME .
@@ -1447,6 +1405,8 @@ mobinteg.com IN CNAME .
 *.mobinteg.com IN CNAME .
 moneyash.top IN CNAME .
 *.moneyash.top IN CNAME .
+moy.kr IN CNAME .
+*.moy.kr IN CNAME .
 mp3.cr IN CNAME .
 *.mp3.cr IN CNAME .
 muf.mobi IN CNAME .
@@ -1475,8 +1435,6 @@ myartsonline.com IN CNAME .
 *.myartsonline.com IN CNAME .
 mybb.pw IN CNAME .
 *.mybb.pw IN CNAME .
-mybb.rocks IN CNAME .
-*.mybb.rocks IN CNAME .
 myblogvoice.com IN CNAME .
 *.myblogvoice.com IN CNAME .
 mybluehost.me IN CNAME .
@@ -1499,8 +1457,6 @@ myftpupload.com IN CNAME .
 *.myftpupload.com IN CNAME .
 myfunnelish.com IN CNAME .
 *.myfunnelish.com IN CNAME .
-mygamesonline.org IN CNAME .
-*.mygamesonline.org IN CNAME .
 mylinkinb.io IN CNAME .
 *.mylinkinb.io IN CNAME .
 myportfolio.com IN CNAME .
@@ -1553,8 +1509,6 @@ noads.biz IN CNAME .
 *.noads.biz IN CNAME .
 nofeeshost.com IN CNAME .
 *.nofeeshost.com IN CNAME .
-nokojp.shop IN CNAME .
-*.nokojp.shop IN CNAME .
 novamov.com IN CNAME .
 *.novamov.com IN CNAME .
 now.lc IN CNAME .
@@ -1571,6 +1525,8 @@ nyc.mn IN CNAME .
 *.nyc.mn IN CNAME .
 o-f.com IN CNAME .
 *.o-f.com IN CNAME .
+o-link.top IN CNAME .
+*.o-link.top IN CNAME .
 o-r.kr IN CNAME .
 *.o-r.kr IN CNAME .
 o.gp IN CNAME .
@@ -1591,8 +1547,6 @@ on.gp IN CNAME .
 *.on.gp IN CNAME .
 on.lc IN CNAME .
 *.on.lc IN CNAME .
-onaiappbuilder.com IN CNAME .
-*.onaiappbuilder.com IN CNAME .
 one4u.0lx.net IN CNAME .
 *.one4u.0lx.net IN CNAME .
 onepage.website IN CNAME .
@@ -1609,8 +1563,6 @@ online.ly IN CNAME .
 *.online.ly IN CNAME .
 online.tc IN CNAME .
 *.online.tc IN CNAME .
-onlineweb.shop IN CNAME .
-*.onlineweb.shop IN CNAME .
 onlinewebshop.net IN CNAME .
 *.onlinewebshop.net IN CNAME .
 only4u.eu IN CNAME .
@@ -1625,6 +1577,10 @@ orgfree.com IN CNAME .
 *.orgfree.com IN CNAME .
 orgsites.com IN CNAME .
 *.orgsites.com IN CNAME .
+os.md IN CNAME .
+*.os.md IN CNAME .
+oundhertobeconsist.org IN CNAME .
+*.oundhertobeconsist.org IN CNAME .
 own-free-website.com IN CNAME .
 *.own-free-website.com IN CNAME .
 oyn.at IN CNAME .
@@ -1633,8 +1589,6 @@ ozq.de IN CNAME .
 *.ozq.de IN CNAME .
 p.gp IN CNAME .
 *.p.gp IN CNAME .
-p2blogs.com IN CNAME .
-*.p2blogs.com IN CNAME .
 page.gd IN CNAME .
 *.page.gd IN CNAME .
 page4.me IN CNAME .
@@ -1697,8 +1651,6 @@ pro3.de IN CNAME .
 *.pro3.de IN CNAME .
 profis.info IN CNAME .
 *.profis.info IN CNAME .
-profreehost.com IN CNAME .
-*.profreehost.com IN CNAME .
 psce.pw IN CNAME .
 *.psce.pw IN CNAME .
 psee.io IN CNAME .
@@ -1789,6 +1741,8 @@ s.gp IN CNAME .
 *.s.gp IN CNAME .
 sa.gp IN CNAME .
 *.sa.gp IN CNAME .
+santuy.me IN CNAME .
+*.santuy.me IN CNAME .
 sc.link IN CNAME .
 *.sc.link IN CNAME .
 schmust.de IN CNAME .
@@ -1875,6 +1829,8 @@ sms.cr IN CNAME .
 *.sms.cr IN CNAME .
 smsu.io IN CNAME .
 *.smsu.io IN CNAME .
+snifferip.com IN CNAME .
+*.snifferip.com IN CNAME .
 social-networking.me IN CNAME .
 *.social-networking.me IN CNAME .
 socialsmp.com IN CNAME .
@@ -1961,14 +1917,10 @@ tentbuildingservices.eu IN CNAME .
 *.tentbuildingservices.eu IN CNAME .
 test.lc IN CNAME .
 *.test.lc IN CNAME .
-testingnow.me IN CNAME .
-*.testingnow.me IN CNAME .
 th.gp IN CNAME .
 *.th.gp IN CNAME .
 thamboli.co.za IN CNAME .
 *.thamboli.co.za IN CNAME .
-thoughtlanes.net IN CNAME .
-*.thoughtlanes.net IN CNAME .
 tiiny.io IN CNAME .
 *.tiiny.io IN CNAME .
 tiiny.site IN CNAME .
@@ -2013,8 +1965,6 @@ trim.one IN CNAME .
 *.trim.one IN CNAME .
 tripod.com IN CNAME .
 *.tripod.com IN CNAME .
-trustless-gateway.link IN CNAME .
-*.trustless-gateway.link IN CNAME .
 trycloudflare.com IN CNAME .
 *.trycloudflare.com IN CNAME .
 tunnelmole.net IN CNAME .
@@ -2039,8 +1989,6 @@ ua.gp IN CNAME .
 *.ua.gp IN CNAME .
 ubpages.com IN CNAME .
 *.ubpages.com IN CNAME .
-ucoz.com IN CNAME .
-*.ucoz.com IN CNAME .
 ucoz.ru IN CNAME .
 *.ucoz.ru IN CNAME .
 ueuo.com IN CNAME .
@@ -2069,6 +2017,8 @@ unaux.com IN CNAME .
 *.unaux.com IN CNAME .
 unesa.me IN CNAME .
 *.unesa.me IN CNAME .
+unl.one IN CNAME .
+*.unl.one IN CNAME .
 uploadbox.com IN CNAME .
 *.uploadbox.com IN CNAME .
 uploadbuzz.cc IN CNAME .
@@ -2095,6 +2045,8 @@ urlaub.lc IN CNAME .
 *.urlaub.lc IN CNAME .
 urle.me IN CNAME .
 *.urle.me IN CNAME .
+urlto.me IN CNAME .
+*.urlto.me IN CNAME .
 urlyte.com IN CNAME .
 *.urlyte.com IN CNAME .
 us.ci IN CNAME .
@@ -2155,14 +2107,14 @@ vpn.net.br IN CNAME .
 *.vpn.net.br IN CNAME .
 vz.lc IN CNAME .
 *.vz.lc IN CNAME .
+w0of-woof.com IN CNAME .
+*.w0of-woof.com IN CNAME .
 w3s.link IN CNAME .
 *.w3s.link IN CNAME .
 w3spaces.com IN CNAME .
 *.w3spaces.com IN CNAME .
 wapka.club IN CNAME .
 *.wapka.club IN CNAME .
-wapka.co IN CNAME .
-*.wapka.co IN CNAME .
 wapka.site IN CNAME .
 *.wapka.site IN CNAME .
 wapka.store IN CNAME .
@@ -2171,6 +2123,8 @@ wapka.top IN CNAME .
 *.wapka.top IN CNAME .
 wapka.website IN CNAME .
 *.wapka.website IN CNAME .
+wavesnetwork.dev IN CNAME .
+*.wavesnetwork.dev IN CNAME .
 web-chat.eu IN CNAME .
 *.web-chat.eu IN CNAME .
 web-clan.de IN CNAME .
@@ -2199,8 +2153,6 @@ weblium.site IN CNAME .
 *.weblium.site IN CNAME .
 webn.cc IN CNAME .
 *.webn.cc IN CNAME .
-webnode.com.co IN CNAME .
-*.webnode.com.co IN CNAME .
 webnode.com.pt IN CNAME .
 *.webnode.com.pt IN CNAME .
 webobo.com IN CNAME .
@@ -2211,8 +2163,6 @@ webservis.ru IN CNAME .
 *.webservis.ru IN CNAME .
 website.at IN CNAME .
 *.website.at IN CNAME .
-website.org IN CNAME .
-*.website.org IN CNAME .
 webspawner.com IN CNAME .
 *.webspawner.com IN CNAME .
 webstarterz.com IN CNAME .
@@ -2295,6 +2245,8 @@ y55.eu IN CNAME .
 *.y55.eu IN CNAME .
 ygrrvlvvgf.top IN CNAME .
 *.ygrrvlvvgf.top IN CNAME .
+yi.org IN CNAME .
+*.yi.org IN CNAME .
 yip.su IN CNAME .
 *.yip.su IN CNAME .
 yj.ae IN CNAME .
@@ -2305,8 +2257,6 @@ yolasite.com IN CNAME .
 *.yolasite.com IN CNAME .
 you.lc IN CNAME .
 *.you.lc IN CNAME .
-yourdomain.com IN CNAME .
-*.yourdomain.com IN CNAME .
 yovip.net IN CNAME .
 *.yovip.net IN CNAME .
 yu3.io IN CNAME .

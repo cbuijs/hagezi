@@ -1,6 +1,6 @@
 ; RPZ "SOCIAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795060159 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795146725 12h 15m 3w 3h
 0xdd.org.ru IN CNAME .
 *.0xdd.org.ru IN CNAME .
 101010.pl IN CNAME .
@@ -65,6 +65,8 @@ bizographics.com IN CNAME .
 *.bizographics.com IN CNAME .
 blahaj.zone IN CNAME .
 *.blahaj.zone IN CNAME .
+blog.allpurposem.at IN CNAME .
+*.blog.allpurposem.at IN CNAME .
 blog.froth.zone IN CNAME .
 *.blog.froth.zone IN CNAME .
 blog.palermo.nohost.me IN CNAME .
@@ -149,8 +151,6 @@ discord.co IN CNAME .
 *.discord.co IN CNAME .
 discord.com IN CNAME .
 *.discord.com IN CNAME .
-discord.dev IN CNAME .
-*.discord.dev IN CNAME .
 discord.gg IN CNAME .
 *.discord.gg IN CNAME .
 discord.gift IN CNAME .
@@ -293,8 +293,6 @@ fedi.simonwillison.net IN CNAME .
 *.fedi.simonwillison.net IN CNAME .
 fedi.xamk.fi IN CNAME .
 *.fedi.xamk.fi IN CNAME .
-fedibots.mldkyt.com IN CNAME .
-*.fedibots.mldkyt.com IN CNAME .
 fediscience.org IN CNAME .
 *.fediscience.org IN CNAME .
 fishki.net IN CNAME .
@@ -381,12 +379,6 @@ infosec.exchange IN CNAME .
 *.infosec.exchange IN CNAME .
 infosec.pub IN CNAME .
 *.infosec.pub IN CNAME .
-instaadder.com IN CNAME .
-*.instaadder.com IN CNAME .
-instafollower.com IN CNAME .
-*.instafollower.com IN CNAME .
-instagda.com IN CNAME .
-*.instagda.com IN CNAME .
 instagram-engineering.com IN CNAME .
 *.instagram-engineering.com IN CNAME .
 instagram-press.com IN CNAME .
@@ -481,8 +473,6 @@ lemmy.hostux.net IN CNAME .
 *.lemmy.hostux.net IN CNAME .
 lemmy.imagisphe.re IN CNAME .
 *.lemmy.imagisphe.re IN CNAME .
-lemmy.mayer.rocks IN CNAME .
-*.lemmy.mayer.rocks IN CNAME .
 lemmy.michaelsasser.org IN CNAME .
 *.lemmy.michaelsasser.org IN CNAME .
 lemmy.ml IN CNAME .
@@ -1063,8 +1053,6 @@ pixelfed.eskimo.com IN CNAME .
 *.pixelfed.eskimo.com IN CNAME .
 pixelfed.helvetet.eu IN CNAME .
 *.pixelfed.helvetet.eu IN CNAME .
-pixelfed.mayer.rocks IN CNAME .
-*.pixelfed.mayer.rocks IN CNAME .
 pixelfed.org IN CNAME .
 *.pixelfed.org IN CNAME .
 pixelfed.social IN CNAME .
@@ -1565,8 +1553,6 @@ vhs.absturztau.be IN CNAME .
 *.vhs.absturztau.be IN CNAME .
 vid.prometheus.systems IN CNAME .
 *.vid.prometheus.systems IN CNAME .
-video.adullact.org IN CNAME .
-*.video.adullact.org IN CNAME .
 video.antopie.org IN CNAME .
 *.video.antopie.org IN CNAME .
 video.barcelo.ynh.fr IN CNAME .
@@ -1615,6 +1601,8 @@ videos.domainepublic.net IN CNAME .
 *.videos.domainepublic.net IN CNAME .
 videos.erg.be IN CNAME .
 *.videos.erg.be IN CNAME .
+videos.evoludata.com IN CNAME .
+*.videos.evoludata.com IN CNAME .
 videos.globenet.org IN CNAME .
 *.videos.globenet.org IN CNAME .
 videos.lescommuns.org IN CNAME .
