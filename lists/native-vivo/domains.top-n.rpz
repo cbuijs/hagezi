@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-VIVO-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795145127 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795231460 12h 15m 3w 3h
 adlog.vivo.com IN CNAME .
 *.adlog.vivo.com IN CNAME .
 adlog.vivo.com.cn IN CNAME .
@@ -189,8 +189,6 @@ co-vcode-or.vivoglobal.com IN CNAME .
 *.co-vcode-or.vivoglobal.com IN CNAME .
 de-gdpr-err-up.vivoglobal.com IN CNAME .
 *.de-gdpr-err-up.vivoglobal.com IN CNAME .
-de-gdpr-vcode-api.vivoglobal.com IN CNAME .
-*.de-gdpr-vcode-api.vivoglobal.com IN CNAME .
 dsplog-adnet.vivo.com.cn IN CNAME .
 *.dsplog-adnet.vivo.com.cn IN CNAME .
 err-up.vivoglobal.com IN CNAME .
@@ -211,8 +209,6 @@ eu-errup.vivoglobal.com IN CNAME .
 *.eu-errup.vivoglobal.com IN CNAME .
 eu-monitor-stsdk.vivoglobal.com IN CNAME .
 *.eu-monitor-stsdk.vivoglobal.com IN CNAME .
-eu-nrt-stsdk.vivoglobal.com IN CNAME .
-*.eu-nrt-stsdk.vivoglobal.com IN CNAME .
 eu-onrt-stsdk.vivoglobal.com IN CNAME .
 *.eu-onrt-stsdk.vivoglobal.com IN CNAME .
 eu-ort-stsdk.vivoglobal.com IN CNAME .
@@ -313,6 +309,8 @@ in-pnrt-stsdk.vivoglobal.com IN CNAME .
 *.in-pnrt-stsdk.vivoglobal.com IN CNAME .
 in-prt-stsdk.vivoglobal.com IN CNAME .
 *.in-prt-stsdk.vivoglobal.com IN CNAME .
+in-rt-stsdk.vivoglobal.com IN CNAME .
+*.in-rt-stsdk.vivoglobal.com IN CNAME .
 in-third-appstore.vivoglobal.com IN CNAME .
 *.in-third-appstore.vivoglobal.com IN CNAME .
 in-timesync.vivoglobal.com IN CNAME .

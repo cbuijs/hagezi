@@ -1,6 +1,6 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795144978 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795231329 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
 000webhostapp.com IN CNAME .
@@ -11,6 +11,8 @@ $TTL 3600
 *.0x0.st IN CNAME .
 128-199-7-137.cprapid.com IN CNAME .
 *.128-199-7-137.cprapid.com IN CNAME .
+150m.com IN CNAME .
+*.150m.com IN CNAME .
 1asphost.com IN CNAME .
 *.1asphost.com IN CNAME .
 22web.org IN CNAME .
@@ -91,8 +93,6 @@ conohawing.com IN CNAME .
 *.conohawing.com IN CNAME .
 craftum.io IN CNAME .
 *.craftum.io IN CNAME .
-created.app IN CNAME .
-*.created.app IN CNAME .
 creatorlink.net IN CNAME .
 *.creatorlink.net IN CNAME .
 ct.ws IN CNAME .
@@ -207,6 +207,8 @@ it-support-group.com IN CNAME .
 *.it-support-group.com IN CNAME .
 jimdofree.com IN CNAME .
 *.jimdofree.com IN CNAME .
+jimdosite.com IN CNAME .
+*.jimdosite.com IN CNAME .
 joomla.com IN CNAME .
 *.joomla.com IN CNAME .
 kesug.com IN CNAME .
@@ -233,6 +235,8 @@ lovable.app IN CNAME .
 *.lovable.app IN CNAME .
 lovestoblog.com IN CNAME .
 *.lovestoblog.com IN CNAME .
+m-pages.com IN CNAME .
+*.m-pages.com IN CNAME .
 medianewsonline.com IN CNAME .
 *.medianewsonline.com IN CNAME .
 meusitehostgator.com.br IN CNAME .
@@ -333,16 +337,22 @@ rumahweb.org IN CNAME .
 *.rumahweb.org IN CNAME .
 scienceontheweb.net IN CNAME .
 *.scienceontheweb.net IN CNAME .
+sendspace.com IN CNAME .
+*.sendspace.com IN CNAME .
 serv00.net IN CNAME .
 *.serv00.net IN CNAME .
 serveo.net IN CNAME .
 *.serveo.net IN CNAME .
+short-link.net IN CNAME .
+*.short-link.net IN CNAME .
 site44.com IN CNAME .
 *.site44.com IN CNAME .
 sitebeat.crazydomains.com IN CNAME .
 *.sitebeat.crazydomains.com IN CNAME .
 sitey.me IN CNAME .
 *.sitey.me IN CNAME .
+softr.app IN CNAME .
+*.softr.app IN CNAME .
 somee.com IN CNAME .
 *.somee.com IN CNAME .
 sportsontheweb.net IN CNAME .
@@ -403,12 +413,16 @@ w3spaces.com IN CNAME .
 *.w3spaces.com IN CNAME .
 webaccess-email.com IN CNAME .
 *.webaccess-email.com IN CNAME .
+webador.com IN CNAME .
+*.webador.com IN CNAME .
 webcindario.com IN CNAME .
 *.webcindario.com IN CNAME .
 webflow.io IN CNAME .
 *.webflow.io IN CNAME .
 weblium.site IN CNAME .
 *.weblium.site IN CNAME .
+webnode.com IN CNAME .
+*.webnode.com IN CNAME .
 webspawner.com IN CNAME .
 *.webspawner.com IN CNAME .
 webstarterz.com IN CNAME .
@@ -435,10 +449,10 @@ xsph.ru IN CNAME .
 *.xsph.ru IN CNAME .
 xx.kg IN CNAME .
 *.xx.kg IN CNAME .
-yi.org IN CNAME .
-*.yi.org IN CNAME .
 yolasite.com IN CNAME .
 *.yolasite.com IN CNAME .
+yourdomain.com IN CNAME .
+*.yourdomain.com IN CNAME .
 zapier.app IN CNAME .
 *.zapier.app IN CNAME .
 zeabur.app IN CNAME .

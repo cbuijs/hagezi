@@ -1,12 +1,14 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795147555 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795233303 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
 *.1l.my.games IN CNAME .
 2performant.com IN CNAME .
 *.2performant.com IN CNAME .
+341850582.group0.sites.hscoscdn-na3.net IN CNAME .
+*.341850582.group0.sites.hscoscdn-na3.net IN CNAME .
 7eer.net IN CNAME .
 *.7eer.net IN CNAME .
 a.partner-versicherung.de IN CNAME .
@@ -1529,8 +1531,6 @@ suite33.emarsys.net IN CNAME .
 *.suite33.emarsys.net IN CNAME .
 suite34.emarsys.net IN CNAME .
 *.suite34.emarsys.net IN CNAME .
-suite36.emarsys.net IN CNAME .
-*.suite36.emarsys.net IN CNAME .
 suite37.emarsys.net IN CNAME .
 *.suite37.emarsys.net IN CNAME .
 suite38-cf.emarsys.net IN CNAME .

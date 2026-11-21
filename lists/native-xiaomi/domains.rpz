@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-XIAOMI"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795145132 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795231465 12h 15m 3w 3h
 11-c3.bigdata.ctc.neo.xiaomi.com IN CNAME .
 *.11-c3.bigdata.ctc.neo.xiaomi.com IN CNAME .
 3rdupgrade.pandora.xiaomi.com IN CNAME .
@@ -479,6 +479,8 @@ mistat.xiaomi.com IN CNAME .
 *.mistat.xiaomi.com IN CNAME .
 mistat.xiaomi.com.download.ks-cdn.com IN CNAME .
 *.mistat.xiaomi.com.download.ks-cdn.com IN CNAME .
+mistat.xiaomi.com.mgslb.com IN CNAME .
+*.mistat.xiaomi.com.mgslb.com IN CNAME .
 miui-l7-data-other-c3.pt.miui.com IN CNAME .
 *.miui-l7-data-other-c3.pt.miui.com IN CNAME .
 miui-l7-data-other.pt.miui.com IN CNAME .

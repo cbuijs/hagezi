@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-AMAZON-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795145094 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795231426 12h 15m 3w 3h
 3px.axp.amazon-adsystem.com IN CNAME .
 *.3px.axp.amazon-adsystem.com IN CNAME .
 aan.amazon.co.jp IN CNAME .
@@ -331,8 +331,6 @@ fls-cn.amazon.cn IN CNAME .
 *.fls-cn.amazon.cn IN CNAME .
 fls-cn.amazon.com IN CNAME .
 *.fls-cn.amazon.com IN CNAME .
-fls-eu.amazon-adsystem.com IN CNAME .
-*.fls-eu.amazon-adsystem.com IN CNAME .
 fls-eu.amazon.ae IN CNAME .
 *.fls-eu.amazon.ae IN CNAME .
 fls-eu.amazon.co.uk IN CNAME .
@@ -365,8 +363,6 @@ fls-eu.amazon.se IN CNAME .
 *.fls-eu.amazon.se IN CNAME .
 fls-fe-opf.amazon.com IN CNAME .
 *.fls-fe-opf.amazon.com IN CNAME .
-fls-fe.amazon-adsystem.com IN CNAME .
-*.fls-fe.amazon-adsystem.com IN CNAME .
 fls-fe.amazon.co.jp IN CNAME .
 *.fls-fe.amazon.co.jp IN CNAME .
 fls-fe.amazon.com IN CNAME .
@@ -375,8 +371,6 @@ fls-fe.amazon.com.au IN CNAME .
 *.fls-fe.amazon.com.au IN CNAME .
 fls-fe.amazon.sg IN CNAME .
 *.fls-fe.amazon.sg IN CNAME .
-fls-na.amazon-adsystem.com IN CNAME .
-*.fls-na.amazon-adsystem.com IN CNAME .
 fls-na.amazon.ca IN CNAME .
 *.fls-na.amazon.ca IN CNAME .
 fls-na.amazon.com IN CNAME .
@@ -563,6 +557,8 @@ sponsored-ads-eu.amazon.sa IN CNAME .
 *.sponsored-ads-eu.amazon.sa IN CNAME .
 sponsored-ads-eu.amazon.se IN CNAME .
 *.sponsored-ads-eu.amazon.se IN CNAME .
+sponsored-ads-euc-1.amazon-adsystem.com IN CNAME .
+*.sponsored-ads-euc-1.amazon-adsystem.com IN CNAME .
 sponsored-ads-fe.amazon-adsystem.com IN CNAME .
 *.sponsored-ads-fe.amazon-adsystem.com IN CNAME .
 sponsored-ads-na.amazon-adsystem.com IN CNAME .
