@@ -1,6 +1,6 @@
 ; RPZ "SPAM-TLDS-ALLOW"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795232897 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795319766 12h 15m 3w 3h
 10gen.cc IN CNAME .
 *.10gen.cc IN CNAME .
 11ts.shop IN CNAME .
@@ -369,6 +369,8 @@ crt.name IN CNAME .
 *.crt.name IN CNAME .
 crypt.fyi IN CNAME .
 *.crypt.fyi IN CNAME .
+cs.deals IN CNAME .
+*.cs.deals IN CNAME .
 cslogs.space IN CNAME .
 *.cslogs.space IN CNAME .
 cst.gdn IN CNAME .

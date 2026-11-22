@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795233303 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795320350 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -9,6 +9,8 @@ $TTL 3600
 *.2performant.com IN CNAME .
 341850582.group0.sites.hscoscdn-na3.net IN CNAME .
 *.341850582.group0.sites.hscoscdn-na3.net IN CNAME .
+343135192.group0.sites.hscoscdn-na3.net IN CNAME .
+*.343135192.group0.sites.hscoscdn-na3.net IN CNAME .
 7eer.net IN CNAME .
 *.7eer.net IN CNAME .
 a.partner-versicherung.de IN CNAME .
@@ -427,6 +429,8 @@ app2a.gateway.portal.outreach.io IN CNAME .
 *.app2a.gateway.portal.outreach.io IN CNAME .
 app2a.outreach.io IN CNAME .
 *.app2a.outreach.io IN CNAME .
+app2b.gateway.portal.outreach.io IN CNAME .
+*.app2b.gateway.portal.outreach.io IN CNAME .
 app2b.outreach.io IN CNAME .
 *.app2b.outreach.io IN CNAME .
 app2c.gateway.portal.outreach.io IN CNAME .
@@ -509,8 +513,16 @@ c2-sandbox.piano.io IN CNAME .
 *.c2-sandbox.piano.io IN CNAME .
 c2.piano.io IN CNAME .
 *.c2.piano.io IN CNAME .
+c2369.dotomi.com IN CNAME .
+*.c2369.dotomi.com IN CNAME .
+c2411.dotomi.com IN CNAME .
+*.c2411.dotomi.com IN CNAME .
+c2466.dotomi.com IN CNAME .
+*.c2466.dotomi.com IN CNAME .
 c2827.dotomi.com IN CNAME .
 *.c2827.dotomi.com IN CNAME .
+c2990.dotomi.com IN CNAME .
+*.c2990.dotomi.com IN CNAME .
 cadent-match.dotomi.com IN CNAME .
 *.cadent-match.dotomi.com IN CNAME .
 callback.api.qgraph.io IN CNAME .
@@ -537,8 +549,6 @@ cdn.eu1.exponea.com IN CNAME .
 *.cdn.eu1.exponea.com IN CNAME .
 cdn.exponea.com IN CNAME .
 *.cdn.exponea.com IN CNAME .
-cdn.ftspecialist.exponea.com IN CNAME .
-*.cdn.ftspecialist.exponea.com IN CNAME .
 cdn.mie.exponea.com IN CNAME .
 *.cdn.mie.exponea.com IN CNAME .
 cdn.network.exponea.com IN CNAME .
@@ -845,8 +855,6 @@ email-link.adtidy.org IN CNAME .
 *.email-link.adtidy.org IN CNAME .
 email-tracking.infobip.com IN CNAME .
 *.email-tracking.infobip.com IN CNAME .
-email.microsoft.com IN CNAME .
-*.email.microsoft.com IN CNAME .
 email.microsoftonline.com IN CNAME .
 *.email.microsoftonline.com IN CNAME .
 email.office.com IN CNAME .
@@ -1353,6 +1361,8 @@ rides.sng.link IN CNAME .
 *.rides.sng.link IN CNAME .
 rozetka-cdn.exponea.com IN CNAME .
 *.rozetka-cdn.exponea.com IN CNAME .
+rqkmqleab.cc.rs6.net IN CNAME .
+*.rqkmqleab.cc.rs6.net IN CNAME .
 run.admost.com IN CNAME .
 *.run.admost.com IN CNAME .
 s.bluecore.com IN CNAME .
@@ -1531,10 +1541,10 @@ suite33.emarsys.net IN CNAME .
 *.suite33.emarsys.net IN CNAME .
 suite34.emarsys.net IN CNAME .
 *.suite34.emarsys.net IN CNAME .
+suite36.emarsys.net IN CNAME .
+*.suite36.emarsys.net IN CNAME .
 suite37.emarsys.net IN CNAME .
 *.suite37.emarsys.net IN CNAME .
-suite38-cf.emarsys.net IN CNAME .
-*.suite38-cf.emarsys.net IN CNAME .
 suite38.emarsys.net IN CNAME .
 *.suite38.emarsys.net IN CNAME .
 suite40-cf.emarsys.net IN CNAME .
@@ -1817,6 +1827,8 @@ trkn.us IN CNAME .
 *.trkn.us IN CNAME .
 ts.tradetracker.net IN CNAME .
 *.ts.tradetracker.net IN CNAME .
+tuifr.tradetracker.net IN CNAME .
+*.tuifr.tradetracker.net IN CNAME .
 ubb-cdn.exponea.com IN CNAME .
 *.ubb-cdn.exponea.com IN CNAME .
 ue.flipboard.com IN CNAME .

@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795231144 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795317601 12h 15m 3w 3h
 2.alpo.pp.ua IN CNAME .
 *.2.alpo.pp.ua IN CNAME .
 2.baiyue.eu.org IN CNAME .
@@ -449,8 +449,6 @@ dns.koala.us.to IN CNAME .
 *.dns.koala.us.to IN CNAME .
 dns.korzhyk.pp.ua IN CNAME .
 *.dns.korzhyk.pp.ua IN CNAME .
-dns.lgprk.com IN CNAME .
-*.dns.lgprk.com IN CNAME .
 dns.lvqing.eu.org IN CNAME .
 *.dns.lvqing.eu.org IN CNAME .
 dns.mayx.eu.org IN CNAME .
@@ -639,6 +637,8 @@ doh.bt.com IN CNAME .
 *.doh.bt.com IN CNAME .
 doh.captnemo.in IN CNAME .
 *.doh.captnemo.in IN CNAME .
+doh.centraleu.pi-dns.com IN CNAME .
+*.doh.centraleu.pi-dns.com IN CNAME .
 doh.controld.com IN CNAME .
 *.doh.controld.com IN CNAME .
 doh.cox.net IN CNAME .
@@ -793,8 +793,6 @@ ecs-doh.dnswarden.com IN CNAME .
 *.ecs-doh.dnswarden.com IN CNAME .
 edge.nextdns.io IN CNAME .
 *.edge.nextdns.io IN CNAME .
-edgy-dns.com IN CNAME .
-*.edgy-dns.com IN CNAME .
 egshe.myqnapcloud.com IN CNAME .
 *.egshe.myqnapcloud.com IN CNAME .
 eime.goip.de IN CNAME .
@@ -1177,8 +1175,6 @@ mad01.dnscry.pt IN CNAME .
 *.mad01.dnscry.pt IN CNAME .
 man01.dnscry.pt IN CNAME .
 *.man01.dnscry.pt IN CNAME .
-mask-api.fe.apple-dns.net IN CNAME .
-*.mask-api.fe.apple-dns.net IN CNAME .
 mask-canary.icloud.com IN CNAME .
 *.mask-canary.icloud.com IN CNAME .
 mask-h2.icloud.com IN CNAME .
@@ -1269,8 +1265,6 @@ naujas123.duckdns.org IN CNAME .
 *.naujas123.duckdns.org IN CNAME .
 ncl01.dnscry.pt IN CNAME .
 *.ncl01.dnscry.pt IN CNAME .
-nd.lgprk.com IN CNAME .
-*.nd.lgprk.com IN CNAME .
 newlibrarian.myqnapcloud.com IN CNAME .
 *.newlibrarian.myqnapcloud.com IN CNAME .
 nicknarayong.ddns.net IN CNAME .
