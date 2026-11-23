@@ -1,12 +1,10 @@
 ; RPZ "DYNDNS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795317616 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795403760 12h 15m 3w 3h
 0000000000000000000000.com IN CNAME .
 *.0000000000000000000000.com IN CNAME .
 001www.com IN CNAME .
 *.001www.com IN CNAME .
-0rg.us IN CNAME .
-*.0rg.us IN CNAME .
 0x.no IN CNAME .
 *.0x.no IN CNAME .
 100mountain.com IN CNAME .
@@ -165,8 +163,6 @@ atlantatruckdrivingschool.us IN CNAME .
 *.atlantatruckdrivingschool.us IN CNAME .
 auraria.org IN CNAME .
 *.auraria.org IN CNAME .
-australia.ai IN CNAME .
-*.australia.ai IN CNAME .
 authorizeddns.net IN CNAME .
 *.authorizeddns.net IN CNAME .
 authorizeddns.org IN CNAME .
@@ -489,6 +485,8 @@ ddnsguru.com IN CNAME .
 *.ddnsguru.com IN CNAME .
 ddnsking.com IN CNAME .
 *.ddnsking.com IN CNAME .
+ddnslive.com IN CNAME .
+*.ddnslive.com IN CNAME .
 ddnss.ch IN CNAME .
 *.ddnss.ch IN CNAME .
 ddnss.de IN CNAME .
@@ -1193,8 +1191,6 @@ game-server.cc IN CNAME .
 *.game-server.cc IN CNAME .
 garmanage.com IN CNAME .
 *.garmanage.com IN CNAME .
-garypatel.com IN CNAME .
-*.garypatel.com IN CNAME .
 gastright.com IN CNAME .
 *.gastright.com IN CNAME .
 geekgalaxy.com IN CNAME .
@@ -2399,8 +2395,6 @@ roth.ca IN CNAME .
 *.roth.ca IN CNAME .
 route64.de IN CNAME .
 *.route64.de IN CNAME .
-routemehome.com IN CNAME .
-*.routemehome.com IN CNAME .
 roxa.org IN CNAME .
 *.roxa.org IN CNAME .
 rpz.su IN CNAME .
@@ -2697,8 +2691,6 @@ synology-ds.de IN CNAME .
 *.synology-ds.de IN CNAME .
 synoserver.com IN CNAME .
 *.synoserver.com IN CNAME .
-syntereo.com IN CNAME .
-*.syntereo.com IN CNAME .
 sysadminetworks.com IN CNAME .
 *.sysadminetworks.com IN CNAME .
 system-ns.com IN CNAME .
@@ -2767,8 +2759,6 @@ toh.info IN CNAME .
 *.toh.info IN CNAME .
 topdns.com IN CNAME .
 *.topdns.com IN CNAME .
-topsddns.net IN CNAME .
-*.topsddns.net IN CNAME .
 toshibanetcam.com IN CNAME .
 *.toshibanetcam.com IN CNAME .
 toythieves.com IN CNAME .
@@ -2781,8 +2771,6 @@ trailsendlodge.org IN CNAME .
 *.trailsendlodge.org IN CNAME .
 trickip.net IN CNAME .
 *.trickip.net IN CNAME .
-trickip.org IN CNAME .
-*.trickip.org IN CNAME .
 trieditmyself.com IN CNAME .
 *.trieditmyself.com IN CNAME .
 tru.io IN CNAME .
@@ -2901,8 +2889,6 @@ wan64.de IN CNAME .
 *.wan64.de IN CNAME .
 wanip.ch IN CNAME .
 *.wanip.ch IN CNAME .
-warp9computers.com IN CNAME .
-*.warp9computers.com IN CNAME .
 webhop.biz IN CNAME .
 *.webhop.biz IN CNAME .
 webhop.info IN CNAME .
@@ -2961,8 +2947,6 @@ www1.biz IN CNAME .
 *.www1.biz IN CNAME .
 wwwhost.biz IN CNAME .
 *.wwwhost.biz IN CNAME .
-wwwhost.us IN CNAME .
-*.wwwhost.us IN CNAME .
 x24hr.com IN CNAME .
 *.x24hr.com IN CNAME .
 x443.pw IN CNAME .
