@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795405348 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795492258 12h 15m 3w 3h
 1-aclk.net IN CNAME .
 *.1-aclk.net IN CNAME .
 1aurl.io IN CNAME .
@@ -429,6 +429,8 @@ api.cleverpush.com IN CNAME .
 *.api.cleverpush.com IN CNAME .
 api.elasticemail.com IN CNAME .
 *.api.elasticemail.com IN CNAME .
+api.getsidekick.comapi.hubapi.com IN CNAME .
+*.api.getsidekick.comapi.hubapi.com IN CNAME .
 api.heylink.com IN CNAME .
 *.api.heylink.com IN CNAME .
 api.hubapi.com IN CNAME .
@@ -815,8 +817,6 @@ click.members.nra.org IN CNAME .
 *.click.members.nra.org IN CNAME .
 click.mfilter.net IN CNAME .
 *.click.mfilter.net IN CNAME .
-click.microsoftstoreemail.com IN CNAME .
-*.click.microsoftstoreemail.com IN CNAME .
 click.mlsend.com IN CNAME .
 *.click.mlsend.com IN CNAME .
 click.myctm.canadiantire.ca IN CNAME .
@@ -1269,8 +1269,6 @@ imp.i254217.net IN CNAME .
 *.imp.i254217.net IN CNAME .
 imp.i255443.net IN CNAME .
 *.imp.i255443.net IN CNAME .
-imp.i256749.net IN CNAME .
-*.imp.i256749.net IN CNAME .
 imp.i261257.net IN CNAME .
 *.imp.i261257.net IN CNAME .
 imp.i287301.net IN CNAME .
@@ -1635,8 +1633,6 @@ mkto-ab430076.com IN CNAME .
 *.mkto-ab430076.com IN CNAME .
 mkto-ab430111.com IN CNAME .
 *.mkto-ab430111.com IN CNAME .
-mkto-ab430114.com IN CNAME .
-*.mkto-ab430114.com IN CNAME .
 mkto-ab430186.com IN CNAME .
 *.mkto-ab430186.com IN CNAME .
 mkto-ab430187.com IN CNAME .
@@ -1853,8 +1849,6 @@ mkto-sj270078.com IN CNAME .
 *.mkto-sj270078.com IN CNAME .
 mkto-sj270080.com IN CNAME .
 *.mkto-sj270080.com IN CNAME .
-mkto-sj280085.com IN CNAME .
-*.mkto-sj280085.com IN CNAME .
 mkto-sj290040.com IN CNAME .
 *.mkto-sj290040.com IN CNAME .
 mkto-sj290197.com IN CNAME .
@@ -2353,8 +2347,6 @@ static-mobile.cleverpush.com IN CNAME .
 *.static-mobile.cleverpush.com IN CNAME .
 static.cleverpush.com IN CNAME .
 *.static.cleverpush.com IN CNAME .
-staticiv.com IN CNAME .
-*.staticiv.com IN CNAME .
 stendia.co.uk IN CNAME .
 *.stendia.co.uk IN CNAME .
 stvkr.com IN CNAME .
@@ -2435,6 +2427,8 @@ suite45.emarsys.net IN CNAME .
 *.suite45.emarsys.net IN CNAME .
 suite46.emarsys.net IN CNAME .
 *.suite46.emarsys.net IN CNAME .
+suite47-cf.emarsys.net IN CNAME .
+*.suite47-cf.emarsys.net IN CNAME .
 suite48.emarsys.net IN CNAME .
 *.suite48.emarsys.net IN CNAME .
 suite5.emarsys.net IN CNAME .

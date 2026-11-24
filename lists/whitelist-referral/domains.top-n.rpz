@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795405350 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795492260 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -365,6 +365,8 @@ api.cleverpush.com IN CNAME .
 *.api.cleverpush.com IN CNAME .
 api.elasticemail.com IN CNAME .
 *.api.elasticemail.com IN CNAME .
+api.getsidekick.comapi.hubapi.com IN CNAME .
+*.api.getsidekick.comapi.hubapi.com IN CNAME .
 api.heylink.com IN CNAME .
 *.api.heylink.com IN CNAME .
 api.hubapi.com IN CNAME .
@@ -1563,6 +1565,8 @@ suite45.emarsys.net IN CNAME .
 *.suite45.emarsys.net IN CNAME .
 suite46.emarsys.net IN CNAME .
 *.suite46.emarsys.net IN CNAME .
+suite47-cf.emarsys.net IN CNAME .
+*.suite47-cf.emarsys.net IN CNAME .
 suite48.emarsys.net IN CNAME .
 *.suite48.emarsys.net IN CNAME .
 suite5.emarsys.net IN CNAME .

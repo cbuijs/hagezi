@@ -1,6 +1,6 @@
 ; RPZ "HOSTER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795403874 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795490363 12h 15m 3w 3h
 000.pe IN CNAME .
 *.000.pe IN CNAME .
 000a.de IN CNAME .
@@ -17,8 +17,6 @@ $TTL 3600
 *.000webhost.com IN CNAME .
 000webhost.info IN CNAME .
 *.000webhost.info IN CNAME .
-000webhostapp.com IN CNAME .
-*.000webhostapp.com IN CNAME .
 00author.com IN CNAME .
 *.00author.com IN CNAME .
 00freehost.com IN CNAME .
@@ -939,6 +937,8 @@ eg.gp IN CNAME .
 *.eg.gp IN CNAME .
 ehaitao.com IN CNAME .
 *.ehaitao.com IN CNAME .
+elcano-ipfs.workers.dev IN CNAME .
+*.elcano-ipfs.workers.dev IN CNAME .
 electronicfiles.net IN CNAME .
 *.electronicfiles.net IN CNAME .
 elementfx.com IN CNAME .
@@ -1047,6 +1047,8 @@ financecryptoworld.com IN CNAME .
 *.financecryptoworld.com IN CNAME .
 firm.nu IN CNAME .
 *.firm.nu IN CNAME .
+firstcloudit.com IN CNAME .
+*.firstcloudit.com IN CNAME .
 flazio.com IN CNAME .
 *.flazio.com IN CNAME .
 fleek.co IN CNAME .
@@ -1191,8 +1193,6 @@ gofreeserve.com IN CNAME .
 *.gofreeserve.com IN CNAME .
 gomix.me IN CNAME .
 *.gomix.me IN CNAME .
-googletagmanagers.com IN CNAME .
-*.googletagmanagers.com IN CNAME .
 gr-site.com IN CNAME .
 *.gr-site.com IN CNAME .
 gr.gp IN CNAME .
@@ -1751,8 +1751,6 @@ ns.hn IN CNAME .
 *.ns.hn IN CNAME .
 nsfera.pl IN CNAME .
 *.nsfera.pl IN CNAME .
-nut.cc IN CNAME .
-*.nut.cc IN CNAME .
 nyc.mn IN CNAME .
 *.nyc.mn IN CNAME .
 o-f.com IN CNAME .

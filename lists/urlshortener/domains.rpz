@@ -1,6 +1,6 @@
 ; RPZ "URLSHORTENER"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795405343 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795492252 12h 15m 3w 3h
 0.gp IN CNAME .
 *.0.gp IN CNAME .
 00m.in IN CNAME .
@@ -483,6 +483,8 @@ $TTL 3600
 *.42jump.com IN CNAME .
 42l.fr IN CNAME .
 *.42l.fr IN CNAME .
+42url.com IN CNAME .
+*.42url.com IN CNAME .
 45h.it IN CNAME .
 *.45h.it IN CNAME .
 46.fi IN CNAME .
@@ -1011,8 +1013,6 @@ adpanel.com IN CNAME .
 *.adpanel.com IN CNAME .
 adpaylink.com IN CNAME .
 *.adpaylink.com IN CNAME .
-adr.ec IN CNAME .
-*.adr.ec IN CNAME .
 adr3.ir IN CNAME .
 *.adr3.ir IN CNAME .
 ads.so IN CNAME .
@@ -2481,8 +2481,6 @@ bosi.me IN CNAME .
 *.bosi.me IN CNAME .
 boskale.me IN CNAME .
 *.boskale.me IN CNAME .
-bosslinks.ai IN CNAME .
-*.bosslinks.ai IN CNAME .
 boston25.com IN CNAME .
 *.boston25.com IN CNAME .
 bot.fi IN CNAME .
@@ -3913,8 +3911,6 @@ ddlsu.com IN CNAME .
 *.ddlsu.com IN CNAME .
 ddot.to IN CNAME .
 *.ddot.to IN CNAME .
-ddp.net IN CNAME .
-*.ddp.net IN CNAME .
 ddw.nu IN CNAME .
 *.ddw.nu IN CNAME .
 de2wa.com IN CNAME .
@@ -4159,8 +4155,6 @@ do.co IN CNAME .
 *.do.co IN CNAME .
 do.my IN CNAME .
 *.do.my IN CNAME .
-doaistri.com IN CNAME .
-*.doaistri.com IN CNAME .
 doburl.com IN CNAME .
 *.doburl.com IN CNAME .
 doc2link.vercel.app IN CNAME .
@@ -5381,8 +5375,6 @@ gacortexas.co IN CNAME .
 *.gacortexas.co IN CNAME .
 gacortexas.org IN CNAME .
 *.gacortexas.org IN CNAME .
-gacorwak.xyz IN CNAME .
-*.gacorwak.xyz IN CNAME .
 gafee.net IN CNAME .
 *.gafee.net IN CNAME .
 gallerylink.info IN CNAME .
@@ -5613,10 +5605,6 @@ gkurl.us IN CNAME .
 *.gkurl.us IN CNAME .
 gl.am IN CNAME .
 *.gl.am IN CNAME .
-glatt.io IN CNAME .
-*.glatt.io IN CNAME .
-glattly.com IN CNAME .
-*.glattly.com IN CNAME .
 glb.pw IN CNAME .
 *.glb.pw IN CNAME .
 glbass.com IN CNAME .
@@ -6013,8 +6001,6 @@ gooo.to IN CNAME .
 *.gooo.to IN CNAME .
 goose.re IN CNAME .
 *.goose.re IN CNAME .
-gopreply.com IN CNAME .
-*.gopreply.com IN CNAME .
 goprotect.link IN CNAME .
 *.goprotect.link IN CNAME .
 gopvote.co IN CNAME .
@@ -6279,8 +6265,6 @@ headlink.me IN CNAME .
 *.headlink.me IN CNAME .
 healthiermemphis.org IN CNAME .
 *.healthiermemphis.org IN CNAME .
-heartofthenorthtours.link IN CNAME .
-*.heartofthenorthtours.link IN CNAME .
 hec.su IN CNAME .
 *.hec.su IN CNAME .
 heilynk.com IN CNAME .
@@ -6777,12 +6761,8 @@ ikwer.com IN CNAME .
 *.ikwer.com IN CNAME .
 iky.fr IN CNAME .
 *.iky.fr IN CNAME .
-ikztf.com IN CNAME .
-*.ikztf.com IN CNAME .
 ilang.in IN CNAME .
 *.ilang.in IN CNAME .
-ild.info IN CNAME .
-*.ild.info IN CNAME .
 ilink-to.net IN CNAME .
 *.ilink-to.net IN CNAME .
 ilinky.info IN CNAME .
@@ -8329,8 +8309,6 @@ link.paior.com IN CNAME .
 *.link.paior.com IN CNAME .
 link.payple.kr IN CNAME .
 *.link.payple.kr IN CNAME .
-link.peds.to IN CNAME .
-*.link.peds.to IN CNAME .
 link.phsz.ch IN CNAME .
 *.link.phsz.ch IN CNAME .
 link.pixelida.com IN CNAME .
@@ -9559,8 +9537,6 @@ makyo.io IN CNAME .
 *.makyo.io IN CNAME .
 mamikale.me IN CNAME .
 *.mamikale.me IN CNAME .
-mamm.ie IN CNAME .
-*.mamm.ie IN CNAME .
 mampir.link IN CNAME .
 *.mampir.link IN CNAME .
 man.ac.uk IN CNAME .
@@ -10203,8 +10179,6 @@ mulltee.com IN CNAME .
 *.mulltee.com IN CNAME .
 multi.tips IN CNAME .
 *.multi.tips IN CNAME .
-mumy.me IN CNAME .
-*.mumy.me IN CNAME .
 munbyn.biz IN CNAME .
 *.munbyn.biz IN CNAME .
 mupf.me IN CNAME .
@@ -10547,8 +10521,6 @@ nepolls.com IN CNAME .
 *.nepolls.com IN CNAME .
 nerdleveltech.com IN CNAME .
 *.nerdleveltech.com IN CNAME .
-net46.net IN CNAME .
-*.net46.net IN CNAME .
 netbrandly.com IN CNAME .
 *.netbrandly.com IN CNAME .
 neti.cc IN CNAME .
@@ -12065,8 +12037,6 @@ qr1.jp IN CNAME .
 *.qr1.jp IN CNAME .
 qr123reg.click IN CNAME .
 *.qr123reg.click IN CNAME .
-qr2.bz IN CNAME .
-*.qr2.bz IN CNAME .
 qr4pro.com IN CNAME .
 *.qr4pro.com IN CNAME .
 qra.se IN CNAME .
@@ -12161,8 +12131,6 @@ qrmee.ru IN CNAME .
 *.qrmee.ru IN CNAME .
 qrnamic.com IN CNAME .
 *.qrnamic.com IN CNAME .
-qrnesign.com IN CNAME .
-*.qrnesign.com IN CNAME .
 qrouton.jp IN CNAME .
 *.qrouton.jp IN CNAME .
 qrpathway.com IN CNAME .
@@ -12189,8 +12157,6 @@ qrurl.us IN CNAME .
 *.qrurl.us IN CNAME .
 qry.kr IN CNAME .
 *.qry.kr IN CNAME .
-qrybaan.com IN CNAME .
-*.qrybaan.com IN CNAME .
 qs.rams-app.com IN CNAME .
 *.qs.rams-app.com IN CNAME .
 qs1.it IN CNAME .
@@ -12347,8 +12313,6 @@ rayburn.link IN CNAME .
 *.rayburn.link IN CNAME .
 rayzershort.com IN CNAME .
 *.rayzershort.com IN CNAME .
-razi-link.ir IN CNAME .
-*.razi-link.ir IN CNAME .
 rb.gy IN CNAME .
 *.rb.gy IN CNAME .
 rb6.me IN CNAME .
@@ -12681,8 +12645,6 @@ rivablu.net IN CNAME .
 *.rivablu.net IN CNAME .
 riz.cz IN CNAME .
 *.riz.cz IN CNAME .
-rizchi.com IN CNAME .
-*.rizchi.com IN CNAME .
 rizy.ir IN CNAME .
 *.rizy.ir IN CNAME .
 rj99.site IN CNAME .
@@ -12807,8 +12769,6 @@ rtvote.com IN CNAME .
 *.rtvote.com IN CNAME .
 rtxt.co IN CNAME .
 *.rtxt.co IN CNAME .
-rubyurl.com IN CNAME .
-*.rubyurl.com IN CNAME .
 rumahide.my.id IN CNAME .
 *.rumahide.my.id IN CNAME .
 rumahlink.com IN CNAME .
@@ -13067,8 +13027,6 @@ sam.am IN CNAME .
 *.sam.am IN CNAME .
 samcart.me IN CNAME .
 *.samcart.me IN CNAME .
-sample-app.fluf.dev IN CNAME .
-*.sample-app.fluf.dev IN CNAME .
 san.aq IN CNAME .
 *.san.aq IN CNAME .
 sangamtalks.com IN CNAME .
@@ -13475,8 +13433,6 @@ sho.cat IN CNAME .
 *.sho.cat IN CNAME .
 sho.pe IN CNAME .
 *.sho.pe IN CNAME .
-shoco.one IN CNAME .
-*.shoco.one IN CNAME .
 shoort.ch IN CNAME .
 *.shoort.ch IN CNAME .
 shoort.io IN CNAME .
@@ -13557,8 +13513,6 @@ short.io IN CNAME .
 *.short.io IN CNAME .
 short.iuav.it IN CNAME .
 *.short.iuav.it IN CNAME .
-short.ly IN CNAME .
-*.short.ly IN CNAME .
 short.ms IN CNAME .
 *.short.ms IN CNAME .
 short.mypaste.fun IN CNAME .
@@ -14433,8 +14387,6 @@ skroc.pl IN CNAME .
 *.skroc.pl IN CNAME .
 skru.in IN CNAME .
 *.skru.in IN CNAME .
-skrun.ch IN CNAME .
-*.skrun.ch IN CNAME .
 sku.su IN CNAME .
 *.sku.su IN CNAME .
 skunk.im IN CNAME .
@@ -15013,8 +14965,6 @@ stoodsef.com IN CNAME .
 *.stoodsef.com IN CNAME .
 stor.ee IN CNAME .
 *.stor.ee IN CNAME .
-stor.live IN CNAME .
-*.stor.live IN CNAME .
 storagesch.com IN CNAME .
 *.storagesch.com IN CNAME .
 storals.com IN CNAME .
@@ -15947,8 +15897,6 @@ tlrd.pl IN CNAME .
 *.tlrd.pl IN CNAME .
 tlrk.it IN CNAME .
 *.tlrk.it IN CNAME .
-tls.tc IN CNAME .
-*.tls.tc IN CNAME .
 tlsn.io IN CNAME .
 *.tlsn.io IN CNAME .
 tlsurl.com IN CNAME .
@@ -16945,6 +16893,8 @@ url.nimsindia.org IN CNAME .
 *.url.nimsindia.org IN CNAME .
 url.odds.team IN CNAME .
 *.url.odds.team IN CNAME .
+url.optidiscover.com IN CNAME .
+*.url.optidiscover.com IN CNAME .
 url.or.at IN CNAME .
 *.url.or.at IN CNAME .
 url.prepo.io IN CNAME .
@@ -17165,8 +17115,6 @@ urlify.cn IN CNAME .
 *.urlify.cn IN CNAME .
 urlify.eu IN CNAME .
 *.urlify.eu IN CNAME .
-urlify.link IN CNAME .
-*.urlify.link IN CNAME .
 urlifypoint.com IN CNAME .
 *.urlifypoint.com IN CNAME .
 urlifys.com IN CNAME .
@@ -17229,8 +17177,6 @@ urlo.in IN CNAME .
 *.urlo.in IN CNAME .
 urlo12x.com IN CNAME .
 *.urlo12x.com IN CNAME .
-urlot.com IN CNAME .
-*.urlot.com IN CNAME .
 urlpi.com IN CNAME .
 *.urlpi.com IN CNAME .
 urlplus.net IN CNAME .
@@ -17577,8 +17523,6 @@ vai.la IN CNAME .
 *.vai.la IN CNAME .
 vai.li IN CNAME .
 *.vai.li IN CNAME .
-vai.onl IN CNAME .
-*.vai.onl IN CNAME .
 vaila.me IN CNAME .
 *.vaila.me IN CNAME .
 valv.im IN CNAME .
@@ -18737,8 +18681,6 @@ yhqapp.com IN CNAME .
 *.yhqapp.com IN CNAME .
 yidbio.com IN CNAME .
 *.yidbio.com IN CNAME .
-yigza.com IN CNAME .
-*.yigza.com IN CNAME .
 yiii.de IN CNAME .
 *.yiii.de IN CNAME .
 yip.su IN CNAME .
@@ -18871,8 +18813,6 @@ yukibio.com IN CNAME .
 *.yukibio.com IN CNAME .
 yul.is IN CNAME .
 *.yul.is IN CNAME .
-yun.ir IN CNAME .
-*.yun.ir IN CNAME .
 yurl.bio IN CNAME .
 *.yurl.bio IN CNAME .
 yusite.my.id IN CNAME .
@@ -18909,8 +18849,6 @@ z2h.it IN CNAME .
 *.z2h.it IN CNAME .
 z4sh.com IN CNAME .
 *.z4sh.com IN CNAME .
-z5h.cn IN CNAME .
-*.z5h.cn IN CNAME .
 z6c.de IN CNAME .
 *.z6c.de IN CNAME .
 z9.fr IN CNAME .

@@ -1,10 +1,8 @@
 ; RPZ "HOSTER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795403876 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795490366 12h 15m 3w 3h
 000webhost.com IN CNAME .
 *.000webhost.com IN CNAME .
-000webhostapp.com IN CNAME .
-*.000webhostapp.com IN CNAME .
 0fees.net IN CNAME .
 *.0fees.net IN CNAME .
 0x0.st IN CNAME .
@@ -231,6 +229,8 @@ edgeone.dev IN CNAME .
 *.edgeone.dev IN CNAME .
 educatorpages.com IN CNAME .
 *.educatorpages.com IN CNAME .
+elcano-ipfs.workers.dev IN CNAME .
+*.elcano-ipfs.workers.dev IN CNAME .
 elementfx.com IN CNAME .
 *.elementfx.com IN CNAME .
 encurtador.com.br IN CNAME .
@@ -587,7 +587,5 @@ ziddu.com IN CNAME .
 *.ziddu.com IN CNAME .
 zippyshare.com IN CNAME .
 *.zippyshare.com IN CNAME .
-zone.id IN CNAME .
-*.zone.id IN CNAME .
 zzz.com.ua IN CNAME .
 *.zzz.com.ua IN CNAME .
