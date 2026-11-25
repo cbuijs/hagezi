@@ -1,6 +1,6 @@
 ; RPZ "DOH"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795490184 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795576651 12h 15m 3w 3h
 003153.xyz IN CNAME .
 *.003153.xyz IN CNAME .
 0815cloud.de IN CNAME .
@@ -477,8 +477,6 @@ adguard.jfchenier.ca IN CNAME .
 *.adguard.jfchenier.ca IN CNAME .
 adguard.jodatacenter.com IN CNAME .
 *.adguard.jodatacenter.com IN CNAME .
-adguard.johanliebert.top IN CNAME .
-*.adguard.johanliebert.top IN CNAME .
 adguard.jvpatel.com IN CNAME .
 *.adguard.jvpatel.com IN CNAME .
 adguard.k-likhachev.ru IN CNAME .
@@ -2141,6 +2139,8 @@ dns.edc-pws.com IN CNAME .
 *.dns.edc-pws.com IN CNAME .
 dns.eddi.net IN CNAME .
 *.dns.eddi.net IN CNAME .
+dns.edgeburnmedia.com IN CNAME .
+*.dns.edgeburnmedia.com IN CNAME .
 dns.edgeworkssystems.ca IN CNAME .
 *.dns.edgeworkssystems.ca IN CNAME .
 dns.edison42.dev IN CNAME .
@@ -3249,6 +3249,8 @@ dns.sv-zauner.at IN CNAME .
 *.dns.sv-zauner.at IN CNAME .
 dns.svoi.dev IN CNAME .
 *.dns.svoi.dev IN CNAME .
+dns.swin.pro IN CNAME .
+*.dns.swin.pro IN CNAME .
 dns.switch.ch IN CNAME .
 *.dns.switch.ch IN CNAME .
 dns.sy.st IN CNAME .
@@ -3965,6 +3967,12 @@ doh.domreg.lt IN CNAME .
 *.doh.domreg.lt IN CNAME .
 doh.e7.work IN CNAME .
 *.doh.e7.work IN CNAME .
+doh.eastas.pi-dns.com IN CNAME .
+*.doh.eastas.pi-dns.com IN CNAME .
+doh.eastau.pi-dns.com IN CNAME .
+*.doh.eastau.pi-dns.com IN CNAME .
+doh.eastus.pi-dns.com IN CNAME .
+*.doh.eastus.pi-dns.com IN CNAME .
 doh.eddi.net IN CNAME .
 *.doh.eddi.net IN CNAME .
 doh.edifiels.ru IN CNAME .
@@ -4061,6 +4069,8 @@ doh.nic.lv IN CNAME .
 *.doh.nic.lv IN CNAME .
 doh.niyawe.de IN CNAME .
 *.doh.niyawe.de IN CNAME .
+doh.northeu.pi-dns.com IN CNAME .
+*.doh.northeu.pi-dns.com IN CNAME .
 doh.ntu.ssooss.win IN CNAME .
 *.doh.ntu.ssooss.win IN CNAME .
 doh.nukys.ca IN CNAME .
@@ -4083,6 +4093,8 @@ doh.phdns4.lonet.org IN CNAME .
 *.doh.phdns4.lonet.org IN CNAME .
 doh.phdns5.lonet.org IN CNAME .
 *.doh.phdns5.lonet.org IN CNAME .
+doh.pi-dns.com IN CNAME .
+*.doh.pi-dns.com IN CNAME .
 doh.plaawan.uk IN CNAME .
 *.doh.plaawan.uk IN CNAME .
 doh.plop.cc IN CNAME .
@@ -4161,6 +4173,10 @@ doh.viatech.com.tw IN CNAME .
 *.doh.viatech.com.tw IN CNAME .
 doh.webnmail.de IN CNAME .
 *.doh.webnmail.de IN CNAME .
+doh.westeu.pi-dns.com IN CNAME .
+*.doh.westeu.pi-dns.com IN CNAME .
+doh.westus.pi-dns.com IN CNAME .
+*.doh.westus.pi-dns.com IN CNAME .
 doh.wewitro.net IN CNAME .
 *.doh.wewitro.net IN CNAME .
 doh.xcom.pro IN CNAME .
@@ -4239,8 +4255,16 @@ dot.cleardns.io IN CNAME .
 *.dot.cleardns.io IN CNAME .
 dot.cox.net IN CNAME .
 *.dot.cox.net IN CNAME .
+dot.eastas.pi-dns.com IN CNAME .
+*.dot.eastas.pi-dns.com IN CNAME .
+dot.eastau.pi-dns.com IN CNAME .
+*.dot.eastau.pi-dns.com IN CNAME .
+dot.eastus.pi-dns.com IN CNAME .
+*.dot.eastus.pi-dns.com IN CNAME .
 dot.libredns.gr IN CNAME .
 *.dot.libredns.gr IN CNAME .
+dot.northeu.pi-dns.com IN CNAME .
+*.dot.northeu.pi-dns.com IN CNAME .
 dot.pub IN CNAME .
 *.dot.pub IN CNAME .
 dot.quickline.ch IN CNAME .
@@ -4251,6 +4275,8 @@ dot.tiar.app IN CNAME .
 *.dot.tiar.app IN CNAME .
 dot.tooli.ca IN CNAME .
 *.dot.tooli.ca IN CNAME .
+dot.westus.pi-dns.com IN CNAME .
+*.dot.westus.pi-dns.com IN CNAME .
 dot.xfinity.com IN CNAME .
 *.dot.xfinity.com IN CNAME .
 dot1.appliedprivacy.net IN CNAME .
@@ -6797,8 +6823,6 @@ vladpro.ru IN CNAME .
 *.vladpro.ru IN CNAME .
 vm.delfini.online IN CNAME .
 *.vm.delfini.online IN CNAME .
-vm596152.eurodir.ru IN CNAME .
-*.vm596152.eurodir.ru IN CNAME .
 vn.dns.abpvn.com IN CNAME .
 *.vn.dns.abpvn.com IN CNAME .
 vno01.dnscry.pt IN CNAME .
@@ -6913,8 +6937,6 @@ wg.ciepiela.org IN CNAME .
 *.wg.ciepiela.org IN CNAME .
 wg.pastorov.ru IN CNAME .
 *.wg.pastorov.ru IN CNAME .
-wg.req1.fr IN CNAME .
-*.wg.req1.fr IN CNAME .
 wg.thienhv.com IN CNAME .
 *.wg.thienhv.com IN CNAME .
 whatcaniplay.com IN CNAME .

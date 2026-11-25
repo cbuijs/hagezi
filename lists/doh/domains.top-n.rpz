@@ -1,6 +1,6 @@
 ; RPZ "DOH-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795490186 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795576653 12h 15m 3w 3h
 2.alpo.pp.ua IN CNAME .
 *.2.alpo.pp.ua IN CNAME .
 2.baiyue.eu.org IN CNAME .
@@ -653,6 +653,12 @@ doh.dnswarden.com IN CNAME .
 *.doh.dnswarden.com IN CNAME .
 doh.domreg.lt IN CNAME .
 *.doh.domreg.lt IN CNAME .
+doh.eastas.pi-dns.com IN CNAME .
+*.doh.eastas.pi-dns.com IN CNAME .
+doh.eastau.pi-dns.com IN CNAME .
+*.doh.eastau.pi-dns.com IN CNAME .
+doh.eastus.pi-dns.com IN CNAME .
+*.doh.eastus.pi-dns.com IN CNAME .
 doh.ersei.net IN CNAME .
 *.doh.ersei.net IN CNAME .
 doh.eu.dnswarden.com IN CNAME .
@@ -675,10 +681,14 @@ doh.ndmc.work.gd IN CNAME .
 *.doh.ndmc.work.gd IN CNAME .
 doh.nic.lv IN CNAME .
 *.doh.nic.lv IN CNAME .
+doh.northeu.pi-dns.com IN CNAME .
+*.doh.northeu.pi-dns.com IN CNAME .
 doh.onedns.net IN CNAME .
 *.doh.onedns.net IN CNAME .
 doh.opendns.com IN CNAME .
 *.doh.opendns.com IN CNAME .
+doh.pi-dns.com IN CNAME .
+*.doh.pi-dns.com IN CNAME .
 doh.ptqy.gitv.tv IN CNAME .
 *.doh.ptqy.gitv.tv IN CNAME .
 doh.pub IN CNAME .
@@ -701,6 +711,10 @@ doh.umbrella.com IN CNAME .
 *.doh.umbrella.com IN CNAME .
 doh.us.dnswarden.com IN CNAME .
 *.doh.us.dnswarden.com IN CNAME .
+doh.westeu.pi-dns.com IN CNAME .
+*.doh.westeu.pi-dns.com IN CNAME .
+doh.westus.pi-dns.com IN CNAME .
+*.doh.westus.pi-dns.com IN CNAME .
 doh.xfinity.com IN CNAME .
 *.doh.xfinity.com IN CNAME .
 doh1.b-cdn.net IN CNAME .
@@ -743,8 +757,16 @@ dot.centraleu.pi-dns.com IN CNAME .
 *.dot.centraleu.pi-dns.com IN CNAME .
 dot.cox.net IN CNAME .
 *.dot.cox.net IN CNAME .
+dot.eastas.pi-dns.com IN CNAME .
+*.dot.eastas.pi-dns.com IN CNAME .
+dot.eastau.pi-dns.com IN CNAME .
+*.dot.eastau.pi-dns.com IN CNAME .
+dot.eastus.pi-dns.com IN CNAME .
+*.dot.eastus.pi-dns.com IN CNAME .
 dot.libredns.gr IN CNAME .
 *.dot.libredns.gr IN CNAME .
+dot.northeu.pi-dns.com IN CNAME .
+*.dot.northeu.pi-dns.com IN CNAME .
 dot.pub IN CNAME .
 *.dot.pub IN CNAME .
 dot.quickline.ch IN CNAME .
@@ -753,6 +775,8 @@ dot.seby.io IN CNAME .
 *.dot.seby.io IN CNAME .
 dot.tiar.app IN CNAME .
 *.dot.tiar.app IN CNAME .
+dot.westus.pi-dns.com IN CNAME .
+*.dot.westus.pi-dns.com IN CNAME .
 dot.xfinity.com IN CNAME .
 *.dot.xfinity.com IN CNAME .
 dotserver.douyucdn.cn IN CNAME .
@@ -1695,6 +1719,8 @@ wg-ag.isgood.host IN CNAME .
 *.wg-ag.isgood.host IN CNAME .
 wifrousl.spdns.de IN CNAME .
 *.wifrousl.spdns.de IN CNAME .
+wikimedia-dns.org IN CNAME .
+*.wikimedia-dns.org IN CNAME .
 wired-guardian.duckdns.org IN CNAME .
 *.wired-guardian.duckdns.org IN CNAME .
 woalongit.synology.me IN CNAME .

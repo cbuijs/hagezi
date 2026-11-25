@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795492260 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795578770 12h 15m 3w 3h
 1l-go.my.games IN CNAME .
 *.1l-go.my.games IN CNAME .
 1l.my.games IN CNAME .
@@ -365,8 +365,6 @@ api.cleverpush.com IN CNAME .
 *.api.cleverpush.com IN CNAME .
 api.elasticemail.com IN CNAME .
 *.api.elasticemail.com IN CNAME .
-api.getsidekick.comapi.hubapi.com IN CNAME .
-*.api.getsidekick.comapi.hubapi.com IN CNAME .
 api.heylink.com IN CNAME .
 *.api.heylink.com IN CNAME .
 api.hubapi.com IN CNAME .
@@ -419,6 +417,8 @@ app1c.outreach.io IN CNAME .
 *.app1c.outreach.io IN CNAME .
 app1e.gateway.portal.outreach.io IN CNAME .
 *.app1e.gateway.portal.outreach.io IN CNAME .
+app1e.outreach.io IN CNAME .
+*.app1e.outreach.io IN CNAME .
 app1f.gateway.portal.outreach.io IN CNAME .
 *.app1f.gateway.portal.outreach.io IN CNAME .
 app1f.outreach.io IN CNAME .
@@ -431,6 +431,8 @@ app2a.outreach.io IN CNAME .
 *.app2a.outreach.io IN CNAME .
 app2b.gateway.portal.outreach.io IN CNAME .
 *.app2b.gateway.portal.outreach.io IN CNAME .
+app2b.outreach.io IN CNAME .
+*.app2b.outreach.io IN CNAME .
 app2c.gateway.portal.outreach.io IN CNAME .
 *.app2c.gateway.portal.outreach.io IN CNAME .
 app2c.outreach.io IN CNAME .
@@ -547,6 +549,8 @@ cdn.eu1.exponea.com IN CNAME .
 *.cdn.eu1.exponea.com IN CNAME .
 cdn.exponea.com IN CNAME .
 *.cdn.exponea.com IN CNAME .
+cdn.ftspecialist.exponea.com IN CNAME .
+*.cdn.ftspecialist.exponea.com IN CNAME .
 cdn.mie.exponea.com IN CNAME .
 *.cdn.mie.exponea.com IN CNAME .
 cdn.network.exponea.com IN CNAME .
@@ -647,8 +651,6 @@ click.figma.com IN CNAME .
 *.click.figma.com IN CNAME .
 click.icptrack.com IN CNAME .
 *.click.icptrack.com IN CNAME .
-click.idprotect.experian.com IN CNAME .
-*.click.idprotect.experian.com IN CNAME .
 click.instantink.hpsmart.com IN CNAME .
 *.click.instantink.hpsmart.com IN CNAME .
 click.justwatch.com IN CNAME .
@@ -845,8 +847,6 @@ edge-east.customer.io IN CNAME .
 *.edge-east.customer.io IN CNAME .
 edge-eu.customer.io IN CNAME .
 *.edge-eu.customer.io IN CNAME .
-edge-w-balw.customer.io IN CNAME .
-*.edge-w-balw.customer.io IN CNAME .
 edge-west.customer.io IN CNAME .
 *.edge-west.customer.io IN CNAME .
 ek8.voyage-prive.com IN CNAME .
@@ -855,6 +855,8 @@ email-link.adtidy.org IN CNAME .
 *.email-link.adtidy.org IN CNAME .
 email-tracking.infobip.com IN CNAME .
 *.email-tracking.infobip.com IN CNAME .
+email.microsoft.com IN CNAME .
+*.email.microsoft.com IN CNAME .
 email.microsoftonline.com IN CNAME .
 *.email.microsoftonline.com IN CNAME .
 email.office.com IN CNAME .
@@ -1127,8 +1129,6 @@ m-vek.custobar.com IN CNAME .
 *.m-vek.custobar.com IN CNAME .
 m-vq63s.custobar.com IN CNAME .
 *.m-vq63s.custobar.com IN CNAME .
-m-zvrkv.custobar.com IN CNAME .
-*.m-zvrkv.custobar.com IN CNAME .
 m-zwhsc.custobar.com IN CNAME .
 *.m-zwhsc.custobar.com IN CNAME .
 m.exactag.com IN CNAME .
@@ -1359,6 +1359,8 @@ referrer.disqus.com IN CNAME .
 *.referrer.disqus.com IN CNAME .
 restaurant-information.com IN CNAME .
 *.restaurant-information.com IN CNAME .
+rfgvnv6ab.cc.rs6.net IN CNAME .
+*.rfgvnv6ab.cc.rs6.net IN CNAME .
 ri-cdn.exponea.com IN CNAME .
 *.ri-cdn.exponea.com IN CNAME .
 rides.sng.link IN CNAME .
@@ -1369,6 +1371,8 @@ rqkmqleab.cc.rs6.net IN CNAME .
 *.rqkmqleab.cc.rs6.net IN CNAME .
 run.admost.com IN CNAME .
 *.run.admost.com IN CNAME .
+rxnpit6ab.cc.rs6.net IN CNAME .
+*.rxnpit6ab.cc.rs6.net IN CNAME .
 s.bluecore.com IN CNAME .
 *.s.bluecore.com IN CNAME .
 s.sick.com IN CNAME .
@@ -1419,6 +1423,8 @@ s8.exacttarget.com IN CNAME .
 *.s8.exacttarget.com IN CNAME .
 sailthru.com IN CNAME .
 *.sailthru.com IN CNAME .
+san-45-s12.tlsprovisioning.exacttarget.com IN CNAME .
+*.san-45-s12.tlsprovisioning.exacttarget.com IN CNAME .
 sazka-cdn.exponea.com IN CNAME .
 *.sazka-cdn.exponea.com IN CNAME .
 sctrack.sendcloud.net IN CNAME .
@@ -1545,6 +1551,8 @@ suite33.emarsys.net IN CNAME .
 *.suite33.emarsys.net IN CNAME .
 suite34.emarsys.net IN CNAME .
 *.suite34.emarsys.net IN CNAME .
+suite36-cdnnet.emarsys.net IN CNAME .
+*.suite36-cdnnet.emarsys.net IN CNAME .
 suite37.emarsys.net IN CNAME .
 *.suite37.emarsys.net IN CNAME .
 suite38-cf.emarsys.net IN CNAME .
@@ -1565,8 +1573,6 @@ suite45.emarsys.net IN CNAME .
 *.suite45.emarsys.net IN CNAME .
 suite46.emarsys.net IN CNAME .
 *.suite46.emarsys.net IN CNAME .
-suite47-cf.emarsys.net IN CNAME .
-*.suite47-cf.emarsys.net IN CNAME .
 suite48.emarsys.net IN CNAME .
 *.suite48.emarsys.net IN CNAME .
 suite5.emarsys.net IN CNAME .
