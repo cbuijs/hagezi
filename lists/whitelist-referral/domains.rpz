@@ -1,6 +1,6 @@
 ; RPZ "WHITELIST-REFERRAL"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795578768 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795665039 12h 15m 3w 3h
 1-aclk.net IN CNAME .
 *.1-aclk.net IN CNAME .
 1aurl.io IN CNAME .
@@ -401,8 +401,6 @@ analytics.twitter.com IN CNAME .
 *.analytics.twitter.com IN CNAME .
 anrdoezrs.net IN CNAME .
 *.anrdoezrs.net IN CNAME .
-api-01.moengage.com IN CNAME .
-*.api-01.moengage.com IN CNAME .
 api-02.moengage.com IN CNAME .
 *.api-02.moengage.com IN CNAME .
 api-03.moengage.com IN CNAME .
@@ -1599,8 +1597,6 @@ mkto-ab250115.com IN CNAME .
 *.mkto-ab250115.com IN CNAME .
 mkto-ab250167.com IN CNAME .
 *.mkto-ab250167.com IN CNAME .
-mkto-ab250199.com IN CNAME .
-*.mkto-ab250199.com IN CNAME .
 mkto-ab270090.com IN CNAME .
 *.mkto-ab270090.com IN CNAME .
 mkto-ab290138.com IN CNAME .
@@ -1645,8 +1641,8 @@ mkto-ab450015.com IN CNAME .
 *.mkto-ab450015.com IN CNAME .
 mkto-ab460165.com IN CNAME .
 *.mkto-ab460165.com IN CNAME .
-mkto-ab470060.com IN CNAME .
-*.mkto-ab470060.com IN CNAME .
+mkto-ab480166.com IN CNAME .
+*.mkto-ab480166.com IN CNAME .
 mkto-ab480200.com IN CNAME .
 *.mkto-ab480200.com IN CNAME .
 mkto-ab500098.com IN CNAME .
@@ -1655,10 +1651,10 @@ mkto-ab540143.com IN CNAME .
 *.mkto-ab540143.com IN CNAME .
 mkto-ab550041.com IN CNAME .
 *.mkto-ab550041.com IN CNAME .
+mkto-ab550140.com IN CNAME .
+*.mkto-ab550140.com IN CNAME .
 mkto-ab560068.com IN CNAME .
 *.mkto-ab560068.com IN CNAME .
-mkto-ab560125.com IN CNAME .
-*.mkto-ab560125.com IN CNAME .
 mkto-ab570052.com IN CNAME .
 *.mkto-ab570052.com IN CNAME .
 mkto-ab570128.com IN CNAME .
@@ -1723,6 +1719,8 @@ mkto-lon040022.com IN CNAME .
 *.mkto-lon040022.com IN CNAME .
 mkto-lon040102.com IN CNAME .
 *.mkto-lon040102.com IN CNAME .
+mkto-lon050143.com IN CNAME .
+*.mkto-lon050143.com IN CNAME .
 mkto-lon050200.com IN CNAME .
 *.mkto-lon050200.com IN CNAME .
 mkto-lon060131.com IN CNAME .
@@ -1735,8 +1733,6 @@ mkto-lon070031.com IN CNAME .
 *.mkto-lon070031.com IN CNAME .
 mkto-lon070075.com IN CNAME .
 *.mkto-lon070075.com IN CNAME .
-mkto-lon080010.com IN CNAME .
-*.mkto-lon080010.com IN CNAME .
 mkto-lon080059.com IN CNAME .
 *.mkto-lon080059.com IN CNAME .
 mkto-lon090040.com IN CNAME .
@@ -1779,8 +1775,6 @@ mkto-nld1030007.com IN CNAME .
 *.mkto-nld1030007.com IN CNAME .
 mkto-nld1040021.com IN CNAME .
 *.mkto-nld1040021.com IN CNAME .
-mkto-nld1040165.com IN CNAME .
-*.mkto-nld1040165.com IN CNAME .
 mkto-nld1050103.com IN CNAME .
 *.mkto-nld1050103.com IN CNAME .
 mkto-nld1050162.com IN CNAME .
@@ -1813,8 +1807,6 @@ mkto-sj130243.com IN CNAME .
 *.mkto-sj130243.com IN CNAME .
 mkto-sj140007.com IN CNAME .
 *.mkto-sj140007.com IN CNAME .
-mkto-sj140170.com IN CNAME .
-*.mkto-sj140170.com IN CNAME .
 mkto-sj160016.com IN CNAME .
 *.mkto-sj160016.com IN CNAME .
 mkto-sj160226.com IN CNAME .
@@ -1827,12 +1819,16 @@ mkto-sj190094.com IN CNAME .
 *.mkto-sj190094.com IN CNAME .
 mkto-sj190104.com IN CNAME .
 *.mkto-sj190104.com IN CNAME .
+mkto-sj190160.com IN CNAME .
+*.mkto-sj190160.com IN CNAME .
 mkto-sj200095.com IN CNAME .
 *.mkto-sj200095.com IN CNAME .
 mkto-sj200186.com IN CNAME .
 *.mkto-sj200186.com IN CNAME .
 mkto-sj200201.com IN CNAME .
 *.mkto-sj200201.com IN CNAME .
+mkto-sj200227.com IN CNAME .
+*.mkto-sj200227.com IN CNAME .
 mkto-sj210111.com IN CNAME .
 *.mkto-sj210111.com IN CNAME .
 mkto-sj210146.com IN CNAME .
@@ -1845,8 +1841,6 @@ mkto-sj220121.com IN CNAME .
 *.mkto-sj220121.com IN CNAME .
 mkto-sj240021.com IN CNAME .
 *.mkto-sj240021.com IN CNAME .
-mkto-sj250033.com IN CNAME .
-*.mkto-sj250033.com IN CNAME .
 mkto-sj250171.com IN CNAME .
 *.mkto-sj250171.com IN CNAME .
 mkto-sj270078.com IN CNAME .
@@ -1867,14 +1861,16 @@ mkto-sj330006.com IN CNAME .
 *.mkto-sj330006.com IN CNAME .
 mkto-sj360142.com IN CNAME .
 *.mkto-sj360142.com IN CNAME .
-mkto-sj380186.com IN CNAME .
-*.mkto-sj380186.com IN CNAME .
-mkto-sj390015.com IN CNAME .
-*.mkto-sj390015.com IN CNAME .
+mkto-sj380103.com IN CNAME .
+*.mkto-sj380103.com IN CNAME .
+mkto-sj380104.com IN CNAME .
+*.mkto-sj380104.com IN CNAME .
 mkto-sj400023.com IN CNAME .
 *.mkto-sj400023.com IN CNAME .
 mkto-sjg0030.com IN CNAME .
 *.mkto-sjg0030.com IN CNAME .
+mkto-sjh0084.com IN CNAME .
+*.mkto-sjh0084.com IN CNAME .
 mkto-sjh0178.com IN CNAME .
 *.mkto-sjh0178.com IN CNAME .
 mkto-sji0183.com IN CNAME .
@@ -1915,6 +1911,8 @@ n.rich IN CNAME .
 *.n.rich IN CNAME .
 ndirect.ppro.de IN CNAME .
 *.ndirect.ppro.de IN CNAME .
+neoengage-va-cdn.exponea.com IN CNAME .
+*.neoengage-va-cdn.exponea.com IN CNAME .
 netbet.gr IN CNAME .
 *.netbet.gr IN CNAME .
 netbet.livepartners.com IN CNAME .
@@ -2417,6 +2415,8 @@ suite34.emarsys.net IN CNAME .
 *.suite34.emarsys.net IN CNAME .
 suite36-cdnnet.emarsys.net IN CNAME .
 *.suite36-cdnnet.emarsys.net IN CNAME .
+suite36.emarsys.net IN CNAME .
+*.suite36.emarsys.net IN CNAME .
 suite37.emarsys.net IN CNAME .
 *.suite37.emarsys.net IN CNAME .
 suite38-cf.emarsys.net IN CNAME .
@@ -2533,6 +2533,8 @@ t.neory-tm.net IN CNAME .
 *.t.neory-tm.net IN CNAME .
 t.sidekickopen05-eu1.com IN CNAME .
 *.t.sidekickopen05-eu1.com IN CNAME .
+t.sidekickopen07.com IN CNAME .
+*.t.sidekickopen07.com IN CNAME .
 t.xfin.me IN CNAME .
 *.t.xfin.me IN CNAME .
 t.yesware.com IN CNAME .
@@ -2869,6 +2871,8 @@ unilever2.demdex.net IN CNAME .
 *.unilever2.demdex.net IN CNAME .
 unilever3.demdex.net IN CNAME .
 *.unilever3.demdex.net IN CNAME .
+unileverbrazil.demdex.net IN CNAME .
+*.unileverbrazil.demdex.net IN CNAME .
 uns.apsis.one IN CNAME .
 *.uns.apsis.one IN CNAME .
 url9467.comms-2.zoopla.co.uk IN CNAME .
