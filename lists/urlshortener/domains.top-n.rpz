@@ -1,6 +1,6 @@
 ; RPZ "URLSHORTENER-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795665036 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795752008 12h 15m 3w 3h
 0rz.tw IN CNAME .
 *.0rz.tw IN CNAME .
 100freeonlinetools.vercel.app IN CNAME .
@@ -147,6 +147,10 @@ cc.cc IN CNAME .
 *.cc.cc IN CNAME .
 cdl.booksy.com IN CNAME .
 *.cdl.booksy.com IN CNAME .
+cdn-n.net IN CNAME .
+*.cdn-n.net IN CNAME .
+cdn-z.net IN CNAME .
+*.cdn-z.net IN CNAME .
 checkout.buzzoid.com IN CNAME .
 *.checkout.buzzoid.com IN CNAME .
 chilp.it IN CNAME .
@@ -347,8 +351,6 @@ go.egi.eu IN CNAME .
 *.go.egi.eu IN CNAME .
 go.gcash.com IN CNAME .
 *.go.gcash.com IN CNAME .
-go.gov.sg IN CNAME .
-*.go.gov.sg IN CNAME .
 go.hw.net IN CNAME .
 *.go.hw.net IN CNAME .
 go.id.me IN CNAME .
@@ -359,8 +361,6 @@ go.intel-academy.com IN CNAME .
 *.go.intel-academy.com IN CNAME .
 go.intigriti.com IN CNAME .
 *.go.intigriti.com IN CNAME .
-go.nasa.gov IN CNAME .
-*.go.nasa.gov IN CNAME .
 go.osu.edu IN CNAME .
 *.go.osu.edu IN CNAME .
 go.rapid-meta.com IN CNAME .
@@ -631,6 +631,8 @@ loom.ly IN CNAME .
 *.loom.ly IN CNAME .
 loot-link.com IN CNAME .
 *.loot-link.com IN CNAME .
+love-url.com IN CNAME .
+*.love-url.com IN CNAME .
 lru.vercel.app IN CNAME .
 *.lru.vercel.app IN CNAME .
 lurl.cc IN CNAME .
@@ -655,6 +657,8 @@ me2.do IN CNAME .
 *.me2.do IN CNAME .
 migre.me IN CNAME .
 *.migre.me IN CNAME .
+mikale.me IN CNAME .
+*.mikale.me IN CNAME .
 mini-qr.vercel.app IN CNAME .
 *.mini-qr.vercel.app IN CNAME .
 minify-url.com IN CNAME .
@@ -723,10 +727,6 @@ on.natgeo.com IN CNAME .
 *.on.natgeo.com IN CNAME .
 on.nba.com IN CNAME .
 *.on.nba.com IN CNAME .
-on.ny.gov IN CNAME .
-*.on.ny.gov IN CNAME .
-on.nyc.gov IN CNAME .
-*.on.nyc.gov IN CNAME .
 on.nypl.org IN CNAME .
 *.on.nypl.org IN CNAME .
 on.tcs.com IN CNAME .

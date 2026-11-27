@@ -1,6 +1,6 @@
 ; RPZ "DYNDNS"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795663062 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795749505 12h 15m 3w 3h
 0000000000000000000000.com IN CNAME .
 *.0000000000000000000000.com IN CNAME .
 0000004.xyz IN CNAME .
@@ -941,6 +941,8 @@ dyn.ee IN CNAME .
 *.dyn.ee IN CNAME .
 dyn.mk IN CNAME .
 *.dyn.mk IN CNAME .
+dyn.ro IN CNAME .
+*.dyn.ro IN CNAME .
 dynalias.com IN CNAME .
 *.dynalias.com IN CNAME .
 dynalias.net IN CNAME .
