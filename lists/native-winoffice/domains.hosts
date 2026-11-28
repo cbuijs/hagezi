@@ -22,6 +22,7 @@
 0.0.0.0 adserver.bing.com
 0.0.0.0 adstore.response.gcp.eastus.trafficmanager.net
 0.0.0.0 adsyndication.msn.com
+0.0.0.0 adsyndication.msn.com.nsatc.net
 0.0.0.0 advertising.jp.msn.com
 0.0.0.0 advertising.microsoft.com
 0.0.0.0 agps-location-livenet.trafficmanager.net
@@ -98,6 +99,7 @@
 0.0.0.0 c.xbox.com
 0.0.0.0 c.za.msn.com
 0.0.0.0 c1.microsoft.com
+0.0.0.0 c455dbf95c4eb328dc8d756c607727e2.fp.measure.office.com.homeonair.net
 0.0.0.0 cac-visio-telemetry.officeapps.live.com
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 ceuswatcab01.blob.core.windows.net
@@ -125,6 +127,7 @@
 0.0.0.0 collector.azure.microsoft.cloud
 0.0.0.0 commerce.bing.com
 0.0.0.0 confiant.msn.com
+0.0.0.0 config.fp.measure.office.com.homeonair.net
 0.0.0.0 dc.applicationinsights.azure.cn
 0.0.0.0 dc.applicationinsights.azure.us
 0.0.0.0 dc.services.visualstudio.com
@@ -135,6 +138,9 @@
 0.0.0.0 dual-s-ring.msedge.net
 0.0.0.0 eaus2watcab01.blob.core.windows.net
 0.0.0.0 eaus2watcab02.blob.core.windows.net
+0.0.0.0 ecs.nel.measure.office.net.edf.fr
+0.0.0.0 ecs.nel.measure.office.net.grt.edf.fr
+0.0.0.0 ecs.nel.measure.office.net.homeonair.net
 0.0.0.0 esc-visio-telemetry.officeapps.live.com
 0.0.0.0 euc-excel-telemetry.officeapps.live.com
 0.0.0.0 euc-excel-telemetry.wac.trafficmanager.net
@@ -149,7 +155,6 @@
 0.0.0.0 eurppc-powerpoint-telemetry.officeapps.live.com
 0.0.0.0 eurppc-word-telemetry.officeapps.live.com
 0.0.0.0 events-sandbox.data.microsoft.com
-0.0.0.0 events-sandbox.data.msn.cn
 0.0.0.0 events-sandbox.data.msn.com
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 events.data.msn.cn
@@ -158,6 +163,8 @@
 0.0.0.0 eventservice.trafficmanager.net
 0.0.0.0 excel-telemetry.officeapps.live.com
 0.0.0.0 excel-telemetry.wac.trafficmanager.net
+0.0.0.0 excelonline.nel.measure.office.net.homeonair.net
+0.0.0.0 exo.nel.measure.office.net.homeonair.net
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 ffc-excel-telemetry.officeapps.live.com
 0.0.0.0 ffc-word-telemetry.officeapps.live.com
@@ -175,6 +182,7 @@
 0.0.0.0 h4g3z1-native-winoffice.web.app
 0.0.0.0 h6.msn.com
 0.0.0.0 hk-tracker.trafficmanager.net
+0.0.0.0 hme-live-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 hme-uat-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 identity.nel.measure.office.net.intern.schreinereistumpf.de
@@ -194,6 +202,7 @@
 0.0.0.0 ism-telemetry.trafficmanager.net
 0.0.0.0 js.cdn.applicationinsights.io
 0.0.0.0 js.monitor.azure.com
+0.0.0.0 js.monitor.azure.com.homeonair.net
 0.0.0.0 js0.cdn.applicationinsights.io
 0.0.0.0 js0.tst.applicationinsights.io
 0.0.0.0 js1.cdn.applicationinsights.io
@@ -202,7 +211,6 @@
 0.0.0.0 js2.tst.applicationinsights.io
 0.0.0.0 k-ring-fallback.msedge.net
 0.0.0.0 k-ring.msedge.net
-0.0.0.0 keyniusprod-events.trafficmanager.net
 0.0.0.0 kg-legacy-analytics.servicebus.windows.net
 0.0.0.0 legacywatson.trafficmanager.net
 0.0.0.0 licensingtelemetry-prod.servicebus.windows.net
@@ -212,6 +220,7 @@
 0.0.0.0 location.live.net
 0.0.0.0 location.microsoft.com
 0.0.0.0 logs.appsource.microsoft.com
+0.0.0.0 m365cdn.nel.measure.office.net.homeonair.net
 0.0.0.0 measure.microsoft.com
 0.0.0.0 measure.office.com
 0.0.0.0 measure.office.com.akamaized.net
@@ -233,11 +242,13 @@
 0.0.0.0 oca.microsoft.com
 0.0.0.0 office-events-data.trafficmanager.net
 0.0.0.0 oms-analytics.trafficmanager.net
+0.0.0.0 onenoteonline.nel.measure.office.net.homeonair.net
 0.0.0.0 outlookads.live.com
 0.0.0.0 partnerfraudevents.trafficmanager.net
 0.0.0.0 pgtbr1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgtbr2-excel-telemetry-vip.officeapps.live.com
-0.0.0.0 pgtca1-powerpoint-telemetry-vip.officeapps.live.com
+0.0.0.0 pgtbr2-word-telemetry-vip.officeapps.live.com
+0.0.0.0 pgtca1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu1-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu1-word-telemetry-vip.officeapps.live.com
@@ -251,8 +262,9 @@
 0.0.0.0 pgteu4-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu4-word-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu5-excel-telemetry-vip.officeapps.live.com
+0.0.0.0 pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu5-word-telemetry-vip.officeapps.live.com
-0.0.0.0 pgtmx1-excel-telemetry-vip.officeapps.live.com
+0.0.0.0 pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 pgtus1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -285,7 +297,6 @@
 0.0.0.0 ppc-word-telemetry.wac.trafficmanager.net
 0.0.0.0 prd-qlik-telemetry.servicebus.windows.net
 0.0.0.0 preview.msn.com
-0.0.0.0 prod-eh-v1-analytics.servicebus.windows.net
 0.0.0.0 prod-eventhub-analytics.servicebus.windows.net
 0.0.0.0 prod.editor.ads.trafficmanager.net
 0.0.0.0 production-jobactivity-analytics.servicebus.windows.net
@@ -327,6 +338,7 @@
 0.0.0.0 sgtus1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 sgtus1-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 sgtus1-word-telemetry-vip.officeapps.live.com
+0.0.0.0 spo.nel.measure.office.net.homeonair.net
 0.0.0.0 spynet2.microsoft.com
 0.0.0.0 spynetalt.microsoft.com
 0.0.0.0 srtb.msn.com
@@ -344,6 +356,7 @@
 0.0.0.0 t-ring-trafficshield.msedge.net
 0.0.0.0 t-ring.msedge.net
 0.0.0.0 teams-events-data.trafficmanager.net
+0.0.0.0 teams.nel.measure.office.net.homeonair.net
 0.0.0.0 telecommandsvc.microsoft.com
 0.0.0.0 telem-edge.smartscreen.microsoft.com
 0.0.0.0 telemetry-lcp.trafficmanager.net
@@ -365,6 +378,9 @@
 0.0.0.0 udc.msn.com
 0.0.0.0 ukc-onenote-telemetry.officeapps.live.com
 0.0.0.0 ukc-visio-telemetry.officeapps.live.com
+0.0.0.0 upload.fp.measure.office.com.homeonair.net
+0.0.0.0 upload2.fp.measure.office.com.homeonair.net
+0.0.0.0 us-mesh-events-data-leafs.trafficmanager.net
 0.0.0.0 us1-excel-telemetry.officeapps.live.com
 0.0.0.0 us1-powerpoint-telemetry.officeapps.live.com
 0.0.0.0 us1-word-telemetry.officeapps.live.com

@@ -1,16 +1,12 @@
 ; RPZ "NATIVE-ROKU-TOP-N"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795749833 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795836274 12h 15m 3w 3h
 acr.roku.com IN CNAME .
 *.acr.roku.com IN CNAME .
 ad-eng.prod.rpay.int.roku.com IN CNAME .
 *.ad-eng.prod.rpay.int.roku.com IN CNAME .
 ad-eng.staging.rpay.int.roku.com IN CNAME .
 *.ad-eng.staging.rpay.int.roku.com IN CNAME .
-ad.qa.ap.int.roku.com IN CNAME .
-*.ad.qa.ap.int.roku.com IN CNAME .
-ad.usw2.qa.ap.int.roku.com IN CNAME .
-*.ad.usw2.qa.ap.int.roku.com IN CNAME .
 adeng-identity-prod3.bdp.roku.com IN CNAME .
 *.adeng-identity-prod3.bdp.roku.com IN CNAME .
 adeng-looker-bi-oneview-prod-1001.bdp.roku.com IN CNAME .
@@ -95,8 +91,6 @@ logs.dev.sr.roku.com IN CNAME .
 *.logs.dev.sr.roku.com IN CNAME .
 logs.prod.ap.int.roku.com IN CNAME .
 *.logs.prod.ap.int.roku.com IN CNAME .
-logs.qa.ap.int.roku.com IN CNAME .
-*.logs.qa.ap.int.roku.com IN CNAME .
 logs.roku.com IN CNAME .
 *.logs.roku.com IN CNAME .
 logs.sr.roku.com IN CNAME .

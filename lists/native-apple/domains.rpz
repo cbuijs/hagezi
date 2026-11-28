@@ -1,6 +1,6 @@
 ; RPZ "NATIVE-APPLE"
 $TTL 3600
-@ SOA dummy-ns hostmaster 1795749816 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1795836256 12h 15m 3w 3h
 acfeedbackws.icloud.com IN CNAME .
 *.acfeedbackws.icloud.com IN CNAME .
 ads.apple.com IN CNAME .
@@ -21,8 +21,6 @@ beacon.shazam.com IN CNAME .
 *.beacon.shazam.com IN CNAME .
 books-analytics-events.apple.com IN CNAME .
 *.books-analytics-events.apple.com IN CNAME .
-books-analytics-events.news.apple-dns.net IN CNAME .
-*.books-analytics-events.news.apple-dns.net IN CNAME .
 cdn-xp-ingest-ab.v.aaplimg.com IN CNAME .
 *.cdn-xp-ingest-ab.v.aaplimg.com IN CNAME .
 cdn-xp-ingest.edge.apple IN CNAME .
@@ -57,8 +55,6 @@ fbs.smoot.apple.com IN CNAME .
 *.fbs.smoot.apple.com IN CNAME .
 feedbackws.fe.apple-dns.cn IN CNAME .
 *.feedbackws.fe.apple-dns.cn IN CNAME .
-feedbackws.fe.apple-dns.net IN CNAME .
-*.feedbackws.fe.apple-dns.net IN CNAME .
 feedbackws.fe2.apple-dns.net IN CNAME .
 *.feedbackws.fe2.apple-dns.net IN CNAME .
 feedbackws.icloud.com IN CNAME .
@@ -127,8 +123,6 @@ news-sports-events.apple.com IN CNAME .
 *.news-sports-events.apple.com IN CNAME .
 notes-analytics-events.apple.com IN CNAME .
 *.notes-analytics-events.apple.com IN CNAME .
-notes-analytics-events.news.apple-dns.net IN CNAME .
-*.notes-analytics-events.news.apple-dns.net IN CNAME .
 odin-signals.apple.com IN CNAME .
 *.odin-signals.apple.com IN CNAME .
 partiality.itunes-apple.com.akadns.net IN CNAME .
@@ -157,8 +151,6 @@ prod-event-relay-stocks-api.v.aaplimg.com IN CNAME .
 *.prod-event-relay-stocks-api.v.aaplimg.com IN CNAME .
 prod-event-relay-weather-api.v.aaplimg.com IN CNAME .
 *.prod-event-relay-weather-api.v.aaplimg.com IN CNAME .
-prod-event-relay-web-api.v.aaplimg.com IN CNAME .
-*.prod-event-relay-web-api.v.aaplimg.com IN CNAME .
 prod-iwork-events.v.aaplimg.com IN CNAME .
 *.prod-iwork-events.v.aaplimg.com IN CNAME .
 prod-news-notification-events.v.aaplimg.com IN CNAME .
@@ -193,16 +185,12 @@ smoot-feedback.v.aaplimg.com IN CNAME .
 *.smoot-feedback.v.aaplimg.com IN CNAME .
 stocks-analytics-events.apple.com IN CNAME .
 *.stocks-analytics-events.apple.com IN CNAME .
-stocks-analytics-events.news.apple-dns.net IN CNAME .
-*.stocks-analytics-events.news.apple-dns.net IN CNAME .
 supportmetrics.apple.com IN CNAME .
 *.supportmetrics.apple.com IN CNAME .
 supportmetrics.v.aaplimg.com IN CNAME .
 *.supportmetrics.v.aaplimg.com IN CNAME .
 weather-analytics-events.apple.com IN CNAME .
 *.weather-analytics-events.apple.com IN CNAME .
-weather-analytics-events.news.apple-dns.net IN CNAME .
-*.weather-analytics-events.news.apple-dns.net IN CNAME .
 xp-cdn.apple.com IN CNAME .
 *.xp-cdn.apple.com IN CNAME .
 xp.apple.com IN CNAME .
